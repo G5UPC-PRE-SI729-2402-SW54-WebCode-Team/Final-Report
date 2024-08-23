@@ -1,7 +1,7 @@
 ﻿<br/><br/>
-<center>
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
-</center>
+</p>
 
 ## <center> Universidad Peruana de Ciencias Aplicadas </center>
 ### <center> **CURSO:** SI729 Desarrollo de Aplicaciones Open Source </center>
