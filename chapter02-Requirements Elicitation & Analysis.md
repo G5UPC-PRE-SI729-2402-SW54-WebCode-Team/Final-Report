@@ -114,6 +114,36 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+# Estrategias y Tácticas para GreenMove
+
+Para que GreenMove se consolide como el líder en el mercado de alquiler de vehículos eléctricos, es crucial desarrollar un conjunto de estrategias y tácticas que diferencien sus servicios y proporcionen un valor agregado a los clientes.
+
+## Innovación y Tecnología
+
+GreenMove debe enfocarse en la innovación y en la adopción de tecnologías emergentes dentro del sector de la movilidad eléctrica, además de asegurarse de que su solución pueda integrarse con diversos sistemas y dispositivos existentes en el mercado. Esto ofrecerá a los usuarios una solución más completa y adaptable a sus necesidades particulares.
+
+## Alianzas Estratégicas
+
+Es fundamental forjar alianzas estratégicas con gobiernos locales, instituciones educativas y empresas de la región, permitiendo a GreenMove expandirse en nuevas áreas urbanas y brindar soluciones personalizadas a distintas comunidades.
+
+## Experiencia del Usuario
+
+Mejorar la experiencia del usuario es también una prioridad, a través de una interfaz intuitiva y la incorporación de funciones adicionales, como rutas personalizadas, información sobre estaciones de carga y eventos relacionados con la movilidad sostenible, lo que facilitará el uso de vehículos eléctricos y enriquecerá la vida urbana de los usuarios.
+
+## Comercialización y Retención
+
+En cuanto a la comercialización, GreenMove debe centrarse en promociones y campañas que fomenten la movilidad sostenible, además de retener a los usuarios actuales mediante programas de lealtad y descuentos por uso frecuente. Es crucial realizar estudios de mercado y identificar áreas urbanas con alta demanda de vehículos eléctricos para impulsar el crecimiento de la empresa.
+
+## Seguridad
+
+Para asegurar la seguridad de GreenMove, se implementará una robusta estrategia de seguridad basada en la metodología DevSecOps:
+
+**Autenticación Multifactor:** GreenMove implementará la autenticación multifactor (MFA) para garantizar que solo usuarios autorizados puedan acceder a la aplicación. Esto añadirá una capa extra de seguridad, reduciendo significativamente el riesgo de acceso no autorizado y protegiendo la información de los usuarios.
+
+- **Pruebas de Seguridad Automatizadas:** La implementación de pruebas de seguridad automatizadas en el proceso de desarrollo de GreenMove asegurará que la aplicación esté protegida contra vulnerabilidades conocidas y desconocidas, fortaleciendo así la seguridad de los datos y la privacidad de los usuarios.
+
+- **Monitoreo Continuo:** GreenMove utilizará herramientas de monitoreo en tiempo real para detectar cualquier actividad sospechosa. Esto permitirá una detección rápida ante amenazas.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
