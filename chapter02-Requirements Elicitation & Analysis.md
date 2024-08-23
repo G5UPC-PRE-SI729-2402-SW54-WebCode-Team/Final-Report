@@ -148,7 +148,73 @@ Para asegurar la seguridad de GreenMove, se implementará una robusta estrategia
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección se han definido unas preguntas para nuestros segmentos objetivos, con la finalidad de obtener información que nos podria ayudar como opiniones o descripciones para el desarrollo de nuestra aplicación.
+
 ### 2.2.2. Registro de entrevistas
+
+**Semento Objetivo 1:**
+
+**Entrevista 1**
+
+Entrevistador:
+
+Entrevistado:
+
+Captura:
+
+Intervalo:
+
+**Entrevista 2**
+
+Entrevistador:
+
+Entrevistado:
+
+Captura:
+
+Intervalo:
+
+**Entrevista 3**
+
+Entrevistador:
+
+Entrevistado:
+
+Captura:
+
+Intervalo:
+
+**Semento Objetivo 2:**
+
+**Entrevista 4**
+
+Entrevistador:
+
+Entrevistado:
+
+Captura:
+
+Intervalo:
+
+**Entrevista 5**
+
+Entrevistador:
+
+Entrevistado:
+
+Captura:
+
+Intervalo:
+
+**Entrevista 6**
+
+Entrevistador:
+
+Entrevistado:
+
+Captura:
+
+Intervalo:
 
 ### 2.2.3. Análisis de entrevistas
 
