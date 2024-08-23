@@ -120,19 +120,19 @@ Para que GreenMove se consolide como el líder en el mercado de alquiler de veh�
 
 ## Innovación y Tecnología
 
-GreenMove debe enfocarse en la innovación y en la adopción de tecnologías emergentes dentro del sector de la movilidad eléctrica, además de asegurarse de que su solución pueda integrarse con diversos sistemas y dispositivos existentes en el mercado. Esto ofrecerá a los usuarios una solución más completa y adaptable a sus necesidades particulares.
+GreenMove debe priorizar el desarrollo tecnológico, incorporando avances en la movilidad urbana y en la sostenibilidad. Esto incluye la creación de soluciones que no solo se adapten a las necesidades actuales del mercado, sino que también puedan anticiparse a las futuras tendencias en movilidad eléctrica, garantizando un servicio ágil y con alto valor añadido.
 
 ## Alianzas Estratégicas
 
-Es fundamental forjar alianzas estratégicas con gobiernos locales, instituciones educativas y empresas de la región, permitiendo a GreenMove expandirse en nuevas áreas urbanas y brindar soluciones personalizadas a distintas comunidades.
+Es esencial establecer alianzas con entidades públicas y privadas, como gobiernos municipales, universidades y empresas que promuevan la movilidad sostenible. Estas alianzas permitirán a GreenMove implementar proyectos piloto en nuevas áreas urbanas, integrándose de manera efectiva en las comunidades locales y contribuyendo a la reducción de emisiones de carbono.
 
 ## Experiencia del Usuario
 
-Mejorar la experiencia del usuario es también una prioridad, a través de una interfaz intuitiva y la incorporación de funciones adicionales, como rutas personalizadas, información sobre estaciones de carga y eventos relacionados con la movilidad sostenible, lo que facilitará el uso de vehículos eléctricos y enriquecerá la vida urbana de los usuarios.
+Mejorar la experiencia del usuario es también una prioridad, a través de una interfaz intuitiva y la incorporación de funciones adicionales, como rutas personalizadas, información sobre estaciones de carga y eventos relacionados con la movilidad sostenible en tiempo real, creando una experiencia de usuario única.
 
 ## Comercialización y Retención
 
-En cuanto a la comercialización, GreenMove debe centrarse en promociones y campañas que fomenten la movilidad sostenible, además de retener a los usuarios actuales mediante programas de lealtad y descuentos por uso frecuente. Es crucial realizar estudios de mercado y identificar áreas urbanas con alta demanda de vehículos eléctricos para impulsar el crecimiento de la empresa.
+En cuanto a la comercialización, GreenMove debe centrarse en promociones y campañas que fomenten la movilidad sostenible,  utilizando campañas educativas y promociones que incentiven el uso continuo. Es crucial realizar estudios de mercado e identificar áreas urbanas con alta demanda de vehículos eléctricos para impulsar el crecimiento de la empresa. Además, la fidelización de usuarios a través de incentivos como créditos por uso compartido y recompensas por reducción de emisiones puede asegurar un crecimiento sostenido.
 
 ## Seguridad
 
@@ -142,7 +142,7 @@ Para asegurar la seguridad de GreenMove, se implementará una robusta estrategia
 
 - **Pruebas de Seguridad Automatizadas:** La implementación de pruebas de seguridad automatizadas en el proceso de desarrollo de GreenMove asegurará que la aplicación esté protegida contra vulnerabilidades conocidas y desconocidas, fortaleciendo así la seguridad de los datos y la privacidad de los usuarios.
 
-- **Monitoreo Continuo:** GreenMove utilizará herramientas de monitoreo en tiempo real para detectar cualquier actividad sospechosa. Esto permitirá una detección rápida ante amenazas.
+- **Monitoreo Continuo:** GreenMove utilizará herramientas de monitoreo en tiempo real para detectar cualquier actividad sospechosa, permitiendo una intervención rápida y efectiva para minimizar riesgos y asegurar la continuidad del servicio.
 
 ## 2.2. Entrevistas
 
