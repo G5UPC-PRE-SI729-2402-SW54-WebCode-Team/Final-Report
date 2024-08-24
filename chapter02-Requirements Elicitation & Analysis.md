@@ -148,11 +148,35 @@ Para asegurar la seguridad de GreenMove, se implementará una robusta estrategia
 
 ### 2.2.1. Diseño de entrevistas
 
-En esta sección se han definido unas preguntas para nuestros segmentos objetivos, con la finalidad de obtener información que nos podria ayudar como opiniones o descripciones para el desarrollo de nuestra aplicación.
+En esta sección se han definido unas preguntas para nuestros segmentos objetivos, con la finalidad de obtener información que nos ayudara con opiniones o descripciones para el desarrollo de nuestra aplicación.
+
+#### Preguntas sobre la información del entrevistado:
+- ¿Cuál es su nombre?
+- ¿Cuántos años tiene?
+- ¿Cuál es su estado civil?
+- ¿A que se dedica actualmente?
+- ¿Qué dispositivos electrónicos utiliza?
+
+#### Preguntas para el segmento Owner:
+
+- ¿Tiene algún tipo de vehiculo en su hogar?¿Cuáles son?
+- ¿Alguna vez ha puesto en alquiler algún vehículo suyo?
+- ¿Conoce de otras personas que han alquilado o puesto en alquiler algún vehículo para movilizarse?
+- ¿Estaría interesado en utilizar una aplicación para alquilar sus vehículos?
+
+#### Preguntas para el segmento User:
+
+- ¿A que lugares usted suele recurrir?
+- ¿Con qué medio de transporte se dirige a esos lugares?
+- ¿Cuánto suele ser el monto que gasta al movilizarse con un medio de transporte?
+- ¿Cuánto suele demorar estos trayectos?
+- ¿Alguna vez ha alquilado algún vehiculo?
+- ¿Conoce alguna aplicación que alquila vehículos?
+- ¿Estaría interesado en utilizar una aplicación de alquiler de vehículos?
 
 ### 2.2.2. Registro de entrevistas
 
-**Semento Objetivo 1:**
+**Segmento Objetivo 1:**
 
 **Entrevista 1**
 
