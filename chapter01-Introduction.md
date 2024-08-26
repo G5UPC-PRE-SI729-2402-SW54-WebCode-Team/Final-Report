@@ -53,7 +53,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         <tr>
             <td>Enrique Manuel Villon Amez	</td>
             <td><img src="Link de la foto de Enrique" width="370"/></td>
-            <td>Description..</td>
+            <td>Estudiante de 5 ciclo de ingeniería de software con experiencia en el desarollo frontend, conocimientos en Javascript, Swift, C++ y Python. Mobile Developer en Auna, excelentes habilidades de liderazgo, comunicación y trabajo en equipo. </td>
         </tr>
         <tr>
             <td>Eduard Gedeon Travezaño Patiño	</td>
