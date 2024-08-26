@@ -47,8 +47,8 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         </tr>
         <tr>
             <td>Yair Christofer Aru Acevedo	</td>
-            <td><img src="Link de la foto de Yair" width="370"/></td>
-            <td>Description...</td>
+            <td><img src="/assets/Yair.jpg" width="370"/></td>
+            <td>Estudiante de 6to ciclo de la carrera de Ingenieria de Software. Conocimientos en vue y el uso de los lenguajes de programación: C++, C#, Javascript, Python, Java.</td>
         </tr>
         <tr>
             <td>Enrique Manuel Villon Amez	</td>
