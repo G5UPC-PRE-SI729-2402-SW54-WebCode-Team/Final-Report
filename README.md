@@ -1,26 +1,30 @@
-﻿<br/><br/>
+<br/><br/>
+ 
 <p align="center">
+	
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
+
 </p>
 
-## <center> Universidad Peruana de Ciencias Aplicadas </center>
-### <center> **CURSO:** SI729 Desarrollo de Aplicaciones Open Source </center>
-### <center> **SECCIÓN:** SW54 </center>
-### <center> **Profesor:** SANCHEZ SEÑA, ALBERTO WILMER </center> 
-### <center> **Ingeniería de software** </center>
-### <center> **Ciclo:** Quinto </center>
+<div align="center">
+	
+## Universidad Peruana de Ciencias Aplicadas 
+### **CURSO:** SI729 Desarrollo de Aplicaciones Open Source 
+### **SECCIÓN:** SW54 
+### **Profesor:** SANCHEZ SEÑA, ALBERTO WILMER
+### **Ingeniería de software** 
+### **Ciclo:** Quinto 
 
 <br/>
 
-## <center> Informe de Trabajo Final </center> 
+## Informe de Trabajo Final 
 
 <br/>
 
-### <center> **Nombre del startup:** GreenGo </center>
-### <center> **Nombre del producto:** GreenMove </center>
+### **Nombre del startup:** GreenGo
+### **Nombre del producto:** GreenMove
 
-## <center> **Integrantes** </center>
-
+## **Integrantes** 
 <table align="center", border="1px">
 	<tbody>
 		<tr>
@@ -50,9 +54,64 @@
 	</tbody>
 </table>
 
+## Agosto, 2024.
+
+</div>
+
+
 <div style="page-break-before: always;"></div>
 
-# Project Report Collaboration Insights
+# Contenido
+
+## Tabla de contenidos
+
+### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
+<br>
+
+# **Registro de Versiones**
+
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>26 de Agosto</td>
+      <td>
+        <ul>
+          <li>Adriana María Diestra Zambrano</li>
+          <li>Yair Christofer Aru Acevedo</li>
+          <li>Eduard Gedeon Travezaño Patiño</li>
+          <li>-------------</li>
+          <li>-------------</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
+
+<br>
+<br>
+
+<div style="page-break-before: always;"></div>
+
+### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
 
 Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
@@ -60,13 +119,39 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
-<div style="page-break-before: always;"></div>
+<div style="page-break-before: always;"></div> 
 
-# Contenido
-## Tabla de contenidos
-### [Registro de versiones del informe](#registro-de-versiones-del-informe)
-### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 ### [Student Outcome](#student-outcome)
+
+## ABET – EAC - Student Outcome 5
+
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+<table align="center", border="1px">
+	<tbody>
+		<tr>
+			<td>Criterio específico</td>
+			<td>Acciones realizadas</td>
+			<td>Conclusiones</td>
+		</tr>
+		<tr>
+			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -156,37 +241,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
-
-<div style="page-break-before: always;"></div> 
-
-## ABET – EAC - Student Outcome 5
-
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
-
-<table align="center", border="1px">
-	<tbody>
-		<tr>
-			<td>Criterio específico</td>
-			<td>Acciones realizadas</td>
-			<td>Conclusiones</td>
-		</tr>
-		<tr>
-			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-			<td></td>
-			<td></td>
-		</tr>
-	</tbody>
-</table>
 
 <div style="page-break-before: always;"></div> 
 
