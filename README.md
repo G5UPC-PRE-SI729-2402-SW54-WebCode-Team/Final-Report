@@ -89,7 +89,7 @@
           <li>Adriana María Diestra Zambrano</li>
           <li>Yair Christofer Aru Acevedo</li>
           <li>Eduard Gedeon Travezaño Patiño</li>
-          <li>-------------</li>
+          <li>Enrique Manuel Villón Amez</li>
           <li>-------------</li>
         </ul>
       </td>
