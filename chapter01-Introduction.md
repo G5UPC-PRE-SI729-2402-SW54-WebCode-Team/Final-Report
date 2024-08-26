@@ -57,8 +57,8 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         </tr>
         <tr>
             <td>Eduard Gedeon Travezaño Patiño	</td>
-            <td><img src="Link de la foto de Eduard" width="370"/></td>
-            <td>Description...</td>
+            <td><img src="/assets/FotoEduard.jpg" width="370"/></td>
+            <td>Soy Eduard, tengo 20 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que soy alguien que se adapta a lo que requiera el trabajo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Con conocimientos en distintos lenguajes de programación como C++, Python, SQL y entre otros. Además mis motivaciones me ayudan a dar lo mejor de mí y mantenerme constante apoyando al equipo en lo que se requiera.</td>
         </tr>
         <tr>
             <td>Fabio Ernesto Horna Silva	</td>
