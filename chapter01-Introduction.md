@@ -73,33 +73,37 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
 ### 1.2.1. Antecedentes y problemática
 Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
 
-- **What (Qué)**  
-El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.  
+<table border="1px" style="text-align: center; width: 100%;">
+    <tr>
+    <td valign="top"> What (Qué) </td>
+    <td valign="top"> El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas. </td>
+   </tr>
+    <tr>
+        <td valign="top"> When (Cuándo) </td>
+        <td valign="top"> El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales. </td>
+    </tr>
+    <tr>
+        <td valign="top"> Where (Dónde) </td>
+        <td valign="top"> El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad. </td>
+    </tr>
+    <tr>
+        <td valign="top"> Who (Quiénes) </td>
+        <td valign="top"> El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes. </td>
+    </tr>
+    <tr>
+        <td valign="top"> Why (Por qué) </td>
+        <td valign="top"> La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos. </td>
+    </tr>
+    <tr>
+        <td valign="top"> How (Cómo) </td>
+        <td valign="top"> Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables. </td>
+    </tr>
+    <tr>
+        <td valign="top"> How much (Cuánto) </td>
+        <td valign="top"> La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010. </td>
+    </tr>
+</table>
 
-
-- **When (Cuándo)** ¿Cuándo estamos viendo el problema?
-El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.  
-
-
-- **Where (Dónde)** ¿Dónde estamos viendo los problemas?
-El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.  
-
-
-- **Who (Quiénes)** ¿A quien le sucede?
-El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.  
-
-
-- **Why (Por qué)** ¿Por qué sucede el problema?
-La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.
-
-
-- **How (Cómo)** ¿Cómo se diferencia el problema del estado normal?
-Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
-
-
-- **How much (Cuánto)** ¿Cuánto dinero están implicando?
-La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.
-  
 
 ### 1.2.2. Lean UX Process
 
