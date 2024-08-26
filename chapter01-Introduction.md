@@ -42,8 +42,8 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
     <tbody>
         <tr>
             <td>Adriana María Diestra Zambrano</td>
-            <td><img src="Link de la foto de Adriana" width="370"/></td>
-            <td>Description...</td>
+            <td><img src="/assets/Adriana.png" width="370"/></td>
+            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS, así como una actitud positiva para trabajar en equipo, generando un ambiente tranquilo y responsable. </td>
         </tr>
         <tr>
             <td>Yair Christofer Aru Acevedo	</td>
