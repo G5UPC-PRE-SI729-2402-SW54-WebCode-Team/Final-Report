@@ -48,7 +48,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>EP04</td>
         <td>Gestión de reservas</td>
-        <td><b>Como</b> cliente de MoviRent <b>Quiero</b> gestionar mis reservas y el uso de scooters <b>Para</b> planificar y controlar mis alquileres. </td>
+        <td><b>Como</b> cliente de GreenMove <b>Quiero</b> gestionar mis reservas y el uso de scooters <b>Para</b> planificar y controlar mis alquileres. </td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
@@ -135,7 +135,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>
             <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
             <b>Dado que</b> el visitante desee crear una cuenta personal en la aplicación GreenMove <br/>
-            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos MoviRent, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
+            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos GreenMove, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
             <b>Entonces</b> se creará la cuenta de usuario.<br/>
             <br>
             <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
@@ -152,12 +152,12 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
         <td>
             <b>Scenario 1: Usuario ingresa credenciales válidas </b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviRent <br><b>Y</b> desee iniciar sesión <br/>
+            <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desee iniciar sesión <br/>
             <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
             <b>Entonces</b> el sistema permitirá el acceso a la aplicación<br/>
             <br>
             <b>Scenario 2: Usuario ingresa credenciales incorrectas</b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviRent <br><b>Y</b> desea iniciar sesión <br/>
+            <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desea iniciar sesión <br/>
             <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
             <b>Entonces</b> el sistema denegará la solicitud<br/>
         <td>EP02</td>
@@ -183,7 +183,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US07</td>
         <td>Cambiar datos personales </td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
+        <td><b>Cómo</b> Owner/Cliente de GreenMove 
         <b>Quiero</b> cambiar los datos asociados a mi perfil
         <b>Para</b> actualizar la información</td>
         <td>
