@@ -162,7 +162,9 @@ En esta sección se han definido unas preguntas para nuestros segmentos objetivo
 - ¿Tiene algún tipo de vehiculo en su hogar?¿Cuáles son?
 - ¿Alguna vez ha puesto en alquiler algún vehículo suyo?
 - ¿Conoce de otras personas que han alquilado o puesto en alquiler algún vehículo para movilizarse?
+- ¿Ha utilizado alguna aplicacion para alquilar vehiculos?
 - ¿Estaría interesado en utilizar una aplicación para alquilar sus vehículos?
+- ¿Què caracteristicas les gustaría ver en este tipo de aplicaciones?
 
 #### Preguntas para el segmento User:
 
@@ -173,6 +175,7 @@ En esta sección se han definido unas preguntas para nuestros segmentos objetivo
 - ¿Alguna vez ha alquilado algún vehiculo?
 - ¿Conoce alguna aplicación que alquila vehículos?
 - ¿Estaría interesado en utilizar una aplicación de alquiler de vehículos?
+- ¿Què caracteristicas les gustaría ver en este tipo de aplicaciones?
 
 ### 2.2.2. Registro de entrevistas
 
