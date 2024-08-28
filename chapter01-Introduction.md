@@ -176,7 +176,7 @@ Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo qu
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="Lean-UX-Canvas.png"/>
+<img src="/assets/Lean UX Canvas.png"/>
 
 ## 1.3. Segmentos Objetivo
 
