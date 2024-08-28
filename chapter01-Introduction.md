@@ -147,29 +147,7 @@ En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos 
 
 ## 1.3. Segmentos Objetivo
 
-Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:
+- **Owner:** Propietarios de vehículos eléctricos que no los usan constantemente y buscan una manera de generar ingresos adicionales alquilando sus vehículos cuando no los necesitan.
 
-**Segmento 1** Segmento arrendatario (Owner): Aquellas personas interesadas formar parte de GreenMove, donde ellos podrán rentar su vehículo disponible y conseguir un ingreso extra, tendrán la opción de registrar sus caracteristicas y validar si el equipo cumple con las condiciones para nuestro servicio.  
-Aspectos demográficos:
 
-Sexo: Ambos sexos.
-Edades: de 18 a 65 años.
-Nivel socioeconómico: Clase media, media-alta y alta.
-
-Aspectos geográficos:
-Nacionalidad: Peruana y extranjera residente en Perú.
-Zona geográfica en la que viven: Zonas urbanas.
-
-Aspecto psicográfico: Buscan generar ingresos extra con la compra de un vehículo eléctrico que no usan recurrentemente.
-
-**Segmento 2** Segmento arrendador (User): Personas que desean optar un vehículo eléctrico para fines de transporte sea hacia sus labores, universidades, fines deportivos u otros pero que no cuentan con el dinero necesario en el momento para comprar uno. Donde podrán optar por alquilar un scooter por horas a un precio muy accesible.
-
-Sexo: Ambos sexos.
-Edades: de 18 a 65 años.
-Nivel socioeconómico: Clase media, media-alta y alta.
-
-Aspectos geográficos:
-Nacionalidad: Peruana y extranjera residente en Perú.
-Zona geográfica en la que viven: Zonas urbanas.
-
-Aspecto psicográfico: Buscan alquilar vehículos eléctricos para momentos específicos y no ven viable comprar uno propio.
+- **Cliente:** Personas que viven en áreas urbanas y buscan una alternativa ecológica para sus desplazamientos diarios. Estos usuarios valoran la sostenibilidad y desean reducir su impacto ambiental.
