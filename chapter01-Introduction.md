@@ -121,135 +121,17 @@ En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos 
 
 #### 1.2.2.2. Lean UX Assumptions
 
-**Features**
+- Business Outcomes
 
-- Herramientas de Colaboración: Funcionalidades que faciliten el alquiler de un vehículo eléctrico.
-- Sistema de Monetización Transparente: Opciones claras y justas para que los arrendadores puedan ganar ingresos.
-- Listado de vehículos disponibles: Un amplio catálogo de vehículos disponibles para ser alquilados.
-- Perfil de Usuario: Perfiles personalizables para que los usuarios se identifiquen.
-- Soporte para Dispositivos Múltiples: Accesibilidad desde cualquier dispositivo.
+1. Aumentar el número de usuarios registrados en la plataforma en un 30% en los primeros 6 meses, como resultado de la creciente demanda de transporte eficiente y ecológico.
+2. Expandir las fuentes de ingresos a través de la inclusión de diferentes tipos de vehículos y tarifas, optimizando las ganancias por alquiler.
+3. Lograr una tasa de satisfacción del cliente del 85% o más, derivada de la facilidad de uso de la plataforma y la experiencia positiva del usuario.
+  
+- Users Outcomes
 
-**Bussiness Outcomes**
-
-Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
-
-1. Adquisición:  
-   Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
-   Porcentaje de propietarios que publican al menos un vehículo en la plataforma
-
-2. Activación:  
-   Porcentaje de usuarios que completan el proceso de reserva de un vehículo en los primeros 7 dias de registro.
-   Porcentaje de vehículos registrados que reciben al menos una solicitud de alquiler.
-
-3. Retención:  
-   Porcentaje de usuarios que realizan al menos 3 solicitudes de alquiler por semana.
-   Porcentaje de propietarios que mantienen al menos un vehículo activo en la plataforma durante tres meses consecutivos.
-
-4. Ingresos:
-   Ingresos mensuales por suscripciones de arrendatarios.
-   Ingresos mensuales por comisiones de alquiler.
-
-5. Impacto Social Positivo:
-   Contribuir a la sociedad fomentando el uso de un transporte eco-amigable.
-
-Usando estas métricas se evaluaron los siguientes outcomes:
-
-- Aumento en el número total reservas por parte de nuevos usuarios.
-- Mejora en la utilización de vehículos, reduciendo los períodos de inactividad y aumentando la rentabilidad por vehículo.
-- Lograr un crecimiento significativo en los ingresos mensuales por suscripciones de arrendatarios y comisiones de alquiler.
-- Reducir al menos en un 30% el tiempo de viaje diario de los usuarios.
-
-**Users**  
-Los usuarios de la plataforma serán principalmente arrendadores de vehículos eléctricos que buscan generar un ingreso económico extra, así como arrendatarios que buscan alquilar un vehículo eléctrico por horas o dias para transportarse de manera más rapida y económica.
-
-**User outcomes**
-
-**Cliente:**
-
-¿Qué está intentando lograr el usuario?  
-Reducir el tiempo y el estrés asociados con los desplazamientos diarios en Lima, así como ahorrar dinero en transporte para destinarlo a otros gastos.
-
-¿Cómo quiere sentirse el usuario durante y después de este proceso?  
-Desea sentirse aliviado y menos estresado durante sus viajes diarios, así como satisfecho por haber encontrado una solución económica y confiable para sus necesidades de transporte.
-
-¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?  
-Nuestro servicio de transporte le permite al usuario ahorrar tiempo y dinero, contribuyendo a una mayor eficiencia en su vida diaria y liberando recursos para otros aspectos de su vida.
-
-¿Por qué buscaría su usuario su producto?  
-El usuario busca nuestro producto porque valora la economía, y está interesado en soluciones que reduzcan el tiempo y el estrés al movilizarse.
-
-¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?  
-Utiliza regularmente nuestro servicio de alquiler de vehículos eléctricos para sus desplazamientos diarios, experimentando una disminución en el tiempo de viaje y una mayor sensación de calma y comodidad durante sus trayectos.
-
-<br>
-
-**Owner:**
-
-¿Qué está intentando lograr el usuario?  
-Busca generar ingresos adicionales mediante el alquiler de sus vehículos eléctricos para maximizar su inversión.
-
-¿Cómo quiere sentirse el usuario durante y después de este proceso?  
-Desea sentirse seguro y confiado en la gestión del proceso de alquiler, así como satisfecho con el incremento de sus ingresos mensuales como resultado de esta actividad.
-
-¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?  
-Nuestra plataforma de alquiler le permite al usuario maximizar el valor de sus activos, brindándole una oportunidad rentable para generar ingresos adicionales y alcanzar sus objetivos financieros.
-
-¿Por qué buscaría su usuario su producto?  
-Busca nuestra plataforma de alquiler porque valora la seguridad, confiabilidad y soporte que proporcionamos, así como nuestra capacidad para proteger la integridad de sus activos y garantizar una experiencia positiva para sus arrendatarios.  
-¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?  
-Experimenta un aumento en sus ingresos mensuales como resultado del alquiler de sus vehículos, y se siente seguro y confiado en la gestión del proceso de alquiler a través de nuestra plataforma.
-
-**User assumptions**
-
-¿Quién es el usuario?  
-El usuario puede ser cualquier persona interesada en alquilar un vehículo eléctrico o una persona que busque dar en alquiler un vehículo.
-
-¿Dónde encaja nuestro producto en sus trabajos o vidas?  
-Nuestro producto se integra en la vida de los usuarios como una plataforma digital que facilita el alquiler de vehículos eléctricos. Para los arrendadores es una plataforma para dar en alquiler sus vehículos y generar ingresos extra. Para los los arrendatarios es una plataforma donde podrán tener una amplia lista de vehículos en alquiler para poder elegir el que mejor se adecue a sus necesidades y presupuesto.
-
-¿Qué problema resuelve nuestro producto?  
-Nuestro producto aborda varios problemas:
-
-Pérdida de tiempo en el tráfico: Proporciona una plataforma donde las personas pueden alquilar vehículos eléctricos y poder transportarse de manera rapida y económica.  
-Búsqueda de ingresos extra: Aborda la dificultad que tienen las personas hoy en día para tener ingresos extras.
-
-¿Cuándo y cómo es usado nuestro producto?  
-Los arrendatarios usarán la plataforma cuando quieran poner en alquiler un vehículo eléctrico.  
-Los arrendadores la utilizarán para alquilar un vehículo cuando lo necesiten.
-
-¿Qué características son importantes?
-
-- Registro de vehículo: Funcionalidades para poner en alquiler un vehículo.
-- Búsqueda y Filtros: Funcionalidades para buscar scooters que se adecuen a las preferencias del usuario.
-
-¿Cómo debería verse y comportarse nuestro producto?
-
-- Diseño Limpio y Atractivo: Interfaz intuitiva con un enfoque en las fotos e información precisa .
-- Facilidad de Uso: Navegación sencilla y procesos claros para cargar contenido.
-- Transparencia en Compensación: Información clara sobre cómo se alquila un vehículo.
-
-**Business Assumptions**
-
-1. Creemos que nuestros clientes necesitan una plataforma que les permita alquilar y dar en alquiler vehículos eléctricos de manera rapida y sencilla. Los arrendadores buscan personas que alquilen sus vehículos mientras que los arrendatarios buscan alquilar el scooter ideal para sus necesidades.
-
-2. Estas necesidades se pueden resolver con una aplicación web que de alquiler de vehículos eléctricos y permita a las personas dueñas de uno o más vehículos obtengan un ingreso extra.
-
-3. El valor #1 que mi cliente quiere de mi servicio
-
-   - Para los arrendadores: Una plataforma donde puedan encontrar diversias opciones de vehículos eléctricos para alquilar.
-   - Para los arrendatarios: Una plataforma que les permita dar en alquiler su vehículo y ganar dinero extra.
-
-4. Voy a adquirir la mayoría de mis clientes la promoción activa en redes sociales, asociaciones con comunidades del cuidado del medio ambiente y la creación de contenido atractivo para atraer a nuestro público objetivo.
-
-5. Haré dinero a través de modelos de suscripción semanal, mensual o anual.
-
-6. Mi competencia principal en el mercado serán plataformas existentes como emove, grin4u y otras aplicaciones que den en alquiler transportes altermnativos incluidos vehículos eléctricos.
-
-7. Los venceremos debido a la simplicidad de uso gracias a la interfaz intuitiva y procesos sencillos, facilitando la colaboración y la publicación y dando la oportunidad a los dueños de vehículos de generar un ingreso extra.
-
-8. El mayor riesgo es que no logremos una base de usuarios activa o no cumplamos con las expectativas de calidad y colaboración.
-
-9. Resolveremos esto a través de fomentar una comunidad activa, garantizar la remuneración a los arrendadores y estar en constante mejora de calidad de la aplicación.
+1. Los usuarios podrán encontrar y reservar vehículos eléctricos de manera rápida y sencilla, lo que mejorará su experiencia de movilidad diaria.
+2. Al optar por vehículos eléctricos en lugar de vehículos convencionales, los usuarios podrán reducir significativamente sus gastos de transporte, especialmente en un contexto de precios de combustible elevados.
+3. Los usuarios experimentarán una mayor satisfacción emocional al saber que están contribuyendo a la reducción de la huella de carbono, lo que también fortalecerá su conexión con GreenMove.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
