@@ -111,13 +111,38 @@ Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo qu
 
 #### 1.2.2.1. Lean UX Problem statements
 
-El transporte público en Perú es malo y deficiente ¿Cómo podemos ayudar a que las personas opten por transportarse en vehículos eléctricos?
 
-Los servicios existentes no dan la posibilidad de obtener un ingreso de dinero adicional por alquilar tu vehículo. ¿Cómo se podría ayudar a los dueños de un vehículo a generar ingresos?
+1.  Alta congestión vehicular en Lima: La alta congestión vehicular en Lima afecta negativamente la movilidad urbana, causando largos tiempos de desplazamiento y contribuyendo a la contaminación del aire. Esta situación limita la calidad de vida de los residentes y plantea un desafío significativo para la adopción de soluciones de transporte más sostenibles.
 
-Notamos que los adultos desconfían de lo que ven en internet ¿Existe alguna forma de transmitirles confianza al usar nuestra aplicación?
+- **Owner:** Propietarios que desean contribuir a la reducción de la congestión vehicular al alquilar sus vehículos eléctricos, pero enfrentan dificultades para conectar con usuarios interesados en utilizar estos vehículos como alternativa al transporte convencional.
+- **Cliente:** Personas que desean evitar el tráfico congestionado y reducir su impacto ambiental al elegir vehículos eléctricos, pero enfrentan desafíos para encontrar opciones disponibles y accesibles.
+  
+2.  Ineficiencia en el transporte público de Lima: El sistema de transporte público en Lima está notablemente retrasado y no satisface adecuadamente las necesidades de los residentes, contribuyendo a la alta congestión vehicular. Los tiempos prolongados de desplazamiento y la falta de alternativas rápidas y eficientes agravan el problema, afectando la movilidad diaria de millones de personas.
 
-En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos evitar que personas irresponsables afecten a nuestros clientes?
+- **Owner:** Propietarios que desean alquilar sus vehículos eléctricos pero enfrentan dificultades debido a la alta congestión causada por un sistema de transporte público ineficiente, que limita la demanda y el uso de sus vehículos como alternativa efectiva.
+- **Cliente:** Residentes que buscan alternativas de transporte más eficientes debido a la ineficiencia del transporte público, deseando una solución que ofrezca tiempos de viaje más cortos y una experiencia de movilidad más cómoda.
+  
+3.  Costos elevados de transporte convencional: Con el aumento constante de los precios del combustible, los usuarios de transporte ecológico enfrentan altos costos asociados con el uso de vehículos convencionales, lo que impulsa la búsqueda de opciones más económicas y sostenibles.
+
+- **Owner:** Propietarios que ven en el alquiler de sus vehículos eléctricos una forma de contrarrestar el impacto financiero de los altos precios del combustible, generando ingresos adicionales.
+- **Cliente:** Personas que desean reducir sus gastos en transporte y están motivadas a buscar alternativas más económicas debido al incremento de los precios del combustible.
+  
+4.  Necesidad de información sobre el impacto ambiental: Los usuarios de transporte ecológico quieren conocer el impacto ambiental de sus decisiones de transporte, pero a menudo carecen de información clara y accesible sobre cómo sus elecciones contribuyen a la sostenibilidad.
+
+- **Owner:** Propietarios interesados en demostrar el impacto positivo de sus vehículos en el medio ambiente a los usuarios y así atraer más interés en el alquiler de sus vehículos.
+- **Cliente:** Personas que buscan no solo alternativas de transporte sostenibles, sino también información sobre cómo su uso contribuye a la reducción de la huella de carbono.
+  
+5.  Pérdida de productividad debido a la congestión: La congestión vehicular en Lima resulta en pérdida de productividad significativa para los residentes debido a los largos tiempos de desplazamiento. Esto afecta negativamente tanto a las personas que se desplazan diariamente como a los propietarios de vehículos que buscan maximizar el uso de sus vehículos eléctricos en un entorno congestionado.
+
+- **Owner:** Propietarios que buscan optimizar el uso de sus vehículos eléctricos y contribuir a la reducción del tráfico, pero enfrentan dificultades debido a la alta congestión que limita la efectividad de sus vehículos como solución a la pérdida de productividad.
+- **Cliente:** Personas que desean reducir el tiempo perdido en el tráfico para aumentar su productividad diaria, buscando alternativas de transporte que puedan ofrecerles una experiencia más eficiente y menos estresante.
+
+  
+6.  Acceso limitado a transporte ecológico: En áreas urbanas con alta congestión vehicular y escasas opciones de transporte sostenible, los usuarios de transporte ecológico enfrentan dificultades para encontrar vehículos eléctricos accesibles y en buen estado. Esto se traduce en una experiencia de movilidad insatisfactoria y un aumento en el uso de medios de transporte menos sostenibles.
+
+- **Owner:** Individuos que poseen vehículos eléctricos pero no los utilizan regularmente y desean encontrar una plataforma que facilite el alquiler de sus vehículos de manera eficiente.
+- **Cliente:** Personas jóvenes y adultas que buscan alternativas sostenibles para sus desplazamientos diarios pero encuentran que las opciones disponibles son limitadas o difíciles de acceder.
+  
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -139,7 +164,15 @@ En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos 
 
 - **Creemos que** al facilitar la información de cada vehículo disponible, aumentaremos la cantidad de usuarios que alquilen un vehículo. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de personas que pongan en alquiler sus vehículos.
 
-- **Creemos que** al simplificar el proceso de poner en alquiler un vehículo en nuestra plataforma, aumentaremos la cantidad de arrendadores. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de vehículos disponibles para alquilar en los primeros 7 días después del lanzamiento.
+- **Creemos que** al ofrecer una plataforma de alquiler de vehículos eléctricos, reduciremos la congestión vehicular en Lima. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento en la adopción de vehículos eléctricos y una disminución en la congestión en áreas clave de la ciudad.
+  
+- **Creemos que** al ofrecer una opción de alquiler de vehículos eléctricos como alternativa al ineficiente sistema de transporte público, los residentes podrán experimentar tiempos de viaje más cortos y una movilidad más cómoda. **Sabremos que** hemos tenido éxito **cuando** veamos una mayor utilización de los vehículos eléctricos en lugar del transporte público.
+
+- **Creemos que** ofrecer vehículos eléctricos a precios competitivos atraerá a quienes buscan reducir costos de transporte. **Sabremos que** hemos tenido éxito **cuando** veamos un incremento en la demanda de alquiler de vehículos eléctricos.
+  
+- **Creemos que** proporcionando información clara sobre el impacto ambiental, atraeremos a usuarios interesados en reducir su huella de carbono. **Sabremos que** hemos tenido éxito **cuando** aumente la adopción de vehículos eléctricos y la interacción con la información ambiental.
+
+- **Creemos que** al ofrecer vehículos eléctricos, ayudaremos a los residentes a reducir el tiempo perdido en el tráfico y mejorar su productividad. **Sabremos que** hemos tenido éxito **cuando** mejore la percepción de eficiencia del transporte y se reduzcan los tiempos de desplazamiento.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -148,6 +181,5 @@ En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos 
 ## 1.3. Segmentos Objetivo
 
 - **Owner:** Propietarios de vehículos eléctricos que no los usan constantemente y buscan una manera de generar ingresos adicionales alquilando sus vehículos cuando no los necesitan.
-
 
 - **Cliente:** Personas que viven en áreas urbanas y buscan una alternativa ecológica para sus desplazamientos diarios. Estos usuarios valoran la sostenibilidad y desean reducir su impacto ambiental.
