@@ -459,6 +459,42 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
     </tr>
+    <tr>
+        <td>US20</td>
+        <td>Método de pago</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> tener varias opciones de pago en la aplicación
+        <b>Para</b> pagar por el uso de medio de transporte </td>
+        <td>
+            <b>Scenario 1: Cliente utiliza el método de pago </b> <br/>
+            <b>Dado que</b> el usuario quiere pagar el medio reservado<br/>
+            <b>Cuando</b> el usuario accede a la opción de métodos de pago <br/>
+            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago que tenga el dueño del medio de transporte. <br/>
+            <br>
+            <b>Scenario 2: Cliente no puede utilizar el método de pago </b> <br/>
+            <b>Dado que</b> el usuario quiere pagar el medio reservado <br/>
+            <b>Cuando</b> el usuario accede a la opción de métodos de pago <br><b>Y</b> Sale error cuando elige un método <br/>
+            <b>Entonces</b> el sistema mostrará un mensaje en la pantalla donde dirá "Ocurrió un problema al elegir método de pago, por favor inténtelo más tarde. Si el problema persiste, contactese con atención al cliente" <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Atención al cliente</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> tener acceso fácil a un servicio de atención al cliente
+        <b>Para</b> tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación. </td>
+        <td>
+            <b>Scenario 1: Cliente tiene un problema técnico </b> <br/>
+            <b>Dado que</b> el usuario tiene problemas técnicos en la página web<br/>
+            <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
+            <b>Entonces</b> el asesor se encargará de informar sobre el problema para resolverlo en la brevedad posible. <br/>
+            <br>
+            <b>Scenario 2: Cliente tiene una consulta </b> <br/>
+            <b>Dado que</b> el usuario tiene una consulta relacionada a la página web<br/>
+            <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
+            <b>Entonces</b> el asesor se responder su consulta en la brevedad y de la manera más sencilla <br/>
+        <td>EP02</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
