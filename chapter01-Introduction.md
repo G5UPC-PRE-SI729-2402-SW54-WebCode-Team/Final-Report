@@ -248,13 +248,14 @@ Los arrendadores la utilizarán para alquilar un vehículo cuando lo necesiten.
 #### 1.2.2.3. Lean UX Hypothesis Statements
 Utilizando los bussines outcomes, user outcomes y solutions se formularon las siguientes hipótesis:  
 
+        
 **Cliente:**  
-**Creemos que** al simplificar el proceso de registro en nuestra plataforma, aumentaremos la cantidad de nuevos usuarios. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.  
+- **Creemos que** al simplificar el proceso de registro en nuestra plataforma, aumentaremos la cantidad de nuevos usuarios. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.  
 
-**Creemos que** al facilitar la información de cada vehículo disponible, aumentaremos la cantidad de usuarios que alquilen un vehículo. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de personas que pongan en alquiler sus vehículos.  
+- **Creemos que** al facilitar la información de cada vehículo disponible, aumentaremos la cantidad de usuarios que alquilen un vehículo. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de personas que pongan en alquiler sus vehículos.  
 
 **Owner:**  
-**Creemos que** al simplificar el proceso de poner en alquiler un vehículo en nuestra plataforma, aumentaremos la cantidad de arrendadores. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de vehículos disponibles para alquilar en los primeros 7 días después del lanzamiento.  
+- **Creemos que** al simplificar el proceso de poner en alquiler un vehículo en nuestra plataforma, aumentaremos la cantidad de arrendadores. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de vehículos disponibles para alquilar en los primeros 7 días después del lanzamiento.  
 
 #### 1.2.2.4. Lean UX Canvas
 
