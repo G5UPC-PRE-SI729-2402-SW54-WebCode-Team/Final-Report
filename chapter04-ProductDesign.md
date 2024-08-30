@@ -6,7 +6,9 @@
 ### 4.1.1. General Style Guidelines
 En esta sección detallaremos las diferentes decisiones de diseño tomadas.
 #### Branding
+En el caso de Branding, optamos por el nombre de "GreenMove", por la similitud con el nombre de la StartUp "GreenGo".
 
+La primera parte de la marca, "Green", hace referencia a la intención que tenemos que es mostrar una solución amigable con el medio ambiente. La segunda parte "Move", hace referencia a la problematica que buscamos resolver que es con el alquiler de vehículos que no contaminen.
 
 #### Typography
 La tipografía seleccionada es "Kumbh Sans" en sus versiones Bold, Semi-Bold y Regular.
