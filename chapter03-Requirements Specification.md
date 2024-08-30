@@ -779,6 +779,68 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 4 </td>
   </tr>
+        <tr>
+    <td valign="top"> 20 </td>
+    <td valign="top"> US20 </td>
+    <td valign="top"> Método de pago </td>
+    <td valign="top"> Cómo usuario Quiero tener varias opciones de pago en la aplicación Para pagar por el uso de medio de transporte. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+        <tr>
+    <tr>
+    <td valign="top"> 21 </td>
+    <td valign="top"> US21 </td>
+    <td valign="top"> Atención al cliente </td>
+    <td valign="top"> 
+        Cómo usuario Quiero tener acceso fácil a un servicio de atención al cliente Para tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación.
+    </td>
+    <td valign="top"> 4 </td>
+</tr>
+<tr>
+    <td valign="top"> 22 </td>
+    <td valign="top"> US22 </td>
+    <td valign="top"> Notificaciones de confirmación </td>
+    <td valign="top"> 
+        Cómo usuario Quiero recibir notificaciones Para tener confirmaciones ante cualquier acción realizada en mi cuenta.
+    </td>
+    <td valign="top"> 4 </td>
+</tr>
+<tr>
+    <td valign="top"> 23 </td>
+    <td valign="top"> US23 </td>
+    <td valign="top"> Notificaciones de disponibilidad </td>
+    <td valign="top"> 
+        Cómo usuario Quiero recibir notificaciones Para conocer cuando haya scooters o bicicletas disponibles.
+    </td>
+    <td valign="top"> 4 </td>
+</tr>
+<tr>
+    <td valign="top"> 24 </td>
+    <td valign="top"> US24 </td>
+    <td valign="top"> Alertas de Seguridad </td>
+    <td valign="top"> 
+        Cómo usuario Quiero recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas Para prevenir accidentes y lesiones.
+    </td>
+    <td valign="top"> 4 </td>
+</tr>
+<tr>
+    <td valign="top"> 25 </td>
+    <td valign="top"> US25 </td>
+    <td valign="top"> Recordatorios de reserva </td>
+    <td valign="top"> 
+        Cómo usuario Quiero recibir recordatorios de mis reservas Para no olvidarlas.
+    </td>
+    <td valign="top"> 4 </td>
+</tr>
+<tr>
+    <td valign="top"> 26 </td>
+    <td valign="top"> US26 </td>
+    <td valign="top"> Ubicar vehículo por Mapa </td>
+    <td valign="top"> 
+        Cómo usuario Quiero tener la opción de ver un mapa dentro de la aplicación Para ver la ubicación de los scooters eléctricos o bicicletas disponibles.
+    </td>
+    <td valign="top"> 4 </td>
+</tr>
       
 
 
