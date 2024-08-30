@@ -671,7 +671,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US04 </td>
     <td valign="top"> Registrar usuario </td>
     <td valign="top"> Cómo visitante de la aplicación web de GreenMove Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 05 </td>
@@ -692,14 +692,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US07 </td>
     <td valign="top"> Cambiar datos personales </td>
     <td valign="top"> Cómo Owner/Cliente de GreenMove Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 08 </td>
     <td valign="top"> US08 </td>
     <td valign="top"> Eliminar cuenta de usuario </td>
     <td valign="top"> Cómo Owner/Cliente de GreenMove Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 09 </td>
@@ -713,28 +713,28 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US10 </td>
     <td valign="top"> Visualizar un scooter en alquiler </td>
     <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 11 </td>
     <td valign="top"> US11 </td>
     <td valign="top"> Editar Scooter en alquiler </td>
     <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
     <td valign="top"> Eliminar scooter en alquiler </td>
     <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
     <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
     <td valign="top"> Búsqueda de scooters cercano </td>
     <td valign="top"> Cómo cliente de GreenMove Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
-    <td valign="top"> 6 </td>
+    <td valign="top"> 3 </td>
   </tr>
       <tr>   
   <tr>
@@ -742,14 +742,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US14 </td>
     <td valign="top"> Alquiler Scooter </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
-    <td valign="top"> 5 </td>
+    <td valign="top"> 2 </td>
   </tr>
    <tr>
     <td valign="top"> 15 </td>
     <td valign="top"> US15 </td>
     <td valign="top"> Calificación y reseñas </td>
     <td valign="top"> Cómo cliente de GreenMove Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 16 </td>
@@ -770,21 +770,21 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US18 </td>
     <td valign="top"> Adquirir plan </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
-    <td valign="top"> 6 </td>
+    <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 19 </td>
     <td valign="top"> US19 </td>
     <td valign="top"> Cancelar suscripción </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 2 </td>
   </tr>
         <tr>
     <td valign="top"> 20 </td>
     <td valign="top"> US20 </td>
     <td valign="top"> Método de pago </td>
     <td valign="top"> Cómo usuario Quiero tener varias opciones de pago en la aplicación Para pagar por el uso de medio de transporte. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 5 </td>
   </tr>
         <tr>
     <tr>
@@ -794,7 +794,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 
         Cómo usuario Quiero tener acceso fácil a un servicio de atención al cliente Para tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación.
     </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 5 </td>
 </tr>
 <tr>
     <td valign="top"> 22 </td>
@@ -803,7 +803,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 
         Cómo usuario Quiero recibir notificaciones Para tener confirmaciones ante cualquier acción realizada en mi cuenta.
     </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
 </tr>
 <tr>
     <td valign="top"> 23 </td>
@@ -812,7 +812,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 
         Cómo usuario Quiero recibir notificaciones Para conocer cuando haya scooters o bicicletas disponibles.
     </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
 </tr>
 <tr>
     <td valign="top"> 24 </td>
@@ -821,7 +821,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 
         Cómo usuario Quiero recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas Para prevenir accidentes y lesiones.
     </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
 </tr>
 <tr>
     <td valign="top"> 25 </td>
@@ -830,7 +830,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 
         Cómo usuario Quiero recibir recordatorios de mis reservas Para no olvidarlas.
     </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 2 </td>
 </tr>
 <tr>
     <td valign="top"> 26 </td>
@@ -839,9 +839,8 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 
         Cómo usuario Quiero tener la opción de ver un mapa dentro de la aplicación Para ver la ubicación de los scooters eléctricos o bicicletas disponibles.
     </td>
-    <td valign="top"> 4 </td>
-</tr>
-      
+    <td valign="top"> 3 </td>
+</tr>     
 
 
 </table>
