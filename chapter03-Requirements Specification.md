@@ -495,6 +495,24 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Entonces</b> el asesor se responder su consulta en la brevedad y de la manera más sencilla <br/>
         <td>EP02</td>
     </tr>
+    <tr>
+        <td>US22</td>
+        <td>Alertas de Seguridad</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas
+        <b>Para</b> revenir accidentes y lesiones. </td>
+        <td>
+            <b>Scenario 1: Indicacioness de seguridad </b> <br/>
+            <b>Dado que</b> el usuario tiene una cuenta registrada en la página web<br/>
+            <b>Cuando</b> comience su ruta usando el vehiculo alquilado <br><b>Y</b> el usuario ingrese a la aplicación con su cuenta <br/>
+            <b>Entonces</b> se mostrarán al usuario avisos de seguridad y consejos de uso seguro de los vehículos ofrecidos <br/>
+            <br>
+            <b>Scenario 2: Prevención de accidentes </b> <br/>
+            <b>Dado que</b> el usuario esté en una zona de alto tráfico o riesgo<br/>
+            <b>Cuando</b> esté utilizando la aplicación <br><b>Y</b> se detecte un posible peligro <br/>
+            <b>Entonces</b> se enviará una alerta de seguridad al usuario para informarle sobre la situación y sugerir precauciones adicionales <br/>
+        <td>EP04</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
