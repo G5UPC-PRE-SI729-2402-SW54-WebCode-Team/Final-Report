@@ -4,6 +4,40 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+En esta sección detallaremos las diferentes decisiones de diseño tomadas.
+#### Branding
+
+
+#### Typography
+La tipografía seleccionada es "Kumbh Sans" en sus versiones Bold, Semi-Bold y Regular.
+
+Esta tipografía ofrece una visualización clara de la información, ya que sus letras mantienen formas tradicionales y su diseño no interfiere con la lectura del usuario al navegar por el sitio web.
+
+La variante Bold se utiliza en los títulos y en el logo, mientras que la variante Semi-Bold se emplea en los subtítulos de la página, aportando un contraste adicional en comparación con los párrafos, que utilizan la variante Regular.
+
+El tamaño de la fuente varía según su propósito.
+
+Para los títulos, se emplean tamaños más grandes para captar la atención del usuario, en este caso, se ha utilizado un tamaño de 64.
+
+Los subtítulos tienen un tamaño de fuente ligeramente menor para acompañar los párrafos, y la variante Semi-Bold ya les otorga un énfasis distintivo. El tamaño seleccionado es 32.
+
+Para los párrafos del sitio, se eligió un tamaño que facilita la lectura sin causar fatiga visual. El tamaño elegido es 32.
+
+#### Colors
+La paleta de colores seleccionada para la página está inspirada en la temática ecológica de la aplicación. Se emplean tonos de verde musgo y verde lima, que evocan la naturaleza, el crecimiento y la frescura, reforzando la idea de un ambiente limpio y renovable. Acompañando a estos tonos verdes, se ha integrado un amarillo cálido que transmite optimismo y energía, sugiriendo vitalidad y acción.
+
+Para equilibrar estos colores vibrantes, se han incorporado tonos neutros como un gris claro y un blanco hueso. Estos tonos aportan modernidad, simplicidad y un diseño limpio, creando un contraste suave y agradable que facilita la navegación.
+
+El texto se presenta predominantemente en negro para garantizar la legibilidad, aunque sobre fondos de color, se utiliza blanco para asegurar que el contenido sea fácil de leer sin forzar la vista. Esta combinación de colores no solo es atractiva, sino que también refuerza los valores de sostenibilidad y respeto por el medio ambiente que la aplicación busca transmitir.
+
+#### Spacing
+Es importante usar un espaciado que permita al lector una visión clara del texto sin cansar la vista. Esto se puede lograr con un espaciado sencillo, pero no tan pequeño entre parrafos y lineas de texto.
+
+#### Tono de comunicación y lenguaje
+El tono de comunicación y el lenguaje empleados en la página son fundamentales para atraer al usuario adecuado y captar su atención.
+
+En la página, utilizamos un tono de comunicación formal y respetuoso, pero evitando un lenguaje excesivamente formal o párrafos demasiado extensos. Esto busca mantener el interés del usuario y, al mismo tiempo, respetar su confianza.
+
 ### 4.1.2. Web Style Guidelines
 Nuestro sitio web presenta una barra de navegación con rutas a "Home", "About Us", "Services", "Plans", "Contact Us" y "Get Started". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo.
 
