@@ -183,11 +183,11 @@ En esta sección se han definido unas preguntas para nuestros segmentos objetivo
 
 **Entrevista 1**
 
-Entrevistador:
+Entrevistador: Eduard Gedeon Travezaño Patiño
 
-Entrevistado:
+Entrevistado: Marco Aurelio Junior Chavez
 
-Captura:
+Captura:![image](https://github.com/user-attachments/assets/7d996245-bcf1-499f-8d1a-bd9d2b70eb66)
 
 Intervalo:
 
@@ -215,11 +215,11 @@ Intervalo:
 
 **Entrevista 4**
 
-Entrevistador:
+Entrevistador: Eduard Gedeon Travezaño Patiño
 
-Entrevistado:
+Entrevistado: Francisco Hilder Ruiz Perez
 
-Captura:
+Captura: ![entrevistaFrancisco](https://github.com/user-attachments/assets/c6935e05-a6d7-462a-843d-8e046628ba32)
 
 Intervalo:
 
