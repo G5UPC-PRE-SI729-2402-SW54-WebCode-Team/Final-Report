@@ -68,6 +68,13 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>No corresponde</td>
     </tr>
     <tr>
+        <td>EP07</td>
+        <td>Implementaciones técnica</td>
+        <td><b>Cómo</b> desarrollador <b>Quiero</b> tener una gestión y control de cambios de la página <b>Para</b> poder brindar mejoras continuas a la aplicación web</td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
         <td>US01</td>
         <td>Descripción de la aplicación</td>
         <td><b>Como</b> visitante de la landing page
@@ -497,6 +504,42 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US22</td>
+        <td>Notificaciones de confirmación</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir notificaciones
+        <b>Para</b> tener confirmaciones ante cualquier acción realizada en mi cuenta </td>
+        <td>
+            <b>Scenario 1: Notificación de confirmación activada</b> <br/>
+            <b>Dado que el usuario desea tener notificaciones de confirmación</b> <br/>
+            <b>Cuando</b> cree su cuenta <br/>
+            <b>Entonces</b> recibirá notificaciones de confirmación ante cualquier acción hecha <br/>
+            <br>
+            <b>Scenario 2: Notificación de disponibilidad desactivada </b> <br/>
+            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
+            <b>Cuando</b> cree su cuenta <br><b>Y</b> entre a configuración <br/>
+            <b>Entonces</b> podrá elegir desactivar las notificaciones de confirmación  <br/>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>US23</td>
+        <td>Notificaciones de disponibilidad</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir notificaciones
+        <b>Para</b> conocer cuando haya scooters o bicicletas disponible. </td>
+        <td>
+            <b>Scenario 1: Notificación de disponibilidad exitosa</b> <br/>
+            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
+            <b>Cuando</b> elige un vehiculo que no está disponible <br><b>Y</b> seleccione "Notificar cuando está disponible" <br/>
+            <b>Entonces</b> podrá seguir la disponibilidad del vehículo en tiempo real <br/>
+            <br>
+            <b>Scenario 2: Notificación de disponibilidad fallida </b> <br/>
+            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
+            <b>Cuando</b> el usuario elige un vehiculo que no está disponible <br><b>Y</b> no le notifica cuando está disponible <br/>
+            <b>Entonces</b> se contactará con atención al cliente para que vean el problema de la notificación  <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US24</td>
         <td>Alertas de Seguridad</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas
@@ -512,6 +555,81 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> esté utilizando la aplicación <br><b>Y</b> se detecte un posible peligro <br/>
             <b>Entonces</b> se enviará una alerta de seguridad al usuario para informarle sobre la situación y sugerir precauciones adicionales <br/>
         <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US25</td>
+        <td>Recordatorios de reserva</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir recordatorios de mis reservas
+        <b>Para</b> no olvidarlas </td>
+        <td>
+            <b>Scenario 1: Notificación de recordatorios </b> <br/>
+            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br/>
+            <b>Entonces</b> recibo una notificación recordatoria de la reserva <br/>
+            <br>
+            <b>Scenario 2: No notifica recordatorio </b> <br/>
+            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br><b>Y</b> no reciba una notificación recordatoria de la reserva <br/>
+            <b>Entonces</b> se contactará con atención al cliente para que vean el problema del recordatorio <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US26</td>
+        <td>Ubicar vehículo por Mapa</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación
+        <b>Para</b> ver la ubicación de los scooters eléctricos o bicicletas disponibles. </td>
+        <td>
+            <b>Scenario 1: Ubicar el vehículo </b> <br/>
+            <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
+            <b>Cuando</b> está en la sección "Buscar vehículo" <br><b>Y</b> seleccione "Ver en mapa"<br/>
+            <b>Entonces</b> se mostrará al usuario la ubicación de los vehículos en el mapa <br/>
+            <br>
+            <b>Scenario 2: Error al ubicar vehículo </b> <br/>
+            <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
+            <b>Cuando</b> está en la sección "Buscar vehículo" <br><b>Y</b> le aparezca "Error al mostrar mapa"<br/>
+            <b>Entonces</b> se contactará con atención al cliente para que solucionen el problema <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US27</td>
+        <td>Creación de un repositorio Git</td>
+        <td><b>Cómo</b> desarrollador
+        <b>Quiero</b> crear un repositorio Git
+        <b>Para</b> gestionar el control de versiones y permitir la colaboración entre los miembros del equipo. </td>
+        <td>
+            <b>Scenario 1: Cambiar y actualizar versión de la página </b> <br/>
+            <b>Dado que</b> el desarrollador tenga una cuenta registrada en el sistema<br/>
+            <b>Cuando</b> quiera subir los cambios al repositorio Git <br><b>Y</b> elija la rama a la que quiere subir los cambios<br/>
+            <b>Entonces</b> se le mostrará al resto del equipo los cambios asi como el nombre del colaborador <br/>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US28</td>
+        <td>Configuración del enrutamiento en Angular</td>
+        <td><b>Cómo</b> desarrollador
+        <b>Quiero</b> configurar el enrutamiento en Angular
+        <b>Para</b> definir las rutas y las vistas que se mostrarán en la aplicación según la URL solicitada. </td>
+        <td>
+            <b>Scenario 1: Cambiar una página </b> <br/>
+            <b>Dado que</b> el desarrollador tenga una cuenta registrada en el sistema<br/>
+            <b>Cuando</b> haga nuevos cambios a la aplicación <br><b>Y</b> complete los cambios al enrutamiento<br/>
+            <b>Entonces</b> se le permitira al usuario hacer uso del enrutamiento para visualizar el sitio web <br/>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US29</td>
+        <td>Historial de transacciones</td>
+        <td><b>Cómo</b> desarrollador
+        <b>Quiero</b> quiero obtener el historial del usuario a traves del API
+        <b>Para</b> tener controlado el historial ante incidentes </td>
+        <td>
+            <b>Scenario 1: Obtener historial </b> <br/>
+            <b>Dado que</b> el desarrollador quiere obtener la lista de transacciones de un usuario<br/>
+            <b>Cuando</b> el servidor se encuentre en linea <br><b>Y</b> utilize los endpoints<br/>
+            <b>Entonces</b> La API proporcionará un endpoint que devuelva el historial completo del usuario. <br/>
+        <td>EP07</td>
     </tr>
 </table>
 
