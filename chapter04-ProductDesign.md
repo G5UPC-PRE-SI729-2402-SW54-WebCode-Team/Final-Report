@@ -67,6 +67,9 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 - Organización por orden alfabético para la sección “Mis vehículos” del Owner.
 
 ### 4.2.2. Labeling Systems
+En esta sección se detalla diferentes técnicas que usamos para dar representación a los datos dentro de la página y las etiquetas usadas en diferentes secciones de la página.
+
+A lo largo de la página podemos evidenciar diferentes tipos de etiquetado, como el uso de iconos, encabezados o titulos para darle al usuario un mejor entendimiento de las funciones que brinda la página.
 
 ### 4.2.3. SEO Tags and Meta Tags
 Se utilizaron los siguientes tags en el desarrollo:
