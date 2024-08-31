@@ -518,7 +518,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
             <b>Cuando</b> cree su cuenta <br><b>Y</b> entre a configuración <br/>
             <b>Entonces</b> podrá elegir desactivar las notificaciones de confirmación  <br/>
-        <td> </td>
+        <td>EP05</td>
     </tr>
     <tr>
         <td>US23</td>
