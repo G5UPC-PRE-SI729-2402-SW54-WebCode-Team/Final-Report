@@ -69,6 +69,16 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
+Se utilizaron los siguientes tags en el desarrollo:
+
+Title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
+
+Meta tag Author: Es el autor de la página, en este caso utilizamos el nombre del startup GreenGo.
+
+Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
+
+Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
+
 ### 4.2.4. Searching Systems
 En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por texto que permitirá a los usuarios encontrar su vehículo de manera más rápida y personalizada.
 Además, se incluirán filtros para refinar las búsquedas de la siguiente manera:
