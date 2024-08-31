@@ -245,6 +245,24 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US09</td>
+        <td>Atención al cliente</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> tener acceso fácil a un servicio de atención al cliente
+        <b>Para</b> tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación. </td>
+        <td>
+            <b>Scenario 1: Cliente tiene un problema técnico </b> <br/>
+            <b>Dado que</b> el usuario tiene problemas técnicos en la página web<br/>
+            <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
+            <b>Entonces</b> el asesor se encargará de informar sobre el problema para resolverlo en la brevedad posible. <br/>
+            <br>
+            <b>Scenario 2: Cliente tiene una consulta </b> <br/>
+            <b>Dado que</b> el usuario tiene una consulta relacionada a la página web<br/>
+            <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
+            <b>Entonces</b> el asesor se responder su consulta en la brevedad y de la manera más sencilla <br/>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US10</td>
         <td>Publicar scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico  
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
@@ -267,7 +285,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US10</td>
+        <td>US11</td>
         <td>Visualizar un scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
@@ -285,7 +303,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US11</td>
+        <td>US12</td>
         <td>Editar Scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> editar la publicación de mi scooter
@@ -308,7 +326,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US12</td>
+        <td>US13</td>
         <td>Eliminar scooter en alquiler</td>
         <td><b>Cómo</b> Owner 
         <b>Quiero</b> eliminar un scooter en alquiler
@@ -326,7 +344,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US13</td>
+        <td>US14</td>
         <td>Búsqueda de scooters cercano</td>
         <td><b>Cómo</b> cliente de GreenMove
         <b>Quiero</b> poder buscar scooters disponibles en mi distrito
@@ -344,7 +362,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US14</td>
+        <td>US15</td>
         <td>Alquiler Scooter</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> alquilar un scooter
@@ -367,7 +385,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US15</td>
+        <td>US16</td>
         <td>Calificación y reseñas</td>
         <td><b>Cómo</b> cliente de GreenMove
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
@@ -385,7 +403,97 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US16</td>
+        <td>US17</td>
+        <td>Notificaciones de disponibilidad</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir notificaciones
+        <b>Para</b> conocer cuando haya scooters o bicicletas disponible. </td>
+        <td>
+            <b>Scenario 1: Notificación de disponibilidad exitosa</b> <br/>
+            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
+            <b>Cuando</b> elige un vehiculo que no está disponible <br><b>Y</b> seleccione "Notificar cuando está disponible" <br/>
+            <b>Entonces</b> podrá seguir la disponibilidad del vehículo en tiempo real <br/>
+            <br>
+            <b>Scenario 2: Notificación de disponibilidad fallida </b> <br/>
+            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
+            <b>Cuando</b> el usuario elige un vehiculo que no está disponible <br><b>Y</b> no le notifica cuando está disponible <br/>
+            <b>Entonces</b> se contactará con atención al cliente para que vean el problema de la notificación  <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US18</td>
+        <td>Alertas de Seguridad</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas
+        <b>Para</b> revenir accidentes y lesiones. </td>
+        <td>
+            <b>Scenario 1: Indicacioness de seguridad </b> <br/>
+            <b>Dado que</b> el usuario tiene una cuenta registrada en la página web<br/>
+            <b>Cuando</b> comience su ruta usando el vehiculo alquilado <br><b>Y</b> el usuario ingrese a la aplicación con su cuenta <br/>
+            <b>Entonces</b> se mostrarán al usuario avisos de seguridad y consejos de uso seguro de los vehículos ofrecidos <br/>
+            <br>
+            <b>Scenario 2: Prevención de accidentes </b> <br/>
+            <b>Dado que</b> el usuario esté en una zona de alto tráfico o riesgo<br/>
+            <b>Cuando</b> esté utilizando la aplicación <br><b>Y</b> se detecte un posible peligro <br/>
+            <b>Entonces</b> se enviará una alerta de seguridad al usuario para informarle sobre la situación y sugerir precauciones adicionales <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US19</td>
+        <td>Recordatorios de reserva</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir recordatorios de mis reservas
+        <b>Para</b> no olvidarlas </td>
+        <td>
+            <b>Scenario 1: Notificación de recordatorios </b> <br/>
+            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br/>
+            <b>Entonces</b> recibo una notificación recordatoria de la reserva <br/>
+            <br>
+            <b>Scenario 2: No notifica recordatorio </b> <br/>
+            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br><b>Y</b> no reciba una notificación recordatoria de la reserva <br/>
+            <b>Entonces</b> se contactará con atención al cliente para que vean el problema del recordatorio <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US20</td>
+        <td>Ubicar vehículo por Mapa</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación
+        <b>Para</b> ver la ubicación de los scooters eléctricos o bicicletas disponibles. </td>
+        <td>
+            <b>Scenario 1: Ubicar el vehículo </b> <br/>
+            <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
+            <b>Cuando</b> está en la sección "Buscar vehículo" <br><b>Y</b> seleccione "Ver en mapa"<br/>
+            <b>Entonces</b> se mostrará al usuario la ubicación de los vehículos en el mapa <br/>
+            <br>
+            <b>Scenario 2: Error al ubicar vehículo </b> <br/>
+            <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
+            <b>Cuando</b> está en la sección "Buscar vehículo" <br><b>Y</b> le aparezca "Error al mostrar mapa"<br/>
+            <b>Entonces</b> se contactará con atención al cliente para que solucionen el problema <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Método de pago</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> tener varias opciones de pago en la aplicación
+        <b>Para</b> pagar por el uso de medio de transporte </td>
+        <td>
+            <b>Scenario 1: Cliente utiliza el método de pago </b> <br/>
+            <b>Dado que</b> el usuario quiere pagar el medio reservado<br/>
+            <b>Cuando</b> el usuario accede a la opción de métodos de pago <br/>
+            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago que tenga el dueño del medio de transporte. <br/>
+            <br>
+            <b>Scenario 2: Cliente no puede utilizar el método de pago </b> <br/>
+            <b>Dado que</b> el usuario quiere pagar el medio reservado <br/>
+            <b>Cuando</b> el usuario accede a la opción de métodos de pago <br><b>Y</b> Sale error cuando elige un método <br/>
+            <b>Entonces</b> el sistema mostrará un mensaje en la pantalla donde dirá "Ocurrió un problema al elegir método de pago, por favor inténtelo más tarde. Si el problema persiste, contactese con atención al cliente" <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US22</td>
         <td>Visualizar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> visualizar mi historial de scooters alquilados
@@ -403,7 +511,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US17</td>
+        <td>US23</td>
         <td>Borrar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> o borrar mi historial de scooters alquilados
@@ -421,7 +529,25 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US18</td>
+        <td>US24</td>
+        <td>Notificaciones de confirmación</td>
+        <td><b>Cómo</b> usuario
+        <b>Quiero</b> recibir notificaciones
+        <b>Para</b> tener confirmaciones ante cualquier acción realizada en mi cuenta </td>
+        <td>
+            <b>Scenario 1: Notificación de confirmación activada</b> <br/>
+            <b>Dado que el usuario desea tener notificaciones de confirmación</b> <br/>
+            <b>Cuando</b> cree su cuenta <br/>
+            <b>Entonces</b> recibirá notificaciones de confirmación ante cualquier acción hecha <br/>
+            <br>
+            <b>Scenario 2: Notificación de disponibilidad desactivada </b> <br/>
+            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
+            <b>Cuando</b> cree su cuenta <br><b>Y</b> entre a configuración <br/>
+            <b>Entonces</b> podrá elegir desactivar las notificaciones de confirmación  <br/>
+        <td>EP05</td>
+    </tr>
+    <tr>
+        <td>US25</td>
         <td>Adquirir plan</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> Comprar un plan
@@ -449,7 +575,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US19</td>
+        <td>US26</td>
         <td>Cancelar suscripción </td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> cancelar mi suscripción
@@ -465,132 +591,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> no confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
-    </tr>
-    <tr>
-        <td>US20</td>
-        <td>Método de pago</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> tener varias opciones de pago en la aplicación
-        <b>Para</b> pagar por el uso de medio de transporte </td>
-        <td>
-            <b>Scenario 1: Cliente utiliza el método de pago </b> <br/>
-            <b>Dado que</b> el usuario quiere pagar el medio reservado<br/>
-            <b>Cuando</b> el usuario accede a la opción de métodos de pago <br/>
-            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago que tenga el dueño del medio de transporte. <br/>
-            <br>
-            <b>Scenario 2: Cliente no puede utilizar el método de pago </b> <br/>
-            <b>Dado que</b> el usuario quiere pagar el medio reservado <br/>
-            <b>Cuando</b> el usuario accede a la opción de métodos de pago <br><b>Y</b> Sale error cuando elige un método <br/>
-            <b>Entonces</b> el sistema mostrará un mensaje en la pantalla donde dirá "Ocurrió un problema al elegir método de pago, por favor inténtelo más tarde. Si el problema persiste, contactese con atención al cliente" <br/>
-        <td>EP04</td>
-    </tr>
-    <tr>
-        <td>US21</td>
-        <td>Atención al cliente</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> tener acceso fácil a un servicio de atención al cliente
-        <b>Para</b> tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación. </td>
-        <td>
-            <b>Scenario 1: Cliente tiene un problema técnico </b> <br/>
-            <b>Dado que</b> el usuario tiene problemas técnicos en la página web<br/>
-            <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
-            <b>Entonces</b> el asesor se encargará de informar sobre el problema para resolverlo en la brevedad posible. <br/>
-            <br>
-            <b>Scenario 2: Cliente tiene una consulta </b> <br/>
-            <b>Dado que</b> el usuario tiene una consulta relacionada a la página web<br/>
-            <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
-            <b>Entonces</b> el asesor se responder su consulta en la brevedad y de la manera más sencilla <br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US22</td>
-        <td>Notificaciones de confirmación</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> recibir notificaciones
-        <b>Para</b> tener confirmaciones ante cualquier acción realizada en mi cuenta </td>
-        <td>
-            <b>Scenario 1: Notificación de confirmación activada</b> <br/>
-            <b>Dado que el usuario desea tener notificaciones de confirmación</b> <br/>
-            <b>Cuando</b> cree su cuenta <br/>
-            <b>Entonces</b> recibirá notificaciones de confirmación ante cualquier acción hecha <br/>
-            <br>
-            <b>Scenario 2: Notificación de disponibilidad desactivada </b> <br/>
-            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
-            <b>Cuando</b> cree su cuenta <br><b>Y</b> entre a configuración <br/>
-            <b>Entonces</b> podrá elegir desactivar las notificaciones de confirmación  <br/>
-        <td>EP05</td>
-    </tr>
-    <tr>
-        <td>US23</td>
-        <td>Notificaciones de disponibilidad</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> recibir notificaciones
-        <b>Para</b> conocer cuando haya scooters o bicicletas disponible. </td>
-        <td>
-            <b>Scenario 1: Notificación de disponibilidad exitosa</b> <br/>
-            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
-            <b>Cuando</b> elige un vehiculo que no está disponible <br><b>Y</b> seleccione "Notificar cuando está disponible" <br/>
-            <b>Entonces</b> podrá seguir la disponibilidad del vehículo en tiempo real <br/>
-            <br>
-            <b>Scenario 2: Notificación de disponibilidad fallida </b> <br/>
-            <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
-            <b>Cuando</b> el usuario elige un vehiculo que no está disponible <br><b>Y</b> no le notifica cuando está disponible <br/>
-            <b>Entonces</b> se contactará con atención al cliente para que vean el problema de la notificación  <br/>
-        <td>EP04</td>
-    </tr>
-    <tr>
-        <td>US24</td>
-        <td>Alertas de Seguridad</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas
-        <b>Para</b> revenir accidentes y lesiones. </td>
-        <td>
-            <b>Scenario 1: Indicacioness de seguridad </b> <br/>
-            <b>Dado que</b> el usuario tiene una cuenta registrada en la página web<br/>
-            <b>Cuando</b> comience su ruta usando el vehiculo alquilado <br><b>Y</b> el usuario ingrese a la aplicación con su cuenta <br/>
-            <b>Entonces</b> se mostrarán al usuario avisos de seguridad y consejos de uso seguro de los vehículos ofrecidos <br/>
-            <br>
-            <b>Scenario 2: Prevención de accidentes </b> <br/>
-            <b>Dado que</b> el usuario esté en una zona de alto tráfico o riesgo<br/>
-            <b>Cuando</b> esté utilizando la aplicación <br><b>Y</b> se detecte un posible peligro <br/>
-            <b>Entonces</b> se enviará una alerta de seguridad al usuario para informarle sobre la situación y sugerir precauciones adicionales <br/>
-        <td>EP04</td>
-    </tr>
-    <tr>
-        <td>US25</td>
-        <td>Recordatorios de reserva</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> recibir recordatorios de mis reservas
-        <b>Para</b> no olvidarlas </td>
-        <td>
-            <b>Scenario 1: Notificación de recordatorios </b> <br/>
-            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
-            <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br/>
-            <b>Entonces</b> recibo una notificación recordatoria de la reserva <br/>
-            <br>
-            <b>Scenario 2: No notifica recordatorio </b> <br/>
-            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
-            <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br><b>Y</b> no reciba una notificación recordatoria de la reserva <br/>
-            <b>Entonces</b> se contactará con atención al cliente para que vean el problema del recordatorio <br/>
-        <td>EP04</td>
-    </tr>
-    <tr>
-        <td>US26</td>
-        <td>Ubicar vehículo por Mapa</td>
-        <td><b>Cómo</b> usuario
-        <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación
-        <b>Para</b> ver la ubicación de los scooters eléctricos o bicicletas disponibles. </td>
-        <td>
-            <b>Scenario 1: Ubicar el vehículo </b> <br/>
-            <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
-            <b>Cuando</b> está en la sección "Buscar vehículo" <br><b>Y</b> seleccione "Ver en mapa"<br/>
-            <b>Entonces</b> se mostrará al usuario la ubicación de los vehículos en el mapa <br/>
-            <br>
-            <b>Scenario 2: Error al ubicar vehículo </b> <br/>
-            <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
-            <b>Cuando</b> está en la sección "Buscar vehículo" <br><b>Y</b> le aparezca "Error al mostrar mapa"<br/>
-            <b>Entonces</b> se contactará con atención al cliente para que solucionen el problema <br/>
-        <td>EP04</td>
     </tr>
     <tr>
         <td>US27</td>
