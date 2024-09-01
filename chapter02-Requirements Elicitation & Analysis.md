@@ -316,6 +316,12 @@ Segmento 2: CLientes
 ### 2.3.5. As-is Scenario Mapping
 Se describen los procesos actuales de los usuarios antes de la implementación de nuestra solución. Esto nos permite identificar ineficiencias y oportunidades para mejorar la gestión del alquiler de vehículos eléctricos y optimizar la experiencia de movilidad urbana con nuestra tecnología.
 
+Segmento 1: Owner (Dueños de vehiculos)
+<img src="assets/as-is-scenario-Owner.png"/>
+
+
+Segmento 2: CLientes 
+<img src="assets/as-is-scenario-Cliente.png"/>
 
 
 ## 2.4. Ubiquitous Language
