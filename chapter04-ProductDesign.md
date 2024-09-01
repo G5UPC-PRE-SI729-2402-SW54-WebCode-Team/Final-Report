@@ -69,22 +69,27 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 ### 4.2.2. Labeling Systems
 En esta sección se detalla diferentes técnicas que usamos para dar representación a los datos dentro de la página y las etiquetas usadas en diferentes secciones de la página.
 
-A lo largo de la página podemos evidenciar diferentes tipos de etiquetado, como el uso de iconos, encabezados o titulos para darle al usuario un mejor entendimiento de las funciones que brinda la página.
+A lo largo de la página podemos evidenciar diferentes tipos de etiquetado, como el uso de iconos, encabezados o titulos para darle al usuario un mejor entendimiento de las funciones que brinda la página. A través de este proceso, hemos identificado las siguientes etiquetas esenciales:
+
+- Perfil del usuario:  Esta etiqueta mostrará a los usuarios  sus datos personales, así como información relevante o necesaria.
+- Configuración: Aquí los usuarios podrán ajustar las preferencias de notificación, configurar dispositivos, establecer horarios de activación y personalizar la aplicación según sus necesidades.
+- Ayuda: Esta etiqueta proporcionará acceso a recursos de asistencia técnica, preguntas frecuentes y la posibilidad de contactar con el soporte de la aplicación en caso de dudas o problemas.
+- Notificaciones de reserva: Esta etiqueta ayudará a los usuarios a poder ver sus ultimos mensajes que son notificaciones de alguna reserva que haya hecho para algun día o para hacerle recordar que le alquiló a alguien hasta una hora o fecha determinada.
 
 ### 4.2.3. SEO Tags and Meta Tags
 Se utilizaron los siguientes tags en el desarrollo:
 
-SEO tag Header: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
+- SEO tag Header: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
 
-SEO tah Url: Emplearemos una Url amigable, sin caracteres extraños para su fácilbúsqueda. La url a emplear será simple: www.GreenMove.com
+- SEO tah Url: Emplearemos una Url amigable, sin caracteres extraños para su fácilbúsqueda. La url a emplear será simple: www.GreenMove.com
 
-Meta title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
+- Meta title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
 
-Meta tag Author: Es el autor de la página, en este caso utilizamos el nombre del startup GreenGo.
+- Meta tag Author: Es el autor de la página, en este caso utilizamos el nombre del startup GreenGo.
 
-Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
+- Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
 
-Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
+- Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
 
 ### 4.2.4. Searching Systems
 En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por texto que permitirá a los usuarios encontrar su vehículo de manera más rápida y personalizada.
