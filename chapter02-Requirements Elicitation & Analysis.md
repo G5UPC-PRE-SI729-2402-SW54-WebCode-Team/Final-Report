@@ -183,78 +183,154 @@ En esta sección se han definido unas preguntas para nuestros segmentos objetivo
 
 **Entrevista 1**
 
-Entrevistador: Eduard Gedeon Travezaño Patiño
+**Entrevistador:** Eduard Gedeon Travezaño Patiño
 
-Entrevistado: Marco Aurelio Junior Chavez
+**Entrevistado:** Marco Aurelio Junior Chavez
 
 Captura:![image](https://github.com/user-attachments/assets/7d996245-bcf1-499f-8d1a-bd9d2b70eb66)
 
-Intervalo:
+**Resumen:**
 
 **Entrevista 2**
 
-Entrevistador:
+**Entrevistador:** Fabio Horna Silva
 
-Entrevistado:
+**Entrevistado:** Salomon Zegarra moreno
 
-Captura:
+Captura:<img src="./assets/EntrevistaSalomon.jpg"/>
 
-Intervalo:
+**Resumen:**
+En la entrevista Salomon que cuenta con una Laptop y celular cuenta con un vehiculo que utilzia para movilizarse, este vehiculo es de uso personal y no ha alquidado este vehiculo, sin embargo ha alquilado vehiculos para actividades como viajes ademas en su circuloc ercano no sabe de nadie que haya alquilado a su vehiculo. Por ultimo Salomon destaca la sencilles y el agrado de poder contar con una aplicacion que facilite el tramite de alquiler de estos vehiculos.
 
 **Entrevista 3**
 
-Entrevistador:
+**Entrevistador:**
 
-Entrevistado:
+**Entrevistado:**
 
 Captura:
 
-Intervalo:
+**Resumen:**
 
 **Semento Objetivo 2:**
 
 **Entrevista 4**
 
-Entrevistador: Eduard Gedeon Travezaño Patiño
+**Entrevistador:** Eduard Gedeon Travezaño Patiño
 
-Entrevistado: Francisco Hilder Ruiz Perez
+**Entrevistado:** Francisco Hilder Ruiz Perez
 
 Captura: ![entrevistaFrancisco](https://github.com/user-attachments/assets/c6935e05-a6d7-462a-843d-8e046628ba32)
 
-Intervalo:
+Resumen:
 
 **Entrevista 5**
 
-Entrevistador:
+**Entrevistador:** Fabio Horna Silva
 
-Entrevistado:
+**Entrevistado:** Anderson Velazques
 
-Captura:
+Captura:<img src="./assets/EntrevistaAnder.jpg"/>
 
-Intervalo:
+Resumen:
+Ander es un Joven que trabaja y estudia, como estudiante activo tiene varios dispositvos electronicos a su disposicion, para movilizarse Anderson utilzia transporte publico o taxis dependiendo de la severidad de su horario y su disponibilidad de llegada a sus clases o trabajo. Anderson dice estar interesado en alquilar autos mediante una plataforma ya que le facilitaria la movilidad.
 
 **Entrevista 6**
 
-Entrevistador:
+**Entrevistador:**
 
-Entrevistado:
+**Entrevistado:**
 
 Captura:
 
-Intervalo:
+**Resumen:**
 
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 
+En la sección de Needfinding, se emplean diversas herramientas como UXPressia, LucidChart y Miro para identificar y comprender las necesidades, comportamientos y emociones de los usuarios potenciales mediante la creación de User Personas, User Task Matrix, User Journey Maps, Empathy Maps y As-Is Scenario Maps. Estos artefactos ayudan a capturar una visión detallada de los usuarios, sus objetivos, tareas y experiencias actuales sin la solución propuesta, lo que permite diseñar un producto alineado con sus expectativas reales. Además, se incluye un glosario de términos del dominio de negocio, garantizando una comunicación clara y coherente entre todos los miembros del equipo.
+
 ### 2.3.1. User Personas
+
+Se presentan los perfiles de los Owners y los Clientes que utilizarán nuestra plataforma de alquiler de vehículos eléctricos. Estos perfiles son fundamentales para comprender sus necesidades específicas y diseñar una solución que facilite el acceso a opciones de transporte sostenibles y rentables, mejorando su experiencia de movilidad urbana.
+
+Segmento 1: Owner (Dueños de vehiculos)
+
+
+
+Segmento 2: CLientes 
+
+
 
 ### 2.3.2. User Task Matrix
 
+En esta sección se presenta el User Task Matrix para la plataforma de alquiler de vehículos eléctricos, considerando dos segmentos de usuarios: **Owners (Propietarios de Vehículos Eléctricos)** y **Clientes (Usuarios de Vehículos Eléctricos)**. Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
+
+| **Tareas**                             | **Owner (Propietarios de Vehículos Eléctricos)** |                       | **Cliente (Usuarios de Vehículos Eléctricos)** |                       |
+|-----------------------------------------|--------------------------------------------------|-----------------------|------------------------------------------------|-----------------------|
+|                                         | **Frecuencia**                                   | **Importancia**       | **Frecuencia**                                 | **Importancia**       |
+| **Definir precios de alquiler**             | _A veces_                                          | **Alta**              | ~~Nunca~~                                      | ~~Sin Importancia~~   |
+| **Realizar una reserva de vehículo**        | ~~Nunca~~                                            | ~~Sin Importancia~~   | **Siempre**                                    | **Alta**              |
+| **Evaluar la disponibilidad del vehículo**  | _A veces_                                          | _Media_               | ~~Nunca~~                                      | ~~Sin Importancia~~   |
+| **Revisar pagos y comisiones**              | **Casi siempre**                                   | **Alta**              | ~~Nunca~~                                      | ~~Sin Importancia~~   |
+| **Buscar y comparar vehículos disponibles** | ~~Nunca~~                                            | ~~Sin Importancia~~   | **Siempre**                                    | **Alta**              |
+| **Contactar al propietario del vehículo**   | ~~Nunca~~                                            | ~~Sin Importancia~~   | **Casi siempre**                               | _Media_               |
+| **Devolver el vehículo al final del alquiler** | ~~Nunca~~                                          | ~~Sin Importancia~~   | **Siempre**                                    | **Alta**              |
+| **Gestionar reservas y disponibilidad**     | **Siempre**                                        | **Alta**              | ~~Nunca~~                                      | ~~Sin Importancia~~   |
+| **Revisar opciones de seguros**             | ~~Nunca~~                                            | ~~Sin Importancia~~   | _A veces_                                      | _Media_               |
+| **Verificar el historial del arrendatario** | **Casi siempre**                                   | **Alta**              | ~~Nunca~~                                      | ~~Sin Importancia~~   |
+| **Evaluar costos y beneficios del alquiler**| ~~Nunca~~                                            | ~~Sin Importancia~~   | _A veces_                                      | **Alta**              |
+| **Crear un perfil de vehículo**             | **Siempre**                                        | **Alta**              | ~~Nunca~~                                      | ~~Sin Importancia~~   |
+
+- **Tareas con Mayor Frecuencia e Importancia para los Owners:**
+  - Tareas como **Gestionar reservas y disponibilidad** y **Crear un perfil de vehículo** son realizadas con **Siempre** y tienen **Alta** importancia, ya que son esenciales para mantener la operatividad y optimización del proceso de alquiler.
+  - **Verificar el historial del arrendatario** y **Revisar pagos y comisiones** se realizan **Casi siempre** y también son de **Alta** importancia debido a la necesidad de seguridad y control financiero.
+
+- **Tareas con Mayor Frecuencia e Importancia para los Clientes:**
+  - **Buscar y comparar vehículos disponibles**, **Realizar una reserva de vehículo**, y **Devolver el vehículo al final del alquiler** son tareas realizadas con **Siempre** y son de **Alta** importancia, pues representan las etapas claves en la experiencia del cliente.
+  - **Contactar al propietario del vehículo** es realizado **Casi siempre** y tiene _Media_ importancia para resolver dudas o coordinar detalles específicos del alquiler.
+
+- **Principales Diferencias:**
+  - Los **Owners** se enfocan en la **gestión continua** y la **seguridad del proceso**, mientras que los **Clientes** están más interesados en **seleccionar** y **utilizar** los vehículos.
+
+- **Coincidencias:**
+  - Ambos grupos valoran la **transparencia y seguridad** durante el alquiler. Los **Owners** se enfocan en la verificación del arrendatario, mientras que los **Clientes** buscan opciones de seguros que les brinden confianza.
+
+
 ### 2.3.3. User Journey Mapping
+Este gráfico ilustra cómo los usuarios interactúan con nuestra solución a lo largo del tiempo, resaltando tanto las experiencias clave como las oportunidades de mejora. Este análisis detallado permite asegurar que la solución esté perfectamente alineada con los flujos de trabajo de los usuarios y responda de manera efectiva a sus necesidades, mejorando así su experiencia general.
+
 
 ### 2.3.4. Empathy Mapping
+Mediante este gráfico de **Empathy Mapping**, se reflejan las percepciones, pensamientos y sentimientos de los usuarios al interactuar con nuestra plataforma de alquiler de vehículos eléctricos. Este análisis nos permite comprender de manera más profunda sus experiencias, expectativas y desafíos, lo cual es fundamental para diseñar una solución más alineada con sus necesidades y que ofrezca una experiencia de usuario mejorada y centrada en el cliente.
+
+
 
 ### 2.3.5. As-is Scenario Mapping
+Se describen los procesos actuales de los usuarios antes de la implementación de nuestra solución. Esto nos permite identificar ineficiencias y oportunidades para mejorar la gestión del alquiler de vehículos eléctricos y optimizar la experiencia de movilidad urbana con nuestra tecnología.
+
+
 
 ## 2.4. Ubiquitous Language
+
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma de alquiler de vehículos eléctricos, siguiendo el enfoque de **Ubiquitous Language** propuesto por Eric Evans en *Domain-Driven Design*. Estas definiciones tienen como objetivo garantizar una comunicación clara y coherente entre los miembros del equipo y stakeholders, alineando el lenguaje del negocio con los objetivos y necesidades del proyecto.
+
+1. **Owner (Propietario):** Persona que posee un vehículo eléctrico y lo pone en alquiler a través de la plataforma. El propietario puede establecer precios, definir la disponibilidad del vehículo y aceptar o rechazar reservas.
+
+2. **Client (Arrendatario):** Usuario que alquila un vehículo eléctrico mediante la plataforma para uso temporal. Debe cumplir con los términos de alquiler establecidos por el propietario y la plataforma.
+
+3. **Booking (Reserva):** Acción de reservar un vehículo eléctrico para un período de tiempo específico. Incluye seleccionar el vehículo, elegir las fechas, y confirmar el pago.
+
+4. **Vehicle Availability (Disponibilidad del Vehículo):** Estado que indica si un vehículo está disponible para ser alquilado en un momento determinado. Es gestionado por el propietario en la plataforma.
+
+5. **Rental Agreement (Contrato de Alquiler):** Documento que detalla los términos y condiciones del alquiler, como duración, costo y responsabilidades de ambas partes. Se genera automáticamente cuando se confirma una reserva.
+
+7. **User Rating (Calificación de Usuario):** Sistema de puntuación que permite a propietarios y arrendatarios evaluarse mutuamente después de cada alquiler. Ayuda a construir confianza dentro de la plataforma.
+
+8. **Drop-off Location (Ubicación de Entrega):** Lugar donde el arrendatario debe devolver el vehículo al finalizar el alquiler. Puede ser un punto acordado o un lugar designado por el propietario.
+
+10. **Cancellation Policy (Política de Cancelación):** Reglas que establecen los términos para cancelar una reserva y los posibles cargos asociados. Las políticas son visibles antes de confirmar una reserva.
+
+
+
