@@ -91,7 +91,7 @@ organizaremos se visualizarán la lista de Scooter para los User mientras.
 
 Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes 
 a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de 
-suma importancia como son: "Inicio", "Sobre Nosotros", "Servicios", "Planes", "Team" y "Empieza Ya!".
+suma importancia como son: "Inicio", "Nosotros", "Servicios", "Planes", "Equipo" y "Comenzar".
 Para el proceso de reservas de vehículos eléctricos haremos uso de la organización secuencial:
 - Solicitud de reserva (clientes):
   - Búsqueda de vehículos.
@@ -111,14 +111,61 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 
 
 ### 4.2.2. Labeling Systems
-En esta sección se detalla diferentes técnicas que usamos para dar representación a los datos dentro de la página y las etiquetas usadas en diferentes secciones de la página.
+Para el uso de etiquetas de nuestro landing page, se ha elegido un lenguaje sencillo lo que permite a los usuarios 
+familiarizarse con facilidad a las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera 
+intuitiva.
 
-A lo largo de la página podemos evidenciar diferentes tipos de etiquetado, como el uso de iconos, encabezados o titulos para darle al usuario un mejor entendimiento de las funciones que brinda la página. A través de este proceso, hemos identificado las siguientes etiquetas esenciales:
+En el Landing Page visualizará los siguientes botones de navegación:
 
-- Perfil del usuario:  Esta etiqueta mostrará a los usuarios  sus datos personales, así como información relevante o necesaria.
-- Configuración: Aquí los usuarios podrán ajustar las preferencias de notificación, configurar dispositivos, establecer horarios de activación y personalizar la aplicación según sus necesidades.
-- Ayuda: Esta etiqueta proporcionará acceso a recursos de asistencia técnica, preguntas frecuentes y la posibilidad de contactar con el soporte de la aplicación en caso de dudas o problemas.
-- Notificaciones de reserva: Esta etiqueta ayudará a los usuarios a poder ver sus ultimos mensajes que son notificaciones de alguna reserva que haya hecho para algun día o para hacerle recordar que le alquiló a alguien hasta una hora o fecha determinada.
+<table style="text-align: center; width: 100%; border:1px">
+	<tbody>
+		<tr>
+			<td>Etiqueta</td>
+			<td>Descripción</td>
+		</tr>
+		<tr>
+			<td>Inicio</td>
+			<td>Apartado donde se muestra la información de la aplicación explicando sus características.</td>
+		</tr>
+		<tr>
+			<td>Nosotros</td>
+			<td>Apartado donde se informa al usuario sobre el equipo y el propósito.</td>
+		</tr>
+		<tr>
+			<td>Servicios</td>
+			<td>Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.</td>
+		</tr>
+		<tr>
+			<td>Planes</td>
+			<td>Apartado donde se muestran todos los planes de suscripción.</td>
+		</tr>
+		<tr>
+			<td>Equipo</td>
+			<td>Apartado donde el usuario puede comunicarse con nosotros.</td>
+		</tr>
+		<tr>
+			<td>Comenzar</td>
+			<td>Apartado redirigir ir a la aplicación web.</td>
+		</tr>
+	</tbody>
+</table>
+
+Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la 
+información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la 
+información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, 
+se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes 
+no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los 
+diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para 
+resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la 
+coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos 
+técnicos o jerga que podría ser confuso para los usuarios.
+
+En el parte superior derecho del home page contando con tres botones: 
+- Nosotros: Muestra quiénes somos, nuestro propósito y equipo.
+- Servicios: Muestra lo que ofrecemos al usuario para mejorar financieramente.
+- Planes: Muestra el plan que quiere adquirir lo cual le llevará a registrarse.
+- Equipo: Muestra el equipo detrás de la aplicación.
+- Comenzar: Muestra el botón para redirigir al usuario a la aplicación web.
 
 ### 4.2.3. SEO Tags and Meta Tags
 Se utilizaron los siguientes tags en el desarrollo:
