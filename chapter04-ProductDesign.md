@@ -92,9 +92,12 @@ Se utilizaron los siguientes tags en el desarrollo:
 - Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
 
 ### 4.2.4. Searching Systems
-En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por texto que permitirá a los usuarios encontrar su vehículo de manera más rápida y personalizada.
-Además, se incluirán filtros para refinar las búsquedas de la siguiente manera:
+Implementaremos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Utilizaremos un sistema de búsqueda por texto que permita a los usuarios encontrar su vehículo de manera más rápida y personalizada. Los sistemas de búsqueda que se usarán son:
 
+- Barra de búsqueda:  Estos servirán para ayudar al usuario a encontrar los elementos de interés. La barra de búsqueda se hará presente en la búsqueda de algun tipo de producto que quieran comprar y de alguna duda que tenga.
+- Filtros de búsqueda: Proporcionará una búsqueda más especializada y ayudará a encontrar de manera más fácil lo que buscamos, restringiendo los resultados según criterios específicos.
+- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este
+ modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
 
 ### 4.2.5. Navigation Systems
 Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
