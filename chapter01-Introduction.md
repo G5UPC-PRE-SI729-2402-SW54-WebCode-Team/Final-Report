@@ -64,8 +64,8 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         </tr>
         <tr>
             <td>Fabio Ernesto Horna Silva	</td>
-            <td><img src="Link de la foto de Fabio" width="370"/></td>
-            <td>Description...</td>
+            <td><img src="/assets/FabioHorna.jpg" width="370"/></td>
+            <td>Soy Fabio, tengo 21 años y soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente me encuentro trabajando como analista de datos y poseo conocimientos avanzados de redes neuronales, SQL, y otras herramientas como Python, donde manejo pandas y otras herramientas para la minería de datos. Me considero una buena persona para trabajar en equipo y me gusta ayudar a mis compañeros.</td>
         </tr>
     </tbody>
 </table>
