@@ -44,30 +44,63 @@ El tono de comunicación y el lenguaje empleados en la página son fundamentales
 En la página, utilizamos un tono de comunicación formal y respetuoso, pero evitando un lenguaje excesivamente formal o párrafos demasiado extensos. Esto busca mantener el interés del usuario y, al mismo tiempo, respetar su confianza.
 
 ### 4.1.2. Web Style Guidelines
-Nuestro sitio web presenta una barra de navegación con rutas a "Home", "About Us", "Services", "Plans", "Contact Us" y "Get Started". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo.
-
-Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
-Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: “About us”, “Services”, “Plans”, “Contact Us” y “Get Started”.
 
-Para el proceso de reservas de vehículos haremos uso de la organización secuencial:
-- Solicitud de reserva(clientes):
-  - Búsqueda de vehículos
-  - Elección del tipo de vehículo
-  - Solicitud de reserva
-  - Entrega del vehículo
-  - Devolución del vehículo
+- **Jerarquía Visual:**
 
-- Solicitud de la inscripción de vehículos(owner):
-  - Inscripción de vehículo a la plataforma
-  - Establecer tarifa y disponibilidad del vehículo
-  - Publicar disponibilidad del vehículo
+Con el propósito de mantener la estética de nuestra plataforma interactiva y a la vanguardia de
+la competencia actual, hemos decidido priorizar la interfaz según importancia para facilitar la
+interacción con el usuario.
+
+- **Jerarquía de Tipografía:**
+
+Nuestra plataforma difunde información que es recibida por nuestros usuarios con un orden
+específico según la demanda. Por lo tanto, es importante tener en cuenta las características
+con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
+
+- **Alineación:**
+
+En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de
+manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
+misma información.
+
+- **Color y Contraste:**
+A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve
+las correctas composiciones del color, para dirigir diversas emociones y del contraste para
+enfatizar aquellos objetos de mayor importancia.
+
+- **Organización Secuencial:**
+
+Además, los métodos de almacenamiento sobre los registros que el usuario final emplea
+siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la
+rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto
+organizaremos se visualizarán la lista de Scooter para los User mientras.
+
+
+- **Esquemas de categorización de contenido de nuestra web:**
+
+Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes 
+a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de 
+suma importancia como son: "Inicio", "Sobre Nosotros", "Servicios", "Planes", "Team" y "Empieza Ya!".
+Para el proceso de reservas de vehículos eléctricos haremos uso de la organización secuencial:
+- Solicitud de reserva (clientes):
+  - Búsqueda de vehículos.
+  - Elección del vehículo.
+  - Solicitud de reserva.
+  - Entrega del vehículo.
+  - Devolución del vehículo.
+
+- Solicitud de la inscripción de vehículos (owner):
+  - Inscripción de vehículo a la plataforma.
+  - Establecer tarifa y disponibilidad del vehículo.
+  - Publicar disponibilidad del vehículo.
 
 Para los esquemas de organización utilizaremos los siguientes tipos:
 - Organización por orden cronológico para el historial de reservas de los clientes.
 - Organización por orden alfabético para la sección “Mis vehículos” del Owner.
+
 
 ### 4.2.2. Labeling Systems
 En esta sección se detalla diferentes técnicas que usamos para dar representación a los datos dentro de la página y las etiquetas usadas en diferentes secciones de la página.
