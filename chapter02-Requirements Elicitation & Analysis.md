@@ -301,6 +301,7 @@ En esta sección se presenta el User Task Matrix para la plataforma de alquiler 
 ### 2.3.3. User Journey Mapping
 Este gráfico ilustra cómo los usuarios interactúan con nuestra solución a lo largo del tiempo, resaltando tanto las experiencias clave como las oportunidades de mejora. Este análisis detallado permite asegurar que la solución esté perfectamente alineada con los flujos de trabajo de los usuarios y responda de manera efectiva a sus necesidades, mejorando así su experiencia general.
 
+<img src="assets/customer-journey-map.png"/>
 
 ### 2.3.4. Empathy Mapping
 Mediante este gráfico de **Empathy Mapping**, se reflejan las percepciones, pensamientos y sentimientos de los usuarios al interactuar con nuestra plataforma de alquiler de vehículos eléctricos. Este análisis nos permite comprender de manera más profunda sus experiencias, expectativas y desafíos, lo cual es fundamental para diseñar una solución más alineada con sus necesidades y que ofrezca una experiencia de usuario mejorada y centrada en el cliente.
