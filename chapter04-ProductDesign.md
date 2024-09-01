@@ -32,6 +32,9 @@ Para equilibrar estos colores vibrantes, se han incorporado tonos neutros como u
 
 El texto se presenta predominantemente en negro para garantizar la legibilidad, aunque sobre fondos de color, se utiliza blanco para asegurar que el contenido sea fácil de leer sin forzar la vista. Esta combinación de colores no solo es atractiva, sino que también refuerza los valores de sostenibilidad y respeto por el medio ambiente que la aplicación busca transmitir.
 
+![Colors](https://github.com/user-attachments/assets/5df16c18-ab12-4905-a764-907508a11b4c)
+
+
 #### Spacing
 Es importante usar un espaciado que permita al lector una visión clara del texto sin cansar la vista. Esto se puede lograr con un espaciado sencillo, pero no tan pequeño entre parrafos y lineas de texto.
 
