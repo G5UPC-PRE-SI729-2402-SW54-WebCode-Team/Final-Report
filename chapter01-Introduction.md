@@ -180,6 +180,11 @@ Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo qu
 
 ## 1.3. Segmentos Objetivo
 
-- **Owner:** Propietarios de vehículos eléctricos que no los usan constantemente y buscan una manera de generar ingresos adicionales alquilando sus vehículos cuando no los necesitan.
-
-- **Cliente:** Personas que viven en áreas urbanas y buscan una alternativa ecológica para sus desplazamientos diarios. Estos usuarios valoran la sostenibilidad y desean reducir su impacto ambiental.
+- **Owner:** Este segmento está compuesto por propietarios de vehículos eléctricos que residen en áreas urbanas densas (Lima) y que buscan generar ingresos adicionales al alquilar sus vehículos cuando no los están utilizando. Estos propietarios son conscientes del valor económico de sus activos y están interesados en maximizar el retorno sobre su inversión. Además, tienen una fuerte orientación hacia la sostenibilidad y desean participar activamente en la economía colaborativa. Son personas que valoran tanto la rentabilidad como la contribución a un transporte más limpio en su ciudad.
+    - **Ocupación:** Profesionales, empresarios, o individuos con conciencia ambiental y sentido de responsabilidad social.
+  - **Motivaciones:** Maximizar la rentabilidad de un activo subutilizado, contribuir a la reducción de emisiones y fomentar el uso de transporte sostenible en la comunidad.
+  - **Comportamiento:** Están abiertos a plataformas digitales que ofrecen seguridad, control y conveniencia en la gestión del alquiler de su vehículo.
+- **Cliente:** Este segmento incluye a profesionales jóvenes y familias pequeñas que viven en grandes ciudades y buscan soluciones de transporte que sean sostenibles, asequibles y convenientes. Son personas con un fuerte sentido de responsabilidad ambiental que buscan minimizar su impacto ecológico, pero también necesitan opciones de movilidad que se adapten a sus estilos de vida urbanos ocupados. Además, valoran la flexibilidad de alquileres de corto o mediano plazo, sin el compromiso de poseer un vehículo.
+    - **Ocupación:** Profesionales, freelancers, familias jóvenes, estudiantes de posgrado.
+    - **Motivaciones:** Reducir la huella de carbono, evitar el tráfico y la congestión, opciones de transporte asequibles, cómodas y sin complicaciones.
+    - **Comportamiento:** Prefieren opciones de movilidad que ofrezcan flexibilidad y conveniencia, utilizan aplicaciones móviles para la gestión de servicios diarios, y están dispuestos a pagar un poco más por opciones ecológicas.
