@@ -32,9 +32,6 @@ Para equilibrar estos colores vibrantes, se han incorporado tonos neutros como u
 
 El texto se presenta predominantemente en negro para garantizar la legibilidad, aunque sobre fondos de color, se utiliza blanco para asegurar que el contenido sea fácil de leer sin forzar la vista. Esta combinación de colores no solo es atractiva, sino que también refuerza los valores de sostenibilidad y respeto por el medio ambiente que la aplicación busca transmitir.
 
-![Colors](https://github.com/user-attachments/assets/5df16c18-ab12-4905-a764-907508a11b4c)
-
-
 #### Spacing
 Es importante usar un espaciado que permita al lector una visión clara del texto sin cansar la vista. Esto se puede lograr con un espaciado sencillo, pero no tan pequeño entre parrafos y lineas de texto.
 
@@ -44,6 +41,17 @@ El tono de comunicación y el lenguaje empleados en la página son fundamentales
 En la página, utilizamos un tono de comunicación formal y respetuoso, pero evitando un lenguaje excesivamente formal o párrafos demasiado extensos. Esto busca mantener el interés del usuario y, al mismo tiempo, respetar su confianza.
 
 ### 4.1.2. Web Style Guidelines
+
+En esta sección se mostrara con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
+
+### Paleta de colores
+![Colors](https://github.com/user-attachments/assets/5df16c18-ab12-4905-a764-907508a11b4c)
+
+### Botones
+Dependiendo del contexto se usarán diferentes tipos de botones, para la barra de navegación optamos por botones completos sin bordes ni efectos.
+
+![image](https://github.com/user-attachments/assets/31c6ac39-cc55-418c-babd-d7a1d2392b83)
+
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
