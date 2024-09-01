@@ -256,11 +256,11 @@ En la sección de Needfinding, se emplean diversas herramientas como UXPressia, 
 Se presentan los perfiles de los Owners y los Clientes que utilizarán nuestra plataforma de alquiler de vehículos eléctricos. Estos perfiles son fundamentales para comprender sus necesidades específicas y diseñar una solución que facilite el acceso a opciones de transporte sostenibles y rentables, mejorando su experiencia de movilidad urbana.
 
 Segmento 1: Owner (Dueños de vehiculos)
-
+<img src="assets/UserPersona_Owner.png"/>
 
 
 Segmento 2: CLientes 
-
+<img src="assets/UserPersona_Cliente.png"/>
 
 
 ### 2.3.2. User Task Matrix
@@ -305,6 +305,12 @@ Este gráfico ilustra cómo los usuarios interactúan con nuestra solución a lo
 ### 2.3.4. Empathy Mapping
 Mediante este gráfico de **Empathy Mapping**, se reflejan las percepciones, pensamientos y sentimientos de los usuarios al interactuar con nuestra plataforma de alquiler de vehículos eléctricos. Este análisis nos permite comprender de manera más profunda sus experiencias, expectativas y desafíos, lo cual es fundamental para diseñar una solución más alineada con sus necesidades y que ofrezca una experiencia de usuario mejorada y centrada en el cliente.
 
+Segmento 1: Owner (Dueños de vehiculos)
+<img src="assets/empathy-map-Owner.png"/>
+
+
+Segmento 2: CLientes 
+<img src="assets/empathy-map-Cliente.png"/>
 
 
 ### 2.3.5. As-is Scenario Mapping
