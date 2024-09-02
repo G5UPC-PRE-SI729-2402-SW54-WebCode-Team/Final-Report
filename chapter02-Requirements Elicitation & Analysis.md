@@ -247,6 +247,7 @@ Captura:
 <img src="./assets/EntrevistaAldhair.png"/>
 
 **Resumen:**
+Aldhair es un joven de 20 años que estudia y realiza sus practicas preprofesionales actualmente, por lo que se moviliza mucho por la ciudad. Él indica que si utiliza vehiculos alquilados como el scooter para dirigirse a su universidad. Utiliza una aplicación para el uso del scooter y nos comenta que utiliza el medio de pago en tarjeta para el servicio. Él está interesado en nuevas opciones de transporte para ver que beneficios obtiene y si le es conveniente a comparación del uso de buses o la plataforma de scooters.
 
 **Entrevista 7**
 
