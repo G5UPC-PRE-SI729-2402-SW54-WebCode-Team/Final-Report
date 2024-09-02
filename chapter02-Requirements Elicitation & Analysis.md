@@ -242,16 +242,22 @@ Ander es un Joven que trabaja y estudia, como estudiante activo tiene varios dis
 
 **Entrevistado:** Aldhair Valenzuela
 
-Captura:<img src="./assets/EntrevistaAldhair.png"/>
+Captura:
+
+<img src="./assets/EntrevistaAldhair.png"/>
 
 **Resumen:**
 
 **Entrevista 7**
 
 **Entrevistador:** Adriana Diestra 
+
 **Entrevistado:** Jeremy escudero
 
-Captura:<img src="./assets/EntrevistaJeremy.png"/>
+
+Captura:
+
+<img src="./assets/EntrevistaJeremy.png"/>
 
 **Resumen:**
 Jeremy es un joven de 19 años que estudia y trabaja, los dispositivos electrónicos que utiliza es la laptop y el celular, para movilizarse desde su casa a sus destinos utiliza el bus (transporte público). Él está interesado en alquilar vehículos eléctricos mediante una plataforma para movilizarse de manera rápida y cómoda.
