@@ -238,11 +238,11 @@ Ander es un Joven que trabaja y estudia, como estudiante activo tiene varios dis
 
 **Entrevista 6**
 
-**Entrevistador:**
+**Entrevistador:** Yair Christofer Aru Acevedo
 
-**Entrevistado:**
+**Entrevistado:** Aldhair Valenzuela
 
-Captura:
+Captura:<img src="./assets/EntrevistaAldhair.png"/>
 
 **Resumen:**
 
