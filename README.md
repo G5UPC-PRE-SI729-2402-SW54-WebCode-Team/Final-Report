@@ -124,14 +124,14 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ### [Student Outcome](#student-outcome)
 
-## ABET – EAC - Student Outcome 5
+## ABET – EAC - Student Outcome 3
 
 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
 juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
 establecen objetivos, planifican tareas y cumplen objetivos.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
+del ABET – EAC - Student Outcome 3.
 
 <table align="center", border="1px">
 	<tbody>
@@ -141,14 +141,15 @@ del ABET – EAC - Student Outcome 5.
 			<td>Conclusiones</td>
 		</tr>
 		<tr>
-			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-			<td> Eduard Travezaño: Durante la elaboración del trabajo, propuse ideas, opiniones y métodos para organizarnos. Además, escuchaba y aceptaba ideas de cada miembro del grupo para poder hacer de nuestro proyecto uno muy completo.</td>
-			<td> Es importante la organización y comunicación con el equipo, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.</td>
+			<td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+			<td> Eduard Travezaño: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible para cualquier público en general, incluso para las entrevistas al hablar sobre nuestra startup.</td>
+			<td> Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.</td>
 		</tr>
 		<tr>
-			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-			<td></td>
-			<td></td>
+			<td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+			<td> Eduard Travezaño: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr.
+  </td>
+			<td>  El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. </td>
 		</tr>
 	</tbody>
 </table>
