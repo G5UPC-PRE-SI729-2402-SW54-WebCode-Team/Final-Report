@@ -234,7 +234,7 @@ Hilder utiliza un smartphone y se desplaza principalmente en transporte público
 Captura:<img src="./assets/EntrevistaAnder.jpg"/>
 
 Resumen:
-Ander es un Joven que trabaja y estudia, como estudiante activo tiene varios dispositvos electronicos a su disposicion, para movilizarse Anderson utilzia transporte publico o taxis dependiendo de la severidad de su horario y su disponibilidad de llegada a sus clases o trabajo. Anderson dice estar interesado en alquilar autos mediante una plataforma ya que le facilitaria la movilidad.
+Ander es un Joven que trabaja y estudia, como estudiante activo tiene varios dispositvos electronicos a su disposicion, para movilizarse Anderson utilzia transporte público o taxis dependiendo de la severidad de su horario y su disponibilidad de llegada a sus clases o trabajo. Anderson dice estar interesado en alquilar autos mediante una plataforma ya que le facilitaria la movilidad.
 
 **Entrevista 6**
 
@@ -245,6 +245,16 @@ Ander es un Joven que trabaja y estudia, como estudiante activo tiene varios dis
 Captura:<img src="./assets/EntrevistaAldhair.png"/>
 
 **Resumen:**
+
+**Entrevista 7**
+
+**Entrevistador:** Adriana Diestra 
+**Entrevistado:** Jeremy escudero
+
+Captura:<img src="./assets/EntrevistaJeremy.png"/>
+
+**Resumen:**
+Jeremy es un joven de 19 años que estudia y trabaja, los dispositivos electrónicos que utiliza es la laptop y el celular, para movilizarse desde su casa a sus destinos utiliza el bus (transporte público). Él está interesado en alquilar vehículos eléctricos mediante una plataforma para movilizarse de manera rápida y cómoda.
 
 ### 2.2.3. Análisis de entrevistas
 
