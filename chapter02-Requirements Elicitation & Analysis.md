@@ -189,7 +189,7 @@ En esta sección se han definido unas preguntas para nuestros segmentos objetivo
 
 Captura:![image](https://github.com/user-attachments/assets/7d996245-bcf1-499f-8d1a-bd9d2b70eb66)
 
-**Resumen:**
+**Resumen:** El entrevistado, Marco, tiene un automóvil y una bicicleta, pero nunca los ha alquilado. Conoce personas que han utilizado aplicaciones de alquiler y estaría interesado en hacerlo si la aplicación ofrece seguridad, seguro contra daños y es fácil de usar.
 
 **Entrevista 2**
 
@@ -222,7 +222,8 @@ Captura:
 
 Captura: ![entrevistaFrancisco](https://github.com/user-attachments/assets/c6935e05-a6d7-462a-843d-8e046628ba32)
 
-Resumen:
+**Resumen:**
+Hilder utiliza un smartphone y se desplaza principalmente en transporte público o aplicaciones de taxi. Aunque nunca ha alquilado un vehículo, estaría interesado en usar una aplicación que ofrezca alquileres seguros, con precios competitivos y disponibilidad amplia.
 
 **Entrevista 5**
 
