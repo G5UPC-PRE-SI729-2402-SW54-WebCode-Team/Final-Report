@@ -212,6 +212,9 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 <img src="/assets/C4-DiagramContext.png" width="900"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
+
+<img src="/assets/C4-DiagramContainer.png" width="900"/>
+
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
