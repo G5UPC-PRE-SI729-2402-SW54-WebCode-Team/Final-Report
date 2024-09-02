@@ -142,8 +142,8 @@ del ABET – EAC - Student Outcome 5.
 		</tr>
 		<tr>
 			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-			<td></td>
-			<td></td>
+			<td> Eduard Travezaño: Durante la elaboración del trabajo, propuse ideas, opiniones y métodos para organizarnos. Además, escuchaba y aceptaba ideas de cada miembro del grupo para poder hacer de nuestro proyecto uno muy completo.</td>
+			<td> Es importante la organización y comunicación con el equipo, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.</td>
 		</tr>
 		<tr>
 			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
