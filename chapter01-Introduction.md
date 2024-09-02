@@ -55,7 +55,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         <tr>
             <td>Enrique Manuel Villon Amez	</td>
             <td><img src="/assets/Enrique.png" width="370"/></td>
-            <td>Estudiante de quinto ciclo de la carrera de Ingeniería de Software en la UPC. Cuento con conocimientos avanzados en Swift y  Javascript  con sus frameworks o librerias mas populares (React, Angular, React Native), además profundos conocimientos en C++, Python, AWS). Actualmente soy Mobile Developer Senior en Auna tengo mas de 5 años en la industria tecnológica. Me considero una persona comunicativa y dedicada, me gusta el trabajo en equipo y la tecnología. En este proyecto aportaré todos mis conocimientos para tener un buen resultado. Asimismo seguir aprendendiendo y mejorando sobre la interación de humano y computador </td>
+            <td>Estudiante de quinto ciclo de la carrera de Ingeniería de Software en la UPC. Cuento con conocimientos avanzados en Swift y  Javascript  con sus frameworks o librerias mas populares (React, Angular, React Native), además profundos conocimientos en C++, Python, AWS). Actualmente soy Mobile Developer Senior en Auna tengo mas de 5 años en la industria tecnológica. Me considero una persona comunicativa y dedicada, me gusta el trabajo en equipo y la tecnología.</td>
         </tr>
         <tr>
             <td>Eduard Gedeon Travezaño Patiño	</td>
