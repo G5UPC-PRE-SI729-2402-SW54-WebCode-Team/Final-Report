@@ -202,9 +202,13 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 
 <img src="/assets/Landing Wireframe.png" width="800"/>
 
+Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
+
 ### 4.3.2. Landing Page Mock-up
 
 <img src="/assets/Landing MockUp.png" width="800"/>
+
+Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -214,6 +218,8 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 <img src="/assets/Wireframe Sign In Correct.png" width="800"/>
 <img src="/assets/Wireframe Log In.png" width="800"/>
 
+Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 <img src="/assets/Register Wireflow.jpg" width="800"/>
@@ -221,6 +227,8 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ### 4.4.3. Web Applications Mock-ups
 
 
+
+Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
