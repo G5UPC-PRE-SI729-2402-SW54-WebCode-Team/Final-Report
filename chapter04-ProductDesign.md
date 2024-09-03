@@ -200,7 +200,7 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-<img src="/assets/Landing Page Wireframe.png" width="800"/>
+<img src="/assets/Landing Wireframe.png" width="800"/>
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
