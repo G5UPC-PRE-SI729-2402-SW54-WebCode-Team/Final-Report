@@ -203,6 +203,9 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 <img src="/assets/Landing Wireframe.png" width="800"/>
 
 ### 4.3.2. Landing Page Mock-up
+
+<img src="/assets/Landing MockUp.png" width="800"/>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
