@@ -208,10 +208,25 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="/assets/Register Wireflow.jpg" width="800"/>
+
 ### 4.4.3. Web Applications Mock-ups
+
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+
+
 ## 4.5. Web Applications Prototyping
+
+
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
