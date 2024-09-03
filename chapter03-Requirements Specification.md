@@ -7,12 +7,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 
 **Segmento 1: Owner**
 
-<img src="../assets/chapter-03/To-be-Owner.jpg" alt="Imagen To Be Mapping 1">
+<img src="./assets/to-be-owner.png" alt="Imagen To Be Mapping 1">
 
 
 **Segmento 2: User**
 
-<img src="../assets/chapter-03/To-be-Client.jpg" alt="Imagen To Be Mapping 2">
+<img src="./assets/to-be-client.png" alt="Imagen To Be Mapping 2">
 
 ## 3.2. User Stories
 
