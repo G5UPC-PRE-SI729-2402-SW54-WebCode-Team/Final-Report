@@ -3,7 +3,7 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
-Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben. 
+Describiremos los escenarios To-Be para los dos segmentos correspondientes, owners que quieran alquilar sus vehículos eléctricos y clientes con conciencia ambiental que desean una mayor productividad. Estos escenarios representan la situación futura al usar la aplicación GreenMove para trasladarse a las oficinas de su trabajo. Con ello, analizaremos los beneficios que tendran los usuarios de GreenMove  y se destacará las áreas donde se genera un impacto positivo significativo para la calidad de transporte y vida
 
 **Segmento 1: Owner**
 
