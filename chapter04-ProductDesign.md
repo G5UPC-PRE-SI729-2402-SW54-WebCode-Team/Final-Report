@@ -209,7 +209,10 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 
-
+<img src="/assets/Wireframe Account.png" width="800"/>
+<img src="/assets/Wireframe Sign In.png" width="800"/>
+<img src="/assets/Wireframe Sign In Correct.png" width="800"/>
+<img src="/assets/Wireframe Log In.png" width="800"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
