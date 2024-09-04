@@ -244,9 +244,9 @@ User goal: Ingresar con una cuenta a la aplicación.
 
 ## 4.5. Web Applications Prototyping
 
-Link del Prototype:
+Link del Prototype: https://www.figma.com/proto/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=19-45&t=kmik7GCuSeAh8Yyz-1
 
-Link del Video:
+Link del Video: 
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
