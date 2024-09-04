@@ -270,6 +270,9 @@ Link del Video:
 User Management:
 <img src="/assets/User Management.PNG" width="900"/>
 
+Vehicle Management:
+<img src="/assets/Vehicle Management.PNG" width="900"/>
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
