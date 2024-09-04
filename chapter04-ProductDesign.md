@@ -268,17 +268,20 @@ Link del Video:
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 User Management:
+En el ámbito de la administración de usuarios, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
+
 <img src="/assets/User Management.PNG" width="900"/>
 
 Vehicle Management:
+En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión eficaz de los recursos vehiculares en un sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
 <img src="/assets/Vehicle Management.PNG" width="900"/>
 
 Reservation:
-
+En el entorno de la gestión de reservas, se ha implementado un conjunto de clases y estructuras que permiten la administración eficiente de reservas. Estas herramientas abarcan desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas.
 <img src="/assets/Reservation2.0.PNG" width="900"/>
 
 Payment:
-
+El ámbito de los procesos de pago incluye todas las funcionalidades y procedimientos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la ejecución y registro de transacciones.
 <img src="/assets/Payment.PNG" width="900"/>
 
 ### 4.7.2. Class Dictionary
