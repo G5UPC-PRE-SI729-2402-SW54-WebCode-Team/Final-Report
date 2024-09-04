@@ -270,6 +270,6 @@ Link del Video:
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
+<img src="/assets/Database diagram.png" width="900"/>
 
 ---
