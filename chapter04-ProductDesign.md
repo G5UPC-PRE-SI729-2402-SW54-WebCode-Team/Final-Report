@@ -274,7 +274,8 @@ Vehicle Management:
 <img src="/assets/Vehicle Management.PNG" width="900"/>
 
 Reservation:
-<img src="/assets/Reservation.PNG" width="900"/>
+
+<img src="/assets/Reservation2.0.PNG" width="900"/>
 
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
