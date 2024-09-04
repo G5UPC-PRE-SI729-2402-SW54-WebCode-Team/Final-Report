@@ -222,21 +222,31 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+User goal: Ingresar con una cuenta a la aplicación.
+
 <img src="/assets/Register Wireflow.jpg" width="800"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
-
+<img src="/assets/Mock%20Up%20Account.png" width="800"/>
+<img src="/assets/Mock%20Up%20Log%20In.png" width="800"/>
+<img src="/assets/Mock%20Up%20Sign%20In.png" width="800"/>
+<img src="/assets/Mock%20Up%20Sign%20In%20Correct.png" width="800"/>
+<img src="/assets/Mock%20Up%20Profile.png" width="800"/>
 
 Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+User goal: Ingresar con una cuenta a la aplicación.
 
+<img src="/assets/Register%20User%20Flow.jpg" width="800"/>
 
 ## 4.5. Web Applications Prototyping
 
+Link del Prototype:
 
+Link del Video:
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
