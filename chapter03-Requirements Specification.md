@@ -386,6 +386,29 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US16</td>
+        <td>Reserva de alquiler con horario</td>
+        <td><b>Cómo</b> Cliente de GreenMove
+        <b>Quiero</b> poder programar mi viaje
+        <b>Para</b> tener un vehículo separado a la hora deseada</td>
+        <td>
+            <b>Scenario 1: Owner alquila un scooter en GreenMove </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
+            <br>
+            <b>Scenario 2: Owner cancela el alquiler de un scooter en GreenMove </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
+            <br>
+            <b>Scenario 3: Owner no alquila un scooter en GreenMove</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US17</td>
         <td>Calificación y reseñas</td>
         <td><b>Cómo</b> cliente de GreenMove
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
@@ -403,7 +426,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US17</td>
+        <td>US18</td>
         <td>Notificaciones de disponibilidad</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir notificaciones
@@ -421,7 +444,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US18</td>
+        <td>US19</td>
         <td>Alertas de Seguridad</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas
@@ -439,7 +462,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US19</td>
+        <td>US20</td>
         <td>Recordatorios de reserva</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir recordatorios de mis reservas
@@ -457,7 +480,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US20</td>
+        <td>US21</td>
         <td>Ubicar vehículo por Mapa</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación
@@ -475,7 +498,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US21</td>
+        <td>US22</td>
         <td>Método de pago</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> tener varias opciones de pago en la aplicación
@@ -493,7 +516,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US22</td>
+        <td>US23</td>
         <td>Visualizar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> visualizar mi historial de scooters alquilados
@@ -511,7 +534,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US23</td>
+        <td>US24</td>
         <td>Borrar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> o borrar mi historial de scooters alquilados
@@ -529,7 +552,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US24</td>
+        <td>US25</td>
         <td>Notificaciones de confirmación</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir notificaciones
@@ -547,7 +570,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US25</td>
+        <td>US26</td>
         <td>Adquirir plan</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> Comprar un plan
@@ -575,7 +598,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US26</td>
+        <td>US27</td>
         <td>Cancelar suscripción </td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> cancelar mi suscripción
@@ -593,7 +616,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US27</td>
+        <td>US28</td>
         <td>Creación de un repositorio Git</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> crear un repositorio Git
@@ -606,7 +629,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US28</td>
+        <td>US29</td>
         <td>Configuración del enrutamiento en Angular</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> configurar el enrutamiento en Angular
@@ -619,7 +642,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US29</td>
+        <td>US30</td>
         <td>Historial de transacciones</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> quiero obtener el historial del usuario a traves del API
