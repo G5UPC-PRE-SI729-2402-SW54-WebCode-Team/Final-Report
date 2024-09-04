@@ -250,7 +250,7 @@ Link: https://lucid.app/lucidspark/de408edf-8e44-4468-b4b3-d5f9cb5224f5/edit?vie
 
 Link del Prototype: https://www.figma.com/proto/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=19-45&t=kmik7GCuSeAh8Yyz-1
 
-Link del Video: 
+Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EXXJA7VhgSZHrL8Jp6RKU1QBu-Nsrzl0cQQRDH4G9M1-XQ?e=EOwdtE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
