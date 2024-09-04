@@ -267,6 +267,9 @@ Link del Video:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+User Management:
+<img src="/assets/User Management.PNG" width="900"/>
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
