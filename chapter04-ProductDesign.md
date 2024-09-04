@@ -285,6 +285,53 @@ El ámbito de los procesos de pago incluye todas las funcionalidades y procedimi
 <img src="/assets/Payment.PNG" width="900"/>
 
 ### 4.7.2. Class Dictionary
+**Context: User Management:**
+
+- User: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
+- UserSession: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
+- Membership: Una interfaz que define las características y beneficios de la suscripción de un usuario.
+- MembershipFactory (Fábrica de Membresías): Una fábrica que implementa suscripciones.
+**Context: Vehicle Management:**
+
+- GreenVehicle: Interfaz que define un vehículo ecológico.
+- ElectricBicycle: Implementa la interfaz GrenVehicle. Representa una bicicleta eléctrica.
+- ElectricScooter: Implementa la interfaz GreenVehicle. Representa un patinete eléctrico.
+- GreenVehicleFactory: Interfaz para la creación de objetos GreenVehicle.
+- ElectricBicycleFactory: Implementa la interfaz GreenVehicleFactory. Se encarga de crear bicicletas eléctricas.
+- ElectricScooterFactory: Implementa la interfaz GreenVehicleFactory. Se encarga de crear patinetes eléctricos.
+- GreenVehicleRepository: Interfaz para el almacenamiento y recuperación de información sobre vehículos ecológicos.
+- MaintenanceRecordList: Lista de registros de mantenimiento para un vehículo.
+- MaintenanceRecord: Registro de mantenimiento para un vehículo.
+- Subject: Interfaz para un objeto que es el sujeto de observación.
+- Observer: Interfaz para un objeto que observa y recibe notificaciones sobre cambios en un sujeto.
+-StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
+
+**Context: Booking and Reservation:**
+
+- Booking: Representa una reserva en el sistema.
+- Command: Interfaz que define las operaciones de comandos.
+- MakeReservationCommand (Comando de Hacer Reserva): Implementa la interfaz Command. Representa un comando para hacer una reserva.
+- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar - una reserva.
+- CancelReservationCommand (Comando de Cancelar Reserva): Implementa la interfaz Command. Representa un comando para cancelar una reserva.
+- Reservation: Representa una reserva en el sistema.
+- ReservationRepository (Repositorio de Reservas): Interfaz para el almacenamiento y recuperación de información sobre reservas.
+- Strategy: Interfaz que define un algoritmo o familia de algoritmos.
+- EmailSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por correo electrónico.
+- SmsSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por mensaje de texto.
+- PopupSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones a través de ventanas emergentes.
+
+**Context: Payment:**
+
+- PaymentProcessor: Interfaz para el procesamiento de pagos.
+- CreditCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de crédito.
+- DebitCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de débito.
+- PaymentProcessorFactory: Interfaz para la creación de objetos PaymentProcessor.
+- CreditCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de CreditCardProcessor.
+- DebitCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de DebitCardProcessor.
+- TransactionEmitter: Emite transacciones financieras.
+- Transaction: Representa una transacción financiera.
+- TransactionRepository: Interfaz para el almacenamiento y recuperación de transacciones financieras.
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 <img src="/assets/Database diagram.png" width="900"/>
