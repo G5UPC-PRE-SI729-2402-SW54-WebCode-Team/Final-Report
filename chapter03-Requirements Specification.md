@@ -527,6 +527,20 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US24</td>
+        <td>Iniciar viaje con el vehículo eléctrico seleccionado</td>
+        <td><b>Cómo</b> Cliente de GreenMove
+        <b>Quiero</b> poder iniciar el viaje 
+        <b>Para</b> acceder a la ruta optima y empiece el tiempo del alquiler</td>
+        <td>
+            <b>Scenario 1: Cliente selecciona el vehículo para iniciar el viaje </b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la sección principal de GreenMove <br>
+            <b>Cuando</b> se dirija a la vista principal<br/>
+            <b>Entonces</b> el sistema le mostrará el estado de su ruta en tiempo real, indicando el tiempo transcurrido.<br/>
+            <br>
+        <td>EP05</td>
+    </tr>
+    <tr>
+        <td>US24</td>
         <td>Borrar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> o borrar mi historial de scooters alquilados
