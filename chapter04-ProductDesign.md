@@ -277,6 +277,10 @@ Reservation:
 
 <img src="/assets/Reservation2.0.PNG" width="900"/>
 
+Payment:
+
+<img src="/assets/Payment.PNG" width="900"/>
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
