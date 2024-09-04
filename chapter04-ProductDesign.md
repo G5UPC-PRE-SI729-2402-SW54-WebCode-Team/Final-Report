@@ -241,11 +241,11 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="/assets/C4-DiagramContext.png" width="900"/>
+<img src="/assets/C4Diagram-Context.png" width="900"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="/assets/C4-DiagramContainer.png" width="900"/>
+<img src="/assets/C4Diagram-Container.png" width="900"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
