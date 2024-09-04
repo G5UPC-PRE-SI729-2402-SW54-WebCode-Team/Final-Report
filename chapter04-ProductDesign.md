@@ -273,6 +273,9 @@ User Management:
 Vehicle Management:
 <img src="/assets/Vehicle Management.PNG" width="900"/>
 
+Reservation:
+<img src="/assets/Reservation.PNG" width="900"/>
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
