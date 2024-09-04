@@ -597,8 +597,8 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Para</b> medir mi reducción de huella de carbono </td>
         <td>
             <b>Scenario 1: Cliente observa el reporte de sostenibilidad </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Mi Perfil” <br><b>Y</b> <br/>
-            <b>Cuando</b> el sistema <br><b>Y</b> se confirme la acción<br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Mi Perfil” <br> <br/>
+            <b>Cuando</b> el sistema muestre la opción de "Mi huella"<br><b>Y</b> se confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un reporte de los datos de la huella de carbono reducida 
         <td>EP06</td>
     </tr>
