@@ -540,7 +540,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US24</td>
+        <td>US25</td>
         <td>Borrar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> o borrar mi historial de scooters alquilados
@@ -558,7 +558,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US25</td>
+        <td>US26</td>
         <td>Notificaciones de confirmación</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir notificaciones
@@ -576,7 +576,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US26</td>
+        <td>US27</td>
         <td>Adquirir plan</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> Comprar un plan
@@ -604,7 +604,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US27</td>
+        <td>US28</td>
         <td>Reporte de contribución de huella de carbono </td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> visualizar mi aporte  a la sostenibilidad 
@@ -617,7 +617,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP06</td>
     </tr>
        <tr>
-        <td>US28</td>
+        <td>US29</td>
         <td>Cancelar suscripción </td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> cancelar mi suscripción
@@ -635,7 +635,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US29</td>
+        <td>US30</td>
         <td>Creación de un repositorio Git</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> crear un repositorio Git
@@ -648,7 +648,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US30</td>
+        <td>US31</td>
         <td>Configuración del enrutamiento en Angular</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> configurar el enrutamiento en Angular
@@ -661,7 +661,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US31</td>
+        <td>US32</td>
         <td>Historial de transacciones</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> quiero obtener el historial del usuario a traves del API
