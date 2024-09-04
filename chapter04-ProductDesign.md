@@ -224,7 +224,9 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 
 User goal: Ingresar con una cuenta a la aplicación.
 
-<img src="/assets/Register Wireflow.jpg" width="800"/>
+<img src="/assets/Register%20Wireflow.png" width="800"/>
+
+Link: https://lucid.app/lucidspark/de408edf-8e44-4468-b4b3-d5f9cb5224f5/edit?viewport_loc=798%2C-2658%2C12655%2C5938%2C0_0&invitationId=inv_81545b7f-bf3d-4e52-bdf2-e09d04e58324
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -241,6 +243,8 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 User goal: Ingresar con una cuenta a la aplicación.
 
 <img src="/assets/Register%20User%20Flow.jpg" width="800"/>
+
+Link: https://lucid.app/lucidspark/de408edf-8e44-4468-b4b3-d5f9cb5224f5/edit?viewport_loc=798%2C-2658%2C12655%2C5938%2C0_0&invitationId=inv_81545b7f-bf3d-4e52-bdf2-e09d04e58324
 
 ## 4.5. Web Applications Prototyping
 
