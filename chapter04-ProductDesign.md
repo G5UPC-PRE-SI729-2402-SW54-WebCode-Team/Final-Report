@@ -248,6 +248,9 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 <img src="/assets/C4Diagram-Container.png" width="900"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="/assets/C4Diagram-Component.png" width="900"/>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
