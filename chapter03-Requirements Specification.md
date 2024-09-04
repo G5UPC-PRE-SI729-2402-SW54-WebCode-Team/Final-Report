@@ -392,9 +392,9 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Para</b> tener un vehículo separado a la hora deseada</td>
         <td>
             <b>Scenario 1: Owner alquila un scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Reservar” seleccionando la fecha y hora <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se completa la información requerida <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter fue sido alquilado con éxito y que puede ir a recogerlo para la fecha y hora programada<br/>
             <br>
             <br/>
         <td>EP04</td>
