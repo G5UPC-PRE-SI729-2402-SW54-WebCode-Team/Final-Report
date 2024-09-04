@@ -685,7 +685,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 
 ## 3.3. Impact Mapping
 <img src="./assets/inpact-mapping-user.png" alt="Imagen Inpact Mapping 1">
-<img src="./assets/inpact-mapping-user.png" alt="Imagen Inpact Mapping 2">
+<img src="./assets/inpact-mapping-owner.png" alt="Imagen Inpact Mapping 2">
 
 ## 3.4. Product Backlog
 
