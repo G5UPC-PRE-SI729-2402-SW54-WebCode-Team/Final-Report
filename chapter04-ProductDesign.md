@@ -274,7 +274,7 @@ En el ámbito de la administración de usuarios, se ha desarrollado una serie de
 
 Vehicle Management:
 En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión eficaz de los recursos vehiculares en un sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
-<img src="/assets/Vehicle Management.PNG" width="900"/>
+<img src="/assets/Vehicle Management2.0.PNG" width="900"/>
 
 Reservation:
 En el entorno de la gestión de reservas, se ha implementado un conjunto de clases y estructuras que permiten la administración eficiente de reservas. Estas herramientas abarcan desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas.
@@ -304,14 +304,14 @@ El ámbito de los procesos de pago incluye todas las funcionalidades y procedimi
 - MaintenanceRecord: Registro de mantenimiento para un vehículo.
 - Subject: Interfaz para un objeto que es el sujeto de observación.
 - Observer: Interfaz para un objeto que observa y recibe notificaciones sobre cambios en un sujeto.
--StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
+- StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
 
 **Context: Booking and Reservation:**
 
 - Booking: Representa una reserva en el sistema.
 - Command: Interfaz que define las operaciones de comandos.
 - MakeReservationCommand (Comando de Hacer Reserva): Implementa la interfaz Command. Representa un comando para hacer una reserva.
-- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar - una reserva.
+- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar una reserva.
 - CancelReservationCommand (Comando de Cancelar Reserva): Implementa la interfaz Command. Representa un comando para cancelar una reserva.
 - Reservation: Representa una reserva en el sistema.
 - ReservationRepository (Repositorio de Reservas): Interfaz para el almacenamiento y recuperación de información sobre reservas.
