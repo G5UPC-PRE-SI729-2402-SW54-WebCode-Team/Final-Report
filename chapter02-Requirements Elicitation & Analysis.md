@@ -265,33 +265,62 @@ Captura:
 Jeremy es un joven de 19 años que estudia y trabaja, los dispositivos electrónicos que utiliza es la laptop y el celular, para movilizarse desde su casa a sus destinos utiliza el bus (transporte público). Él está interesado en alquilar vehículos eléctricos mediante una plataforma para movilizarse de manera rápida y cómoda.
 
 ### 2.2.3. Análisis de entrevistas
-**Segmento Objetivo 1: "Owners"**
-- Interés en la plataforma y alquiler de vehículos:
-El 100% de los entrevistados que poseen vehículos mostraron interés en la idea de alquilar sus propios medios de transporte a través de una aplicación si esta ofrece seguridad, seguro contra daños y facilidad de uso.
-Ningún propietario ha alquilado su propio vehículo anteriormente, aunque varios han utilizado servicios de alquiler para sus necesidades personales o conocen personas que lo han hecho.
-La confianza y el valor agregado (como seguro y garantías) son elementos clave que los entrevistados consideran antes de poner a disposición su vehículo en una plataforma de alquiler.
+# Análisis Profesional de Segmentos Objetivo para EcoMove
 
-- Preferencias tecnológicas y uso de dispositivos:
-Todos los entrevistados cuentan con dispositivos electrónicos como smartphones o laptops, lo que asegura la viabilidad tecnológica de la aplicación EcoMove en este segmento.
-Los propietarios están dispuestos a explorar una plataforma digital siempre y cuando esta ofrezca facilidad en el manejo de las transacciones y el proceso de alquiler.
+## Objetivo del Análisis
+Identificar los factores determinantes que influyen en la adopción de una plataforma de alquiler de vehículos por parte de dos segmentos principales: "Owners" (propietarios de vehículos) y "Users" (usuarios potenciales de servicios de movilidad). Este análisis se basa en entrevistas cualitativas y presenta datos estadísticos derivados para respaldar las conclusiones.
 
-- Sencillez y comodidad:
-El 100% de los entrevistados indicaron que valoran la simplicidad y la comodidad al interactuar con la tecnología. Esto sugiere que la plataforma debe enfocarse en ofrecer una interfaz intuitiva y procesos rápidos para facilitar la adopción.
-La disponibilidad de soporte y asistencia dentro de la aplicación también es considerada importante para este grupo, principalmente para manejar problemas relacionados con el alquiler de sus vehículos.
+## Segmento Objetivo 1: "Owners" (Propietarios de Vehículos)
 
-**Segmento Objetivo 2: "Users"**
-- Interés en la plataforma y nuevas opciones de movilidad:
-El 100% de los entrevistados sin vehículos expresaron interés en usar una aplicación como EcoMove para acceder a vehículos eléctricos, scooters y bicicletas compartidas.
-Este grupo ve la plataforma como una solución para mejorar la movilidad, destacando la flexibilidad y la rapidez que podría ofrecer frente a los medios de transporte tradicionales, como el transporte público o taxis.
-El 100% mencionó que estarían dispuestos a probar opciones de alquiler siempre y cuando la plataforma ofrezca precios competitivos y disponibilidad en tiempo real.
+### 1. Interés en Alquilar sus Vehículos
 
-- Preferencias tecnológicas y uso de dispositivos:
-Todos los usuarios entrevistados cuentan con smartphones y utilizan aplicaciones de transporte, lo que demuestra una alta adaptación a la tecnología y al uso de plataformas móviles para resolver sus necesidades de movilidad.
-El 100% destacó que la conveniencia y la eficiencia son aspectos claves para optar por el uso de una plataforma de alquiler de vehículos.
+- **Datos Estadísticos:** El 100% (3 de 3) de los entrevistados que poseen vehículos mostraron interés en la idea de alquilar sus propios medios de transporte a través de una aplicación, siempre que esta ofrezca seguridad, seguro contra daños, y facilidad de uso.
+- **Análisis:** El hecho de que todos los entrevistados en este segmento estén interesados en alquilar sus vehículos sugiere una **oportunidad significativa** para EcoMove. Este interés es impulsado principalmente por la percepción de que la plataforma puede ofrecer **ingresos adicionales** sin comprometer la seguridad de sus activos. Además, el 0% (0 de 3) de los entrevistados ha alquilado previamente su propio vehículo, lo que indica un mercado potencial no explotado que podría ser abordado con garantías adecuadas y un sistema intuitivo.
 
-- Preocupación por la sostenibilidad y el impacto ambiental:
-El 100% de los entrevistados expresaron una preocupación por el medio ambiente y mencionaron que preferirían optar por opciones de transporte más sostenibles, como vehículos eléctricos o bicicletas compartidas.
-Este segmento está particularmente interesado en soluciones ecológicas que ayuden a reducir su huella de carbono sin sacrificar la conveniencia de sus desplazamientos diarios.
+### 2. Conocimiento y Experiencia con Alquiler de Vehículos
+
+- **Datos Estadísticos:** El 67% (2 de 3) de los entrevistados conoce a personas que han utilizado servicios de alquiler de vehículos, pero ellos mismos no han experimentado el alquiler de sus propios vehículos.
+- **Análisis:** Esta falta de experiencia directa puede ser una **barrera psicológica inicial** para los propietarios. Sin embargo, el conocimiento de experiencias positivas cercanas puede facilitar la **adopción del servicio**, especialmente si la plataforma ofrece características de **transparencia** como reseñas de usuarios, comparaciones de precios, y seguros contra daños.
+
+### 3. Preferencias Tecnológicas y Uso de Dispositivos
+
+- **Datos Estadísticos:** El 100% (3 de 3) de los entrevistados cuenta con dispositivos electrónicos como smartphones y laptops, lo que asegura la viabilidad tecnológica de la aplicación.
+- **Análisis:** Este dato confirma que el segmento está **tecnológicamente habilitado** para utilizar una plataforma digital de alquiler. La adopción de la plataforma dependerá en gran medida de la **experiencia de usuario (UX)**, la facilidad de navegación, y el soporte técnico disponible para resolver cualquier problema.
+
+### 4. Requerimientos Específicos de la Plataforma
+
+- **Datos Estadísticos:** El 33% (1 de 3) de los entrevistados (Djalma) destacó la necesidad de buscar vehículos por rango de precios y ver referencias de otros usuarios.
+- **Análisis:** Estos requerimientos específicos subrayan la importancia de proporcionar **transparencia en precios y opiniones** dentro de la plataforma para aumentar la confianza y facilitar la toma de decisiones.
+
+### Conclusión Segmento "Owners"
+El segmento "Owners" está interesado en soluciones de alquiler de vehículos siempre que se garantice la **seguridad, transparencia, y facilidad de uso**. La propuesta de valor de EcoMove debe enfocarse en proporcionar un sistema robusto de seguros, reseñas de usuarios y herramientas de búsqueda avanzadas para fomentar la adopción.
+
+## Segmento Objetivo 2: "Users" (Usuarios Potenciales de Servicios de Movilidad)
+
+### 1. Interés en Nuevas Opciones de Movilidad
+
+- **Datos Estadísticos:** El 100% (4 de 4) de los entrevistados sin vehículos mostró interés en utilizar una aplicación como EcoMove para acceder a vehículos eléctricos, scooters y bicicletas compartidas.
+- **Análisis:** Este interés generalizado sugiere que existe una **demanda significativa** por nuevas opciones de movilidad que ofrezcan mayor **flexibilidad y rapidez** en comparación con los métodos de transporte tradicionales, como el transporte público o taxis. La plataforma podría atraer a este segmento proporcionando **acceso inmediato** y **precios competitivos**.
+
+### 2. Preferencias y Factores Decisivos
+
+- **Datos Estadísticos:** El 75% (3 de 4) de los entrevistados considera que los precios competitivos y la disponibilidad en tiempo real son factores clave para adoptar la plataforma.
+- **Análisis:** Los usuarios buscan alternativas más **económicas y convenientes**. La plataforma debe enfocarse en **optimizar los costos** y garantizar una **alta disponibilidad de vehículos** para satisfacer esta demanda.
+
+### 3. Uso de Dispositivos Electrónicos
+
+- **Datos Estadísticos:** El 100% (4 de 4) de los entrevistados utiliza smartphones y aplicaciones de transporte, lo que demuestra una alta adopción tecnológica.
+- **Análisis:** Este dato indica que la **infraestructura tecnológica** para la adopción de EcoMove ya está en su lugar. La competencia en este mercado probablemente dependerá de la **calidad de la experiencia de usuario (UX)** y de las funcionalidades que se puedan ofrecer, como reservas en tiempo real y opciones de pago flexibles.
+
+### 4. Preocupación por la Sostenibilidad y el Impacto Ambiental
+
+- **Datos Estadísticos:** El 50% (2 de 4) de los entrevistados ya utiliza opciones de movilidad sostenible (como scooters eléctricos) y el 100% (4 de 4) expresó preocupación por el medio ambiente.
+- **Análisis:** La **sostenibilidad** es un valor importante para este segmento. Ofrecer opciones de transporte ecológicas no solo atraerá a estos usuarios, sino que también alineará la propuesta de valor de EcoMove con las crecientes tendencias globales de sostenibilidad.
+
+<img src="./assets/EntrevistaJeremy.png"/>
+
+### Conclusión
+El segmento "Users" está fuertemente interesado en soluciones de movilidad que sean **económicas, convenientes y sostenibles**. La plataforma EcoMove debe centrarse en ofrecer **precios competitivos, opciones de transporte ecológico, y disponibilidad en tiempo real** para maximizar la adopción.
 
 ## 2.3. Needfinding
 
