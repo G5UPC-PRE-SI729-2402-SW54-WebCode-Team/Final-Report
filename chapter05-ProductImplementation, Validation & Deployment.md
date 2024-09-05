@@ -83,8 +83,8 @@ Se utilizó el estándar de commits convencionales para mantener un historial de
 |**Date**|02-09-2024|
 |**Time**|07:00 PM|
 |**Location**|Canal de Voz de Discord|
-|**Prepared By**|Eduard Gedeon Travezaño Patiño|
-|**Attendees (to planning meeting)**|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|**Prepared By**|Diestra Zambrano, Adriana María|
+|**Attendees (to planning meeting)**|Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto|
 |**Sprint 1 Review Summary**|**Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.|
 |**Sprint 1 Retrospective Summary**|Oportunidades de mejora: Se vio que hay que mejorar un poco en la gestión de tiempos del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.|
 |**Sprint Goal & User Stories**||
