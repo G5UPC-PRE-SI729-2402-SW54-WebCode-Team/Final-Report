@@ -77,6 +77,20 @@ Se utilizó el estándar de commits convencionales para mantener un historial de
 ### 5.2.1. Sprint 1
 
 ### 5.2.1.1. Sprint Planning 1
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|**Date**|02-09-2024|
+|**Time**|07:00 PM|
+|**Location**|Canal de Voz de Discord|
+|**Prepared By**|Eduard Gedeon Travezaño Patiño|
+|**Attendees (to planning meeting)**|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|**Sprint 1 Review Summary**|**Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.|
+|**Sprint 1 Retrospective Summary**|Oportunidades de mejora: Se vio que hay que mejorar un poco en la gestión de tiempos del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.|
+|**Sprint Goal & User Stories**||
+|**Sprint 1 Goal**|**Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción.|
+|**Sprint 1 Velocity**|16|
+|**Sum of Story Points**|16|
 
 ### 5.2.1.2. Sprint Backlog 1
 
