@@ -264,6 +264,33 @@ Captura:
 Jeremy es un joven de 19 años que estudia y trabaja, los dispositivos electrónicos que utiliza es la laptop y el celular, para movilizarse desde su casa a sus destinos utiliza el bus (transporte público). Él está interesado en alquilar vehículos eléctricos mediante una plataforma para movilizarse de manera rápida y cómoda.
 
 ### 2.2.3. Análisis de entrevistas
+**Segmento Objetivo 1: "Owners"**
+- Interés en la plataforma y alquiler de vehículos:
+El 100% de los entrevistados que poseen vehículos mostraron interés en la idea de alquilar sus propios medios de transporte a través de una aplicación si esta ofrece seguridad, seguro contra daños y facilidad de uso.
+Ningún propietario ha alquilado su propio vehículo anteriormente, aunque varios han utilizado servicios de alquiler para sus necesidades personales o conocen personas que lo han hecho.
+La confianza y el valor agregado (como seguro y garantías) son elementos clave que los entrevistados consideran antes de poner a disposición su vehículo en una plataforma de alquiler.
+
+- Preferencias tecnológicas y uso de dispositivos:
+Todos los entrevistados cuentan con dispositivos electrónicos como smartphones o laptops, lo que asegura la viabilidad tecnológica de la aplicación EcoMove en este segmento.
+Los propietarios están dispuestos a explorar una plataforma digital siempre y cuando esta ofrezca facilidad en el manejo de las transacciones y el proceso de alquiler.
+
+- Sencillez y comodidad:
+El 100% de los entrevistados indicaron que valoran la simplicidad y la comodidad al interactuar con la tecnología. Esto sugiere que la plataforma debe enfocarse en ofrecer una interfaz intuitiva y procesos rápidos para facilitar la adopción.
+La disponibilidad de soporte y asistencia dentro de la aplicación también es considerada importante para este grupo, principalmente para manejar problemas relacionados con el alquiler de sus vehículos.
+
+**Segmento Objetivo 2: "Users"**
+- Interés en la plataforma y nuevas opciones de movilidad:
+El 100% de los entrevistados sin vehículos expresaron interés en usar una aplicación como EcoMove para acceder a vehículos eléctricos, scooters y bicicletas compartidas.
+Este grupo ve la plataforma como una solución para mejorar la movilidad, destacando la flexibilidad y la rapidez que podría ofrecer frente a los medios de transporte tradicionales, como el transporte público o taxis.
+El 100% mencionó que estarían dispuestos a probar opciones de alquiler siempre y cuando la plataforma ofrezca precios competitivos y disponibilidad en tiempo real.
+
+- Preferencias tecnológicas y uso de dispositivos:
+Todos los usuarios entrevistados cuentan con smartphones y utilizan aplicaciones de transporte, lo que demuestra una alta adaptación a la tecnología y al uso de plataformas móviles para resolver sus necesidades de movilidad.
+El 100% destacó que la conveniencia y la eficiencia son aspectos claves para optar por el uso de una plataforma de alquiler de vehículos.
+
+- Preocupación por la sostenibilidad y el impacto ambiental:
+El 100% de los entrevistados expresaron una preocupación por el medio ambiente y mencionaron que preferirían optar por opciones de transporte más sostenibles, como vehículos eléctricos o bicicletas compartidas.
+Este segmento está particularmente interesado en soluciones ecológicas que ayuden a reducir su huella de carbono sin sacrificar la conveniencia de sus desplazamientos diarios.
 
 ## 2.3. Needfinding
 
