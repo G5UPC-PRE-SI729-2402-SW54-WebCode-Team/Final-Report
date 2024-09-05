@@ -40,15 +40,15 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>EP03</td>
-        <td>Gestión de scooters en alquiler</td>
-        <td><b>Como</b> Owner en GreenMove <b>Quiero</b> agregar y gestionar mis scooters <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
+        <td>Gestión de vehículos en alquiler</td>
+        <td><b>Como</b> Owner en GreenMove <b>Quiero</b> agregar y gestionar mis vehículos <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP04</td>
         <td>Gestión de reservas</td>
-        <td><b>Como</b> cliente de GreenMove <b>Quiero</b> gestionar mis reservas y el uso de scooters <b>Para</b> planificar y controlar mis alquileres. </td>
+        <td><b>Como</b> cliente de GreenMove <b>Quiero</b> gestionar mis reservas y el uso de vehículos <b>Para</b> planificar y controlar mis alquileres. </td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
@@ -263,123 +263,123 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US10</td>
-        <td>Publicar scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico  
-        <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
+        <td>Publicar vehículo en alquiler</td>
+        <td><b>Cómo</b> Owner de un vehículo eléctrico  
+        <b>Quiero</b> crear publicaciones con la información y especificaciones de mi vehículo
         <b>Para</b> que pueda ser alquilado por un cliente</td>
         <td>
-            <b>Scenario 1: Owner publica su scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
-            <b>Cuando</b> llene todas las casillas obligatorias para publicar su scooter <br><b>Y</b> le de al botón “Publicar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido publicado. <br/>
+            <b>Scenario 1: Owner publica su vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo” <br/>
+            <b>Cuando</b> llene todas las casillas obligatorias para publicar su vehículo <br><b>Y</b> le de al botón “Publicar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que su vehículo ha sido publicado. <br/>
             <br>
-           <b>Scenario 2: Owner cancela la publicación de su scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter”  <br/>
+           <b>Scenario 2: Owner cancela la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo”  <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que se ha cancelado la publicación.<br/>
             <br>
-           <b>Scenario 3: Owner no publica su scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
-            <b>Cuando</b> no llene todas las casillas obligatorias para publicar su scooter <br><b>Y</b> le de al botón “Publicar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida <br><b>Y</b> no se publica su scooter<br/>
+           <b>Scenario 3: Owner no publica su vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo” <br/>
+            <b>Cuando</b> no llene todas las casillas obligatorias para publicar su vehículo <br><b>Y</b> le de al botón “Publicar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida <br><b>Y</b> no se publica su vehículo<br/>
         <td>EP03</td>
     </tr>
     <tr>
         <td>US11</td>
-        <td>Visualizar un scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico 
-        <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
+        <td>Visualizar un vehículo en alquiler</td>
+        <td><b>Cómo</b> Owner de un vehículo eléctrico 
+        <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi vehículo
         <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
         <td>
-            <b>Scenario 1: Owner visualiza su scooter en GreenMove </b> <br/>
+            <b>Scenario 1: Owner visualiza su vehículo en GreenMove </b> <br/>
             <b>Dado que</b> el Owner se encuentre en la aplicación de GreenMove <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver mis scooters”<br/>
-            <b>Entonces</b> el sistema le mostrará la información de los scooters publicados.<br/>
+            <b>Cuando</b> se dirija a la opción de “Ver mis vehículos”<br/>
+            <b>Entonces</b> el sistema le mostrará la información de los vehículos publicados.<br/>
             <br>
-            <b>Scenario 2: Owner cancela la visualización de su scooter en GreenMove </b> <br/>
+            <b>Scenario 2: Owner cancela la visualización de su vehículo en GreenMove </b> <br/>
             <b>Dado que</b> el Owner se encuentre en la aplicación de GreenMove<br/>
-            <b>Cuando</b> se dirija a la opción de “Ver mis scooters” <br><b>Y</b> le de al botón de “Salir” <br/>
-            <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis scooters”<br/>
+            <b>Cuando</b> se dirija a la opción de “Ver mis vehículos” <br><b>Y</b> le de al botón de “Salir” <br/>
+            <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis vehículos”<br/>
         <td>EP03</td>
     </tr>
     <tr>
         <td>US12</td>
-        <td>Editar Scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico 
-        <b>Quiero</b> editar la publicación de mi scooter
+        <td>Editar vehículo en alquiler</td>
+        <td><b>Cómo</b> Owner de un vehículo eléctrico 
+        <b>Quiero</b> editar la publicación de mi vehículo
         <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
         <td>
-            <b>Scenario 1: Owner edita la publicación de su scooter en GreenMove</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
+            <b>Scenario 1: Owner edita la publicación de su vehículo en GreenMove</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> actualice correctamente la información<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido actualizado<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que su vehículo ha sido actualizado<br/>
             <br>
-            <b>Scenario 2: Owner cancela la edición de la publicación de su scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
+            <b>Scenario 2: Owner cancela la edición de la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema cierra la ventana de edición de publicación<br/>
             <br>
-            <b>Scenario 3: Owner no edita la publicación de su scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
+            <b>Scenario 3: Owner no edita la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> ingrese incorrectamente la información <br><b>Y</b> le de al botón de “Aceptar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que su scooter no ha sido actualizado.<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que su vehículo no ha sido actualizado.<br/>
         <td>EP03</td>
     </tr>
     <tr>
         <td>US13</td>
-        <td>Eliminar scooter en alquiler</td>
+        <td>Eliminar vehículo en alquiler</td>
         <td><b>Cómo</b> Owner 
-        <b>Quiero</b> eliminar un scooter en alquiler
+        <b>Quiero</b> eliminar un vehículo en alquiler
         <b>Para</b> mantener la integridad de la información almacenada.</td>
         <td>
-            <b>Scenario 1: Owner borra scooter en alquiler</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Eliminar” de una publicación. <br/>
+            <b>Scenario 1: Owner borra vehículo en alquiler</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Eliminar” de una publicación. <br/>
             <b>Cuando</b> confirme su intención de borrar los datos<br/>
-            <b>Entonces</b> el sistema eliminará de la base de datos toda la información almacenada de ese scooter<br/>
+            <b>Entonces</b> el sistema eliminará de la base de datos toda la información almacenada de ese vehículo<br/>
             <br>
-            <b>Scenario 2: Owner decide no borrar scooter </b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Eliminar” de una publicación.<br/>
+            <b>Scenario 2: Owner decide no borrar vehículo </b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Eliminar” de una publicación.<br/>
             <b>Cuando</b> o niegue su intención de borrar los datos <br/>
-            <b>Entonces</b> el sistema no eliminará la información del scooter. <br/>
+            <b>Entonces</b> el sistema no eliminará la información del vehículo. <br/>
         <td>EP03</td>
     </tr>
     <tr>
         <td>US14</td>
-        <td>Búsqueda de scooters cercano</td>
+        <td>Búsqueda de vehículos cercano</td>
         <td><b>Cómo</b> cliente de GreenMove
-        <b>Quiero</b> poder buscar scooters disponibles en mi distrito
+        <b>Quiero</b> poder buscar vehículos disponibles en mi distrito
         <b>Para</b> facilitar mi desplazamiento.</td>
         <td>
-            <b>Scenario 1: Búsqueda de scooters cercanos</b> <br/>
-            <b>Dado que</b> se encuentre en la sección de búsqueda de scooters <br/>
+            <b>Scenario 1: Búsqueda de vehículos cercanos</b> <br/>
+            <b>Dado que</b> se encuentre en la sección de búsqueda de vehículos <br/>
             <b>Cuando</b> el usuario use un filtro por distrito <br>
-            <b>Entonces</b> se mostrará en una lista al usuario los scooters cercanos<br/>
+            <b>Entonces</b> se mostrará en una lista al usuario los vehículos cercanos<br/>
             <br>
             <b>Scenario 2: No encuentra disponibilidad</b> <br/>
-            <b>Dado que</b> el usuario use un filtro por distrito <br><b>Y</b> no hay scooters disponibles en esa zona <br/>
+            <b>Dado que</b> el usuario use un filtro por distrito <br><b>Y</b> no hay vehículos disponibles en esa zona <br/>
             <b>Cuando</b> el usuario realiza la búsqueda <br/>
-            <b>Entonces</b> se muestra un mensaje indicando que no hay scooters disponibles en la zona seleccionada en este momento.<br/>
+            <b>Entonces</b> se muestra un mensaje indicando que no hay vehículos disponibles en la zona seleccionada en este momento.<br/>
         <td>EP04</td>
     </tr>
     <tr>
         <td>US15</td>
-        <td>Alquiler Scooter</td>
+        <td>Alquiler vehículo</td>
         <td><b>Cómo</b> Cliente de GreenMove
-        <b>Quiero</b> alquilar un scooter
+        <b>Quiero</b> alquilar un vehículo
         <b>Para</b> llegar rápido a mi destino.</td>
         <td>
-            <b>Scenario 1: Owner alquila un scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 1: Owner alquila un vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que el vehículo ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
-            <b>Scenario 2: Owner cancela el alquiler de un scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 2: Owner cancela el alquiler de un vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
-            <b>Scenario 3: Owner no alquila un scooter en GreenMove</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
+            <b>Scenario 3: Owner no alquila un vehículo en GreenMove</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
         <td>EP04</td>
@@ -391,18 +391,18 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> poder programar mi viaje
         <b>Para</b> tener un vehículo separado a la hora deseada</td>
         <td>
-            <b>Scenario 1: Owner alquila un scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 1: Owner alquila un vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que el vehículo ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
-            <b>Scenario 2: Owner cancela el alquiler de un scooter en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 2: Owner cancela el alquiler de un vehículo en GreenMove </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
-            <b>Scenario 3: Owner no alquila un scooter en GreenMove</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
+            <b>Scenario 3: Owner no alquila un vehículo en GreenMove</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
         <td>EP04</td>
@@ -411,16 +411,16 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>US17</td>
         <td>Calificación y reseñas</td>
         <td><b>Cómo</b> cliente de GreenMove
-        <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
+        <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con vehículos utilizados y la zona donde los tomé
         <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
         <td>
             <b>Scenario 1: Calificación y reseñas </b> <br/>
             <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br><b>Y</b> haya utilizado un vehículo recientemente <br/>
-            <b>Cuando</b> el usuario acceda a la opción de dejar reseña <br><b>Y</b> seleccione la zona o tipo de scooter donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
+            <b>Cuando</b> el usuario acceda a la opción de dejar reseña <br><b>Y</b> seleccione la zona o tipo de vehículo donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
             <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
             <br>
             <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
-            <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un scooter o una zona específica<br/>
+            <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un vehículo o una zona específica<br/>
             <b>Cuando</b> el usuario busque reseñas <br/>
             <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
         <td>EP04</td>
@@ -430,7 +430,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>Notificaciones de disponibilidad</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> recibir notificaciones
-        <b>Para</b> conocer cuando haya scooters o bicicletas disponible. </td>
+        <b>Para</b> conocer cuando haya vehículos disponibles. </td>
         <td>
             <b>Scenario 1: Notificación de disponibilidad exitosa</b> <br/>
             <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
@@ -447,7 +447,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>US19</td>
         <td>Alertas de Seguridad</td>
         <td><b>Cómo</b> usuario
-        <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas
+        <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de vehículos eléctricos 
         <b>Para</b> revenir accidentes y lesiones. </td>
         <td>
             <b>Scenario 1: Indicacioness de seguridad </b> <br/>
@@ -484,7 +484,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>Ubicar vehículo por Mapa</td>
         <td><b>Cómo</b> usuario
         <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación
-        <b>Para</b> ver la ubicación de los scooters eléctricos o bicicletas disponibles. </td>
+        <b>Para</b> ver la ubicación de los vehículos eléctricos disponibles. </td>
         <td>
             <b>Scenario 1: Ubicar el vehículo </b> <br/>
             <b>Dado que</b> el usuario quiere alquilar un vehículo<br/>
@@ -517,20 +517,20 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US23</td>
-        <td>Visualizar historial de scooters alquilados</td>
+        <td>Visualizar historial de vehículos alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
-        <b>Quiero</b> visualizar mi historial de scooters alquilados
+        <b>Quiero</b> visualizar mi historial de vehículos alquilados
         <b>Para</b> acceder fácilmente a su información</td>
         <td>
-            <b>Scenario 1: Cliente visualiza su historial de scooters alquilados </b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado scooters anteriormente<br/>
+            <b>Scenario 1: Cliente visualiza su historial de vehículos alquilados </b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente<br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
-            <b>Entonces</b> el sistema le mostrará la información de los scooters que alquiló anteriormente.<br/>
+            <b>Entonces</b> el sistema le mostrará la información de los vehículos que alquiló anteriormente.<br/>
             <br>
-            <b>Scenario 2: Cliente no visualiza su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> no ha alquilado scooters anteriormente <br/>
+            <b>Scenario 2: Cliente no visualiza su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> no ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
-            <b>Entonces</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún scooter. <br/>
+            <b>Entonces</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún vehículo. <br/>
         <td>EP05</td>
     </tr>
     <tr>
@@ -549,18 +549,18 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US25</td>
-        <td>Borrar historial de scooters alquilados</td>
+        <td>Borrar historial de vehículos alquilados</td>
         <td><b>Cómo</b> Cliente de GreenMove
-        <b>Quiero</b> o borrar mi historial de scooters alquilados
+        <b>Quiero</b> o borrar mi historial de vehículos alquilados
         <b>Para</b> ya no tener información que considere innecesaria. </td>
         <td>
-            <b>Scenario 1: Cliente elimina su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
+            <b>Scenario 1: Cliente elimina su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado <br><b>Y</b> ya no mostrará la información del historial<br/>
             <br>
-            <b>Scenario 2: Cliente no elimina su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
+            <b>Scenario 2: Cliente no elimina su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> cancele la acción. <br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado <br><b>Y</b> seguirá mostrando la información del historial.<br/>
         <td>EP05</td>
@@ -684,8 +684,16 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 </table>
 
 ## 3.3. Impact Mapping
+
+En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
+
+**Segmento 1: Owner**
+
+<img src="./assets/inapct-mapping-owner.png" alt="Imagen Inpact Mapping 2">
+
+**Segmento 2: User**
+
 <img src="./assets/inpact-mapping-user.png" alt="Imagen Inpact Mapping 1">
-<img src="./assets/inpact-mapping-owner.png" alt="Imagen Inpact Mapping 2">
 
 ## 3.4. Product Backlog
 
@@ -765,51 +773,51 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
   <tr>
     <td valign="top"> 10 </td>
     <td valign="top"> US10 </td>
-    <td valign="top"> Publicar scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
+    <td valign="top"> Publicar vehículo en alquiler </td>
+    <td valign="top"> Cómo Owner de un vehículo eléctrico Quiero crear publicaciones con la información y especificaciones de mi vehículo Para que pueda ser alquilado por un cliente. </td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 11 </td>
     <td valign="top"> US11 </td>
-    <td valign="top"> Visualizar un scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
+    <td valign="top"> Visualizar vehículos eléctricos en alquiler </td>
+    <td valign="top"> Cómo Owner de un vehículo eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi vehículo Para verificar que toda la información ingresada es correcta y actualizada.</td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
-    <td valign="top"> Editar Scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
+    <td valign="top"> Editar vehículo en alquiler </td>
+    <td valign="top"> Cómo Owner de un vehículo eléctrico Quiero editar la publicación de mi vehículo Para que la información proporcionada a los clientes esté siempre actualizada. </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
-    <td valign="top"> Eliminar scooter en alquiler </td>
-    <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
+    <td valign="top"> Eliminar vehículo en alquiler </td>
+    <td valign="top"> Cómo Owner Quiero eliminar un vehículo en alquiler Para mantener la integridad de la información almacenada. </td>
     <td valign="top"> 3 </td>
   </tr>
     <tr>
     <td valign="top"> 14 </td>
     <td valign="top"> US14 </td>
-    <td valign="top"> Búsqueda de scooters cercano </td>
-    <td valign="top"> Cómo cliente de GreenMove Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
+    <td valign="top"> Búsqueda de vehículos cercano </td>
+    <td valign="top"> Cómo cliente de GreenMove Quiero poder buscar vehículos disponibles en mi distrito Para facilitar mi desplazamiento. </td>
     <td valign="top"> 3 </td>
   </tr>
       <tr>   
   <tr>
     <td valign="top"> 15 </td>
     <td valign="top"> US15 </td>
-    <td valign="top"> Alquiler Scooter </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
+    <td valign="top"> Alquiler vehículo </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero alquilar un vehículo Para llegar rápido a mi destino.</td>
     <td valign="top"> 2 </td>
   </tr>
    <tr>
     <td valign="top"> 16 </td>
     <td valign="top"> US16 </td>
     <td valign="top"> Calificación y reseñas </td>
-    <td valign="top"> Cómo cliente de GreenMove Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
+    <td valign="top"> Cómo cliente de GreenMove Quiero poder calificar y dejar reseñas sobre mi experiencia con vehículos utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
     <td valign="top"> 2 </td>
   </tr>
 <tr>
@@ -817,7 +825,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <td valign="top"> US17 </td>
     <td valign="top"> Notificaciones de disponibilidad </td>
     <td valign="top"> 
-        Cómo usuario Quiero recibir notificaciones Para conocer cuando haya scooters o bicicletas disponibles.
+        Cómo usuario Quiero recibir notificaciones Para conocer cuando haya vehículos disponibles.
     </td>
     <td valign="top"> 3 </td>
 </tr>
@@ -826,7 +834,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <td valign="top"> US18 </td>
     <td valign="top"> Alertas de Seguridad </td>
     <td valign="top"> 
-        Cómo usuario Quiero recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas Para prevenir accidentes y lesiones.
+        Cómo usuario Quiero recibir alertas de seguridad y consejos sobre el uso seguro de vehículos eléctricos Para prevenir accidentes y lesiones.
     </td>
     <td valign="top"> 3 </td>
 </tr>
@@ -844,7 +852,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <td valign="top"> US20 </td>
     <td valign="top"> Ubicar vehículo por Mapa </td>
     <td valign="top"> 
-        Cómo usuario Quiero tener la opción de ver un mapa dentro de la aplicación Para ver la ubicación de los scooters eléctricos o bicicletas disponibles.
+        Cómo usuario Quiero tener la opción de ver un mapa dentro de la aplicación Para ver la ubicación de los vehículos eléctricos disponibles.
     </td>
     <td valign="top"> 3 </td>
 </tr>
@@ -858,15 +866,15 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
   <tr>
     <td valign="top"> 22 </td>
     <td valign="top"> US22 </td>
-    <td valign="top"> Visualizar historial de scooters alquilados </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
+    <td valign="top"> Visualizar historial de vehículos alquilados </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero visualizar mi historial de vehículos alquilados Para acceder fácilmente a su información. </td>
     <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 23 </td>
     <td valign="top"> US23 </td>
-    <td valign="top"> Borrar historial de scooters alquilados </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
+    <td valign="top"> Borrar historial de vehículos alquilados </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero o borrar mi historial de vehículos alquilados Para ya no tener información que considere innecesaria.</td>
     <td valign="top"> 4 </td>
   </tr>
 <tr>
