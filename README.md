@@ -140,14 +140,20 @@ del ABET – EAC - Student Outcome 3.
 		</tr>
 		<tr>
 			<td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-			<td> Eduard Travezaño: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible para cualquier público en general, incluso para las entrevistas al hablar sobre nuestra startup.</td>
-			<td> Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.</td>
+			<td> Eduard Travezaño: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible para cualquier público en general, incluso para las entrevistas al hablar sobre nuestra startup.<br>
+			<strong>Fabio Horna</strong>: Durante las sesiones de grupo y presentaciones de avance del proyecto, expliqué los resultados del desarrollo de la landing page, destacando la estructura del código, las herramientas utilizadas y la integración de los elementos visuales. Además, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</td>
+			<td> Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.<br>
+			<strong>Fabio Horna</strong>: En la comunicación oral de los avances del proyecto, me enfoqué en presentar los resultados del desarrollo de la landing page y las entrevistas a usuarios de forma clara y comprensible para todos los miembros del equipo. Esto permitió que todos, sin importar su especialidad, pudieran entender el progreso y aportar de manera efectiva.
+			</td>
 		</tr>
 		<tr>
 			<td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-			<td> Eduard Travezaño: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr.
+			<td> Eduard Travezaño: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr.<br>
+<strong>Fabio Horna</strong>: Durante el desarrollo de la landing page y la documentación del proyecto, creé esquemas detallados, análisis de entrevistas con usuarios, y documentación de user personas. Utilicé un lenguaje claro y directo para asegurar que todos los miembros del equipo pudieran entender el propósito y los avances del proyecto.
   </td>
-			<td>  El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. </td>
+			<td>  El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. <br>
+			<strong>Fabio Horna</strong>: En la documentación escrita, utilicé un lenguaje claro y directo al crear esquemas, análisis de entrevistas y user personas. Mi objetivo fue asegurar que cualquier persona del equipo, independientemente de su especialidad, pudiera comprender los detalles técnicos y los resultados del proyecto, facilitando así la colaboración y toma de decisiones.
+			</td>
 		</tr>
 	</tbody>
 </table>
