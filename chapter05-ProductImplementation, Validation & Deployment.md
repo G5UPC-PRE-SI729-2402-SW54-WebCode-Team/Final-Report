@@ -44,7 +44,7 @@ Structurizr (https://www.structurizr.com/): Es una plataforma que permite modela
 
 Gherkin: Este es un lenguaje DSL (Domain Specific Language), que nos permite abordar problemas específicos. Esto lo utilizamos para los criterios de aceptación de las historias de usuario de nuestro proyecto.
 
-GitHub Pages (https://pages.github.com/): Este es un servicio que ofrece GitHub para publicar un sitio web a partir de un repositorio, cabe destacar que solo permite alojar sitios web estáticos con archivos HTML, CSS y JavaScript. 
+Vercel (https://vercel.com/): Vercel es una plataforma que permite desplegar aplicaciones web de manera rápida y sencilla a partir de un repositorio. Ofrece soporte tanto para sitios web estáticos como para aplicaciones dinámicas utilizando frameworks modernos como Next.js, React, Vue, entre otros. Vercel proporciona un flujo de trabajo continuo, optimizaciones automáticas, y permite la integración con repositorios de GitHub, GitLab y Bitbucket, facilitando el despliegue y la gestión del sitio web.
 
 Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización. 
 
