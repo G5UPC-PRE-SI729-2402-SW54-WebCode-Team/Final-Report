@@ -204,13 +204,14 @@ En la entrevista Salomon que cuenta con una Laptop y celular cuenta con un vehic
 
 **Entrevista 3**
 
-**Entrevistador:**
+**Entrevistador:** Eduard Gedeon Travezaño Patiño
 
-**Entrevistado:**
+**Entrevistado:** Djalma Santos Dioses Molina
 
-Captura:
+Captura: <img src="./assets/entrevistaDjalma.PNG"/>
 
 **Resumen:**
+En la entrevista Djalma nos cuenta que cuenta con una laptop y celular, cuenta con un vehículo por parte de su padre que es un carro y tambien tiene una bicicleta. No alquiló anteriormente alguno de sus vehículos pero si conoce a alguien que si lo hace. No escuchó de una aplicación para alquilar vehículos pero si estaría interesado en una aplicación así. Lo que le gustaría es que pueda buscar los vehículos por rango de precios y referencias de otras personas contando sus experiencias en alquiler de autos dentro de esta misma aplicación
 
 **Semento Objetivo 2:**
 
