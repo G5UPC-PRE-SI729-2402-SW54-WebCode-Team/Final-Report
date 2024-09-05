@@ -317,7 +317,7 @@ El segmento "Owners" está interesado en soluciones de alquiler de vehículos si
 - **Datos Estadísticos:** El 50% (2 de 4) de los entrevistados ya utiliza opciones de movilidad sostenible (como scooters eléctricos) y el 100% (4 de 4) expresó preocupación por el medio ambiente.
 - **Análisis:** La **sostenibilidad** es un valor importante para este segmento. Ofrecer opciones de transporte ecológicas no solo atraerá a estos usuarios, sino que también alineará la propuesta de valor de EcoMove con las crecientes tendencias globales de sostenibilidad.
 
-<img src="./assets/EntrevistaJeremy.png"/>
+<img src="./assets/Analisis-entrevistas.jpg"/>
 
 ### Conclusión
 El segmento "Users" está fuertemente interesado en soluciones de movilidad que sean **económicas, convenientes y sostenibles**. La plataforma EcoMove debe centrarse en ofrecer **precios competitivos, opciones de transporte ecológico, y disponibilidad en tiempo real** para maximizar la adopción.
