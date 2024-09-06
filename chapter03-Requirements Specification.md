@@ -921,7 +921,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 30 </td>
     <td valign="top"> US30 </td>
     <td valign="top"> Creación de un repositorio git </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> Cómo Desarollador voy a crear un repositorio del proyecto en git.</td>
     <td valign="top"> 2 </td>
   </tr>
   </tr>
@@ -930,7 +930,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US31 </td>
     <td valign="top"> Reporte de ingresos mensuales </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero ver el reporte de mis ingresos generados por GreenMove.</td>
-    <td valign="top"> 2 </td>
+    <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 32 </td>
@@ -944,7 +944,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US33 </td>
     <td valign="top"> Historial de transacciones </td>
     <td valign="top"> Cómo Developer implementaré un api para obtener el historial de viajes por usuario.</td>
-    <td valign="top"> 2 </td>
+    <td valign="top"> 5 </td>
   </tr>
 
 </table>
