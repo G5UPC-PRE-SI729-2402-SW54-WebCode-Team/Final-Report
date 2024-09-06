@@ -646,6 +646,18 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US31</td>
+        <td>Reporte de ingresos mensuales</td>
+        <td><b>Cómo</b> Owner
+        <b>Quiero</b> ver un reporte de los ingresos mensuales
+        <b>Para</b> analizar cuanto dinero ingreso por GreenMove y si es rentable. </td>
+        <td>
+            <b>Scenario 1: Ingreso a mi perfil </b> <br/>
+            <b>Cuando</b> quiera ver los ingresos por mes<br/>
+            <b>Entonces</b> permitirá que el usuario vea cuanto gana mensualmente por el GreenMove <br/>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US32</td>
         <td>Configuración del enrutamiento en Angular</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> configurar el enrutamiento en Angular
@@ -658,7 +670,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US32</td>
+        <td>US33</td>
         <td>Historial de transacciones</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> quiero obtener el historial del usuario a traves del API
