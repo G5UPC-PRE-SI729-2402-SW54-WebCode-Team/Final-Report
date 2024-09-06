@@ -221,4 +221,6 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | FabioHorna         | Horna Silva, Fabio Ernesto|
 | enriquevillonupc         | Villon Amez, Enrique Manuel      |
 
+<img src="./assets/Commits.PNG"/>
+
 ---
