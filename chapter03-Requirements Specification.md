@@ -883,6 +883,48 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 2 </td>
   </tr>
+      <tr>
+    <td valign="top"> 27 </td>
+    <td valign="top"> US27 </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 28 </td>
+    <td valign="top"> US28 </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 29 </td>
+    <td valign="top"> US29 </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 30 </td>
+    <td valign="top"> US30 </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 31 </td>
+    <td valign="top"> US31 </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 32 </td>
+    <td valign="top"> US32 </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> 2 </td>
+  </tr>
    
 
 
