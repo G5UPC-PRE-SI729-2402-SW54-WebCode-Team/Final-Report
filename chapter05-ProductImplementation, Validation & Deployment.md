@@ -101,22 +101,23 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 - Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-OpneSource-GreenGo](https://github.com/orgs/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/repositories) 
 
-![Organizacion GreenGo](../assets/chapter-05/Deployment-Config/Paso-N1.png)
+<img src="./assets/Paso#1.png"/>
 
 - Seleccionar el repositorio de la landing page del proyecto.
   
-![Repositorio Landing Page](../assets/chapter-05/Deployment-Config/Paso-N2.png)
+<img src="./assets/Paso#2.png"/>
 
 - Clonar el repositorio en Webstorm utilizando la URL del repositorio.
 
-![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N3.png)
+<img src="./assets/Paso#3.png"/>
 
-![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N4.png)
+<img src="./assets/Paso#4.png"/>
 
 - Ejecutar el archivo index.html para visualizar la landing page en el navegador.
 
-![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N5.png)
-![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N6.png)
+<img src="./assets/Paso#5.png"/>
+
+<img src="/assets/Paso#6.png" width="900"/>
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -141,6 +142,8 @@ Para desplegar la solución se realizó los siguientes pasos:
 ### 5.2.1.2. Sprint Backlog 1
 
 ### 5.2.1.3. Development Evidence for Sprint Review
+
+En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
