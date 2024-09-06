@@ -122,11 +122,11 @@ En el Landing Page visualizará los siguientes botones de navegación:
 			<td>Apartado donde se muestra los comentarios y opiniones de usuarios que probaron la aplicación</td>
 		</tr>
 		<tr>
-			<td>Suscripción</td>
+			<td>Suscribete</td>
 			<td>Apartado donde puedes suscribirte para recibir notificaciones.</td>
 		</tr>
 		<tr>
-			<td>Comunicación</td>
+			<td>Contactanos</td>
 			<td>Apartado donde el usuario puede comunicarse con nosotros.</td>
 		</tr>
 		<tr>
