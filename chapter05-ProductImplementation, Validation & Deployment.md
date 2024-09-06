@@ -140,6 +140,13 @@ Para desplegar la solución se realizó los siguientes pasos:
 |**Sum of Story Points**|16|
 
 ### 5.2.1.2. Sprint Backlog 1
+| Sprint # | Sprint 1 |           |           |           |           |           |           |
+| :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Descripción de la aplicación | W01 | Descripción de la aplicación |Visualizar una descripción del producto ofrecido | 4 | Fabio Horna | Done |
+| US02     | Descripción de la startup | W02 |  Descripción de la startup |Visualizar descripción de la startup | 4 | Fabio Horna | Done |
+| US03     | Acceder a la aplicación desde la landing page	 | W03 | Acceder a la aplicación desde la landing page | Acceder a la aplicación web desde la Landing Page| 8 | Fabio Horna | Done |
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección se detallarán los commits realizados en el desarrollo de la landing page:
