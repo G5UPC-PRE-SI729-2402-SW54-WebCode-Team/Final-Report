@@ -101,23 +101,23 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 - Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-OpneSource-GreenGo](https://github.com/orgs/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/repositories) 
 
-<img src="./assets/Paso#1.png"/>
+<img src="./assets/Paso1.png"/>
 
 - Seleccionar el repositorio de la landing page del proyecto.
   
-<img src="./assets/Paso#2.png"/>
+<img src="./assets/Paso2.png"/>
 
 - Clonar el repositorio en Webstorm utilizando la URL del repositorio.
 
-<img src="./assets/Paso#3.png"/>
+<img src="./assets/Paso3.png"/>
 
-<img src="./assets/Paso#4.png"/>
+<img src="./assets/Paso4.png"/>
 
 - Ejecutar el archivo index.html para visualizar la landing page en el navegador.
 
-<img src="./assets/Paso#5.png"/>
+<img src="./assets/Paso5.png"/>
 
-<img src="/assets/Paso#6.png" width="900"/>
+<img src="/assets/Paso6.png" width="900"/>
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
