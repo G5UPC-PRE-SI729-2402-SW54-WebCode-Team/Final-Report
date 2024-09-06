@@ -172,6 +172,12 @@ En esta sección se detallarán los commits realizados en el desarrollo de la la
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Durante este Sprint, logramos desarrollar el landing page de GreenMove. Su propósito principal es atraer a potenciales
+clientes y mostrar la esencia de nuestro servicio. Consideramos que el progreso actual de nuestra landing page cumple con el requisito principal de transmitir nuestro servicio de forma clara.
+Se utilizaron diferentes herramientas para lograr el despliegue de la landing page en el presente sprint, a continuación el detalle de las mismas:
+
+- GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
+- Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo: 
