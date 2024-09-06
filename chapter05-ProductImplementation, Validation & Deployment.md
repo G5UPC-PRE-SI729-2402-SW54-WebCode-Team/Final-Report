@@ -142,10 +142,31 @@ Para desplegar la solución se realizó los siguientes pasos:
 ### 5.2.1.2. Sprint Backlog 1
 
 ### 5.2.1.3. Development Evidence for Sprint Review
+En esta sección se detallarán los commits realizados en el desarrollo de la landing page:
 
-En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
+|------------|--------|-----------|----------------|---------------------|-------------|
+|greenmove-landing-page|main|5fa0e0a|Initial commit||13/09/2024|
+|greenmove-landing-page|main|0d4c62c|fix: ||13/09/2024|
+|greenmove-landing-page|main|7c7f562|fix: ||13/09/2024|
+|greebmove-landing-page|main|823cbff|fix: ||13/09/2024|
+|greenmove-landing-page|main|0fb9f97|feat: ||14/09/2024|
+|greenmove-landing-page|main|aa11ec8|fix: ||14/09/2024|
+|greenmove-landing-page|main|4da0a2e|feat: ||14/09/2024|
+|greenmove-landing-page|main|49c5d19|fix: ||14/09/2024|
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
+|------------|--------|-----------|----------------|---------------------|-------------|
+|greenmove-landing-page|main|5fa0e0a|Initial commit||13/09/2024|
+|greeenmove-landing-page|main|0d4c62c|fix: ||13/09/2024|
+|greenmove-landing-page|main|7c7f562|fix: ||13/09/2024|
+|greenmove-landing-page|main|823cbff|fix: ||13/09/2024|
+|greenmove-landing-page|main|0fb9f97|feat: ||14/09/2024|
+|greenmove-landing-page|main|aa11ec8|fix: ||14/09/2024|
+|greenmove-landing-page|main|4da0a2e|feat: ||14/09/2024|
+|greebmove-landing-page|main|49c5d19|fix: ||14/09/2024|
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
