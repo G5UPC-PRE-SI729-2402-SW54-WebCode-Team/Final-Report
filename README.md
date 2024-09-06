@@ -145,8 +145,9 @@ del ABET – EAC - Student Outcome 3.
             Yair Aru Acevedo: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.	
 			 <br>Adriana Diestra: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
             </td>
-			<td> Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.<br>
+			<td> Eduard Travezaño: Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.<br>
 			<strong>Fabio Horna</strong>: En la comunicación oral de los avances del proyecto, me enfoqué en presentar los resultados del desarrollo de la landing page y las entrevistas a usuarios de forma clara y comprensible para todos los miembros del equipo. Esto permitió que todos, sin importar su especialidad, pudieran entender el progreso y aportar de manera efectiva.<br>
+			<br>Adriana Diestra: Es importante y crucial la comunicación entre grupo para así presentar un trabajo sobresaliente. Esto permitió que todos los integrantes, pudieran entender el progreso y aportar de manera efectiva. </br>
 			</td>
 		</tr>
 		<tr>
@@ -154,10 +155,11 @@ del ABET – EAC - Student Outcome 3.
 			<td> <strong>Eduard Travezaño</strong>: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr.<br>
             <strong>Fabio Horna</strong>: Durante el desarrollo de la landing page y la documentación del proyecto, creé esquemas detallados, análisis de entrevistas con usuarios, y documentación de user personas. Utilicé un lenguaje claro y directo para asegurar que todos los miembros del equipo pudieran entender el propósito y los avances del proyecto.<br>
             <strong>Yair Aru Acevedo</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.
-				<br>Adriana Diestra: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
+			<br>Adriana Diestra: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
             </td>
-			<td>  El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. <br>
+			<td> Eduard Travezaño: El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. <br>
 			<strong>Fabio Horna</strong>: En la documentación escrita, utilicé un lenguaje claro y directo al crear esquemas, análisis de entrevistas y user personas. Mi objetivo fue asegurar que cualquier persona del equipo, independientemente de su especialidad, pudiera comprender los detalles técnicos y los resultados del proyecto, facilitando así la colaboración y toma de decisiones.
+			<br>Adriana Diestra: En el informe se utilizó un lenguaje claro y directo para así llevar a cabo nuestro proyecto. Así como también teniendo una participación activa.  </br>
 			</td>
 		</tr>
 	</tbody>
