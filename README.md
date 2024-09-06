@@ -142,13 +142,14 @@ del ABET – EAC - Student Outcome 3.
 			<td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
 			<td> Eduard Travezaño: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible para cualquier público en general, incluso para las entrevistas al hablar sobre nuestra startup.<br>
 			<strong>Fabio Horna</strong>: Durante las sesiones de grupo y presentaciones de avance del proyecto, expliqué los resultados del desarrollo de la landing page, destacando la estructura del código, las herramientas utilizadas y la integración de los elementos visuales. Además, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.<br>
-            Yair Aru Acevedo: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.	
+            <strong>Yair Aru Acevedo</strong>: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.	
 			 <br>Adriana Diestra: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
             </td>
 			<td> Eduard Travezaño: Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.<br>
 			<strong>Fabio Horna</strong>: En la comunicación oral de los avances del proyecto, me enfoqué en presentar los resultados del desarrollo de la landing page y las entrevistas a usuarios de forma clara y comprensible para todos los miembros del equipo. Esto permitió que todos, sin importar su especialidad, pudieran entender el progreso y aportar de manera efectiva.<br>
 			<br>Adriana Diestra: Es importante y crucial la comunicación entre grupo para así presentar un trabajo sobresaliente. Esto permitió que todos los integrantes, pudieran entender el progreso y aportar de manera efectiva. </br>
-			</td>
+			<br>Yair Aru Acevedo: Se organizó de manera optima las tareas a realizar por cada integrante del proyecto lograndose la elaboracion correcta de la informacion requerida para la elaboracion de la landing page y las funciones que proporcionaran la aplicación web.
+            </td>
 		</tr>
 		<tr>
 			<td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
@@ -160,7 +161,8 @@ del ABET – EAC - Student Outcome 3.
 			<td> Eduard Travezaño: El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. <br>
 			<strong>Fabio Horna</strong>: En la documentación escrita, utilicé un lenguaje claro y directo al crear esquemas, análisis de entrevistas y user personas. Mi objetivo fue asegurar que cualquier persona del equipo, independientemente de su especialidad, pudiera comprender los detalles técnicos y los resultados del proyecto, facilitando así la colaboración y toma de decisiones.
 			<br>Adriana Diestra: En el informe se utilizó un lenguaje claro y directo para así llevar a cabo nuestro proyecto. Así como también teniendo una participación activa.  </br>
-			</td>
+			<br>Yair Aru Acevedo: En el informe, se creó el diseño más conveniente para la landing page y la aplicación web utilizando las herramientas necesarias. Además, se recopiló la informacion necesaria para las historias de usuario.
+            </td>
 		</tr>
 	</tbody>
 </table>
