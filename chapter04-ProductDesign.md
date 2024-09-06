@@ -200,7 +200,7 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-<img src="/assets/Landing Wireframe.png" width="800"/>
+<img src="/assets/wireframe .png" width="800"/>
 
 Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
 
@@ -208,7 +208,7 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 
 <img src="/assets/Landing MockUp.png" width="800"/>
 
-Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
+Link: https://www.figma.com/proto/l8lj9WLp2nKeKIaliM64Lu/Untitled?node-id=0-1&t=MjMN4vdOEAcB7G4C-1
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
