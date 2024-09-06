@@ -779,7 +779,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> Editar vehículo en alquiler </td>
     <td valign="top"> Cómo Owner de un vehículo eléctrico Quiero editar la publicación de mi vehículo Para que la información proporcionada a los clientes esté siempre actualizada. </td>
     <td valign="top"> 3 </td>
-  </tr>
+</tr>
   <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
@@ -799,9 +799,9 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 15 </td>
     <td valign="top"> US15 </td>
     <td valign="top"> Alquiler vehículo </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero alquilar un vehículo Para llegar rápido a mi destino.</td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero alquilar un vehículo Para llegar rápido a mi destino. </td>
     <td valign="top"> 2 </td>
-  </tr>
+</tr>
    <tr>
     <td valign="top"> 16 </td>
     <td valign="top"> US16 </td>
@@ -813,9 +813,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 17 </td>
     <td valign="top"> US17 </td>
     <td valign="top"> Notificaciones de disponibilidad </td>
-    <td valign="top"> 
-        Cómo usuario Quiero recibir notificaciones Para conocer cuando haya vehículos disponibles.
-    </td>
+    <td valign="top"> Cómo usuario Quiero recibir notificaciones Para conocer cuándo haya vehículos disponibles. </td>
     <td valign="top"> 3 </td>
 </tr>
 <tr>
@@ -831,9 +829,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 19 </td>
     <td valign="top"> US19 </td>
     <td valign="top"> Recordatorios de reserva </td>
-    <td valign="top"> 
-        Cómo usuario Quiero recibir recordatorios de mis reservas Para no olvidarlas.
-    </td>
+    <td valign="top"> Cómo usuario Quiero recibir recordatorios de mis reservas Para no olvidarlas. </td>
     <td valign="top"> 2 </td>
 </tr>
 <tr>
@@ -870,9 +866,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 24 </td>
     <td valign="top"> US24 </td>
     <td valign="top"> Notificaciones de confirmación </td>
-    <td valign="top"> 
-        Cómo usuario Quiero recibir notificaciones Para tener confirmaciones ante cualquier acción realizada en mi cuenta.
-    </td>
+    <td valign="top"> Cómo usuario Quiero recibir notificaciones Para tener confirmaciones ante cualquier acción realizada en mi cuenta. </td>
     <td valign="top"> 3 </td>
 </tr>
       <tr>
