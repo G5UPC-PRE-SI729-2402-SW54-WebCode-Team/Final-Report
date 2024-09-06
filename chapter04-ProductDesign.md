@@ -256,7 +256,7 @@ Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="/assets/C4Diagram-Component.png" width="900"/>
+<img src="/assets/C4-Diagram-Component.png" width="900"/>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
