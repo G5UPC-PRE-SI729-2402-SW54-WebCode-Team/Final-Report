@@ -50,7 +50,7 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
 
 ### 5.1.2. Source Code Management
 
-En esta seccion se detalla que medios se utilizaron parea el seguimiento de las modificaciones, asi como la semantica y nomenclatura que se usara para los commits y releases. 
+En esta sección se detalla que medios se utilizaron parea el seguimiento de las modificaciones, asi como la semantica y nomenclatura que se usara para los commits y releases. 
 Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
 - Url de la organizacion: [github.com/UPC-OpenSource-GreenGo](https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Final-Report)
   
