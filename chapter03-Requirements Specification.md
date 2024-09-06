@@ -817,20 +817,27 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
    <tr>
     <td valign="top"> 16 </td>
     <td valign="top"> US16 </td>
+    <td valign="top"> Reserva y Programación de viaje </td>
+    <td valign="top"> Cómo cliente de GreenMove poder reservar un viaje para una fecha y hora adecuada.</td>
+    <td valign="top"> 5 </td>
+  </tr>
+   <tr>
+    <td valign="top"> 17 </td>
+    <td valign="top"> US17 </td>
     <td valign="top"> Calificación y reseñas </td>
     <td valign="top"> Cómo cliente de GreenMove Quiero poder calificar y dejar reseñas sobre mi experiencia con vehículos utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
     <td valign="top"> 2 </td>
   </tr>
 <tr>
-    <td valign="top"> 17 </td>
-    <td valign="top"> US17 </td>
+    <td valign="top"> 18 </td>
+    <td valign="top"> US18 </td>
     <td valign="top"> Notificaciones de disponibilidad </td>
     <td valign="top"> Cómo usuario Quiero recibir notificaciones Para conocer cuándo haya vehículos disponibles. </td>
     <td valign="top"> 3 </td>
 </tr>
 <tr>
-    <td valign="top"> 18 </td>
-    <td valign="top"> US18 </td>
+    <td valign="top"> 19 </td>
+    <td valign="top"> US19 </td>
     <td valign="top"> Alertas de Seguridad </td>
     <td valign="top"> 
         Cómo usuario Quiero recibir alertas de seguridad y consejos sobre el uso seguro de vehículos eléctricos Para prevenir accidentes y lesiones.
@@ -838,15 +845,15 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 3 </td>
 </tr>
 <tr>
-    <td valign="top"> 19 </td>
-    <td valign="top"> US19 </td>
+    <td valign="top"> 20 </td>
+    <td valign="top"> US20 </td>
     <td valign="top"> Recordatorios de reserva </td>
     <td valign="top"> Cómo usuario Quiero recibir recordatorios de mis reservas Para no olvidarlas. </td>
     <td valign="top"> 2 </td>
 </tr>
 <tr>
-    <td valign="top"> 20 </td>
-    <td valign="top"> US20 </td>
+    <td valign="top"> 21 </td>
+    <td valign="top"> US21 </td>
     <td valign="top"> Ubicar vehículo por Mapa </td>
     <td valign="top"> 
         Cómo usuario Quiero tener la opción de ver un mapa dentro de la aplicación Para ver la ubicación de los vehículos eléctricos disponibles.
@@ -854,58 +861,52 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 3 </td>
 </tr>
 <tr>
-    <td valign="top"> 21 </td>
-    <td valign="top"> US21 </td>
+    <td valign="top"> 22 </td>
+    <td valign="top"> US22 </td>
     <td valign="top"> Método de pago </td>
     <td valign="top"> Cómo usuario Quiero tener varias opciones de pago en la aplicación Para pagar por el uso de medio de transporte. </td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
-    <td valign="top"> 22 </td>
-    <td valign="top"> US22 </td>
+    <td valign="top"> 23 </td>
+    <td valign="top"> US23 </td>
     <td valign="top"> Visualizar historial de vehículos alquilados </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero visualizar mi historial de vehículos alquilados Para acceder fácilmente a su información. </td>
     <td valign="top"> 5 </td>
   </tr>
       <tr>
-    <td valign="top"> 23 </td>
-    <td valign="top"> US23 </td>
-    <td valign="top"> Borrar historial de vehículos alquilados </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero o borrar mi historial de vehículos alquilados Para ya no tener información que considere innecesaria.</td>
+    <td valign="top"> 24 </td>
+    <td valign="top"> US24 </td>
+    <td valign="top"> Iniciar viaje con vehículo eléctrico. seleccionado </td>
+    <td valign="top"> Como Cliente de GreenMove quiero poder iniciar con el traslado con el vehículo eléctrico.</td>
     <td valign="top"> 4 </td>
   </tr>
 <tr>
-    <td valign="top"> 24 </td>
-    <td valign="top"> US24 </td>
+      <tr>
+    <td valign="top"> 25 </td>
+    <td valign="top"> US25 </td>
+    <td valign="top"> Borrar historial de vehículos alquilados </td>
+    <td valign="top"> Cómo Cliente de GreenMove Quiero borrar mi historial de vehículos alquilados Para ya no tener información que considere innecesaria.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+<tr>
+    <td valign="top"> 26 </td>
+    <td valign="top"> US26 </td>
     <td valign="top"> Notificaciones de confirmación </td>
     <td valign="top"> Cómo usuario Quiero recibir notificaciones Para tener confirmaciones ante cualquier acción realizada en mi cuenta. </td>
     <td valign="top"> 3 </td>
 </tr>
       <tr>
-    <td valign="top"> 25 </td>
-    <td valign="top"> US25 </td>
+    <td valign="top"> 27 </td>
+    <td valign="top"> US27 </td>
     <td valign="top"> Adquirir plan </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
     <td valign="top"> 5 </td>
   </tr>
       <tr>
-    <td valign="top"> 26 </td>
-    <td valign="top"> US26 </td>
-    <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 2 </td>
-  </tr>
-      <tr>
-    <td valign="top"> 27 </td>
-    <td valign="top"> US27 </td>
-    <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 2 </td>
-  </tr>
-      <tr>
     <td valign="top"> 28 </td>
     <td valign="top"> US28 </td>
-    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Reporte de contribución de huella de carbono </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 2 </td>
   </tr>
@@ -918,27 +919,11 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
   </tr>
       <tr>
     <td valign="top"> 30 </td>
-    <td valign="top"> US30 </td>
+    <td valign="top"> US3 </td>
     <td valign="top"> Cancelar suscripción </td>
     <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 2 </td>
   </tr>
-      <tr>
-    <td valign="top"> 31 </td>
-    <td valign="top"> US31 </td>
-    <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 2 </td>
-  </tr>
-      <tr>
-    <td valign="top"> 32 </td>
-    <td valign="top"> US32 </td>
-    <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Cómo Cliente de GreenMove Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 2 </td>
-  </tr>
-   
-
 
 </table>
 
