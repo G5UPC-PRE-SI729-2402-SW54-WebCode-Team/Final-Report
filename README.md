@@ -149,7 +149,8 @@ del ABET – EAC - Student Outcome 3.
 			<td> Eduard Travezaño: Es importante la organización y comunicación con el equipo incluyendo diálogos más entendible para públicos de distintas especialidad, además de una participación activa de cada uno, con el fin de poder realizar los trabajos de manera más eficiente.<br>
 			<strong>Fabio Horna</strong>: En la comunicación oral de los avances del proyecto, me enfoqué en presentar los resultados del desarrollo de la landing page y las entrevistas a usuarios de forma clara y comprensible para todos los miembros del equipo. Esto permitió que todos, sin importar su especialidad, pudieran entender el progreso y aportar de manera efectiva.<br>
 			<br>Adriana Diestra: Es importante y crucial la comunicación entre grupo para así presentar un trabajo sobresaliente. Esto permitió que todos los integrantes, pudieran entender el progreso y aportar de manera efectiva. </br>
-			<br>Yair Aru Acevedo: Se organizó de manera optima las tareas a realizar por cada integrante del proyecto lograndose la elaboracion correcta de la informacion requerida para la elaboracion de la landing page y las funciones que proporcionaran la aplicación web.
+			<br>Yair Aru Acevedo: Se organizó de manera optima las tareas a realizar por cada integrante del proyecto lograndose la elaboracion correcta de la informacion requerida para la elaboracion de la landing page y las funciones que proporcionaran la aplicación web. </br>
+	<strong>Enrique Villón</strong>: Anlizando todas las necesidades y requerimientos de los segmentos objetivos para la apliación pude aclarar lo importante de tener toda esta información para un correcto desarollo de la aplicación para la toma de decisiones en momentos cruciales.
             </td>
 		</tr>
 		<tr>
@@ -163,7 +164,6 @@ del ABET – EAC - Student Outcome 3.
 			<strong>Fabio Horna</strong>: En la documentación escrita, utilicé un lenguaje claro y directo al crear esquemas, análisis de entrevistas y user personas. Mi objetivo fue asegurar que cualquier persona del equipo, independientemente de su especialidad, pudiera comprender los detalles técnicos y los resultados del proyecto, facilitando así la colaboración y toma de decisiones.
 			<br>Adriana Diestra: En el informe se utilizó un lenguaje claro y directo para así llevar a cabo nuestro proyecto. Así como también teniendo una participación activa.  </br>
 			<br>Yair Aru Acevedo: En el informe, se creó el diseño más conveniente para la landing page y la aplicación web utilizando las herramientas necesarias. Además, se recopiló la informacion necesaria para las historias de usuario. </br>
-			<strong>Enrique Villón</strong>: Anlizando todas las necesidades y requerimientos de los segmentos objetivos para la apliación pude aclarar lo importante de tener toda esta información para un correcto desarollo de la aplicación para la toma de decisiones en momentos cruciales.
             </td>
 		</tr>
 	</tbody>
