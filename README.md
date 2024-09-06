@@ -90,7 +90,7 @@
           <li>Yair Christofer Aru Acevedo</li>
           <li>Eduard Gedeon Travezaño Patiño</li>
           <li>Enrique Manuel Villón Amez</li>
-          <li>-------------</li>
+          <li>Fabio Horna Silva</li>
         </ul>
       </td>
       <td>
