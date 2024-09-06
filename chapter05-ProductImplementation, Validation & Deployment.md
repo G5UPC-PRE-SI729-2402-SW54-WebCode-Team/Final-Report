@@ -146,31 +146,30 @@ En esta sección se detallarán los commits realizados en el desarrollo de la la
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
 |------------|--------|-----------|----------------|---------------------|-------------|
-|greenmove-landing-page|main|5fa0e0a|Initial commit||13/09/2024|
-|greenmove-landing-page|main|0d4c62c|fix: ||13/09/2024|
-|greenmove-landing-page|main|7c7f562|fix: ||13/09/2024|
-|greebmove-landing-page|main|823cbff|fix: ||13/09/2024|
-|greenmove-landing-page|main|0fb9f97|feat: ||14/09/2024|
-|greenmove-landing-page|main|aa11ec8|fix: ||14/09/2024|
-|greenmove-landing-page|main|4da0a2e|feat: ||14/09/2024|
-|greenmove-landing-page|main|49c5d19|fix: ||14/09/2024|
+|Final-Report|feature/chapter-04|482803a|Create chapter04-ProductDesign.md||28/08/2024|
+|Final-Report|feature/chapter-04|375d045|doc: add(General Style Guidelines)|-|29/08/2024|
+|Final-Report|feature/chapter-04|3ed8e07|doc: fix(General Style Guidelines)|-|29/08/2024|
+|Final-Report|feature/chapter-04|aee562e|doc: fix(SEO Tags and Meta Tags)|-|29/08/2024|
+|Final-Report|feature/chapter-04|27134d7|doc: fix(Labelling Systems)|-|29/08/2024|
+|Final-Report|feature/chapter-04|8abcfbf|doc: fix(Searching System)|-|29/08/2024|
+|Final-Report|feature/chapter-04|7bd9965|feat: aggregate Organization Systems|-|30/08/2024|
+|Final-Report|feature/chapter-04|cf491dc|feat: aggregate Web Style Guidelines |-|30/08/2024|
+|Final-Report|feature/chapter-04|c262968|fix: correct typography |-|06/09/2024|
+|Final-Report|feature/chapter-04|b565bb4|doc: fix(Style guidelines) |-|06/09/2024|
+|Final-Report|feature/chapter-04|4510872|doc: fix(Organization and Labeling systems) |-|06/09/2024|
+|Final-Report|feature/chapter-04|0983f35|doc: fix(SEO Tags and Meta Tags 2.0) |-|06/09/2024|
+|Final-Report|feature/chapter-04|9a4a0b4|doc: fix(Navigation System) |-|06/09/2024|
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
 |------------|--------|-----------|----------------|---------------------|-------------|
-|greenmove-landing-page|main|5fa0e0a|Initial commit||13/09/2024|
-|greeenmove-landing-page|main|0d4c62c|fix: ||13/09/2024|
-|greenmove-landing-page|main|7c7f562|fix: ||13/09/2024|
-|greenmove-landing-page|main|823cbff|fix: ||13/09/2024|
-|greenmove-landing-page|main|0fb9f97|feat: ||14/09/2024|
-|greenmove-landing-page|main|aa11ec8|fix: ||14/09/2024|
-|greenmove-landing-page|main|4da0a2e|feat: ||14/09/2024|
-|greebmove-landing-page|main|49c5d19|fix: ||14/09/2024|
+|landing-page|main|72ac702|First commit - Landing Page project |-|04/09/2024|
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
