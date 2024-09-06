@@ -7,6 +7,13 @@
 
 En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo, para llevar acabo las actividades relacionadas con la elaboración del proyecto.
 
+
+<br>
+
+**Project Management** 
+
+Discord (https://discord.com/): Es una plataforma de mensajería y chat de voz, los usuarios pueden comunicarse por llamadas de voz, videollamadas, mensajes de texto o con archivos. Facilitando la comunicación entre los integrantes del proyecto. 
+
 <br>
 
 **Product UX/UI Design** 
@@ -28,12 +35,7 @@ Git (https://git-scm.com/): Este es un software de control de versiones el cual 
 
 WebStorm: Este es un entorno de desarrollo, el cual nos permite trabajar con HTML, CSS, Javascript y con frameworks como Vue y Angular.
 
-Rider: Este es un entorno de desarrollo, el cual nos permite trabajar con el lenguaje C# y la plataforma .NET que nos permite crear diferentes tipos de aplicaciones, ya sean móvil, web o de escritorio. En nuestro caso, usaremos ASP .NET para crear un Web Service para nuestro proyecto.  
-<br>
-
 **Software Documentation**  
-
-Vertabelo (https://vertabelo.com/): Es una herramienta online que facilita el diseño, creación y gestión de bases de datos de manera colaborativa. Se usó para diseñar la base de datos del proyecto.
 
 LucidChart (https://lucid.app/): LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos y más, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
 
@@ -44,15 +46,13 @@ Structurizr (https://www.structurizr.com/): Es una plataforma que permite modela
 
 Gherkin: Este es un lenguaje DSL (Domain Specific Language), que nos permite abordar problemas específicos. Esto lo utilizamos para los criterios de aceptación de las historias de usuario de nuestro proyecto.
 
-Vercel (https://vercel.com/): Vercel es una plataforma que permite desplegar aplicaciones web de manera rápida y sencilla a partir de un repositorio. Ofrece soporte tanto para sitios web estáticos como para aplicaciones dinámicas utilizando frameworks modernos como Next.js, React, Vue, entre otros. Vercel proporciona un flujo de trabajo continuo, optimizaciones automáticas, y permite la integración con repositorios de GitHub, GitLab y Bitbucket, facilitando el despliegue y la gestión del sitio web.
-
 Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización. 
 
 ### 5.1.2. Source Code Management
 
 En esta seccion se detalla que medios se utilizaron parea el seguimiento de las modificaciones, asi como la semantica y nomenclatura que se usara para los commits y releases. 
 Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
-- Url de la organizacion: [github.com/UPC-AppWeb-CiberMach](https://github.com/UPC-AppWeb-CiberMach/Final-Report.git](https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Final-Report.git)
+- Url de la organizacion: [github.com/UPC-OpenSource-GreenGo](https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Final-Report)
   
 
 **Gitflow**
@@ -70,6 +70,29 @@ Se utilizó el estándar de commits convencionales para mantener un historial de
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para la solución.
+
+**Tecnologias:** Utilizamos HTML5, CSS3 y JavaScript para el desarrollo de la landing page. 
+- **HTML:** Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
+  - Usar nombres de elementos en minúsculas.
+  - Cerrar todos los elementos HTML.
+  - Usar nombres de atributos en minúsculas.
+  - Usar atributos en imágenes.
+  - Evitar líneas de código largas.
+  - Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
+
+- **CSS:** Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+  
+  - Utilizar minúsculas y guiones para los nombres de propiedades.
+  - Utilizar un espacio después de los dos puntos y un punto y coma para separar pares propiedad-valor.
+  - Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
+  - Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
+  - Separar los nombres de las clases y ID con un guión
+
+- **Gherkin:** Es un lenguaje de dominio específico diseñado para escribir especificaciones legibles por humanos que describen el comportamiento del software en un formato estructurado y comprensible. En busca de una buena práctica, se utilizarán saltos de línea para mejorar el orden de los escenarios y poder diferenciarlos de forma más óptima. Además, se escribirán los escenarios bajo el formato “Given”, “When”, “Then”, “And” para definir claramente el contexto, la acción y el resultado esperado.
+**Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
+
+**Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código, incluyendo la parte de la landing page.
 
 ### 5.1.4. Software Deployment Configuration.
 
