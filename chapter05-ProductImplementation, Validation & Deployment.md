@@ -154,6 +154,14 @@ En esta sección se detallarán los commits realizados en el desarrollo de la la
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo: 
 
+| Username (GitHub)  | Nombre                            |
+|---------------------|-----------------------------------|
+| adriiiiiiiiiiiii         | Diestra Zambrano, Adriana María        |
+| EduardTrave          | Travezaño Patiño, Eduard Gedeon       |
+| Yair360          | Aru Acevedo, Yair Christofer       |
+| FabioHorna         | Horna Silva, Fabio Ernesto|
+| enriquevillonupc         | Villon Amez, Enrique Manuel      |
 
 ---
