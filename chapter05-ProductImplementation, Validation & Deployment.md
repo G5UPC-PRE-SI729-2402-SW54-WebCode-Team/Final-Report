@@ -161,6 +161,7 @@ En esta sección se detallarán los commits realizados en el desarrollo de la la
 |Final-Report|feature/chapter-04|9a4a0b4|doc: fix(Navigation System) |-|06/09/2024|
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y el despliegue del Landing Page.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
 |------------|--------|-----------|----------------|---------------------|-------------|
@@ -178,6 +179,7 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 - GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
 - Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+- Vercel: Utilizamos esta plataforma para desplegar nuestra landing page.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo: 
