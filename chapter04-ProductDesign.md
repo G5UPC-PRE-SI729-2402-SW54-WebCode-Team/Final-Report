@@ -65,10 +65,9 @@ En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siem
 manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
 misma información.
 
-- **Color y Contraste:**
+- **Color:**
 A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve
-las correctas composiciones del color, para dirigir diversas emociones y del contraste para
-enfatizar aquellos objetos de mayor importancia.
+las correctas composiciones del color, para dirigir diversas emociones.
 
 - **Organización Secuencial:**
 
@@ -116,27 +115,23 @@ En el Landing Page visualizará los siguientes botones de navegación:
 		</tr>
 		<tr>
 			<td>Inicio</td>
-			<td>Apartado donde se muestra la información de la aplicación explicando sus características.</td>
+			<td>Apartado donde se muestra los beneficios de la aplicación.</td>
 		</tr>
 		<tr>
-			<td>Nosotros</td>
-			<td>Apartado donde se informa al usuario sobre el equipo y el propósito.</td>
+			<td>Experiencia</td>
+			<td>Apartado donde se muestra los comentarios y opiniones de usuarios que probaron la aplicación</td>
 		</tr>
 		<tr>
-			<td>Servicios</td>
-			<td>Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.</td>
+			<td>Suscripción</td>
+			<td>Apartado donde puedes suscribirte para recibir notificaciones.</td>
 		</tr>
 		<tr>
-			<td>Planes</td>
-			<td>Apartado donde se muestran todos los planes de suscripción.</td>
-		</tr>
-		<tr>
-			<td>Equipo</td>
+			<td>Comunicación</td>
 			<td>Apartado donde el usuario puede comunicarse con nosotros.</td>
 		</tr>
 		<tr>
 			<td>Comenzar</td>
-			<td>Apartado redirigir ir a la aplicación web.</td>
+			<td>Apartado que te va a redirigir ir a la aplicación web.</td>
 		</tr>
 	</tbody>
 </table>
