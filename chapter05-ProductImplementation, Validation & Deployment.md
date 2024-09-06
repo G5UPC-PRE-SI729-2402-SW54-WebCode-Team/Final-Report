@@ -168,6 +168,28 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
 |landing-page|main|72ac702|First commit - Landing Page project |-|04/09/2024|
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
+Enlace: https://greenmove-landingpage.vercel.app/#first
+
+Página principal de la Landing Page:
+
+<img src="./assets/paginaprincipal.PNG"/>
+
+Información sobre la aplicación:
+
+<img src="./assets/inicio.PNG"/>
+
+Experiencias:
+
+<img src="./assets/experiencias.PNG"/>
+<img src="./assets/experiencias2.PNG"/>
+<img src="./assets/experiencias3.PNG"/>
+
+Entrar a la web:
+<img src="./assets/IngresoWeb.PNG"/>
+
+Sección de Contacto:
+<img src="./assets/ContactUs.PNG"/>
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
