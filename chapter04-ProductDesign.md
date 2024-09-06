@@ -158,7 +158,7 @@ Se utilizaron los siguientes tags en el desarrollo:
 
 - SEO tag Header: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
 
-- SEO tah Url: Emplearemos una Url amigable, sin caracteres extraños para su fácilbúsqueda. La url a emplear será simple: www.GreenMove.com
+- SEO tah Url: Emplearemos una Url amigable, sin caracteres extraños para su fácil búsqueda.
 
 - Meta title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
 
