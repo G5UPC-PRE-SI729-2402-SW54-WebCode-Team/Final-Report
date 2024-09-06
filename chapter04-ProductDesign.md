@@ -182,6 +182,7 @@ Como sistema de navegación, para el landing page, nos encargamos de realizar un
 - Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
 - Experiencia: El usuario podrá visualizar los comentarios y opiniones de otros usuarios.
 - Start: El usuario cuando llegue a la sección de "Empieza tu búsqueda", lo mandará a la web donde podrá navegar y alquilar con previo registro.
+
 Como sistema de navegación, para la web, optamos emplear una barra de menú horizontal en la parte superior que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
 - About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
 - Services: El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner o un Client.
