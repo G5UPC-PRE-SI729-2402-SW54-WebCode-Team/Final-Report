@@ -134,116 +134,105 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP01</td>
     </tr>
     <tr>
-        <td>US04</td>
-        <td>Registrar usuario</td>
-        <td><b>Cómo</b> visitante de la aplicación web de GreenMove
-        <b>Quiero</b> poder crear una cuenta personal
-        <b>Para</b> comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
-        <td>
-            <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
-            <b>Dado que</b> el visitante desee crear una cuenta personal en la aplicación GreenMove <br/>
-            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos GreenMove, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
-            <b>Entonces</b> se creará la cuenta de usuario.<br/>
-            <br>
-            <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
-            <b>Dado que</b> Usuario ingresa credenciales incorrectas. <br/>
-            <b>Cuando</b> ingrese una dirección de correo electrónico o contraseña o DNI que no cumplen con los requisitos especificados<br/>
-            <b>Entonces</b> se le denegará la operación<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US05</td>
-        <td>Iniciar sesión</td>
-        <td><b>Cómo</b> Owner/Cliente de GreenMove
-        <b>Quiero</b> iniciar sesión
-        <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
-        <td>
-            <b>Scenario 1: Usuario ingresa credenciales válidas </b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desee iniciar sesión <br/>
-            <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
-            <b>Entonces</b> el sistema permitirá el acceso a la aplicación<br/>
-            <br>
-            <b>Scenario 2: Usuario ingresa credenciales incorrectas</b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desea iniciar sesión <br/>
-            <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
-            <b>Entonces</b> el sistema denegará la solicitud<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US06</td>
-        <td>Visualizar perfil de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de GreenMove 
-        <b>Quiero</b> visualizar mi perfil personal 
-        <b>Para</b> visualizar mis datos actuales</td>
-        <td>
-            <b>Scenario 1: Acceder al perfil personal</b> <br/>
-            <b>Dado que</b> el usuario desee visualizar su información personal <br/>
-            <b>Cuando</b>  ingrese a su perfil <br/>
-            <b>Entonces</b> obtendrá toda la información que registró previamente<br/>
-            <br>
-            <b>Scenario 2: Problema al acceder al perfil personal </b> <br/>
-            <b>Dado que</b> el usuario desee visualizar su información personal  <br/>
-            <b>Cuando</b> intente ingresar a su perfil <br><b>Y</b> experimente un error de conexión o de servidor <br/>
-            <b>Entonces</b> no se visualizarán los datos del perfil <br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US07</td>
-        <td>Cambiar datos personales </td>
-        <td><b>Cómo</b> Owner/Cliente de GreenMove 
-        <b>Quiero</b> cambiar los datos asociados a mi perfil
-        <b>Para</b> actualizar la información</td>
-        <td>
-            <b>Scenario 1: Cambiar contraseña</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
-            <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio<br/>
-            <b>Entonces</b> la nueva clave será guardada y la información actualizada.<br/>
-            <br>
-            <b>Scenario 2: Cambiar nombre</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su nombre<br/>
-            <b>Cuando</b> ingrese el nuevo nombre, esta sea validada por el usuario <br><b>Y</b> confirme su intención de proceder con el cambio <br/>
-            <b>Entonces</b> el nuevo nombre será guardado y la información actualizada<br/>
-            <br>
-            <b>Scenario 3: Cambiar foto</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su foto <br/>
-            <b>Cuando</b> ingrese la nueva foto, esta sea validada por el usuario <br><b>Y</b> confirme su intención de proceder con el cambio<br/>
-            <b>Entonces</b> la nueva foto será guardada y la información actualizada<br/>
-            <br>
-            <b>Scenario 4: Cambiar número de celular</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su número de celular <br/>
-            <b>Cuando</b> ingrese el nuevo número, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio <br/>
-            <b>Entonces</b> el nuevo número será guardado y la información actualizada<br/>
-            <br>
-            <b>Scenario 5: Ingreso de datos inválidos</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su información <br/>
-            <b>Cuando</b> ingrese datos inválidos<br/>
-            <b>Entonces</b> se mostrará un mensaje de dato no válido<br/>
-            <br>
-            <b>Scenario 6: No cambiar información</b> <br/>
-            <b>Dado que</b> el usuario no quiera cambiar su información <br/>
-            <b>Cuando</b> aparezca el pop up para confirmar el cambio <br><b>Y</b> seleccione la opción para cancelar cambio<br/>
-            <b>Entonces</b> el pop up desaparecerá y el cambio no se realizará<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US08</td>
-        <td>Eliminar cuenta de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de GreenMove
-        <b>Quiero</b> eliminar mi cuenta de usuario
-        <b>Para</b> dejar de usar los servicios de la aplicación</td>
-        <td>
-            <b>Scenario 1: Owner/Cliente elimina cuenta de usuario </b> <br/>
-            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
-            <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil <br><b>Y</b> confirme su intención para proceder con la operación<br/>
-            <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
-            <br>
-            <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario</b> <br/>
-            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
-            <b>Cuando</b> niegue su intención para proceder con la operación<br/>
-            <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
+        <tr>
+    <td>US05</td>
+    <td>Iniciar sesión</td>
+    <td><b>Cómo</b> Owner/Cliente de GreenMove
+    <b>Quiero</b> iniciar sesión
+    <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
+    <td>
+        <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
+        <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desee iniciar sesión <br/>
+        <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
+        <b>Entonces</b> el sistema permitirá el acceso a la aplicación.<br/>
+        <br>
+        <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
+        <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desea iniciar sesión <br/>
+        <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
+        <b>Entonces</b> el sistema denegará la solicitud.<br/>
+    </td>
+    <td>EP02</td>
+</tr>
+
+<tr>
+    <td>US06</td>
+    <td>Visualizar perfil de usuario</td>
+    <td><b>Cómo</b> Owner/Cliente de GreenMove 
+    <b>Quiero</b> visualizar mi perfil personal 
+    <b>Para</b> visualizar mis datos actuales.</td>
+    <td>
+        <b>Scenario 1: Acceder al perfil personal.</b> <br/>
+        <b>Dado que</b> el usuario desee visualizar su información personal <br/>
+        <b>Cuando</b> ingrese a su perfil <br/>
+        <b>Entonces</b> obtendrá toda la información que registró previamente.<br/>
+        <br>
+        <b>Scenario 2: Problema al acceder al perfil personal.</b> <br/>
+        <b>Dado que</b> el usuario desee visualizar su información personal  <br/>
+        <b>Cuando</b> intente ingresar a su perfil <br><b>Y</b> experimente un error de conexión o de servidor <br/>
+        <b>Entonces</b> no se visualizarán los datos del perfil.<br/>
+    </td>
+    <td>EP02</td>
+</tr>
+
+<tr>
+    <td>US07</td>
+    <td>Cambiar datos personales</td>
+    <td><b>Cómo</b> Owner/Cliente de GreenMove 
+    <b>Quiero</b> cambiar los datos asociados a mi perfil
+    <b>Para</b> actualizar la información.</td>
+    <td>
+        <b>Scenario 1: Cambiar contraseña.</b> <br/>
+        <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
+        <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio<br/>
+        <b>Entonces</b> la nueva clave será guardada y la información actualizada.<br/>
+        <br>
+        <b>Scenario 2: Cambiar nombre.</b> <br/>
+        <b>Dado que</b> el usuario quiera cambiar su nombre<br/>
+        <b>Cuando</b> ingrese el nuevo nombre, esta sea validada por el usuario <br><b>Y</b> confirme su intención de proceder con el cambio <br/>
+        <b>Entonces</b> el nuevo nombre será guardado y la información actualizada.<br/>
+        <br>
+        <b>Scenario 3: Cambiar foto.</b> <br/>
+        <b>Dado que</b> el usuario quiera cambiar su foto <br/>
+        <b>Cuando</b> ingrese la nueva foto, esta sea validada por el usuario <br><b>Y</b> confirme su intención de proceder con el cambio<br/>
+        <b>Entonces</b> la nueva foto será guardada y la información actualizada.<br/>
+        <br>
+        <b>Scenario 4: Cambiar número de celular.</b> <br/>
+        <b>Dado que</b> el usuario quiera cambiar su número de celular <br/>
+        <b>Cuando</b> ingrese el nuevo número, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio <br/>
+        <b>Entonces</b> el nuevo número será guardado y la información actualizada.<br/>
+        <br>
+        <b>Scenario 5: Ingreso de datos inválidos.</b> <br/>
+        <b>Dado que</b> el usuario quiera cambiar su información <br/>
+        <b>Cuando</b> ingrese datos inválidos<br/>
+        <b>Entonces</b> se mostrará un mensaje de dato no válido.<br/>
+        <br>
+        <b>Scenario 6: No cambiar información.</b> <br/>
+        <b>Dado que</b> el usuario no quiera cambiar su información <br/>
+        <b>Cuando</b> aparezca el pop up para confirmar el cambio <br><b>Y</b> seleccione la opción para cancelar cambio<br/>
+        <b>Entonces</b> el pop up desaparecerá y el cambio no se realizará.<br/>
+    </td>
+    <td>EP02</td>
+</tr>
+
+<tr>
+    <td>US08</td>
+    <td>Eliminar cuenta de usuario</td>
+    <td><b>Cómo</b> Owner/Cliente de GreenMove
+    <b>Quiero</b> eliminar mi cuenta de usuario
+    <b>Para</b> dejar de usar los servicios de la aplicación.</td>
+    <td>
+        <b>Scenario 1: Owner/Cliente elimina cuenta de usuario.</b> <br/>
+        <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+        <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil <br><b>Y</b> confirme su intención para proceder con la operación<br/>
+        <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
+        <br>
+        <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario.</b> <br/>
+        <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+        <b>Cuando</b> niegue su intención para proceder con la operación<br/>
+        <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
+    </td>
+    <td>EP02</td>
+</tr>
         <td>US09</td>
         <td>Atención al cliente</td>
         <td><b>Cómo</b> usuario
