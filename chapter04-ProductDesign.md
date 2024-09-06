@@ -11,26 +11,22 @@ En el caso de Branding, optamos por el nombre de "GreenMove", por la similitud c
 La primera parte de la marca, "Green", hace referencia a la intención que tenemos que es mostrar una solución amigable con el medio ambiente. La segunda parte "Move", hace referencia a la problematica que buscamos resolver que es con el alquiler de vehículos que no contaminen.
 
 #### Typography
-La tipografía seleccionada es "Kumbh Sans" en sus versiones Bold, Semi-Bold y Regular.
-
-Esta tipografía ofrece una visualización clara de la información, ya que sus letras mantienen formas tradicionales y su diseño no interfiere con la lectura del usuario al navegar por el sitio web.
-
-La variante Bold se utiliza en los títulos y en el logo, mientras que la variante Semi-Bold se emplea en los subtítulos de la página, aportando un contraste adicional en comparación con los párrafos, que utilizan la variante Regular.
+La tipografía seleccionada es "Inter".
 
 El tamaño de la fuente varía según su propósito.
 
-Para los títulos, se emplean tamaños más grandes para captar la atención del usuario, en este caso, se ha utilizado un tamaño de 64.
+Para los títulos, se emplean tamaños más grandes para captar la atención del usuario, en este caso, se ha utilizado un tamaño de 200.
 
-Los subtítulos tienen un tamaño de fuente ligeramente menor para acompañar los párrafos, y la variante Semi-Bold ya les otorga un énfasis distintivo. El tamaño seleccionado es 32.
+Los subtítulos tienen un tamaño de fuente ligeramente menor para acompañar los párrafos, y la variante Semi-Bold ya les otorga un énfasis distintivo. El tamaño seleccionado es 80.
 
-Para los párrafos del sitio, se eligió un tamaño que facilita la lectura sin causar fatiga visual. El tamaño elegido es 32.
+Para los párrafos del sitio, se eligió un tamaño que facilita la lectura sin causar fatiga visual. El tamaño elegido es 30.
 
 #### Colors
-La paleta de colores seleccionada para la página está inspirada en la temática ecológica de la aplicación. Se emplean tonos de verde musgo y verde lima, que evocan la naturaleza, el crecimiento y la frescura, reforzando la idea de un ambiente limpio y renovable. Acompañando a estos tonos verdes, se ha integrado un amarillo cálido que transmite optimismo y energía, sugiriendo vitalidad y acción.
+La paleta de colores seleccionada para la página está inspirada en la temática ecológica de la aplicación. Se emplean un tono verde, que evocan la naturaleza, el crecimiento y la frescura, reforzando la idea de un ambiente limpio y renovable.
 
-Para equilibrar estos colores vibrantes, se han incorporado tonos neutros como un gris claro y un blanco hueso. Estos tonos aportan modernidad, simplicidad y un diseño limpio, creando un contraste suave y agradable que facilita la navegación.
+Para equilibrar estos colores vibrantes, se han incorporado un tono blanco. Estos tonos aportan simplicidad y un diseño limpio.
 
-El texto se presenta predominantemente en negro para garantizar la legibilidad, aunque sobre fondos de color, se utiliza blanco para asegurar que el contenido sea fácil de leer sin forzar la vista. Esta combinación de colores no solo es atractiva, sino que también refuerza los valores de sostenibilidad y respeto por el medio ambiente que la aplicación busca transmitir.
+El texto se presenta predominantemente en negro para garantizar la legibilidad. Esta combinación de colores  refuerza los valores de sostenibilidad y respeto por el medio ambiente que la aplicación busca transmitir.
 
 #### Spacing
 Es importante usar un espaciado que permita al lector una visión clara del texto sin cansar la vista. Esto se puede lograr con un espaciado sencillo, pero no tan pequeño entre parrafos y lineas de texto.
@@ -45,7 +41,7 @@ En la página, utilizamos un tono de comunicación formal y respetuoso, pero evi
 En esta sección se mostrara con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
 
 ### Paleta de colores
-![Colors](https://github.com/user-attachments/assets/5df16c18-ab12-4905-a764-907508a11b4c)
+<img src="/assets/paleta.PNG" width="900"/>
 
 
 ## 4.2. Information Architecture
