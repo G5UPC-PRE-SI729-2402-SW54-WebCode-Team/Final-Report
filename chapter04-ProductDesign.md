@@ -47,11 +47,6 @@ En esta sección se mostrara con ilustraciones las decisiones tomadas en los est
 ### Paleta de colores
 ![Colors](https://github.com/user-attachments/assets/5df16c18-ab12-4905-a764-907508a11b4c)
 
-### Botones
-Dependiendo del contexto se usarán diferentes tipos de botones, para la barra de navegación optamos por botones completos sin bordes ni efectos.
-
-![image](https://github.com/user-attachments/assets/31c6ac39-cc55-418c-babd-d7a1d2392b83)
-
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
@@ -84,14 +79,14 @@ enfatizar aquellos objetos de mayor importancia.
 Además, los métodos de almacenamiento sobre los registros que el usuario final emplea
 siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la
 rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto
-organizaremos se visualizarán la lista de Scooter para los User mientras.
+organizaremos se visualizarán la lista de Scooter, biciletas.
 
 
 - **Esquemas de categorización de contenido de nuestra web:**
 
 Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes 
 a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de 
-suma importancia como son: "Inicio", "Nosotros", "Servicios", "Planes", "Equipo" y "Comenzar".
+suma importancia, solo tendrá que bajar la página.
 Para el proceso de reservas de vehículos eléctricos haremos uso de la organización secuencial:
 - Solicitud de reserva (clientes):
   - Búsqueda de vehículos.
