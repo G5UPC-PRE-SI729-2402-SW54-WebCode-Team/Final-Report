@@ -157,13 +157,15 @@ del ABET – EAC - Student Outcome 3.
 			<td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
 			<td> <strong>Eduard Travezaño</strong>: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr.<br>
             <strong>Fabio Horna</strong>: Durante el desarrollo de la landing page y la documentación del proyecto, creé esquemas detallados, análisis de entrevistas con usuarios, y documentación de user personas. Utilicé un lenguaje claro y directo para asegurar que todos los miembros del equipo pudieran entender el propósito y los avances del proyecto.<br>
-            <strong>Yair Aru Acevedo</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.
+            <strong>Yair Aru Acevedo</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.</br>
+            <strong>Enrique Villón</strong>: Durante el proyecto, cree los segmentos de negocio, tanto como la descripción principal, asimismo como los to-be mapping, user stories, inpact mapping y product backlog, todo lo necesario para saber los requerimientos.
 			<br>Adriana Diestra: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
             </td>
 			<td> Eduard Travezaño: El informe elaborado se realizó con el objetivo de que cualquier público pueda comprender de forma clara el propósito del proyecto. <br>
 			<strong>Fabio Horna</strong>: En la documentación escrita, utilicé un lenguaje claro y directo al crear esquemas, análisis de entrevistas y user personas. Mi objetivo fue asegurar que cualquier persona del equipo, independientemente de su especialidad, pudiera comprender los detalles técnicos y los resultados del proyecto, facilitando así la colaboración y toma de decisiones.
 			<br>Adriana Diestra: En el informe se utilizó un lenguaje claro y directo para así llevar a cabo nuestro proyecto. Así como también teniendo una participación activa.  </br>
 			<br>Yair Aru Acevedo: En el informe, se creó el diseño más conveniente para la landing page y la aplicación web utilizando las herramientas necesarias. Además, se recopiló la informacion necesaria para las historias de usuario. </br>
+	     <br><strong>Enrique Villón </strong>: En el proyecto se analizo todos los requerimientos y como la aplicación inpactaría en los segmentos objetivos </br>
             </td>
 		</tr>
 	</tbody>
