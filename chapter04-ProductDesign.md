@@ -115,7 +115,7 @@ En el Landing Page visualizará los siguientes botones de navegación:
 		</tr>
 		<tr>
 			<td>Inicio</td>
-			<td>Apartado donde se muestra los beneficios de la aplicación.</td>
+			<td>Apartado donde se muestra los beneficios de la aplicación y una introducción de lo que trata la aplicación.</td>
 		</tr>
 		<tr>
 			<td>Experiencia</td>
@@ -173,15 +173,21 @@ Implementaremos métodos para mejorar la experiencia de búsqueda de nuestros us
 
 - Barra de búsqueda:  Estos servirán para ayudar al usuario a encontrar los elementos de interés. La barra de búsqueda se hará presente en la búsqueda de algun tipo de producto que quieran comprar y de alguna duda que tenga.
 - Filtros de búsqueda: Proporcionará una búsqueda más especializada y ayudará a encontrar de manera más fácil lo que buscamos, restringiendo los resultados según criterios específicos.
-- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este
- modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
+- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
 
 ### 4.2.5. Navigation Systems
-Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
+Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan sus numerosas funcionalidades.
+Como sistema de navegación, para el landing page, nos encargamos de realizar una página vertical con poco texto donde el usuario pueda navegar sin saltarse a otra página y confundirse por la inmensidad de información. Nuestro landing page cuenta con secciones como:
+- About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión.
+- Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Experiencia: El usuario podrá visualizar los comentarios y opiniones de otros usuarios.
+- Start: El usuario cuando llegue a la sección de "Empieza tu búsqueda", lo mandará a la web donde podrá navegar y alquilar con previo registro.
+Como sistema de navegación, para la web, optamos emplear una barra de menú horizontal en la parte superior que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
 - About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
 - Services: El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner o un Client.
-- Plans: Aquí podrá obtener toda la información de los planes que la aplicación le ofrece.
+- Subscription: Aquí podrá obtener toda la información de los beneficios de la suscripción que la aplicación le ofrece.
 - Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Barra de búsqueda: Se usa la barra denavegación para poder realizar la búsqueda que quiera el usuario. Los resultados de la búsqueda se muestran de manera clara y precisa
   
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
