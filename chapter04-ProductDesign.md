@@ -206,7 +206,7 @@ Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?no
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="/assets/Landing MockUp.png" width="800"/>
+<img src="/assets/mockup3.png" width="800"/>
 
 Link: https://www.figma.com/proto/l8lj9WLp2nKeKIaliM64Lu/Untitled?node-id=0-1&t=MjMN4vdOEAcB7G4C-1
 
