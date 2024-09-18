@@ -223,4 +223,79 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 <img src="./assets/Commits.PNG"/>
 
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||
+|**Date**|15-09-2024|
+|**Time**|07:00 PM|
+|**Location**|Canal de Voz de Discord|
+|**Prepared By**|Diestra Zambrano, Adriana María|
+|**Attendees (to planning meeting)**|Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto|
+|**Sprint 2 Review Summary**|**Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.|
+|**Sprint 2 Retrospective Summary**|Oportunidades de mejora: Se vio mejoras en el equipo en comparación al sprint anterior en la gestión de tiempos del equipo y en completar las tareas asignadas.|
+|**Sprint Goal & User Stories**||
+|**Sprint 2 Goal**|**Objetivos:**<br>Terminar el desarrollo del front-end y desplegarlo<br>**Métrica:** Poder visualizar el Front-End desplegado.|
+|**Sprint 1 Velocity**|49|
+|**Sum of Story Points**|49|
+
+### 5.2.2.2. Sprint Backlog 2
+| Sprint # | Sprint 2 |           |           |           |           |           |           |
+| :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Descripción de la aplicación | W01 | Descripción de la aplicación |Visualizar una descripción del producto ofrecido | 4 | Fabio Horna | Done |
+| US02     | Descripción de la startup | W02 |  Descripción de la startup |Visualizar descripción de la startup | 4 | Fabio Horna | Done |
+| US03     | Acceder a la aplicación desde la landing page	 | W03 | Acceder a la aplicación desde la landing page | Acceder a la aplicación web desde la Landing Page| 8 | Fabio Horna | Done |
+
+### 5.2.2.3. Development Evidence for Sprint Review
+En esta sección se detallarán los commits realizados en el desarrollo de la landing page:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
+|------------|--------|-----------|----------------|---------------------|-------------|
+|Final-Report|feature/chapter-04|482803a|Create chapter04-ProductDesign.md||28/08/2024|
+|Final-Report|feature/chapter-04|375d045|doc: add(General Style Guidelines)|-|29/08/2024|
+|Final-Report|feature/chapter-04|3ed8e07|doc: fix(General Style Guidelines)|-|29/08/2024|
+|Final-Report|feature/chapter-04|aee562e|doc: fix(SEO Tags and Meta Tags)|-|29/08/2024|
+|Final-Report|feature/chapter-04|27134d7|doc: fix(Labelling Systems)|-|29/08/2024|
+|Final-Report|feature/chapter-04|8abcfbf|doc: fix(Searching System)|-|29/08/2024|
+|Final-Report|feature/chapter-04|7bd9965|feat: aggregate Organization Systems|-|30/08/2024|
+|Final-Report|feature/chapter-04|cf491dc|feat: aggregate Web Style Guidelines |-|30/08/2024|
+|Final-Report|feature/chapter-04|c262968|fix: correct typography |-|06/09/2024|
+|Final-Report|feature/chapter-04|b565bb4|doc: fix(Style guidelines) |-|06/09/2024|
+|Final-Report|feature/chapter-04|4510872|doc: fix(Organization and Labeling systems) |-|06/09/2024|
+|Final-Report|feature/chapter-04|0983f35|doc: fix(SEO Tags and Meta Tags 2.0) |-|06/09/2024|
+|Final-Report|feature/chapter-04|9a4a0b4|doc: fix(Navigation System) |-|06/09/2024|
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y el despliegue del Landing Page.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
+|------------|--------|-----------|----------------|---------------------|-------------|
+|landing-page|main|72ac702|First commit - Landing Page project |-|-|
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo: 
+
+| Username (GitHub)  | Nombre                            |
+|---------------------|-----------------------------------|
+| adriiiiiiiiiiiii         | Diestra Zambrano, Adriana María        |
+| EduardTrave          | Travezaño Patiño, Eduard Gedeon       |
+| Yair360          | Aru Acevedo, Yair Christofer       |
+| FabioHorna         | Horna Silva, Fabio Ernesto|
+| enriquevillonupc         | Villon Amez, Enrique Manuel      |
+
+<img src="./assets/CommitsTB2.PNG"/>
+
 ---
