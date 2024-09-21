@@ -234,7 +234,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 |**Location**|Canal de Voz de Discord|
 |**Prepared By**|Diestra Zambrano, Adriana María|
 |**Attendees (to planning meeting)**|Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto|
-|**Sprint 2 Review Summary**|**Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.|
+|**Sprint 2 Review Summary**|**Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se logró completar el landing page, así como el despliegue de este.|
 |**Sprint 2 Retrospective Summary**|Oportunidades de mejora: Se vio mejoras en el equipo en comparación al sprint anterior en la gestión de tiempos del equipo y en completar las tareas asignadas.|
 |**Sprint Goal & User Stories**||
 |**Sprint 2 Goal**|**Objetivos:**<br>Terminar el desarrollo del front-end y desplegarlo<br>**Métrica:** Poder visualizar el Front-End desplegado.|
