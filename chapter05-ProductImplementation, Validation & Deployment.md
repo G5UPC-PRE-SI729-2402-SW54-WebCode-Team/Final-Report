@@ -176,7 +176,7 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
-Enlace: https://greenmove-landingpage.vercel.app/#first
+Enlace: https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/
 
 Landing Page desplegada
 
