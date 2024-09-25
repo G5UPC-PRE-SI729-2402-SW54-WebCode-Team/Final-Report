@@ -117,7 +117,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 <img src="./assets/Paso5.png"/>
 
-<img src="/assets/Paso6.png" width="900"/>
+<img src="/assets/LaningPage-evidence.jpg">
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -178,25 +178,10 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
 En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
 Enlace: https://greenmove-landingpage.vercel.app/#first
 
-Página principal de la Landing Page:
+Landing Page desplegada
 
-<img src="./assets/paginaprincipal.PNG"/>
+<img src="./assets/Landing-Page_.png"/>
 
-Información sobre la aplicación:
-
-<img src="./assets/inicio.PNG"/>
-
-Experiencias:
-
-<img src="./assets/experiencias.PNG"/>
-<img src="./assets/experiencias2.PNG"/>
-<img src="./assets/experiencias3.PNG"/>
-
-Entrar a la web:
-<img src="./assets/IngresoWeb.PNG"/>
-
-Sección de Contacto:
-<img src="./assets/ContactUs.PNG"/>
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
