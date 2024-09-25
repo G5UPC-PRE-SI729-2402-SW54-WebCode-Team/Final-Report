@@ -252,7 +252,7 @@ Link del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="/assets/C4Diagram-Container.png" width="900"/>
+<img src="/assets/DiagramContainer..png" width="900"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
