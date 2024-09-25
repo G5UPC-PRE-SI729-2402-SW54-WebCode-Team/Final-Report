@@ -616,10 +616,10 @@ Link del Video:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-User Management:
-En el ámbito de la administración de usuarios, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
+Profile Management:
+En el ámbito de la administración de perfiles, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
 
-<img src="/assets/User Management2.0.PNG" width="900"/>
+<img src="/assets/Profile Management.PNG" width="900"/>
 
 Vehicle Management:
 En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión eficaz de los recursos vehiculares en un sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
