@@ -638,6 +638,7 @@ El ámbito de los procesos de pago incluye todas las funcionalidades y procedimi
 - SuscriptionFactory: Una fábrica que implementa suscripciones.
 - UserProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean un vehículo de forma temporal.
 - OwnerProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean poner en alquiler su vehículo.
+
 **Context: Rental Management:**
 - Rental: Entidad que representa el proceso de alquiler de un vehículo. Contiene información como el usuario que alquila, el vehículo alquilado, la duración del alquiler, el costo y el estado.
 - RentalFactory: Clase que crea instancias de Rental. Se encarga de crear un alquiler cuando una reserva se activa y transforma una reserva en un alquiler.
