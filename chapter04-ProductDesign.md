@@ -634,12 +634,12 @@ El ámbito de los procesos de pago incluye todas las funcionalidades y procedimi
 <img src="/assets/Payment.PNG" width="900"/>
 
 ### 4.7.2. Class Dictionary
-**Context: User Management:**
+**Context: Profile Management:**
 
-- User: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
+- Profile: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
 - UserSession: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
-- Membership: Una interfaz que define las características y beneficios de la suscripción de un usuario.
-- MembershipFactory (Fábrica de Membresías): Una fábrica que implementa suscripciones.
+- Suscription: Una interfaz que define las características y beneficios de la suscripción de un usuario.
+- SuscriptionFactory: Una fábrica que implementa suscripciones.
 **Context: Vehicle Management:**
 
 - GreenVehicle: Interfaz que define un vehículo ecológico.
