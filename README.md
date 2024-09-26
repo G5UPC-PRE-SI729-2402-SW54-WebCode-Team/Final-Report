@@ -2422,8 +2422,12 @@ Enlace del deploy de la web app mediante: https://greenmove-web-app.vercel.app/l
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el despliegue de la aplicacion web se utilizó vercel, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla:
-https://greenmove-web-app.vercel.app/login 
+Para el despliegue de la aplicacion web se utilizó vercel, a continuación se muestra el link de la aplicación web desplegada junto al screenshot de 
+[Vercel](https://vercel.com/enriques-projects-f8b01f43/greenmove-web-app)
+
+<img src="./assets/Desing/Despliegue.jpeg"/>
+https://greenmove-web-app.vercel.app/login
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
@@ -2436,6 +2440,17 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | FabioHorna        | Horna Silva, Fabio Ernesto      |
 | enriquevillonupc  | Villon Amez, Enrique Manuel     |
 
-<img src="./assets/CommitsTB2.PNG"/>
+<img src="./assets/Desing/Comits.png"/>
 
 ---
+
+### Conclusiones
+
+### Conclusiones preliminares
+TB1: Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo GreenMove. Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo, lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
+
+TP: En esta segunda entrega del desarrollo del front-end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
+
+### Nuestro proyecto está enfocado en alquiler de vehículos eléctricos, como equipo vemos la oportunidad de promover el transporte urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
+
+
