@@ -102,7 +102,26 @@
           <li>Capítulo III: Requirements Specification</li>
 	  <li>Capítulo IV: Product Design</li>
         </ul>
+     <thead>
+    <tr>
+        <th>TP1</th>
+        <th>25 de Setiembre</th>
+        <td>
+        <ul>
+          <li>Adriana María Diestra Zambrano</li>
+          <li>Yair Christofer Aru Acevedo</li>
+          <li>Eduard Gedeon Travezaño Patiño</li>
+          <li>Enrique Manuel Villón Amez</li>
+          <li>Fabio Horna Silva</li>
+        </ul>
       </td>
+        <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+	  <li>Capítulo V: Sprint</li>
+        </ul>
+    </tr>
+  </thead>
   </tr>
   </tbody>
 </table>
