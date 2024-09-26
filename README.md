@@ -2403,12 +2403,17 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Durante el segundo Sprint se logró implementar el front end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada.
+Durante el segundo Sprint se logró implementar el front-end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada.
 
+<img src="./assets/Desing/Paso1..png"/>
+<img src="./assets/Desing/Paso2..png"/>
+<img src="./assets/Desing/Paso3..png"/>
+<img src="./assets/Desing/Paso4..png"/>
+<img src="./assets/Desing/Paso6..png"/>
+<img src="./assets/Desing/Paso5..jpeg"/>
 
+Link de la web app mediante: https://greenmove-web-app.vercel.app/login
 
-
-Link de la web app mediante: https://greenmove-web-app.vercel.app/login 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Para esta entrega, el equipo GreenMove logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
