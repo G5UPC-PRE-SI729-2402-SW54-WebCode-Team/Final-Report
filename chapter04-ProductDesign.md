@@ -3,176 +3,129 @@
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
-### 4.1.1. General Style Guidelines
-En esta sección detallaremos las diferentes decisiones de diseño tomadas.
-#### Branding
-En el caso de Branding, optamos por el nombre de "GreenMove", por la similitud con el nombre de la StartUp "GreenGo".
+## 4.1.1. General Style Guidelines
+En esta sección, estableceremos las directrices generales de estilo para nuestra plataforma **GreenMove**. La aplicación busca proyectar una imagen de innovación tecnológica, sostenibilidad y simplicidad en la movilidad urbana. El objetivo es ser un referente en la transición hacia una movilidad eléctrica eficiente y accesible. Queremos transmitir una identidad amigable, moderna y ecológica, conectada a la tecnología y al futuro de la movilidad.
 
-La primera parte de la marca, "Green", hace referencia a la intención que tenemos que es mostrar una solución amigable con el medio ambiente. La segunda parte "Move", hace referencia a la problematica que buscamos resolver que es con el alquiler de vehículos que no contaminen.
+### Branding
+La identidad de marca de **GreenMove** refleja los valores de sostenibilidad, innovación y accesibilidad. Mediante una paleta de colores brillantes y naturales, una tipografía moderna y amigable, y elementos visuales minimalistas, **GreenMove** busca posicionarse como la opción más confiable en soluciones de movilidad eléctrica.
 
-#### Typography
-La tipografía seleccionada es "Kumbh Sans" en sus versiones Bold, Semi-Bold y Regular.
+- **Nombre de la marca:** GreenMove
+- **Tagline:** "Movilidad eléctrica al alcance de todos"
+- **Elementos visuales:** Uso de íconos de scooters eléctricos, caminos y rayos para simbolizar velocidad, movilidad y energía sostenible.
 
-Esta tipografía ofrece una visualización clara de la información, ya que sus letras mantienen formas tradicionales y su diseño no interfiere con la lectura del usuario al navegar por el sitio web.
+### Comunicación Visual
+El tono de comunicación debe ser amigable y accesible, dirigido a un público variado que abarca desde usuarios jóvenes hasta profesionales que buscan soluciones de movilidad eficientes y ecológicas. Queremos que la plataforma se sienta moderna y accesible, sin sacrificar claridad en la experiencia del usuario.
 
-La variante Bold se utiliza en los títulos y en el logo, mientras que la variante Semi-Bold se emplea en los subtítulos de la página, aportando un contraste adicional en comparación con los párrafos, que utilizan la variante Regular.
+- **Formalidad:** Accesible pero profesional, con un lenguaje claro que invite al uso sencillo de la plataforma.
+- **Estilo de Mensajes:** Directo, claro y orientado a la acción, evitando jerga técnica innecesaria.
+- **Entusiasmo:** Enfocado en la sostenibilidad y la innovación, transmitiendo optimismo sobre el impacto positivo de la movilidad eléctrica.
 
-El tamaño de la fuente varía según su propósito.
+### Material Design Links
 
-Para los títulos, se emplean tamaños más grandes para captar la atención del usuario, en este caso, se ha utilizado un tamaño de 64.
+![Index](assets/Desing/Material%20Desing/Index.png)
 
-Los subtítulos tienen un tamaño de fuente ligeramente menor para acompañar los párrafos, y la variante Semi-Bold ya les otorga un énfasis distintivo. El tamaño seleccionado es 32.
+![Colors](assets/Desing/Material%20Desing/Colors.png)
 
-Para los párrafos del sitio, se eligió un tamaño que facilita la lectura sin causar fatiga visual. El tamaño elegido es 32.
+![Typography](assets/Desing/Material%20Desing/Typography.png)
 
-#### Colors
-La paleta de colores seleccionada para la página está inspirada en la temática ecológica de la aplicación. Se emplean tonos de verde musgo y verde lima, que evocan la naturaleza, el crecimiento y la frescura, reforzando la idea de un ambiente limpio y renovable. Acompañando a estos tonos verdes, se ha integrado un amarillo cálido que transmite optimismo y energía, sugiriendo vitalidad y acción.
+![Body](assets/Desing/Material%20Desing/Body.png)
 
-Para equilibrar estos colores vibrantes, se han incorporado tonos neutros como un gris claro y un blanco hueso. Estos tonos aportan modernidad, simplicidad y un diseño limpio, creando un contraste suave y agradable que facilita la navegación.
+![Iconography](assets/Desing/Material%20Desing/Iconography.png)
 
-El texto se presenta predominantemente en negro para garantizar la legibilidad, aunque sobre fondos de color, se utiliza blanco para asegurar que el contenido sea fácil de leer sin forzar la vista. Esta combinación de colores no solo es atractiva, sino que también refuerza los valores de sostenibilidad y respeto por el medio ambiente que la aplicación busca transmitir.
-
-#### Spacing
-Es importante usar un espaciado que permita al lector una visión clara del texto sin cansar la vista. Esto se puede lograr con un espaciado sencillo, pero no tan pequeño entre parrafos y lineas de texto.
-
-#### Tono de comunicación y lenguaje
-El tono de comunicación y el lenguaje empleados en la página son fundamentales para atraer al usuario adecuado y captar su atención.
-
-En la página, utilizamos un tono de comunicación formal y respetuoso, pero evitando un lenguaje excesivamente formal o párrafos demasiado extensos. Esto busca mantener el interés del usuario y, al mismo tiempo, respetar su confianza.
+![Spacing](assets/Desing/Material%20Desing/Spacing.png)
 
 ### 4.1.2. Web Style Guidelines
 
 En esta sección se mostrara con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
 
-### Paleta de colores
-![Colors](https://github.com/user-attachments/assets/5df16c18-ab12-4905-a764-907508a11b4c)
-
-### Botones
-Dependiendo del contexto se usarán diferentes tipos de botones, para la barra de navegación optamos por botones completos sin bordes ni efectos.
-
-![image](https://github.com/user-attachments/assets/31c6ac39-cc55-418c-babd-d7a1d2392b83)
-
 
 ## 4.2. Information Architecture
+
 ### 4.2.1. Organization Systems
 
 - **Jerarquía Visual:**
 
-Con el propósito de mantener la estética de nuestra plataforma interactiva y a la vanguardia de
-la competencia actual, hemos decidido priorizar la interfaz según importancia para facilitar la
-interacción con el usuario.
+  Con el propósito de mantener la estética de nuestra plataforma interactiva y a la vanguardia de la competencia actual, hemos decidido priorizar la interfaz según importancia para facilitar la interacción con el usuario.
 
 - **Jerarquía de Tipografía:**
 
-Nuestra plataforma difunde información que es recibida por nuestros usuarios con un orden
-específico según la demanda. Por lo tanto, es importante tener en cuenta las características
-con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
+  Nuestra plataforma difunde información que es recibida por nuestros usuarios con un orden específico según la demanda. Por lo tanto, es importante tener en cuenta las características con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
 
 - **Alineación:**
 
-En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de
-manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
-misma información.
+  En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
 
-- **Color y Contraste:**
-A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve
-las correctas composiciones del color, para dirigir diversas emociones y del contraste para
-enfatizar aquellos objetos de mayor importancia.
+- **Color:**
+
+  A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones.
 
 - **Organización Secuencial:**
 
-Además, los métodos de almacenamiento sobre los registros que el usuario final emplea
-siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la
-rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto
-organizaremos se visualizarán la lista de Scooter para los User mientras.
-
+  Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto, organizaremos la visualización de la lista de **scooters** y **bicicletas**.
 
 - **Esquemas de categorización de contenido de nuestra web:**
 
-Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes 
-a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de 
-suma importancia como son: "Inicio", "Nosotros", "Servicios", "Planes", "Equipo" y "Comenzar".
-Para el proceso de reservas de vehículos eléctricos haremos uso de la organización secuencial:
-- Solicitud de reserva (clientes):
-  - Búsqueda de vehículos.
-  - Elección del vehículo.
-  - Solicitud de reserva.
-  - Entrega del vehículo.
-  - Devolución del vehículo.
+  Para la organización visual, utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia, solo tendrá que bajar la página.
 
-- Solicitud de la inscripción de vehículos (owner):
-  - Inscripción de vehículo a la plataforma.
-  - Establecer tarifa y disponibilidad del vehículo.
-  - Publicar disponibilidad del vehículo.
+  Para el proceso de **reservas de vehículos eléctricos**, haremos uso de la organización secuencial:
 
-Para los esquemas de organización utilizaremos los siguientes tipos:
-- Organización por orden cronológico para el historial de reservas de los clientes.
-- Organización por orden alfabético para la sección “Mis vehículos” del Owner.
+  - **Solicitud de reserva (clientes):**
+    - Búsqueda de vehículos.
+    - Elección del vehículo.
+    - Solicitud de reserva.
+    - Entrega del vehículo.
+    - Devolución del vehículo.
 
+  - **Solicitud de la inscripción de vehículos (owner):**
+    - Inscripción de vehículo a la plataforma.
+    - Establecer tarifa y disponibilidad del vehículo.
+    - Publicar disponibilidad del vehículo.
+
+  Para los esquemas de organización utilizaremos los siguientes tipos:
+
+  - **Organización por orden cronológico** para el historial de reservas de los clientes.
+  - **Organización por orden alfabético** para la sección **“Mis vehículos”** del Owner.
+
+---
 
 ### 4.2.2. Labeling Systems
-Para el uso de etiquetas de nuestro landing page, se ha elegido un lenguaje sencillo lo que permite a los usuarios 
-familiarizarse con facilidad a las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera 
-intuitiva.
 
-En el Landing Page visualizará los siguientes botones de navegación:
+Para el uso de etiquetas de nuestro **Landing Page**, se ha elegido un lenguaje sencillo que permite a los usuarios familiarizarse con facilidad con las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva.
 
-<table style="text-align: center; width: 100%; border:1px">
-	<tbody>
-		<tr>
-			<td>Etiqueta</td>
-			<td>Descripción</td>
-		</tr>
-		<tr>
-			<td>Inicio</td>
-			<td>Apartado donde se muestra la información de la aplicación explicando sus características.</td>
-		</tr>
-		<tr>
-			<td>Nosotros</td>
-			<td>Apartado donde se informa al usuario sobre el equipo y el propósito.</td>
-		</tr>
-		<tr>
-			<td>Servicios</td>
-			<td>Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.</td>
-		</tr>
-		<tr>
-			<td>Planes</td>
-			<td>Apartado donde se muestran todos los planes de suscripción.</td>
-		</tr>
-		<tr>
-			<td>Equipo</td>
-			<td>Apartado donde el usuario puede comunicarse con nosotros.</td>
-		</tr>
-		<tr>
-			<td>Comenzar</td>
-			<td>Apartado redirigir ir a la aplicación web.</td>
-		</tr>
-	</tbody>
-</table>
+---
 
-Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la 
-información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la 
-información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, 
-se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes 
-no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los 
-diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para 
-resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la 
-coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos 
-técnicos o jerga que podría ser confuso para los usuarios.
+### Etiquetas en la Landing Page:
 
-En el parte superior derecho del home page contando con tres botones: 
-- Nosotros: Muestra quiénes somos, nuestro propósito y equipo.
-- Servicios: Muestra lo que ofrecemos al usuario para mejorar financieramente.
-- Planes: Muestra el plan que quiere adquirir lo cual le llevará a registrarse.
-- Equipo: Muestra el equipo detrás de la aplicación.
-- Comenzar: Muestra el botón para redirigir al usuario a la aplicación web.
+| **Etiqueta**   | **Descripción**                                                                                      |
+|----------------|------------------------------------------------------------------------------------------------------|
+| Inicio         | Apartado donde se muestran los beneficios de la aplicación y una introducción de lo que trata.        |
+| Experiencia    | Apartado donde se muestran comentarios y opiniones de usuarios que probaron la aplicación.            |
+| Suscríbete     | Apartado donde puedes suscribirte para recibir notificaciones.                                         |
+| Contáctanos    | Apartado donde el usuario puede comunicarse con nosotros.                                             |
+| Comenzar       | Apartado que te redirige a la aplicación web.                                                         |
+
+---
+
+### Etiquetas de Navegación en la Página Principal:
+
+| **Etiqueta**   | **Descripción**                                                                                      |
+|----------------|------------------------------------------------------------------------------------------------------|
+| Nosotros       | Muestra quiénes somos, nuestro propósito y equipo.                                                    |
+| Servicios      | Muestra lo que ofrecemos al usuario para mejorar su experiencia.                                       |
+| Planes         | Muestra los planes que pueden adquirirse y lleva al registro.                                          |
+| Equipo         | Muestra el equipo detrás de la aplicación.                                                            |
+| Comenzar       | Botón que redirige al usuario a la aplicación web.                                                    |
+
+---
+
+Es importante mantener un sistema de etiquetado efectivo que permita a los usuarios encontrar fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado utiliza palabras comunes, no más largas de tres palabras, para asegurar que los usuarios comprendan de manera intuitiva. También emplearemos colores y diseños diferenciados para resaltar las etiquetas importantes. Nos aseguraremos de evitar términos técnicos o jerga que pueda confundir a los usuarios.
 
 ### 4.2.3. SEO Tags and Meta Tags
 Se utilizaron los siguientes tags en el desarrollo:
 
 - SEO tag Header: Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web
 
-- SEO tah Url: Emplearemos una Url amigable, sin caracteres extraños para su fácilbúsqueda. La url a emplear será simple: www.GreenMove.com
+- SEO tah Url: Emplearemos una Url amigable, sin caracteres extraños para su fácil búsqueda.
 
 - Meta title: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
 
@@ -187,72 +140,549 @@ Implementaremos métodos para mejorar la experiencia de búsqueda de nuestros us
 
 - Barra de búsqueda:  Estos servirán para ayudar al usuario a encontrar los elementos de interés. La barra de búsqueda se hará presente en la búsqueda de algun tipo de producto que quieran comprar y de alguna duda que tenga.
 - Filtros de búsqueda: Proporcionará una búsqueda más especializada y ayudará a encontrar de manera más fácil lo que buscamos, restringiendo los resultados según criterios específicos.
-- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este
- modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
+- Inicio estático: Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite.
 
 ### 4.2.5. Navigation Systems
-Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
+Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan sus numerosas funcionalidades.
+Como sistema de navegación, para el landing page, nos encargamos de realizar una página vertical con poco texto donde el usuario pueda navegar sin saltarse a otra página y confundirse por la inmensidad de información. Nuestro landing page cuenta con secciones como:
+- About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión.
+- Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Experiencia: El usuario podrá visualizar los comentarios y opiniones de otros usuarios.
+- Start: El usuario cuando llegue a la sección de "Empieza tu búsqueda", lo mandará a la web donde podrá navegar y alquilar con previo registro.
+
+Como sistema de navegación, para la web, optamos emplear una barra de menú horizontal en la parte superior que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
 - About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
 - Services: El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner o un Client.
-- Plans: Aquí podrá obtener toda la información de los planes que la aplicación le ofrece.
+- Subscription: Aquí podrá obtener toda la información de los beneficios de la suscripción que la aplicación le ofrece.
 - Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+- Barra de búsqueda: Se usa la barra denavegación para poder realizar la búsqueda que quiera el usuario. Los resultados de la búsqueda se muestran de manera clara y precisa
   
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-<img src="/assets/Landing Wireframe.png" width="800"/>
+<div align="center">
+  <img width=200 src="./assets/Desing/LandingPage/Landing Page Wireframe.png" alt="Landing Page Wireframe"/>
+</div>
+<div align="center">
+  <em>Landing Page Wireframe</em>
+  <br/><br/>
+</div>
 
-Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
+Link: https://www.figma.com/design/lkhyHTq8ltsPDtTA3EYqLd/GreenMove?node-id=164-2&t=qL31ZYA0pqlZTAJt-1
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="/assets/Landing MockUp.png" width="800"/>
+<div align="center">
+  <img width=200 src="./assets/Desing/LandingPage/Landing Page Mockup.png" alt="Landing Page Mockup"/>
+</div>
+<div align="center">
+  <em>Landing Page Mockup</em>
+  <br/><br/>
+</div>
 
-Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
 
-## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-
-<img src="/assets/Wireframe Account.png" width="800"/>
-<img src="/assets/Wireframe Sign In.png" width="800"/>
-<img src="/assets/Wireframe Sign In Correct.png" width="800"/>
-<img src="/assets/Wireframe Log In.png" width="800"/>
-
-Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
+Link: https://www.figma.com/design/lkhyHTq8ltsPDtTA3EYqLd/GreenMove?node-id=0-1&t=fJnmCuW4lpajTYTg-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="/assets/Register Wireflow.jpg" width="800"/>
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Registro.png" alt="Registro"/>
+</div>
+<div align="center">
+  <em>Wireframe Registro de Usuarios</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Login.png" alt="Wireframe del Login"/>
+</div>
+<div align="center">
+  <em>Wireframe Login</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Inicio.png" alt="Wireframe Pagina de Inicio"/>
+</div>
+<div align="center">
+  <em>Wireframe Pagina de Inicio</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Perfil.png" alt="Wireframe Pagina del Perfil"/>
+</div>
+<div align="center">
+  <em>Wireframe Perfiles</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Añadir Tarjetas.png" alt="Wireframe Pagos"/>
+</div>
+<div align="center">
+  <em>Wireframe Para los pagos</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Suscripciones.png" alt="Wireframe para membresias y suscripciones"/>
+</div>
+<div align="center">
+  <em>Wireframe Para suscripciones</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Historial de Viajes.png" alt="Wireframe Historial"/>
+</div>
+<div align="center">
+  <em>Wireframe Para registro y control de viajes</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Reserva.png" alt="Wireframe Reserva"/>
+</div>
+<div align="center">
+  <em>Wireframe Para Iniciar con la reserva</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Elegir.png" alt="Wireframe para Elegir"/>
+</div>
+<div align="center">
+  <em>Wireframe Para Continuar con la selección del vehículo</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Datos personales.png" alt="Wireframe para datos"/>
+</div>
+<div align="center">
+  <em>Wireframe Para Continuar con el ingreso de datos</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Metodo de Pago.png" alt="Wireframe para los pagos"/>
+</div>
+<div align="center">
+  <em>Wireframe Para elegir el método de pago</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Registro de tarjeta.png" alt="Wireframe para guardar tarjetas"/>
+</div>
+<div align="center">
+  <em>Wireframe Para recordar las tarjetas</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Confirmación del registro.png" alt="Wireframe para Confirmación del registro"/>
+</div>
+<div align="center">
+  <em>Wireframe Para Confirmación del registro</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Elegir.png" alt="Wireframe para ver Vehículos Disponibles"/>
+</div>
+<div align="center">
+  <em>Wireframe Para visualizar Vehículos Disponibles</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Tranporte cercano.png" alt="Wireframe para ver Transportes cercanos"/>
+</div>
+<div align="center">
+  <em>Wireframe Para visualizar Transportes cercanos</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Reseñas publicar.png" alt="Wireframe para publicar reseñas"/>
+</div>
+<div align="center">
+  <em>Wireframe Para visualizar publicar Reseñas</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Reseñas vista.png" alt="Wireframe para visualizar reseñas"/>
+</div>
+<div align="center">
+  <em>Wireframe Para visualizar reseñas</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Soporte.png" alt="Wireframe para pedir Soporte"/>
+</div>
+<div align="center">
+  <em>Wireframe Para pedir Soporte</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Alertas de seguridad.png" alt="Wireframe Alertas de seguridad"/>
+</div>
+<div align="center">
+  <em>Wireframe Alertas de seguridad</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Reportar problema.png" alt="Wireframe Reportar problema"/>
+</div>
+<div align="center">
+  <em>Wireframe para Reportar problema</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Wireframe/Alquilar un vehículo.png" alt="Wireframe Alquilar un vehículo"/>
+</div>
+<div align="center">
+  <em>Wireframe para visualizar el código de reserva</em>
+  <br/><br/>
+</div>
+
+
+Link: https://www.figma.com/design/lkhyHTq8ltsPDtTA3EYqLd/GreenMove?node-id=1-1237&t=qL31ZYA0pqlZTAJt-1
 
 ### 4.4.3. Web Applications Mock-ups
 
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Registro.png" alt="Registro"/>
+</div>
+<div align="center">
+  <em>Formulario de registro de nuevos usuarios.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Login.png" alt="Login"/>
+</div>
+<div align="center">
+  <em>Pantalla de inicio de sesión para usuarios registrados.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Inicio.png" alt="Inicio"/>
+</div>
+<div align="center">
+  <em>Página de inicio que muestra los servicios disponibles.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Vehículos.png" alt="Vehículos"/>
+</div>
+<div align="center">
+  <em>Lista de vehículos disponibles para la reserva.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Menu.png" alt="Menu"/>
+</div>
+<div align="center">
+  <em>Menú principal con opciones de navegación.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Añadir Tarjetas.png" alt="Añadir Tarjetas"/>
+</div>
+<div align="center">
+  <em>Formulario para añadir tarjetas de pago.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Pagos.png" alt="Pagos"/>
+</div>
+<div align="center">
+  <em>Página de resumen de métodos de pago disponibles.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Perfil Cliente.png" alt="Perfil Cliente"/>
+</div>
+<div align="center">
+  <em>Vista del perfil de usuario tipo cliente.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Perfil Owner.png" alt="Perfil Owner"/>
+</div>
+<div align="center">
+  <em>Vista del perfil de usuario tipo propietario.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Administrar vehiculos 1.png" alt="Administrar Vehículos"/>
+</div>
+<div align="center">
+  <em>Panel de administración de vehículos.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Añadir vehiculos.png" alt="Añadir Vehículos"/>
+</div>
+<div align="center">
+  <em>Formulario para añadir nuevos vehículos a la plataforma.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/consultar reserva activa.png" alt="Consultar Reserva"/>
+</div>
+<div align="center">
+  <em>Interfaz para consultar reservas activas.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Suscripciones.png" alt="Suscripciones"/>
+</div>
+<div align="center">
+  <em>Página con opciones de suscripción.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Historial de Viajes.png" alt="Historial de Viajes"/>
+</div>
+<div align="center">
+  <em>Historial de viajes realizados por el usuario.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Reserva.png" alt="Reserva"/>
+</div>
+<div align="center">
+  <em>Interfaz para iniciar una nueva reserva.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Vehiculos Disponibles.png" alt="Vehículos Disponibles"/>
+</div>
+<div align="center">
+  <em>Lista de vehículos actualmente disponibles.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Paraderos cercanos.png" alt="Paraderos Cercanos"/>
+</div>
+<div align="center">
+  <em>Visualización de paraderos cercanos.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Tranporte cercano.png" alt="Transporte Cercano"/>
+</div>
+<div align="center">
+  <em>Visualización de transportes cercanos.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Elegir.png" alt="Elegir"/>
+</div>
+<div align="center">
+  <em>Pantalla para elegir vehículo.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Reseñas publicar.png" alt="Reseñas Publicar"/>
+</div>
+<div align="center">
+  <em>Interfaz para publicar reseñas de servicios.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Reseñas vista.png" alt="Reseñas Vista"/>
+</div>
+<div align="center">
+  <em>Visualización de reseñas publicadas.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Datos personales.png" alt="Datos Personales"/>
+</div>
+<div align="center">
+  <em>Formulario para actualizar los datos personales.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Confirmación del registro.png" alt="Confirmación del Registro"/>
+</div>
+<div align="center">
+  <em>Pantalla de confirmación de registro exitoso.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Soporte.png" alt="Soporte"/>
+</div>
+<div align="center">
+  <em>Formulario para solicitar soporte técnico.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/consejo de seguridad.png" alt="Consejo de Seguridad"/>
+</div>
+<div align="center">
+  <em>Consejos de seguridad para los usuarios.</em>
+  <br/><br/>
+</div>
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/Web-Mockup/Reportar problema.png" alt="Reportar Problema"/>
+</div>
+<div align="center">
+  <em>Interfaz para reportar problemas con el servicio.</em>
+  <br/><br/>
+</div>
 
 
-Link: https://www.figma.com/design/lOZvKPphNhsygRpcV788Vm/Open-Source-Project?node-id=0-1&t=XOSlxAwdQ6IJuOZ6-1
+Link: https://www.figma.com/design/lkhyHTq8ltsPDtTA3EYqLd/GreenMove?node-id=24-874&t=qL31ZYA0pqlZTAJt-1
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 
+User goal: EL cliente quiere reservar un vehiculo para comenzar su viaje.
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/FLow-Diagrams/Cliente-Reserva.jpg" alt="Reservar un vehiculo"/>
+</div>
+<div align="center">
+  <em>Experiencia del usuario para reservar un vehiculo.</em>
+  <br/><br/>
+</div>
+
+User goal: EL Owner quiere empezar a alquilar vehiculos a travez de la aplicación.
+
+<div align="center">
+  <img width=1000 src="./assets/Desing/FLow-Diagrams/Owner-Alquila.jpg" alt="Poner un Vehiculo en alquiler"/>
+</div>
+<div align="center">
+  <em>Poner un Vehiculo en alquiler.</em>
+  <br/><br/>
+</div>
+
+Link: https://lucid.app/lucidchart/aead0aba-4ac3-4f4d-b842-fedf4a406f2a/edit?viewport_loc=-6799%2C-7391%2C18936%2C21604%2C0_0&invitationId=inv_4750b5f8-99af-4a2f-9bb4-e6a2c9ce7a72
 
 ## 4.5. Web Applications Prototyping
 
+Link del Prototype: https://www.figma.com/proto/lkhyHTq8ltsPDtTA3EYqLd/GreenMove?node-id=24-1335&node-type=canvas&t=gechzDaRznPiSz1Y-1&scaling=min-zoom&content-scaling=fixed&page-id=24%3A5&starting-point-node-id=24%3A1335
 
+Link del Video:
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="/assets/C4-DiagramContext.png" width="900"/>
+<img src="/assets/C4Diagram-Context.png" width="900"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="/assets/C4-DiagramContainer.png" width="900"/>
+<img src="/assets/DiagramContainer..png" width="900"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="/assets/C4DiagramComponent..png" width="900"/>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+Profile Management:
+En el ámbito de la administración de perfiles, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
+
+<img src="/assets/Profile Management.PNG" width="900"/>
+
+Vehicle Management:
+En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión eficaz de los recursos vehiculares en un sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
+<img src="/assets/Vehicle Management2.0.PNG" width="900"/>
+
+Reservation:
+En el entorno de la gestión de reservas, se ha implementado un conjunto de clases y estructuras que permiten la administración eficiente de reservas. Estas herramientas abarcan desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas.
+<img src="/assets/Reservation2.0.PNG" width="900"/>
+
+Payment:
+El ámbito de los procesos de pago incluye todas las funcionalidades y procedimientos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la ejecución y registro de transacciones.
+<img src="/assets/Payment.PNG" width="900"/>
+
 ### 4.7.2. Class Dictionary
+**Context: User Management:**
+
+- User: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
+- UserSession: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
+- Membership: Una interfaz que define las características y beneficios de la suscripción de un usuario.
+- MembershipFactory (Fábrica de Membresías): Una fábrica que implementa suscripciones.
+**Context: Vehicle Management:**
+
+- GreenVehicle: Interfaz que define un vehículo ecológico.
+- ElectricBicycle: Implementa la interfaz GrenVehicle. Representa una bicicleta eléctrica.
+- ElectricScooter: Implementa la interfaz GreenVehicle. Representa un patinete eléctrico.
+- GreenVehicleFactory: Interfaz para la creación de objetos GreenVehicle.
+- ElectricBicycleFactory: Implementa la interfaz GreenVehicleFactory. Se encarga de crear bicicletas eléctricas.
+- ElectricScooterFactory: Implementa la interfaz GreenVehicleFactory. Se encarga de crear patinetes eléctricos.
+- GreenVehicleRepository: Interfaz para el almacenamiento y recuperación de información sobre vehículos ecológicos.
+- MaintenanceRecordList: Lista de registros de mantenimiento para un vehículo.
+- MaintenanceRecord: Registro de mantenimiento para un vehículo.
+- Subject: Interfaz para un objeto que es el sujeto de observación.
+- Observer: Interfaz para un objeto que observa y recibe notificaciones sobre cambios en un sujeto.
+- StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
+
+**Context: Booking and Reservation:**
+
+- Booking: Representa una reserva en el sistema.
+- Command: Interfaz que define las operaciones de comandos.
+- MakeReservationCommand (Comando de Hacer Reserva): Implementa la interfaz Command. Representa un comando para hacer una reserva.
+- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar una reserva.
+- CancelReservationCommand (Comando de Cancelar Reserva): Implementa la interfaz Command. Representa un comando para cancelar una reserva.
+- Reservation: Representa una reserva en el sistema.
+- ReservationRepository (Repositorio de Reservas): Interfaz para el almacenamiento y recuperación de información sobre reservas.
+- Strategy: Interfaz que define un algoritmo o familia de algoritmos.
+- EmailSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por correo electrónico.
+- SmsSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por mensaje de texto.
+- PopupSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones a través de ventanas emergentes.
+
+**Context: Payment:**
+
+- PaymentProcessor: Interfaz para el procesamiento de pagos.
+- CreditCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de crédito.
+- DebitCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de débito.
+- PaymentProcessorFactory: Interfaz para la creación de objetos PaymentProcessor.
+- CreditCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de CreditCardProcessor.
+- DebitCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de DebitCardProcessor.
+- TransactionEmitter: Emite transacciones financieras.
+- Transaction: Representa una transacción financiera.
+- TransactionRepository: Interfaz para el almacenamiento y recuperación de transacciones financieras.
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
+<img src="/assets/Database diagram.png" width="900"/>
 
 ---
