@@ -423,12 +423,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>
             <b>Scenario 1: Notificación de disponibilidad exitosa</b> <br/>
             <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
-            <b>Cuando</b> elige un vehiculo que no está disponible <br><b>Y</b> seleccione "Notificar cuando está disponible" <br/>
+            <b>Cuando</b> elige un vehículo que no está disponible <br><b>Y</b> seleccione "Notificar cuando está disponible" <br/>
             <b>Entonces</b> podrá seguir la disponibilidad del vehículo en tiempo real <br/>
             <br>
             <b>Scenario 2: Notificación de disponibilidad fallida </b> <br/>
             <b>Dado que el usuario se encuentra en la sección de búsqueda de vehículos</b> <br/>
-            <b>Cuando</b> el usuario elige un vehiculo que no está disponible <br><b>Y</b> no le notifica cuando está disponible <br/>
+            <b>Cuando</b> el usuario elige un vehículo que no está disponible <br><b>Y</b> no le notifica cuando está disponible <br/>
             <b>Entonces</b> se contactará con atención al cliente para que vean el problema de la notificación  <br/>
         <td>EP04</td>
     </tr>
@@ -439,9 +439,9 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> recibir alertas de seguridad y consejos sobre el uso seguro de vehículos eléctricos 
         <b>Para</b> revenir accidentes y lesiones. </td>
         <td>
-            <b>Scenario 1: Indicacioness de seguridad </b> <br/>
+            <b>Scenario 1: Indicaciones de seguridad </b> <br/>
             <b>Dado que</b> el usuario tiene una cuenta registrada en la página web<br/>
-            <b>Cuando</b> comience su ruta usando el vehiculo alquilado <br><b>Y</b> el usuario ingrese a la aplicación con su cuenta <br/>
+            <b>Cuando</b> comience su ruta usando el vehículo alquilado <br><b>Y</b> el usuario ingrese a la aplicación con su cuenta <br/>
             <b>Entonces</b> se mostrarán al usuario avisos de seguridad y consejos de uso seguro de los vehículos ofrecidos <br/>
             <br>
             <b>Scenario 2: Prevención de accidentes </b> <br/>
@@ -666,19 +666,19 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <b>Scenario 1: Cambiar una página </b> <br/>
             <b>Dado que</b> el desarrollador tenga una cuenta registrada en el sistema<br/>
             <b>Cuando</b> haga nuevos cambios a la aplicación <br><b>Y</b> complete los cambios al enrutamiento<br/>
-            <b>Entonces</b> se le permitira al usuario hacer uso del enrutamiento para visualizar el sitio web <br/>
+            <b>Entonces</b> se le permitirá al usuario hacer uso del enrutamiento para visualizar el sitio web <br/>
         <td>EP07</td>
     </tr>
     <tr>
         <td>TS03</td>
         <td>Historial de transacciones</td>
         <td><b>Cómo</b> desarrollador
-        <b>Quiero</b> obtener el historial del usuario a traves del API
-        <b>Para</b> tener controlado el historial ante incidentes </td>
+        <b>Quiero</b> obtener el historial del usuario a través del API
+        <b>Para</b> tener controlado el historial ante un incidente </td>
         <td>
             <b>Scenario 1: Obtener historial </b> <br/>
             <b>Dado que</b> el desarrollador quiere obtener la lista de transacciones de un usuario<br/>
-            <b>Cuando</b> el servidor se encuentre en linea <br>
+            <b>Cuando</b> el servidor se encuentre en línea <br>
             <b>Y</b> utilize los endpoints<br/>
             <b>Entonces</b> La API proporcionará un endpoint que devuelva el historial completo del usuario. <br/>
         <td>EP07</td>
