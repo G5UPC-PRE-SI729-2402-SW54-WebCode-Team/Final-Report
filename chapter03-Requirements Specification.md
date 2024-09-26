@@ -527,13 +527,18 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>Iniciar viaje con el vehículo eléctrico seleccionado</td>
         <td><b>Cómo</b> Cliente de GreenMove
         <b>Quiero</b> poder iniciar el viaje 
-        <b>Para</b> acceder a la ruta optima y empiece el tiempo del alquiler</td>
+        <b>Para</b> acceder a la ruta óptima y empiece el tiempo del alquiler</td>
         <td>
             <b>Scenario 1: Cliente selecciona el vehículo para iniciar el viaje </b> <br/>
             <b>Dado que</b> el Cliente se encuentre en la sección principal de GreenMove <br>
             <b>Cuando</b> se dirija a la vista principal<br/>
             <b>Entonces</b> el sistema le mostrará el estado de su ruta en tiempo real, indicando el tiempo transcurrido.<br/>
             <br>
+            <b>Scenario 2: Cliente crea un nuevo viaje</b><br/>
+            <b>Dado que</b> el Cliente se encuentre en la sección principal de GreenMove
+            <b>Cuando</b> seleccione la opción de nuevo viaje
+            <b>Y</b> Y seleccione la ruta.
+            <b>Entonces</b> Entonces el sistema entregará un código del viaje.
         <td>EP05</td>
     </tr>
     <tr>
@@ -632,7 +637,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US30</td>
+        <td>TS01</td>
         <td>Creación de un repositorio Git</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> crear un repositorio Git
@@ -645,7 +650,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US31</td>
+        <td>US30</td>
         <td>Reporte de ingresos mensuales</td>
         <td><b>Cómo</b> Owner
         <b>Quiero</b> ver un reporte de los ingresos mensuales
@@ -657,7 +662,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US32</td>
+        <td>TS02</td>
         <td>Configuración del enrutamiento en Angular</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> configurar el enrutamiento en Angular
@@ -670,7 +675,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US33</td>
+        <td>TS03</td>
         <td>Historial de transacciones</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> quiero obtener el historial del usuario a traves del API
