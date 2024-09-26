@@ -633,6 +633,18 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>US30</td>
+        <td>Reporte de ingresos mensuales</td>
+        <td><b>Cómo</b> Owner
+        <b>Quiero</b> ver un reporte de los ingresos mensuales
+        <b>Para</b> analizar cuanto dinero ingreso por GreenMove y si es rentable. </td>
+        <td>
+            <b>Scenario 1: Ingreso a mi perfil </b> <br/>
+            <b>Cuando</b> quiera ver los ingresos por mes<br/>
+            <b>Entonces</b> permitirá que el usuario vea cuanto gana mensualmente por el GreenMove <br/>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>TS01</td>
         <td>Creación de un repositorio Git</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> crear un repositorio Git
@@ -645,19 +657,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US31</td>
-        <td>Reporte de ingresos mensuales</td>
-        <td><b>Cómo</b> Owner
-        <b>Quiero</b> ver un reporte de los ingresos mensuales
-        <b>Para</b> analizar cuanto dinero ingreso por GreenMove y si es rentable. </td>
-        <td>
-            <b>Scenario 1: Ingreso a mi perfil </b> <br/>
-            <b>Cuando</b> quiera ver los ingresos por mes<br/>
-            <b>Entonces</b> permitirá que el usuario vea cuanto gana mensualmente por el GreenMove <br/>
-        <td>EP07</td>
-    </tr>
-    <tr>
-        <td>US32</td>
+        <td>TS02</td>
         <td>Configuración del enrutamiento en Angular</td>
         <td><b>Cómo</b> desarrollador
         <b>Quiero</b> configurar el enrutamiento en Angular
@@ -670,17 +670,31 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP07</td>
     </tr>
     <tr>
-        <td>US33</td>
+        <td>TS03</td>
         <td>Historial de transacciones</td>
         <td><b>Cómo</b> desarrollador
-        <b>Quiero</b> quiero obtener el historial del usuario a traves del API
+        <b>Quiero</b> obtener el historial del usuario a traves del API
         <b>Para</b> tener controlado el historial ante incidentes </td>
         <td>
             <b>Scenario 1: Obtener historial </b> <br/>
             <b>Dado que</b> el desarrollador quiere obtener la lista de transacciones de un usuario<br/>
-            <b>Cuando</b> el servidor se encuentre en linea <br><b>Y</b> utilize los endpoints<br/>
+            <b>Cuando</b> el servidor se encuentre en linea <br>
+            <b>Y</b> utilize los endpoints<br/>
             <b>Entonces</b> La API proporcionará un endpoint que devuelva el historial completo del usuario. <br/>
         <td>EP07</td>
+    </tr>
+    <tr>
+        <td>TS04</td>
+        <td>Registro de datos de usuario</td>
+        <td><b>Cómo</b> desarrollador
+        <b>Quiero</b> registrar los datos de los usuarios
+        <b>Para</b> mostrar su información y almacenar sus procesos. </td>
+        <td>
+            <b>Scenario 1: Mostrar información de usuario - </b> <br/>
+            <b>Dado que</b> el desarrollador quiere mostrar la información del usuario en perfil y toolbar<br/>
+            <b>Cuando</b> obtenga los datos y se solicite la información almacenada<br/>
+            <b>Entonces</b> los datos se mostrarán en el perfil. <br/>
+        <td>EP02</td>
     </tr>
 </table>
 
