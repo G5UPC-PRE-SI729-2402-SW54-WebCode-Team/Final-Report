@@ -616,7 +616,6 @@ Link del Video:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-### 4.7.1. Class Diagrams
 Profile Management:
 En el ámbito de la administración de perfiles, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
 
