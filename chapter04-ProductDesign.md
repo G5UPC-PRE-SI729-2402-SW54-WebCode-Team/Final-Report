@@ -616,58 +616,39 @@ Link del Video:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+### 4.7.1. Class Diagrams
 Profile Management:
 En el ámbito de la administración de perfiles, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
 
 <img src="/assets/Profile Management.PNG" width="900"/>
 
-Vehicle Management:
-En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión eficaz de los recursos vehiculares en un sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
-<img src="/assets/Vehicle Management2.0.PNG" width="900"/>
-
-Reservation:
-En el entorno de la gestión de reservas, se ha implementado un conjunto de clases y estructuras que permiten la administración eficiente de reservas. Estas herramientas abarcan desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas.
-<img src="/assets/Reservation2.0.PNG" width="900"/>
+Rental Management:
+En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión de las reservas de los vehículos en el sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
+<img src="/assets/Rental Management.PNG" width="900"/>
 
 Payment:
 El ámbito de los procesos de pago incluye todas las funcionalidades y procedimientos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la ejecución y registro de transacciones.
 <img src="/assets/Payment.PNG" width="900"/>
 
 ### 4.7.2. Class Dictionary
-**Context: User Management:**
+**Context: Profile Management:**
 
-- User: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
-- UserSession: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
-- Membership: Una interfaz que define las características y beneficios de la suscripción de un usuario.
-- MembershipFactory (Fábrica de Membresías): Una fábrica que implementa suscripciones.
-**Context: Vehicle Management:**
+- Profile: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
+- User: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
+- Suscription: Una interfaz que define las características y beneficios de la suscripción de un usuario.
+- SuscriptionFactory: Una fábrica que implementa suscripciones.
+- UserProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean un vehículo de forma temporal.
+- OwnerProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean poner en alquiler su vehículo.
 
-- GreenVehicle: Interfaz que define un vehículo ecológico.
-- ElectricBicycle: Implementa la interfaz GrenVehicle. Representa una bicicleta eléctrica.
-- ElectricScooter: Implementa la interfaz GreenVehicle. Representa un patinete eléctrico.
-- GreenVehicleFactory: Interfaz para la creación de objetos GreenVehicle.
-- ElectricBicycleFactory: Implementa la interfaz GreenVehicleFactory. Se encarga de crear bicicletas eléctricas.
-- ElectricScooterFactory: Implementa la interfaz GreenVehicleFactory. Se encarga de crear patinetes eléctricos.
-- GreenVehicleRepository: Interfaz para el almacenamiento y recuperación de información sobre vehículos ecológicos.
-- MaintenanceRecordList: Lista de registros de mantenimiento para un vehículo.
-- MaintenanceRecord: Registro de mantenimiento para un vehículo.
-- Subject: Interfaz para un objeto que es el sujeto de observación.
-- Observer: Interfaz para un objeto que observa y recibe notificaciones sobre cambios en un sujeto.
-- StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
-
-**Context: Booking and Reservation:**
-
-- Booking: Representa una reserva en el sistema.
-- Command: Interfaz que define las operaciones de comandos.
-- MakeReservationCommand (Comando de Hacer Reserva): Implementa la interfaz Command. Representa un comando para hacer una reserva.
-- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar una reserva.
-- CancelReservationCommand (Comando de Cancelar Reserva): Implementa la interfaz Command. Representa un comando para cancelar una reserva.
-- Reservation: Representa una reserva en el sistema.
-- ReservationRepository (Repositorio de Reservas): Interfaz para el almacenamiento y recuperación de información sobre reservas.
-- Strategy: Interfaz que define un algoritmo o familia de algoritmos.
-- EmailSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por correo electrónico.
-- SmsSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por mensaje de texto.
-- PopupSender: Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones a través de ventanas emergentes.
+**Context: Rental Management:**
+- Rental: Entidad que representa el proceso de alquiler de un vehículo. Contiene información como el usuario que alquila, el vehículo alquilado, la duración del alquiler, el costo y el estado.
+- RentalFactory: Clase que crea instancias de Rental. Se encarga de crear un alquiler cuando una reserva se activa y transforma una reserva en un alquiler.
+- RentalRepository: Clase encargada de gestionar el almacenamiento y la recuperación de datos relacionados con los alquileres. Proporciona métodos para agregar, obtener o eliminar registros de alquiler en una base de datos.
+- Reserve: Tabla que gestiona las reservas de vehículos. Contiene información sobre el usuario, el vehículo reservado, el tiempo de inicio y fin, y el estado de la reserva.
+- GreenVehicle: Clase base que representa cualquier tipo de vehículo ecológico. Contiene atributos y métodos comunes como el nivel de batería, ubicación, estado, y gestión de mantenimiento.
+- GreenScooter: Clase hija de GreenVehicle que representa un scooter eléctrico. Almacena atributos específicos como la velocidad máxima y el tamaño de las ruedas.
+- GreenBycicle: Clase hija de GreenVehicle que representa una bicicleta. Contiene atributos como el número de marchas y el tipo de bicicleta.
+- GreenCar: Clase hija de GreenVehicle que representa un auto eléctrico. Sus atributos específicos incluyen el número de asientos y el tiempo de carga.
 
 **Context: Payment:**
 
