@@ -686,13 +686,20 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 
 ## 3.3. Impact Mapping
 
-En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
-
 **Segmento 1: Owner**
+
+**Descripción del Impact Map: Owner**
+
+Este Impact Map está diseñado para owners de vehículos eléctricos, enfocado en maximizar los ingresos y optimizar el uso de sus vehículos. El objetivo es aumentar las ganancias de los propietarios en un 25% durante el primer año. Para lograrlo, se proponen soluciones como un sistema de gestión de alquileres en tiempo real y seguimiento a través de la plataforma. Estas funcionalidades permiten a los owners reducir el tiempo de inactividad de sus vehículos, aumentar la frecuencia de alquileres, y proteger sus activos mediante herramientas de monitoreo y soporte ofrecidas por GreenMove.
 
 <img src="./assets/inapct-mapping-owner.png" alt="Imagen Inpact Mapping 2">
 
+
 **Segmento 2: User**
+
+**Descripción del Impact Map: User**
+
+Este Impact Map está diseñado para usuarios que buscan alquilar vehículos eléctricos, enfocado en ofrecer una opción de transporte más económica, eficiente y sostenible. El objetivo es reducir los costos de transporte en un 20% y mejorar la experiencia de movilidad en un 30% durante los primeros seis meses. Para lograrlo, se implementarán funcionalidades como un sistema de alquiler rápido y accesible a través de la plataforma, opciones de pago flexibles, y disponibilidad de vehículos en zonas clave. Estas soluciones permiten a los usuarios ahorrar en costos de transporte, reducir su tiempo de desplazamiento en zonas congestionadas, y contribuir a un menor impacto ambiental mediante el uso de vehículos eléctricos.
 
 <img src="./assets/inpact-mapping-user.png" alt="Imagen Inpact Mapping 1">
 
