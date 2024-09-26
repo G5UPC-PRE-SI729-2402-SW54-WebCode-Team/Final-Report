@@ -2452,4 +2452,9 @@ TP: En esta segunda entrega del desarrollo del front-end de la aplicación web, 
 
 ### Nuestro proyecto está enfocado en alquiler de vehículos eléctricos, como equipo vemos la oportunidad de promover el transporte urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
 
+### Referencias Bibliograficas
 
+- Angular. (s/f). Angular.dev. Recuperado el 26 de septiembre de 2024, de https://angular.dev
+- Item Type, info:eu-repo/semantics/bachelor Thesis Authors, Ramos, O., & Panez, M. N. G. (s/f). Propuesta de Análisis y Mejoras en la Comunicación y Difusión de Vehículos Híbridos: Caso Mitsui Automotriz en el Mercado Peruano. Edu.pe. Recuperado el 26 de septiembre de 2024, de https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/674699/Gonzales_PP.pdf?sequence=1&isAllowed=y
+- Stakeholders. (2023, septiembre 28). «La idea de la micromovilidad es ahorrar tiempo en el tráfico y colaborar con el cuidado del medio ambiente». Stakeholders; Stakeholders Sostenibilidad. https://stakeholders.com.pe/ciencia-innovacion-y-tecnologia/innovacion-y-emprendimientos/la-idea-de-la-micromovilidad-es-ahorrar-tiempo-en-el-trafico-y-colaborar-con-el-cuidado-del-medio-ambiente/
+- (S/f). Gob.pe. Recuperado el 26 de septiembre de 2024, de https://cdn.www.gob.pe/uploads/document/file/863712/PEI_2020-2023_MTC.pdf
