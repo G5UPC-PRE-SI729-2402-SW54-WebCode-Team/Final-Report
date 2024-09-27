@@ -2370,9 +2370,11 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | :--------- | :-------------------------------------------- | :-- | :-------------------------------------------- | :------------------------------------------------ | :----------------- | :---------- | :-------------------------------------------- |
 | User Story | Work-Item / Task                              |     |                                               |                                                   |                    |             |                                               |
 | Id         | Title                                         | Id  | Title                                         | Description                                       | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
-| US01       | Descripción de la aplicación                  | W01 | Descripción de la aplicación                  | Visualizar una descripción del producto ofrecido  | 4                  | Fabio Horna | Done                                          |
-| US02       | Descripción de la startup                     | W02 | Descripción de la startup                     | Visualizar descripción de la startup              | 4                  | Fabio Horna | Done                                          |
-| US03       | Acceder a la aplicación desde la landing page | W03 | Acceder a la aplicación desde la landing page | Acceder a la aplicación web desde la Landing Page | 8                  | Fabio Horna | Done                                          |
+| US05       | 	Iniciar sesión                  | W01 | Iniciar sesión                  | Iniciar Sesión en la página  | 4                  | Enrique Villón | Done                                          |
+| US06       | Visualizar perfil de usuario                     | W02 | Visualizar perfil de usuario                     | Visualizar el perfil con los datos del usuario              | 4                  | Enrique Villón | Done                                          |
+| US011       | Visualizar un vehículo en alquiler | W03 | Visualizar un vehículo en alquiler | Visualizar en la página los vehículos disponibles en alquiler | 8                  | Enrique Villón | Done                                          |
+| US015       | Alquiler vehículo | W04 | Alquiler vehículo | Alquilar un vehículo disponible en la página | 8                  | Enrique Villón | Done                                          |
+| US016       | Reserva de alquiler con horario | W05 | Reserva de alquiler con horario | Reserva de alquiler con el horario que se usará | 8                  | Enrique Villón | Done                                          |
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
