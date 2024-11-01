@@ -2617,8 +2617,6 @@ Link de Trello: [ver trello](https://trello.com/b/2ccnwp2u/greenmove-sprint3)
    </tr>
 </table>
 
-### 5.2.3.3.Development Evidence for Sprint Review.
-### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 
 Para esta entrega, el equipo GreenGo logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
@@ -2678,19 +2676,21 @@ Preguntas segmento Client:
 #### Entrevista 1:
 
 Datos del entrevistador:
-* Nombres: 
-* Apellidos: 
+* Nombres: Adriana 
+* Apellidos: Diestra
   
 Datos del entrevistado:
-* Nombres: 
-* Apellidos: 
-* Edad: 
-* Distrito de residencia:
-* Enlace a la entrevista:
-* Duración de la entrevista: 
+* Nombres: Jeremy 
+* Apellidos: Escudero
+* Edad: 20
+* Distrito de residencia: Rimac
+* Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FvideoclientNestor%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efffec497-4536-49cc-91b6-9c5aec796484&isDarkMode=false)
+* Duración de la entrevista: 4:10
+
+<img src="./assets/entrevistaJEREMY.png"/>
 
 **Informe del resumen de la entrevista:**
-
+Jeremy Escudero, es un joven de 20 años, es estudiante. A Jeremy le llamó la atención el diseño de la página, le gustan las funcionalidades y más lo de los idiomas. También opina que, tuvo una buena experiencia en visitar la página web. Menciona que, todas las funcionalidades le gustaron. Recomienda que para mejor experiencia de la página le agregaria una opción más.
 
 ### Entrevistas segmento 2: Clientes
 
