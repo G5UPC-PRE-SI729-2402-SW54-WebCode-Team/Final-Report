@@ -2529,9 +2529,91 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
 
---ft
+<img src="./assets/Sprint3.png"/>
 
 Link de Trello: [ver trello](https://trello.com/b/2ccnwp2u/greenmove-sprint3)
+
+<table border="1px" align="center"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> US04 </td>
+      <td colspan="3">Registrar usuario</td>
+      <td> W01  </td>
+      <td> Registrar usuario </td>
+      <td>Implementar Registrar usuario. </td>
+      <td> 5  </td>
+      <td> Enrique Villón </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> US10 </td>
+      <td colspan="3">Publicar vehículo en alquiler</td>
+      <td> W02  </td>
+      <td> Publicar vehículo en alquiler </td>
+      <td>Implementar Publicar vehículo en alquiler. </td>
+      <td> 3  </td>
+      <td> Enrique Villón </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> US14 </td>
+      <td colspan="3">Búsqueda de vehículos cercano</td>
+      <td> W03  </td>
+      <td> Búsqueda de vehículos cercano</td>
+      <td>Implementar búsqueda de vehículos cercano </td>
+      <td> 4  </td>
+      <td> Enrique Villón </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> US15 </td>
+      <td colspan="3">Alquilar vehículo</td>
+      <td> W04  </td>
+      <td> Alquilar vehículo </td>
+      <td>Implementar alquiler vehículo </td>
+      <td> 3  </td>
+      <td> Adriana Diestra </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> US21 </td>
+      <td colspan="3">Ubicar vehículo por Mapa</td>
+      <td> W05  </td>
+      <td> Ubicar vehículo por Mapa </td>
+      <td>Implementar ubicar vehículo por Mapa </td>
+      <td> 8  </td>
+      <td> Enrique Villón </td> 
+      <td> Done </td>
+   </tr>
+	<tr>
+      <td> US23 </td>
+      <td colspan="3">Visualizar historial de vehículos alquilados</td>
+      <td> W05  </td>
+      <td> Visualizar historial de vehículos alquilados</td>
+      <td>Implementar historial de vehículos alquilados </td>
+      <td> 3  </td>
+      <td> Adriana Diestra </td> 
+      <td> Done </td>
+   </tr>
+</table>
+
 ### 5.2.3.3.Development Evidence for Sprint Review.
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 ### 5.2.3.5.Execution Evidence for Sprint Review.
