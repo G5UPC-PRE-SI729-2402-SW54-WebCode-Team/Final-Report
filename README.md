@@ -128,7 +128,6 @@
         <ul>
           <li>Adriana María Diestra Zambrano</li>
           <li>Yair Christofer Aru Acevedo</li>
-          <li>Eduard Gedeon Travezaño Patiño</li>
           <li>Enrique Manuel Villón Amez</li>
         </ul>
       </td>
@@ -2634,6 +2633,16 @@ Para el presente sprint, se ha desarollado el backend de la web application. Par
 Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+| Username (GitHub) | Nombre                          |
+| ----------------- | ------------------------------- |
+| adriiiiiiiiiiiii  | Diestra Zambrano, Adriana María |
+| Yair360           | Aru Acevedo, Yair Christofer    |
+| enriquevillonupc  | Villon Amez, Enrique Manuel     |
+
+
 ### 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
