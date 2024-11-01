@@ -83,7 +83,7 @@
   </thead>
   <tbody>
   <tr>
-      <td><strong>TB1</strong></td>
+      <th>TB1</th>
       <td>26 de Agosto</td>
       <td>
         <ul>
@@ -118,9 +118,29 @@
         <td>
         Se han incluído los siguientes capítulos:
         <ul>
-	  <li>Capítulo V: Sprint</li>
+	  <li>Capítulo V: Sprint 2</li>
         </ul>
-    </tr>
+	<thead>
+    <tr>
+        <th>TB2</th>
+        <th>01 de Noviembre</th>
+        <td>
+        <ul>
+          <li>Adriana María Diestra Zambrano</li>
+          <li>Yair Christofer Aru Acevedo</li>
+          <li>Eduard Gedeon Travezaño Patiño</li>
+          <li>Enrique Manuel Villón Amez</li>
+        </ul>
+      </td>
+        <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+	  <li>Capítulo V: Sprint 3</li>
+	  <li>Entrevistas</li>
+	  <li>Video About-the-Product</li>
+        </ul>
+	<thead>
+    <tr>
   </thead>
   </tr>
   </tbody>
@@ -2443,6 +2463,21 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 <img src="./assets/Desing/Comits.png"/>
 
+### 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+### 5.2.3.2. Sprint Backlog 3.
+### 5.2.3.3.Development Evidence for Sprint Review.
+### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+### 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+### 5.4. Video About-the-Product.
 ---
 
 ### Conclusiones
