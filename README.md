@@ -2724,7 +2724,114 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EY7mWKyvv0dMg-KqSzWYOEYBuGy6cmGI7d2Ry_unt2Lwaw?e=GiCgTy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 5:33
 
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
+**SITE o APP evaluar:** **GreenMove**
+
+**Tareas a evaluar**
+
+- Registro de usuario
+- Publicar vehículo en alquiler
+- Búsqueda de vehículo cercano
+- Alquiler de vehículo
+- Ubicar vehículo por mapa
+- Visualizar historial de vehículos alquilados
+
+
+**Escala de severidad**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <th><strong>Nivel</strong></th>
+    <th><strong>Descripción</strong></th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td><p>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p></td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td><p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente lanzamiento.</p></td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td><p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.</p></td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td><p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p></td>
+  </tr>
+</table>
+
+**Tabla de resumen**  
+
+<table>
+  <tr>
+    <th><strong>#</strong></th>
+    <th><strong>Problema</strong></th>
+    <th><strong>Escala de severidad</strong></th>
+    <th><strong>Heurística/Principio violada(o)</strong></th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td>Los botones de la parte inferior no funcionan</td>
+    <td>2</td>
+    <td>Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td>La suscripción no te lleva a la pasarela de pagos</td>
+    <td>2</td>
+    <td>Libertad de uso y control</td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td>Cancelar reserva es estático</td>
+    <td>3</td>
+    <td>Libertad de uso y control</td>
+  </tr>
+</table>
+
+**Descripción de problemas**  
+
+**Problema 1:** Los botones de la parte inferior no funcionan
+
+**Severidad:** 2
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Cuando se quiere reportar problemas o acerca de nosotros no te dirige a ninguna página
+
+**Recomendación:** Se recomienda hacer que los botones redirijan a la pestaña de reportar problemas o acerca de nosotros.
+
+--
+
+**Problema 2:** La suscripción no te lleva a la pasarela de pagos
+
+**Severidad:** 2
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Cuando se quiere comprar la suscripción no te manda a la pasarela de pagos.
+
+**Recomendación:** Se recomienda hacer que te redirijan a la pasarela de pagos.
+
+--
+
+**Problema 3:** Cancelar reserva es estático
+
+**Severidad:** 3
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Cuando se quiere cancelar la reserva no te permite cancelarla.
+
+**Recomendación:** Se recomienda hacer que te redirijan a cancelar la reserva.
+
+--
+
 ### 5.4. Video About-the-Product.
 ---
 
