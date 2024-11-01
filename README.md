@@ -2465,7 +2465,66 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 ### 5.2.3. Sprint 3
 
-### 5.2.3.1. Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3.
+
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 25/10/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 18:00 pm - 20:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Canal de Voz de Discord </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Adriana Maria Diestra Zambrano </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano<br>
+         Yair Christofer Aru Acevedo <br>
+         Enrique Manuel Villon Amez <br>
+         Eduard Gedeon Travezaño Patiño <br>
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td> En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend. </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td> 32 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 32 </td>
+      </tr>
+</table>
+
 ### 5.2.3.2. Sprint Backlog 3.
 ### 5.2.3.3.Development Evidence for Sprint Review.
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
