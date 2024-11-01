@@ -2693,20 +2693,22 @@ Datos del entrevistado:
 #### Entrevista 1:
 
 Datos del entrevistador:
-* Nombres: 
-* Apellidos: 
+* Nombres: Adriana 
+* Apellidos: Diestra
 
 Datos del entrevistado:
-* Nombres: 
-* Apellidos: 
-* Edad: 
-* Distrito de residencia: 
-* Enlace a la entrevista: 
-* Duración de la entrevista: 
+* Nombres: Nestor
+* Apellidos: Velarde
+* Edad: 22
+* Distrito de residencia: San Martín de Porres
+* Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FvideoclientNestor%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efffec497-4536-49cc-91b6-9c5aec796484&isDarkMode=false)
+* Duración de la entrevista: 3:03
+
+<img src="./assets/entrevistaNestor.png"/>
 
 **Informe del resumen de la entrevista:**
 
-
+Nestor Velarde, es un joven de 22 años, es estudiante de la UPC. A Nestor le llamó la atención el color porque es relavante con los vehículos eléctricos, le gustan las funciolaidades y más lo de los idiomas. También opina que, tuvo una buena experiencia en visitar la página web, le parece interesante el poder alquilar sus vehículos eléctricos en esta aplicación. Menciona que, todas las funcionalidades le gustaron. Recomienda que para mejor experiencia de la página le agregaria colores.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 ### 5.4. Video About-the-Product.
