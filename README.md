@@ -2710,6 +2710,20 @@ Datos del entrevistado:
 
 Nestor Velarde, es un joven de 22 años, es estudiante de la UPC. A Nestor le llamó la atención el color porque es relavante con los vehículos eléctricos, le gustan las funciolaidades y más lo de los idiomas. También opina que, tuvo una buena experiencia en visitar la página web, le parece interesante el poder alquilar sus vehículos eléctricos en esta aplicación. Menciona que, todas las funcionalidades le gustaron. Recomienda que para mejor experiencia de la página le agregaria colores.
 
+#### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Yair
+* Apellidos: Aru
+
+Datos del entrevistado:
+* Nombres: Oscar
+* Apellidos: Armas
+* Edad: 26
+* Distrito de residencia: Chorrillos
+* Enlace a la entrevista: [Ver video]()
+* Duración de la entrevista: 5:33
+
 ### 5.3.3. Evaluaciones según heurísticas.
 ### 5.4. Video About-the-Product.
 ---
