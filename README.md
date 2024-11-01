@@ -2617,8 +2617,22 @@ Link de Trello: [ver trello](https://trello.com/b/2ccnwp2u/greenmove-sprint3)
 ### 5.2.3.3.Development Evidence for Sprint Review.
 ### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Para esta entrega, el equipo GreenGo logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
+Enlace del deploy de la web app mediante: [GreenMove](https://greenmove-web-app.vercel.app/login)
+
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Para esta entrega, el equipo GreenGo logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones de creación de usuarios, búsqueda de vehículos, visualizar y elegir una suscripción.
+
+Enlace del deploy de la web app mediante: [GreenMove](https://greenmove-web-app.vercel.app/login)
+
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
+
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto. Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo. GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ### 5.3. Validation Interviews.
 
