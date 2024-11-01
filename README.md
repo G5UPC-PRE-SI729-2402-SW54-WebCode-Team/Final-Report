@@ -2721,7 +2721,7 @@ Datos del entrevistado:
 * Apellidos: Armas
 * Edad: 26
 * Distrito de residencia: Chorrillos
-* Enlace a la entrevista: [Ver video]()
+* Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EY7mWKyvv0dMg-KqSzWYOEYBuGy6cmGI7d2Ry_unt2Lwaw?e=GiCgTy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 5:33
 
 ### 5.3.3. Evaluaciones según heurísticas.
