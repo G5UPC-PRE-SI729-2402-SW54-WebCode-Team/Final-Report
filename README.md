@@ -2557,6 +2557,46 @@ Preguntas segmento Client:
 - ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para alquilar un vehículo eléctrico?
 
 ### 5.3.2. Registro de Entrevistas.
+
+### Entrevistas segmento 1: Owner
+
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: 
+* Apellidos: 
+  
+Datos del entrevistado:
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distrito de residencia:
+* Enlace a la entrevista:
+* Duración de la entrevista: 
+
+**Informe del resumen de la entrevista:**
+
+
+### Entrevistas segmento 2: Clientes
+
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: 
+* Apellidos: 
+
+Datos del entrevistado:
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distrito de residencia: 
+* Enlace a la entrevista: 
+* Duración de la entrevista: 
+
+**Informe del resumen de la entrevista:**
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 ### 5.4. Video About-the-Product.
 ---
