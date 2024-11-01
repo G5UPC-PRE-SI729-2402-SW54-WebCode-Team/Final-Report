@@ -2806,7 +2806,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Recomendación:** Se recomienda hacer que los botones redirijan a la pestaña de reportar problemas o acerca de nosotros.
 
---
+<img src="./assets/parteinferior.png"/>
 
 **Problema 2:** La suscripción no te lleva a la pasarela de pagos
 
@@ -2818,7 +2818,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Recomendación:** Se recomienda hacer que te redirijan a la pasarela de pagos.
 
---
+<img src="./assets/suscripcion.png"/>
 
 **Problema 3:** Cancelar reserva es estático
 
@@ -2830,10 +2830,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Recomendación:** Se recomienda hacer que te redirijan a cancelar la reserva.
 
---
+<img src="./assets/cancelareserva.png"/>
 
 ### 5.4. Video About-the-Product.
----
+
+En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.
+
+[Ver video](https://www.youtube.com/watch?v=XgWlG0t9isg&ab_channel=EnriqueVill%C3%B3n)
 
 ### Conclusiones
 
