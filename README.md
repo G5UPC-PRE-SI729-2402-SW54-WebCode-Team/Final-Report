@@ -2533,7 +2533,29 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 ### 5.3. Validation Interviews.
+
 ### 5.3.1. Diseño de Entrevistas.
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+Preguntas segmento Owner:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de gestión para poner en alquiler, tales como las caracteristicas que se deben describir y la opción de actualizarlas?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- Como dueño de un vehículo eléctrico ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para dar en alquiler un vehículo eléctrico?
+
+Preguntas segmento Client:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de alquiler de vehículos eléctricos, tales como la búsqueda, la información de cada vehículo eléctrico y sus reseñas?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para alquilar un vehículo eléctrico?
+
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
 ### 5.4. Video About-the-Product.
