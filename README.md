@@ -960,44 +960,43 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>EP01</td>
-        <td>Landing page para la aplicacion GreenMove</td>
-        <td><b>Como</b> Owner/Cliente GreenMove <b>Quiero</b> ingresar una landing page <b>Para</b> informarme sobre la aplicación y su equipo de desarrollo.</td>
+        <td>Landing page</td>
+        <td><b>Como</b> Owner/Cliente <b>Quiero</b> ingresar una landing page <b>Para</b> informarme sobre la aplicación y su equipo de desarrollo.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP02</td>
         <td>Gestión de cuenta de usuario</td>
-        <td><b>Como</b> Owner/Cliente de GreenMove <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente.</td>
+        <td><b>Como</b> Owner/Cliente <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP03</td>
         <td>Gestión de vehículos en alquiler</td>
-        <td><b>Como</b> Owner en GreenMove <b>Quiero</b> agregar y gestionar mis vehículos <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
+        <td><b>Como</b> Owner <b>Quiero</b> poder gestionar el estado de mis vehículos en alquiler <b>Para</b> asegurar que están disponibles, en buen estado o en mantenimiento cuando corresponda, y así optimizar el proceso de alquiler.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP04</td>
         <td>Gestión de reservas</td>
-        <td><b>Como</b> cliente de GreenMove <b>Quiero</b> gestionar mis reservas y el uso de vehículos <b>Para</b> planificar y controlar mis alquileres. </td>
+        <td><b>Como</b> cliente <b>Quiero</b> gestionar mis reservas y el uso de vehículos <b>Para</b> planificar y controlar mis alquileres. </td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP05</td>
         <td>Gestionar historial de reservas</td>
-        <td><b>Cómo</b> Cliente de GreenMove <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b> Para</b> acceder a la información de estos de manera sencilla.
-        <b>Y</b> tener un control de mi historial</td>
+        <td><b>Cómo</b> Cliente <b>Quiero</b>  ver un historial detallado de todas mis reservas pasadas<b> Para</b> tener acceso rápido a la información de mis alquileres y poder revisar fechas, vehículos alquilados y duración.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP06</td>
         <td>Gestión de planes</td>
-        <td><b>Cómo</b> cliente de GreenMove <b>Quiero</b> tener una gestión y control de mi plan <b>Para</b> poder adquirirlo y coancelarlo cuando lo requiera</td>
+        <td><b>Cómo</b> cliente <b>Quiero</b> poder gestionar mi plan de suscripción <b>Para</b> que se adapte a mis necesidades, incluyendo la posibilidad de adquirir, pausar, reactivar o cancelar mi plan según sea necesario.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
