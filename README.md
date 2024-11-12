@@ -2699,20 +2699,66 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 ### 5.2.1.1. Sprint Planning 1
 
-| **Sprint #**                        | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Date**                            | 02-09-2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Time**                            | 07:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Location**                        | Canal de Voz de Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Prepared By**                     | Diestra Zambrano, Adriana María                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Sprint 1 Review Summary**         | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.                                                                                                                                                                                                                                                      |
-| **Sprint 1 Retrospective Summary**  | Oportunidades de mejora: Se vio que hay que mejorar un poco en la gestión de tiempos del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Sprint 1 Goal**                   | **Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción. |
-| **Sprint 1 Velocity**               | 16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Sum of Story Points**             | 16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+<table border="1px" align="center">
+    <tr>
+        <th>Sprint #</th>
+        <th>Sprint 1</th>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Planning Background</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Date</td>
+        <td>02-09-2024</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Time</td>
+        <td>7:00 pm - 9:00 pm</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Location</td>
+        <td>Canal de Voz de Discord</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Prepared By</td>
+        <td>Adriana Maria Diestra Zambrano</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+        <td>
+            Adriana María Diestra Zambrano<br>
+            Eduard Gedeon Travezaño Patiño<br>
+            Yair Christofer Aru Acevedo<br>
+            Enrique Manuel Villon Amez<br>
+            Fabio Ernesto Horna Silva<br>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Review Summary</td>
+        <td>Se desarrolló la landing page a partir de los diseños de wireframe, mockup y prototipo, para luego implementar el código en HTML, CSS y JavaScript.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
+        <td>Mejorar la puntualidad en la entrega</td>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Goal & User Stories</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Goal</td>
+        <td>
+            Nuestro enfoque en este sprint es implementar la landing page de nuestro producto. Creemos que esto proporcionará una presentación atractiva y clara, lo cual se confirmará cuando cada sección de la página sea explorada por los usuarios.
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Velocity</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sum of Story Points</td>
+        <td>18</td>
+    </tr>
+</table>
 
 ### 5.2.1.2. Sprint Backlog 1
 
