@@ -1052,7 +1052,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>US03</td>
         <td>Acceder a la aplicación desde la landing page </td>
         <td><b>Cómo</b> visitante de la landing page 
-        <b>Quiero</b> poder acceder a la aplicación GreenMove desde la landing page
+        <b>Quiero</b> poder acceder a la aplicación desde la landing page
         <b>Para</b> comenzar a utilizar las funcionalidades ofrecidas</td>
         <td>
             <b>Scenario 1: Usuario ingresa a aplicación</b> <br/>
@@ -1070,17 +1070,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <tr>
     <td>US05</td>
     <td>Iniciar sesión</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> iniciar sesión
     <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
     <td>
         <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
-        <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desee iniciar sesión <br/>
+        <b>Dado que</b> el usuario posee una cuenta en la aplicación <br><b>Y</b> desee iniciar sesión <br/>
         <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
         <b>Entonces</b> el sistema permitirá el acceso a la aplicación.<br/>
         <br>
         <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
-        <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desea iniciar sesión <br/>
+        <b>Dado que</b> el usuario posee una cuenta en la aplicación <br><b>Y</b> desea iniciar sesión <br/>
         <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
         <b>Entonces</b> el sistema denegará la solicitud.<br/>
     </td>
@@ -1090,7 +1090,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 <tr>
     <td>US06</td>
     <td>Visualizar perfil de usuario</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove 
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> visualizar mi perfil personal 
     <b>Para</b> visualizar mis datos actuales.</td>
     <td>
@@ -1110,7 +1110,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 <tr>
     <td>US07</td>
     <td>Cambiar datos personales</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove 
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> cambiar los datos asociados a mi perfil
     <b>Para</b> actualizar la información.</td>
     <td>
@@ -1150,17 +1150,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 <tr>
     <td>US08</td>
     <td>Eliminar cuenta de usuario</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> eliminar mi cuenta de usuario
     <b>Para</b> dejar de usar los servicios de la aplicación.</td>
     <td>
-        <b>Scenario 1: Owner/Cliente elimina cuenta de usuario.</b> <br/>
-        <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+        <b>Scenario 1: Usuario elimina su cuenta.</b> <br/>
+        <b>Dado que</b> el Usuario desee eliminar su cuenta <br/>
         <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil <br><b>Y</b> confirme su intención para proceder con la operación<br/>
         <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
         <br>
-        <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario.</b> <br/>
-        <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+        <b>Scenario 2: El usuario no elimina su cuenta.</b> <br/>
+        <b>Dado que</b> el usuario desee eliminar su cuenta de usuario <br/>
         <b>Cuando</b> niegue su intención para proceder con la operación<br/>
         <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
     </td>
@@ -1172,12 +1172,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> tener acceso fácil a un servicio de atención al cliente
         <b>Para</b> tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación. </td>
         <td>
-            <b>Scenario 1: Cliente tiene un problema técnico </b> <br/>
+            <b>Scenario 1: Usuario tiene un problema técnico </b> <br/>
             <b>Dado que</b> el usuario tiene problemas técnicos en la página web<br/>
             <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
             <b>Entonces</b> el asesor se encargará de informar sobre el problema para resolverlo en la brevedad posible. <br/>
             <br>
-            <b>Scenario 2: Cliente tiene una consulta </b> <br/>
+            <b>Scenario 2: Usuario tiene una consulta </b> <br/>
             <b>Dado que</b> el usuario tiene una consulta relacionada a la página web<br/>
             <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
             <b>Entonces</b> el asesor se responder su consulta en la brevedad y de la manera más sencilla <br/>
@@ -1190,17 +1190,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi vehículo
         <b>Para</b> que pueda ser alquilado por un cliente</td>
         <td>
-            <b>Scenario 1: Owner publica su vehículo en GreenMove </b> <br/>
+            <b>Scenario 1: Owner publica su vehículo </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo” <br/>
             <b>Cuando</b> llene todas las casillas obligatorias para publicar su vehículo <br><b>Y</b> le de al botón “Publicar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su vehículo ha sido publicado. <br/>
             <br>
-           <b>Scenario 2: Owner cancela la publicación de su vehículo en GreenMove </b> <br/>
+           <b>Scenario 2: Owner cancela la publicación de su vehículo </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo”  <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que se ha cancelado la publicación.<br/>
             <br>
-           <b>Scenario 3: Owner no publica su vehículo en GreenMove </b> <br/>
+           <b>Scenario 3: Owner no publica su vehículo </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo” <br/>
             <b>Cuando</b> no llene todas las casillas obligatorias para publicar su vehículo <br><b>Y</b> le de al botón “Publicar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida <br><b>Y</b> no se publica su vehículo<br/>
@@ -1213,13 +1213,13 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi vehículo
         <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
         <td>
-            <b>Scenario 1: Owner visualiza su vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de GreenMove <br/>
+            <b>Scenario 1: Owner visualiza su vehículo </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación <br/>
             <b>Cuando</b> se dirija a la opción de “Ver mis vehículos”<br/>
             <b>Entonces</b> el sistema le mostrará la información de los vehículos publicados.<br/>
             <br>
-            <b>Scenario 2: Owner cancela la visualización de su vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de GreenMove<br/>
+            <b>Scenario 2: Owner cancela la visualización de su vehículo </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación<br/>
             <b>Cuando</b> se dirija a la opción de “Ver mis vehículos” <br><b>Y</b> le de al botón de “Salir” <br/>
             <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis vehículos”<br/>
         <td>EP03</td>
@@ -1231,17 +1231,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> editar la publicación de mi vehículo
         <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
         <td>
-            <b>Scenario 1: Owner edita la publicación de su vehículo en GreenMove</b> <br/>
+            <b>Scenario 1: Owner edita la publicación de su vehículo</b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> actualice correctamente la información<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su vehículo ha sido actualizado<br/>
             <br>
-            <b>Scenario 2: Owner cancela la edición de la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Scenario 2: Owner cancela la edición de la publicación de su vehículo </b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema cierra la ventana de edición de publicación<br/>
             <br>
-            <b>Scenario 3: Owner no edita la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Scenario 3: Owner no edita la publicación de su vehículo </b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> ingrese incorrectamente la información <br><b>Y</b> le de al botón de “Aceptar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su vehículo no ha sido actualizado.<br/>
@@ -1268,7 +1268,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US14</td>
         <td>Búsqueda de vehículos cercano</td>
-        <td><b>Cómo</b> cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder buscar vehículos disponibles en mi distrito
         <b>Para</b> facilitar mi desplazamiento.</td>
         <td>
@@ -1286,21 +1286,21 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US15</td>
         <td>Alquiler vehículo</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> alquilar un vehículo
         <b>Para</b> llegar rápido a mi destino.</td>
         <td>
-            <b>Scenario 1: Owner alquila un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 1: Tenant alquila un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que el vehículo ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
-            <b>Scenario 2: Owner cancela el alquiler de un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 2: Tenant cancela el alquiler de un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
-            <b>Scenario 3: Owner no alquila un vehículo en GreenMove</b> <br/>
+            <b>Scenario 3: Tenant no alquila un vehículo</b> <br/>
             <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
@@ -1309,22 +1309,22 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US16</td>
         <td>Reserva de alquiler con horario</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder programar mi viaje
         <b>Para</b> tener un vehículo separado a la hora deseada</td>
         <td>
-            <b>Scenario 1: Owner alquila un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 1: Tenant alquila un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que el vehículo ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
-            <b>Scenario 2: Owner cancela el alquiler de un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 2: Tenant cancela el alquiler de un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
-            <b>Scenario 3: Owner no alquila un vehículo en GreenMove</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
+            <b>Scenario 3: Tenant no alquila un vehículo</b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
         <td>EP04</td>
@@ -1332,7 +1332,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US17</td>
         <td>Calificación y reseñas</td>
-        <td><b>Cómo</b> cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con vehículos utilizados y la zona donde los tomé
         <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
         <td>
@@ -1341,7 +1341,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <b>Cuando</b> el usuario acceda a la opción de dejar reseña <br><b>Y</b> seleccione la zona o tipo de vehículo donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
             <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
             <br>
-            <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
+            <b>Scenario 2: Ver reseñas de otros usuarios </b> <br/>
             <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un vehículo o una zona específica<br/>
             <b>Cuando</b> el usuario busque reseñas <br/>
             <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
@@ -1391,12 +1391,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Para</b> no olvidarlas </td>
         <td>
             <b>Scenario 1: Notificación de recordatorios </b> <br/>
-            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Dado que</b> que el usuario tiene una reserva confirmada para una fecha futura<br/>
             <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br/>
-            <b>Entonces</b> recibo una notificación recordatoria de la reserva <br/>
+            <b>Entonces</b> recibe una notificación recordatoria de la reserva <br/>
             <br>
             <b>Scenario 2: No notifica recordatorio </b> <br/>
-            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Dado que</b> que el usuario tiene una reserva confirmada para una fecha futura<br/>
             <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br><b>Y</b> no reciba una notificación recordatoria de la reserva <br/>
             <b>Entonces</b> se contactará con atención al cliente para que vean el problema del recordatorio <br/>
         <td>EP04</td>
@@ -1440,17 +1440,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US23</td>
         <td>Visualizar historial de vehículos alquilados</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> visualizar mi historial de vehículos alquilados
         <b>Para</b> acceder fácilmente a su información</td>
         <td>
-            <b>Scenario 1: Cliente visualiza su historial de vehículos alquilados </b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente<br/>
+            <b>Scenario 1: El Usuario visualiza su historial de vehículos alquilados </b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> ya ha alquilado vehículos anteriormente<br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
             <b>Entonces</b> el sistema le mostrará la información de los vehículos que alquiló anteriormente.<br/>
             <br>
-            <b>Scenario 2: Cliente no visualiza su historial de vehículos alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> no ha alquilado vehículos anteriormente <br/>
+            <b>Scenario 2: El Usuario no visualiza su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> no ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
             <b>Entonces</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún vehículo. <br/>
         <td>EP05</td>
@@ -1458,12 +1458,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US24</td>
         <td>Iniciar viaje con el vehículo eléctrico seleccionado</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder iniciar el viaje 
         <b>Para</b> acceder a la ruta optima y empiece el tiempo del alquiler</td>
         <td>
-            <b>Scenario 1: Cliente selecciona el vehículo para iniciar el viaje </b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la sección principal de GreenMove <br>
+            <b>Scenario 1: El Usuario selecciona el vehículo para iniciar el viaje </b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la sección principal <br>
             <b>Cuando</b> se dirija a la vista principal<br/>
             <b>Entonces</b> el sistema le mostrará el estado de su ruta en tiempo real, indicando el tiempo transcurrido.<br/>
             <br>
@@ -1472,17 +1472,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US25</td>
         <td>Borrar historial de vehículos alquilados</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> o borrar mi historial de vehículos alquilados
         <b>Para</b> ya no tener información que considere innecesaria. </td>
         <td>
-            <b>Scenario 1: Cliente elimina su historial de vehículos alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
+            <b>Scenario 1: El Usuario elimina su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado <br><b>Y</b> ya no mostrará la información del historial<br/>
             <br>
-            <b>Scenario 2: Cliente no elimina su historial de vehículos alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
+            <b>Scenario 2: El Usuario no elimina su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> cancele la acción. <br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado <br><b>Y</b> seguirá mostrando la información del historial.<br/>
         <td>EP05</td>
@@ -1508,27 +1508,27 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US27</td>
         <td>Adquirir plan</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> Comprar un plan
         <b>Para</b> acceder a sus beneficios al usar la aplicación. </td>
         <td>
-            <b>Scenario 1: Cliente compra una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
+            <b>Scenario 1: El Usuario compra una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito. <br/>
             <br>
-            <b>Scenario 2: Cliente cancela compra una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
+            <b>Scenario 2: El Usuario cancela compra una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se dé al botón de cancelar<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la compra de la membresía<br/>
             <br>
-            <b>Scenario 3: Cliente no compra una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Cliente no cuente con una membresía <br/>
+            <b>Scenario 3: El Usuario no compra una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Usuario no cuente con una membresía <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha adquirido<br/>
             <br>
-            <b>Scenario 4: Cliente cambia de membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
+            <b>Scenario 4: El Usuario cambia de membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
         <td>EP06</td>
@@ -1536,12 +1536,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US28</td>
         <td>Reporte de contribución de huella de carbono </td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> visualizar mi aporte  a la sostenibilidad 
         <b>Para</b> medir mi reducción de huella de carbono </td>
         <td>
-            <b>Scenario 1: Cliente observa el reporte de sostenibilidad </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Mi Perfil” <br> 
+            <b>Scenario 1: El Usuario observa el reporte de sostenibilidad </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Mi Perfil” <br> 
             <b>Cuando</b> el sistema muestre la opción de "Mi huella"<br><b>Y</b> se confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un reporte de los datos de la huella de carbono reducida 
         <td>EP06</td>
@@ -1549,17 +1549,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
        <tr>
         <td>US29</td>
         <td>Cancelar suscripción </td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> cancelar mi suscripción
         <b>Para</b> ya no seguir teniendo cobros de esta. </td>
         <td>
-            <b>Scenario 1: Cliente cancela una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
+            <b>Scenario 1: El Usuario cancela una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
             <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> se confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha cancelado con éxito.<br/>
             <br>
-            <b>Scenario 2: Cliente no cancela una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
+            <b>Scenario 2: El Usuario no cancela una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
             <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> no confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
