@@ -2839,20 +2839,67 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 ### 5.2.2.1. Sprint Planning 2
 
-| **Sprint #**                        | Sprint 2                                                                                                                                                                                                                                                                              |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                       |
-| **Date**                            | 15-09-2024                                                                                                                                                                                                                                                                            |
-| **Time**                            | 07:00 PM                                                                                                                                                                                                                                                                              |
-| **Location**                        | Canal de Voz de Discord                                                                                                                                                                                                                                                               |
-| **Prepared By**                     | Diestra Zambrano, Adriana María                                                                                                                                                                                                                                                       |
-| **Attendees (to planning meeting)** | Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto                                                                                                                                                                |
-| **Sprint 2 Review Summary**         | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se logró completar el landing page, así como el despliegue de este. |
-| **Sprint 2 Retrospective Summary**  | Oportunidades de mejora: Se vio mejoras en el equipo en comparación al sprint anterior en la gestión de tiempos del equipo y en completar las tareas asignadas.                                                                                                                       |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                       |
-| **Sprint 2 Goal**                   | **Objetivos:**<br>Terminar el desarrollo del front-end y desplegarlo<br>**Métrica:** Poder visualizar el Front-End desplegado.                                                                                                                                                        |
-| **Sprint 1 Velocity**               | 49                                                                                                                                                                                                                                                                                    |
-| **Sum of Story Points**             | 49                                                                                                                                                                                                                                                                                    |
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 15-09-2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 7:00 pm - 9:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Canal de Voz de Discord</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Adriana María Diestra Zambrano</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            Adriana María Diestra Zambrano<br>
+            Eduard Gedeon Travezaño Patiño<br>
+            Yair Christofer Aru Acevedo<br>
+            Enrique Manuel Villon Amez<br>
+            Fabio Ernesto Horna Silva<br>
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada mediante Vercel. Se llegó a
+          cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 1 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar las tareas con mayor
+          puntualidad. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td> El objetivo del Sprint 2 es optimizar la experiencia del usuario en la landing page y mejorar la gestión de vehículos en alquiler. Se implementarán funcionalidades clave para que los propietarios puedan registrar y gestionar sus vehículos de forma eficiente.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td> 27 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 27 </td>
+      </tr>
+</table>
+
 
 ### 5.2.2.2. Sprint Backlog 2
 
