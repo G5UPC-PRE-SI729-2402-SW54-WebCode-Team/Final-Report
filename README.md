@@ -3030,8 +3030,8 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
      </tr>
      <tr>
           <td style="font-weight: bold;"> Sprint 3 Goal</td>
-          <td> Nuestro enfoque es mejorar la experiencia de clientes y propietarios mediante la optimización de la gestión de vehículos y reservas. Implementaremos herramientas que faciliten la toma de decisiones informadas y el seguimiento de las reservas, proporcionando a los clientes una manera sencilla de seleccionar y gestionar sus opciones de alquiler, con visibilidad sobre sus reservas y reseñas. Para los propietarios, esto permitirá una gestión eficaz de la información de sus vehículos y servicios, mejorando la calidad del servicio ofrecido. Además, proporcionaremos una API para facilitar al equipo de desarrollo la integración y gestión de vehículos y reservas.
-Consideraremos esto logrado cuando los clientes puedan hacer reservas informadas, agendar y cancelar sus solicitudes fácilmente, mientras que los propietarios puedan crear, editar y eliminar vehículos y servicios, optimizando así la calidad de su gestión. </td>
+          <td> Nuestro enfoque es mejorar la experiencia de los visitantes en la landing page, optimizar la gestión de vehículos para los arrendatarios y propietarios en la web app, y proporcionar una API eficiente para que nosotros, el equipo de desarrollo, integremos y gestionemos funcionalidades de vehículos y reservas. Creemos que esto facilitará la toma de decisiones informadas, simplificará la selección y administración de alquileres, y permitirá una integración eficaz.
+Se confirmará cuando los visitantes puedan navegar la landing page sin dificultades, los arrendatarios y propietarios gestionen sus opciones de alquiler de manera eficiente, y el equipo de desarrollo pueda implementar nuevas funcionalidades mediante la API.</td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sprint 3 Velocity </td>
