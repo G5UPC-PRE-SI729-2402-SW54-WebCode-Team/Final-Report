@@ -1615,6 +1615,147 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <b>Entonces</b> La API proporcionará un endpoint que devuelva el historial completo del usuario. <br/>
         <td>EP07</td>
     </tr>
+    <tr>
+        <td>TS01</td>
+        <td>Endpoint para vehículos por propietario</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para obtener todos los vehículos de un propietario
+        <b>Para</b> permitir consultar la flota de vehículos asociada a cada propietario </td>
+        <td>
+            <b>Scenario 1: Obtención exitosa de vehículos </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK con la lista de vehículos del propietario<br/>
+	    <b>Y</b> debe incluir la paginación correspondiente.<br/>
+	<br>
+            <b>Scenario 2: Propietario no encontrado </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId que no existe </b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe incluir un mensaje indicando que el propietario no existe.<br/>
+        <br>
+            <b>Scenario 3: Error de formato en ownerId </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId en formato inválido</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b>debe incluir un mensaje indicando el formato correcto esperado.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS02</td>
+        <td>Endpoint para nuevo vehículo</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b>crear un endpoint para registrar nuevos vehículos
+        <b>Para</b> permitir asociar vehículos a un propietario existente </td>
+        <td>
+            <b>Scenario 1: Registro exitoso de vehículo </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"<br/>
+            <b>Cuando</b> se envía una solicitud POST con datos válidos del vehículo<br/>
+            <b>Entonces</b> la respuesta debe ser 201 Created<br/>
+	    <b>Y</b> debe incluir el header Location con la URL del nuevo recurso<br/>
+	    <b>Y</b> el vehículo debe quedar registrado en el sistema.<br/>
+	<br>
+            <b>Scenario 2: Datos inválidos o faltantes</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud POST con datos faltantes o inválidos</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe incluir un mensaje detallando los campos con error.<br/>
+        <br>
+            <b>Scenario 3: Propietario no existe </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud POST a un ownerId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b>debe indicar que el propietario no existe.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS03</td>
+        <td>Endpoint para vehículo por ID</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b>crear un endpoint para obtener un vehículo específico
+        <b>Para</b> permitir consultar los detalles completos de un vehículo</td>
+        <td>
+            <b>Scenario 1: Obtención exitosa del vehículo</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un vehicleId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe incluir todos los datos del vehículo solicitado.<br/>
+	<br>
+            <b>Scenario 2:  Vehículo no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un vehicleId que no existe</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b>  debe incluir un mensaje indicando que el vehículo no existe.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS04</td>
+        <td>Endpoint para eliminar vehículo</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para eliminar vehículos
+        <b>Para</b> permitir dar de baja vehículos del sistema</td>
+        <td>
+            <b>Scenario 1:Eliminación exitosa</b> <br/>
+            <b>Dado que</b>  el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un vehicleId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
+	    <b>Y</b> el vehículo debe ser eliminado del sistema.<br/>
+	<td>
+            <b>Scenario 2:Vehículo no encontrado</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
+            <b>Cuando</b>se envía una solicitud DELETE con un vehicleId inexistente<br/>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que el vehículo no existe.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS05</td>
+        <td>Endpoint para vehículos por tipo</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b>crear un endpoint para filtrar vehículos por tipo
+        <b>Para</b> permitir búsquedas específicas por categoría de vehículo</td>
+        <td>
+            <b>Scenario 1: Filtrado exitoso por tipo</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/type/{type}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un tipo válido<br/>
+            <b>Entonces</b>la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe incluir la lista de vehículos del tipo especificado<br/>
+	    <b>Y</b> debe incluir la paginación correspondiente.<br/>
+	<br>
+            <b>Scenario 2: Tipo de vehículo inválido</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/vehicles/type/{type}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un tipo no permitido</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe incluir los tipos de vehículos válidos.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS06</td>
+        <td>Endpoint para nuevo propietario</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b>crear un endpoint para registrar nuevos propietarios
+        <b>Para</b> permitir dar de alta dueños de vehículos en el sistema</td>
+        <td>
+            <b>Scenario 1: Registro exitoso de propietario</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners"<br/>
+            <b>Cuando</b> se envía una solicitud POST con datos válidos del propietario<br/>
+            <b>Entonces</b>la respuesta debe ser 201 Created<br/>
+	    <b>Y</b> debe incluir el header Location con la URL del nuevo recurso<br/>
+	    <b>Y</b> el propietario debe quedar registrado en el sistema.<br/>
+	<br>
+            <b>Scenario 2: Datos inválidos o faltantes</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/owners"</b>
+            <b>Cuando</b>se envía una solicitud POST con datos faltantes o inválidos</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe incluir un mensaje detallando los campos con error.<br/>
+        <br>
+            <b>Scenario 3: Propietario ya existe</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/owners"</b>
+            <b>Cuando</b>se envía una solicitud POST con un email/identificación ya registrado</b>
+            <b>Entonces</b>la respuesta debe ser 409 Conflict<br/>
+	    <b>Y</b>debe indicar que el propietario ya existe en el sistema.<br/>
+        <td>EP02</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
