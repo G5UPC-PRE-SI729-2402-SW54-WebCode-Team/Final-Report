@@ -185,9 +185,10 @@ del ABET – EAC - Student Outcome 3.
             <strong>Fabio Horna- TP1</strong>: Al desarrollar la landing page, mockups y wireframes, expliqué con claridad las decisiones de diseño a colegas de diferentes áreas y jerarquías. Durante las reuniones, presenté de manera directa cómo cada componente visual respalda los objetivos del proyecto, asegurando que todos comprendieran su propósito y valor, sin importar su especialidad técnica.<br>
             <strong>Yair Aru Acevedo- TB1</strong>: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.<br>
             <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, participó en las reuniones de equipo aportando ideas para el desarrollo de la aplicacion web y la corrección de información en el reporte.<br>
+            <strong>Yair Aru Acevedo- TB2</strong>: Durante esta entrega, realicé las entrevistas de validacion del producto. Además de participar en las ideas del sprint 3 para la creacion del backend.<br>
             <br><strong>Adriana Diestra- TB1</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
 	        <br><strong>Adriana Diestra- TP1</strong>: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.</br>
-	        <br><strong>Adriana Diestra- TP2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
+	        <br><strong>Adriana Diestra- TB2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
             <strong>Enrique Villón- TB1</strong>: Durante el desarollo de los puntos del proyecto, mostré una comunicación efectiva para entender las ideas de mi equipo, investigué sobre los requerimientos de un proyecto analizando las necesidades y las mejores que lograremos a cada segmento objetivo. <br>
             <strong>Enrique Villón- TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto. <br>
             <strong>Enrique Villón- TB2</strong>: Me comuniqué eficientemente con mi equipo para solucionar algunos problemas de estructura tanto en el diagrama de componentes y en el diagrama de clases, con ello coordinamos la estructura del backend para poder seguir implementando las interfaces de la aplicación. <br>
@@ -203,6 +204,7 @@ del ABET – EAC - Student Outcome 3.
             <strong>Fabio Horna - TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto.<br>
             <strong>Yair Aru Acevedo - TB1</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.</br>
             <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, modificó las users stories y añadió los technical stories. Además, generó los datos de la fake api.<br>
+            <strong>Yair Aru Acevedo- TB2</strong>: En esta entrega, se modificaron y actualizacion algunas users stories y technicals stories ademas de crear la primera version del backend de nuestro producto.<br>
             <strong>Enrique Villón - TB1</strong>: Durante el proyecto, cree los segmentos de negocio, tanto como la descripción principal, asimismo como los to-be mapping, user stories, impact mapping y product backlog, todo lo necesario para saber los requerimientos.
 			<strong>Enrique Villón- TP1</strong>: Con la web application se permitió aterrizar la idea de negocio, probando la experiencia de usuario y la resolución al problema mediante un software, facilitando la venta del negocio, la cantidad de clientes, y los objetivos del equipo. <br>
 			<strong>Enrique Villón- TB2</strong>: Con la nueva interface de greenmove para gestionar el viaje tenemos una mejor representación del negocio comunicandonos muy bien con el sprint 3 bien organizado, con ello pudimos desarollar las interfaces y seguir avanzando con las funcionalidades de la aplicación. <br>
@@ -384,14 +386,14 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
             <td>Estudiante de quinto ciclo de la carrera de Ingeniería de Software en la UPC. Cuento con conocimientos avanzados en Swift y  Javascript  con sus frameworks o librerias mas populares (React, Angular, React Native), además profundos conocimientos en C++, Python, AWS). Actualmente soy Mobile Developer Senior en Auna tengo mas de 5 años en la industria tecnológica. Me considero una persona comunicativa y dedicada, me gusta el trabajo en equipo y la tecnología.</td>
         </tr>
         <tr>
-            <td>Eduard Gedeon Travezaño Patiño	</td>
-            <td><img src="/assets/FotoEduard.jpg" width="370"/></td>
+            <td>George Aldo Galván Cerrón </td>
+            <td><img src="/assets/George_foto.png" width="370"/></td>
             <td>Soy Eduard, tengo 20 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que soy alguien que se adapta a lo que requiera el trabajo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Con conocimientos en distintos lenguajes de programación como C++, Python, SQL y entre otros. Además mis motivaciones me ayudan a dar lo mejor de mí y mantenerme constante apoyando al equipo en lo que se requiera.</td>
         </tr>
         <tr>
-            <td>Fabio Ernesto Horna Silva	</td>
-            <td><img src="/assets/FabioHorna.jpg" width="370"/></td>
-            <td>Soy Fabio, tengo 21 años y soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente me encuentro trabajando como analista de datos y poseo conocimientos avanzados de redes neuronales, SQL, y otras herramientas como Python, donde manejo pandas y otras herramientas para la minería de datos. Me considero una buena persona para trabajar en equipo y me gusta ayudar a mis compañeros.</td>
+            <td>Gabriel Alexander Casas Sanchez	</td>
+            <td><img src="/assets/Gabriel.png" width="370"/></td>
+            <td> Soy estudiante de la carrera de Ingenieria de Software, actualmente estoy cursando el 5to semestre en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos en desarrollo bakcend con los lenguajes de programación, tales como python, c++ y java. </td>
         </tr>
     </tbody>
 </table>
