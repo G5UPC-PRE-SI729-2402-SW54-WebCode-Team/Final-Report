@@ -1645,7 +1645,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>TS02</td>
         <td>Endpoint para nuevo vehículo</td>
         <td><b>Cómo</b> Developer
-        <b>Quiero</b>crear un endpoint para registrar nuevos vehículos
+        <b>Quiero</b> crear un endpoint para registrar nuevos vehículos
         <b>Para</b> permitir asociar vehículos a un propietario existente </td>
         <td>
             <b>Scenario 1: Registro exitoso de vehículo </b> <br/>
@@ -1672,7 +1672,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>TS03</td>
         <td>Endpoint para vehículo por ID</td>
         <td><b>Cómo</b> Developer
-        <b>Quiero</b>crear un endpoint para obtener un vehículo específico
+        <b>Quiero</b> crear un endpoint para obtener un vehículo específico
         <b>Para</b> permitir consultar los detalles completos de un vehículo</td>
         <td>
             <b>Scenario 1: Obtención exitosa del vehículo</b> <br/>
@@ -1709,19 +1709,19 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP03</td>
     </tr>
     <tr>
-        <td>TS05</td>
-        <td>Endpoint para vehículos por tipo</td>
-        <td><b>Cómo</b> Developer
-        <b>Quiero</b>crear un endpoint para filtrar vehículos por tipo
-        <b>Para</b> permitir búsquedas específicas por categoría de vehículo</td>
-        <td>
+         <td>TS05</td>
+         <td>Endpoint para vehículos por tipo</td>
+         <td><b>Cómo</b> Developer
+         <b>Quiero</b> crear un endpoint para filtrar vehículos por tipo
+         <b>Para</b> permitir búsquedas específicas por categoría de vehículo</td>
+         <td>
             <b>Scenario 1: Filtrado exitoso por tipo</b> <br/>
             <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/type/{type}"<br/>
             <b>Cuando</b> se envía una solicitud GET con un tipo válido<br/>
             <b>Entonces</b>la respuesta debe ser 200 OK<br/>
 	    <b>Y</b> debe incluir la lista de vehículos del tipo especificado<br/>
 	    <b>Y</b> debe incluir la paginación correspondiente.<br/>
-	<br>
+	 <br>
             <b>Scenario 2: Tipo de vehículo inválido</b> <br/>
             <b>Dado que</b>el Developer implementa el endpoint "/api/v1/vehicles/type/{type}"</b>
             <b>Cuando</b> se envía una solicitud GET con un tipo no permitido</b>
@@ -1730,12 +1730,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP03</td>
     </tr>
     <tr>
-        <td>TS06</td>
-        <td>Endpoint para nuevo propietario</td>
-        <td><b>Cómo</b> Developer
-        <b>Quiero</b>crear un endpoint para registrar nuevos propietarios
-        <b>Para</b> permitir dar de alta dueños de vehículos en el sistema</td>
-        <td>
+         <td>TS06</td>
+         <td>Endpoint para nuevo propietario</td>
+         <td><b>Cómo</b> Developer
+         <b>Quiero</b> crear un endpoint para registrar nuevos propietarios
+         <b>Para</b> permitir dar de alta dueños de vehículos en el sistema</td>
+         <td>
             <b>Scenario 1: Registro exitoso de propietario</b> <br/>
             <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners"<br/>
             <b>Cuando</b> se envía una solicitud POST con datos válidos del propietario<br/>
@@ -1751,10 +1751,123 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <br>
             <b>Scenario 3: Propietario ya existe</b> <br/>
             <b>Dado que</b>el Developer implementa el endpoint "/api/v1/owners"</b>
-            <b>Cuando</b>se envía una solicitud POST con un email/identificación ya registrado</b>
-            <b>Entonces</b>la respuesta debe ser 409 Conflict<br/>
+            <b>Cuando</b> se envía una solicitud POST con un email/identificación ya registrado</b>
+            <b>Entonces</b> la respuesta debe ser 409 Conflict<br/>
 	    <b>Y</b>debe indicar que el propietario ya existe en el sistema.<br/>
         <td>EP02</td>
+	</tr>
+        <tr>
+            <td>TS07</td>
+            <td>Endpoint para nueva reservación</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear el endpoint POST /api/v1/reservations
+            <b>Para</b> permitir a los clientes crear nuevas reservaciones de vehículos</td>
+        <td>
+            <b>Scenario 1: Creación exitosa de reservación</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations"<br/>
+            <b>Cuando</b> se envía una solicitud POST con datos válidos de la reservación<br/>
+            <b>Entonces</b> la respuesta debe ser 201 Created<br/>
+	    <b>Y</b> debe devolver los datos de la reservación creada<br/>
+	    <b>Y</b> debe incluir el header Location con la URL de la nueva reservación.<br/>
+	<br>
+            <b>Scenario 2: Datos inválidos de reservación</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations"</b>
+            <b>Cuando</b> se envía una solicitud POST con datos faltantes o incorrectos</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe indicar los campos con error.<br/>
+        <br>
+            <b>Scenario 3: Vehículo no disponible</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations"</b>
+            <b>Cuando</b> se envía una solicitud POST para un vehículo ya reservado en esas fechas</b>
+            <b>Entonces</b> la respuesta debe ser 409 Conflict<br/>
+	    <b>Y</b> debe indicar que el vehículo no está disponible.<br/>
+        <td>EP04</td>
+	</tr>
+        <tr>
+            <td>TS08</td>
+            <td>Endpoint para reservación por ID</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear el endpoint GET /api/v1/reservations/{reservationId}
+            <b>Para</b> permitir consultar los detalles de una reservación específica</td>
+        <td>
+            <b>Scenario 1: Consulta exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un reservationId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe devolver los datos completos de la reservación.<br/>
+	<br>
+            <b>Scenario 2: Reservación no encontrada</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un reservationId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que la reservación no existe.<br/>
+       <td>EP04</td>
+         </tr>
+         <tr>
+            <td>TS09</td>
+            <td>Endpoint para eliminar reservación</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear el endpoint DELETE /api/v1/reservations/{reservationId}
+            <b>Para</b> permitir cancelar una reservación existente</td>
+        <td>
+            <b>Scenario 1: Cancelación exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un reservationId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
+	    <b>Y</b> la reservación debe ser cancelada en el sistema.<br/>
+	 <br>
+            <b>Scenario 2: Reservación no encontrada</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"</b>
+            <b>Cuando</b> se envía una solicitud DELETE con un reservationId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+         <br>
+            <b>Scenario 3: Cancelación fuera de plazo</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"</b>
+            <b>Cuando</b> se envía una solicitud DELETE para una reservación fuera del plazo de cancelación</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe indicar que la reservación no puede ser cancelada.<br/>
+        <td>EP04</td>
+	</tr>
+        <tr>
+            <td>TS10</td>
+            <td>Endpoint para reservaciones por arrendatario</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear el endpoint GET /api/v1/reservations/tenant/{tenantId}
+            <b>Para</b> permitir a los inquilinos ver todas sus reservaciones</td>
+         <td>
+            <b>Scenario 1: Obtención exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/tenant/{tenantId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un tenantId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe devolver la lista de todas las reservaciones del arrendatario.<br/>
+	 <br>
+            <b>Scenario 2: Arrendatario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/tenant/{tenantId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un tenantId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que el arrendatario no existe<br/>
+         <td>EP04</td>
+	 </tr>
+    <tr>
+        <td>TS11</td>
+        <td>Endpoint para reservaciones por propietario</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear el endpoint GET /api/v1/reservations/owner/{ownerId}
+        <b>Para</b> permitir a los propietarios ver todas las reservaciones de sus vehículos</td>
+        <td>
+            <b>Scenario 1: Obtención exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/owner/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe devolver la lista de todas las reservaciones de los vehículos del propietario<br/>
+	<br>
+            <b>Scenario 2: Propietario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/owner/{ownerId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que el propietario no existe.<br/>
+        <td>EP04</td>
+	</tr>
     </tr>
 </table>
 
