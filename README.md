@@ -1700,7 +1700,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <b>Cuando</b> se envía una solicitud DELETE con un vehicleId válido<br/>
             <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
 	    <b>Y</b> el vehículo debe ser eliminado del sistema.<br/>
-	<td>
+	<br>
             <b>Scenario 2:Vehículo no encontrado</b> <br/>
             <b>Dado que</b>el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
             <b>Cuando</b>se envía una solicitud DELETE con un vehicleId inexistente<br/>
@@ -3301,6 +3301,70 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | enriquevillonupc  | Villon Amez, Enrique Manuel     |
 
 
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4.
+
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 4 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 8/11/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 19:00 pm - 20:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Canal de Voz de Discord </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Gabriel Alexander Casas Sanchez </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano<br>
+         Yair Christofer Aru Acevedo <br>
+         Enrique Manuel Villon Amez <br>
+         Gabriel Alexander Casas Sanchez <br>
+	 George Galván Cerrón <br>
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 4, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Además de avanzar con los endpoints del backend.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
+        <td> El sprint 4 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td> Nuestro enfoque es consolidar los avances logrados en el desarrollo de la web app y los endpoints del backend, asegurando una experiencia fluida para los usuarios finales y una integración eficiente entre el front-end y el back-end. Durante este sprint, trabajaremos en optimizar el despliegue de la web app en Vercel, mejorar las funcionalidades clave de la plataforma, y refinar los endpoints para garantizar una comunicación eficaz y robusta. Creemos que estos objetivos fortalecerán la experiencia de los usuarios, mejorarán la estabilidad del sistema y permitirán al equipo de desarrollo iterar rápidamente sobre nuevas características. Se confirmará cuando la web app funcione correctamente en Vercel, las funcionalidades principales estén completamente operativas, y los endpoints del backend estén optimizados y listos para futuras integraciones.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td> 16 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 16 </td>
+      </tr>
+</table>
+
+
 ### 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -3497,6 +3561,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.
 
 [Ver video](https://www.youtube.com/watch?v=XgWlG0t9isg&ab_channel=EnriqueVill%C3%B3n)
+
 
 ### Conclusiones
 
