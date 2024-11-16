@@ -3364,6 +3364,31 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
 </table>
 
+### 5.2.3.2. Sprint Backlog 4.
+
+En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
+
+<img src="./assets/Sprint4.png"/>
+
+Link de Trello: ---
+
+### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+
+### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+
 
 ### 5.3. Validation Interviews.
 
