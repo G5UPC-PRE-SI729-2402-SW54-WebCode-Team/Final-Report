@@ -3071,7 +3071,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 - Finalmente ingresar al enlace que  muestra el mensaje y listo, se podrá visualizar la "Landing Page" correctamente desplegada utilizando Github Pages.
 
-<img src="/assets/Paso2e.jpg">
+<img src="/assets/Paso2e.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
