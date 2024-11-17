@@ -1756,8 +1756,48 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 	    <b>Y</b>debe indicar que el propietario ya existe en el sistema.<br/>
         <td>EP02</td>
 	</tr>
+    <tr>
+        <td>TS07</td>
+        <td>Endpoint para obtener propietario por ID</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para obtener un propietario por su ID
+        <b>Para</b> permitir recuperar información específica de un propietario en el sistema</td>
+        <td>
+          <b>Scenario 1: Propietario encontrado</b> <br/>
+          <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+          <b>Cuando</b> se envía una solicitud GET con un ID válido de propietario<br/>
+          <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+      <b>Y</b> debe incluir los detalles del propietario en el cuerpo de la respuesta.<br/>
+  <br>
+            <b>Scenario 2: Propietario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un ID que no existe en el sistema<br/>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+      <b>Y</b> debe incluir un mensaje indicando que el propietario no fue encontrado.<br/>
+      <td>EP02</td>
+  </tr>
         <tr>
-            <td>TS07</td>
+            <td>TS08</td>
+            <td>Endpoint para borrar propietario por ID</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear un endpoint para borrar un propietario por su ID
+            <b>Para</b> permitir eliminar propietarios del sistema cuando sea necesario</td>
+        <td>
+            <b>Scenario 1: Eliminación exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un ID válido de propietario<br/>
+            <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
+        <b>Y</b> el propietario debe ser eliminado del sistema.<br/>
+  <br>
+            <b>Scenario 2: Propietario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un ID que no existe en el sistema<br/>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+        <b>Y</b> debe incluir un mensaje indicando que el propietario no fue encontrado.<br/>
+      <td>EP02</td>
+  </tr>
+        <tr>
+            <td>TS09</td>
             <td>Endpoint para nueva reservación</td>
             <td><b>Cómo</b> Developer
             <b>Quiero</b> crear un endpoint para registrar nuevas reservaciones 
@@ -1784,7 +1824,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
 	</tr>
         <tr>
-            <td>TS08</td>
+            <td>TS10</td>
             <td>Endpoint para reservación por ID</td>
             <td><b>Cómo</b> Developer
             <b>Quiero</b> crear un endpoint para consultar reservaciones por ID
@@ -1804,7 +1844,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
        <td>EP04</td>
          </tr>
          <tr>
-            <td>TS09</td>
+            <td>TS11</td>
             <td>Endpoint para eliminar reservación</td>
             <td><b>Cómo</b> Developer
             <b>Quiero</b> crear un endpoint para eliminar reservaciones existentes
@@ -1829,7 +1869,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>EP04</td>
 	</tr>
         <tr>
-            <td>TS10</td>
+            <td>TS12</td>
             <td>Endpoint para reservaciones por arrendatario</td>
             <td><b>Cómo</b> Developer
             <b>Quiero</b> crear un endpoint para obtener reservaciones por arrendatario
@@ -1849,7 +1889,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
          <td>EP04</td>
 	 </tr>
     <tr>
-        <td>TS11</td>
+        <td>TS13</td>
         <td>Endpoint para reservaciones por propietario</td>
         <td><b>Cómo</b> Developer
         <b>Quiero</b> crear un endpoint para obtener reservaciones por propietario
