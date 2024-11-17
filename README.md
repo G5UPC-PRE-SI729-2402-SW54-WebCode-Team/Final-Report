@@ -1760,7 +1760,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <td>TS07</td>
             <td>Endpoint para nueva reservación</td>
             <td><b>Cómo</b> Developer
-            <b>Quiero</b> crear el endpoint POST /api/v1/reservations
+            <b>Quiero</b> crear un endpoint para registrar nuevas reservaciones 
             <b>Para</b> permitir a los clientes crear nuevas reservaciones de vehículos</td>
         <td>
             <b>Scenario 1: Creación exitosa de reservación</b> <br/>
@@ -1787,7 +1787,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <td>TS08</td>
             <td>Endpoint para reservación por ID</td>
             <td><b>Cómo</b> Developer
-            <b>Quiero</b> crear el endpoint GET /api/v1/reservations/{reservationId}
+            <b>Quiero</b> crear un endpoint para consultar reservaciones por ID
             <b>Para</b> permitir consultar los detalles de una reservación específica</td>
         <td>
             <b>Scenario 1: Consulta exitosa</b> <br/>
@@ -1807,8 +1807,8 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <td>TS09</td>
             <td>Endpoint para eliminar reservación</td>
             <td><b>Cómo</b> Developer
-            <b>Quiero</b> crear el endpoint DELETE /api/v1/reservations/{reservationId}
-            <b>Para</b> permitir cancelar una reservación existente</td>
+            <b>Quiero</b> crear un endpoint para eliminar reservaciones existentes
+            <b>Para</b> permitir eliminar una reservación existente</td>
         <td>
             <b>Scenario 1: Cancelación exitosa</b> <br/>
             <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"<br/>
@@ -1832,8 +1832,8 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <td>TS10</td>
             <td>Endpoint para reservaciones por arrendatario</td>
             <td><b>Cómo</b> Developer
-            <b>Quiero</b> crear el endpoint GET /api/v1/reservations/tenant/{tenantId}
-            <b>Para</b> permitir a los inquilinos ver todas sus reservaciones</td>
+            <b>Quiero</b> crear un endpoint para obtener reservaciones por arrendatario
+            <b>Para</b> permitir a los arrendatarios ver todas sus reservaciones</td>
          <td>
             <b>Scenario 1: Obtención exitosa</b> <br/>
             <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/tenant/{tenantId}"<br/>
@@ -1852,7 +1852,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>TS11</td>
         <td>Endpoint para reservaciones por propietario</td>
         <td><b>Cómo</b> Developer
-        <b>Quiero</b> crear el endpoint GET /api/v1/reservations/owner/{ownerId}
+        <b>Quiero</b> crear un endpoint para obtener reservaciones por propietario
         <b>Para</b> permitir a los propietarios ver todas las reservaciones de sus vehículos</td>
         <td>
             <b>Scenario 1: Obtención exitosa</b> <br/>
@@ -2139,7 +2139,85 @@ Este Impact Map está diseñado para usuarios que buscan alquilar vehículos el�
     <td valign="top"> Cómo Developer implementaré un api para obtener el historial de viajes por usuario.</td>
     <td valign="top"> 5 </td>
   </tr>
+      <tr>
+    <td valign="top"> 34 </td>
+    <td valign="top"> TS01 </td>
+    <td valign="top"> Endpoint para vehículos por propietario </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para obtener todos los vehículos de un propietario para permitir consultar la flota de vehículos asociada a cada propietario.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 35 </td>
+    <td valign="top"> TS02 </td>
+    <td valign="top"> Endpoint para nuevo vehículo </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para registrar nuevos vehículos para permitir asociar vehículos a un propietario existente.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 36 </td>
+    <td valign="top"> TS03 </td>
+    <td valign="top"> Endpoint para vehículo por ID </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para obtener un vehículo específico para permitir consultar los detalles completos de un vehículo.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 37 </td>
+    <td valign="top"> TS04 </td>
+    <td valign="top"> Endpoint para eliminar vehículo </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para eliminar vehículos para permitir dar de baja vehículos del sistema.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 38 </td>
+    <td valign="top"> TS05 </td>
+    <td valign="top"> Endpoint para vehículos por tipo </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para filtrar vehículos por tipo para permitir búsquedas específicas por categoría de vehículo.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 39 </td>
+    <td valign="top"> TS06 </td>
+    <td valign="top"> Endpoint para nuevo propietario </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para registrar nuevos propietarios para permitir dar de alta dueños de vehículos en el sistema.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 40 </td>
+    <td valign="top"> TS07 </td>
+    <td valign="top"> Endpoint para nueva reservación </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para registrar nuevas reservaciones para permitir a los clientes crear nuevas reservaciones de vehículos.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 41 </td>
+    <td valign="top"> TS08 </td>
+    <td valign="top"> Endpoint para reservación por ID </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para consultar reservaciones por ID para permitir consultar los detalles de una reservación específica.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 42 </td>
+    <td valign="top"> TS09 </td>
+    <td valign="top"> Endpoint para eliminar reservación </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para eliminar reservaciones existentes para permitir eliminar una reservación existente.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 43 </td>
+    <td valign="top"> TS10 </td>
+    <td valign="top"> Endpoint para reservaciones por arrendatario </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para obtener reservaciones por arrendatario para permitir a los arrendatarios ver todas sus reservaciones.</td>
+    <td valign="top"> 5 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 44 </td>
+    <td valign="top"> TS11 </td>
+    <td valign="top"> Endpoint para reservaciones por propietario </td>
+    <td valign="top"> Como Developer, crear un endpoint para obtener reservaciones por propietario para permitir a los propietarios ver todas las reservaciones de sus vehículos.</td>
+    <td valign="top"> 5 </td>
+  </tr>
 
+ 
 </table>
 
 ---
