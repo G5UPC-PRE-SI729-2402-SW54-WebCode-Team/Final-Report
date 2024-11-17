@@ -3565,20 +3565,39 @@ Link de Trello: ---
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 
+Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web completa, incluyendo tanto el frontend como el backend. La plataforma se encuentra totalmente funcional, ofreciendo a los usuarios una experiencia integrada que permite la creación de cuentas, búsqueda de vehículos y la gestión de suscripciones.
+
+Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
 
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
+Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web en su totalidad, integrando tanto el frontend como el backend. La plataforma ahora permite una experiencia completa que incluye opciones de creación de usuarios, búsqueda de vehículos, visualización de suscripciones y la selección de planes adecuados para los usuarios.
+
+Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
 
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Para el presente sprint, se ha logrado la implementación completa del backend, lo que ha permitido alcanzar la funcionalidad integral de la aplicación web. Para ello, se emplearon herramientas clave que facilitaron el desarrollo colaborativo y organizado.
 
+Git: Utilizado como sistema de control de versiones para gestionar los cambios en el proyecto de manera eficiente y colaborativa.
+Gitflow: Adoptado como flujo de trabajo colaborativo, lo que permitió estructurar el desarrollo en ramas específicas para cada funcionalidad, facilitando la integración y la resolución de conflictos.
+GitHub: Plataforma empleada para alojar el repositorio remoto del proyecto, brindando un entorno seguro y centralizado para almacenar todas las versiones del proyecto.
+
+Con la implementación completa del backend, se asegura que la aplicación web esté lista para cumplir con todos los requisitos funcionales establecidos.
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint.
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
 
+| Username (GitHub) | Nombre                          |
+| ----------------- | ------------------------------- |
+| adriiiiiiiiiiiii  | Diestra Zambrano, Adriana María |
+| Yair360           | Aru Acevedo, Yair Christofer    |
+| enriquevillonupc  | Villon Amez, Enrique Manuel     |
+| Alexander Casas   | Casas Sanchez, Gabriel Alexander|
+| GeorgeGC23        | Galván Cerrón, George alojado   |
 
 
 ### 5.3. Validation Interviews.
