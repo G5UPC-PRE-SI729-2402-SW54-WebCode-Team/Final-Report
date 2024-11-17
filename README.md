@@ -3710,6 +3710,531 @@ Link de Trello: [Trello](https://trello.com/invite/b/6725291f6cb2662f76f41656/AT
     </tr>
 </table>
 
+### 5.2.4.3 Development Evidence fo Sprint Review.
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">f9103142</td>
+    <td colspan="1">chore: setup project.</td>
+    <td colspan="1">chore: setup project.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">137d4b2b</td>
+    <td colspan="1">chore: added dependencies.</td>
+    <td colspan="1">chore: added dependencies.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">5b7c9f96</td>
+    <td colspan="1">feat(shared): added shared context.</td>
+    <td colspan="1">feat(shared): added shared context.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">a3869f98</td>
+    <td colspan="1">chore: setup application properties.</td>
+    <td colspan="1">chore: setup application properties.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">371cac4b</td>
+    <td colspan="1">feat(owners): added owner entity and its value objects.</td>
+    <td colspan="1">feat(owners): added owner entity and its value objects.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">b98ad137</td>
+    <td colspan="1">feat(vehicle): added vehicle entity and its value objects.</td>
+    <td colspan="1">feat(vehicle): added vehicle entity and its value objects.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">60b541fc</td>
+    <td colspan="1">feat(vehicle): added commands.</td>
+    <td colspan="1">feat(vehicle): added commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">e5f4f372</td>
+    <td colspan="1">feat(owners): added commands.</td>
+    <td colspan="1">feat(owners): added commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">8febf556</td>
+    <td colspan="1">feat(vehicles): added queries.</td>
+    <td colspan="1">feat(vehicles): added queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">cd861208</td>
+    <td colspan="1">feat(owners): added queries.</td>
+    <td colspan="1">feat(owners): added queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">058ecef8</td>
+    <td colspan="1">docs(owners): added docs to commands and queries.</td>
+    <td colspan="1">docs(owners): added docs to commands and queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">c969f68a</td>
+    <td colspan="1">docs(vehicles): added docs to commands and queries.</td>
+    <td colspan="1">docs(vehicles): added docs to commands and queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">aa114d65</td>
+    <td colspan="1">docs(owners): added query and command services.</td>
+    <td colspan="1">docs(owners): added query and command services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">5f380112</td>
+    <td colspan="1">docs(vehicles): added query and command services.</td>
+    <td colspan="1">docs(vehicles): added query and command services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">98c011f8</td>
+    <td colspan="1">feat(vehicles): added repository.</td>
+    <td colspan="1">feat(vehicles): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">06a1cb1e</td>
+    <td colspan="1">feat(owners): added repository.</td>
+    <td colspan="1">feat(owners): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">5329fc20</td>
+    <td colspan="1">feat(owners): added query and command services implementations.</td>
+    <td colspan="1">feat(owners): added query and command services implementations.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">acf15f25</td>
+    <td colspan="1">feat(vehicles): added query and command services implementations.</td>
+    <td colspan="1">feat(vehicles): added query and command services implementations.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">19e54b47</td>
+    <td colspan="1">feat(vehicles): added query implementation.</td>
+    <td colspan="1">feat(vehicles): added query implementation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">32708ab4</td>
+    <td colspan="1">feat(vehicles): added resources for api rest development.</td>
+    <td colspan="1">feat(vehicles): added resources for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">2220c500</td>
+    <td colspan="1">feat(owners): added resources for api rest development.</td>
+    <td colspan="1">feat(owners): added resources for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">7c03301d</td>
+    <td colspan="1">feat(owners): added assemblers for api rest development.</td>
+    <td colspan="1">feat(owners): added assemblers for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">07a77b72</td>
+    <td colspan="1">feat(vehicles): added assemblers for api rest development.</td>
+    <td colspan="1">feat(vehicles): added assemblers for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">5daf34ba</td>
+    <td colspan="1">feat(vehicles): added api rest controllers.</td>
+    <td colspan="1">feat(vehicles): added api rest controllers.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">03d1d054</td>
+    <td colspan="1">feat(owners): added api rest controllers.</td>
+    <td colspan="1">feat(owners): added api rest controllers.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">849686b0</td>
+    <td colspan="1">feat(owners): added delete endpoint.</td>
+    <td colspan="1">feat(owners): added delete endpoint.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">2c154050</td>
+    <td colspan="1">feat(vehicles): added get by status and get by type endpoints.</td>
+    <td colspan="1">feat(vehicles): added get by status and get by type endpoints.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">3098399f</td>
+    <td colspan="1">feat(memberships-tenants): added entity and related value objects.</td>
+    <td colspan="1">feat(memberships-tenants): added entity and related value objects.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">26a3db80</td>
+    <td colspan="1">feat(memberships):queries and commands.</td>
+    <td colspan="1">feat(memberships):queries and commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">2c0eceef</td>
+    <td colspan="1">feat(tenants): added queries and commands.</td>
+    <td colspan="1">feat(tenants): added queries and commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">a89e89eb</td>
+    <td colspan="1">docs(memberships-tenants): added documentation.</td>
+    <td colspan="1">docs(memberships-tenants): added documentation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">ae574149</td>
+    <td colspan="1">docs(tenants): added queries and commands services.</td>
+    <td colspan="1">docs(tenants): added queries and commands services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">8bb533b4</td>
+    <td colspan="1">docs(memberships): added queries and commands services.</td>
+    <td colspan="1">docs(memberships): added queries and commands services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">eb829f3c</td>
+    <td colspan="1">docs(memberships): added repository.</td>
+    <td colspan="1">docs(memberships): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">ece81880</td>
+    <td colspan="1">docs(tenants): added repository.</td>
+    <td colspan="1">docs(tenants): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">85073d88</td>
+    <td colspan="1">fix(memberships): fixed membership location.</td>
+    <td colspan="1">fix(memberships): fixed membership location.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">b8d33cc5</td>
+    <td colspan="1">feat(memberships): added command and query services implementation.</td>
+    <td colspan="1">feat(memberships): added command and query services implementation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">efb7e25e</td>
+    <td colspan="1">feat(tenants): added command and query services implementation.</td>
+    <td colspan="1">feat(tenants): added command and query services implementation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">eafe746b</td>
+    <td colspan="1">fix(memberships-tenants): added missing annotations.</td>
+    <td colspan="1">fix(memberships-tenants): added missing annotations.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">042e75cc</td>
+    <td colspan="1">fix(memberships): added resources.</td>
+    <td colspan="1">fix(memberships): added resources.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">f868bd68</td>
+    <td colspan="1">fix(tenants): added resources.</td>
+    <td colspan="1">fix(tenants): added resources.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">e6b0c682</td>
+    <td colspan="1">fix(memberships): added assemblers.</td>
+    <td colspan="1">fix(memberships): added assemblers.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">d6bd242f</td>
+    <td colspan="1">fix(tenants): added assemblers.</td>
+    <td colspan="1">fix(tenants): added assemblers.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">862a6f2a</td>
+    <td colspan="1">fix(tenants): added missing annotations.</td>
+    <td colspan="1">fix(tenants): added missing annotations.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">bed1938e</td>
+    <td colspan="1">fix(tenants): added rest api controller.</td>
+    <td colspan="1">fix(tenants): added rest api controller.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">0d124c04</td>
+    <td colspan="1">fix(memberships): added rest api controller.</td>
+    <td colspan="1">fix(memberships): added rest api controller.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management</td>    
+    <td colspan="1">4d103d61</td>
+    <td colspan="1">fix(reservations): added entity.</td>
+    <td colspan="1">fix(reservations): added entity.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">150c1e5d</td>
+    <td colspan="1">fix(reservations): added queries and commands.</td>
+    <td colspan="1">fix(reservations): added queries and commands.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">819c446e</td>
+    <td colspan="1">fix(reservations): added queries and commands services.</td>
+    <td colspan="1">fix(reservations): added queries and commands services.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">3043ef78</td>
+    <td colspan="1">fix(reservations): added repository.</td>
+    <td colspan="1">fix(reservations): added repository.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">f318c215</td>
+    <td colspan="1">fix(reservations): added queries and commands services implementations.</td>
+    <td colspan="1">fix(reservations): added queries and commands services implementations.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">6f28fa0c</td>
+    <td colspan="1">fix(reservations): added resources.</td>
+    <td colspan="1">fix(reservations): added resources.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">491b4521</td>
+    <td colspan="1">fix(reservations): added assemblers.</td>
+    <td colspan="1">fix(reservations): added assemblers.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">5f4822f2</td>
+    <td colspan="1">fix(reservations): added rest api controller.</td>
+    <td colspan="1">fix(reservations): added rest api controller.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">29b36160</td>
+    <td colspan="1">feat(cors): added cors to controllers.</td>
+    <td colspan="1">feat(cors): added cors to controllers.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">bc270151</td>
+    <td colspan="1">feat(vehicles): added update status command.</td>
+    <td colspan="1">feat(vehicles): added update status command.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">c8fae1c7</td>
+    <td colspan="1">feat(reservations): added update status command.</td>
+    <td colspan="1">feat(reservations): added update status command.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">94720c64</td>
+    <td colspan="1">feat(reservations): updated resource.</td>
+    <td colspan="1">feat(reservations): updated resource.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">ac9b7127</td>
+    <td colspan="1">feat(memberships-tenants): updated resources and assemblers.</td>
+    <td colspan="1">feat(memberships-tenants): updated resources and assemblers.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">464b9c1a</td>
+    <td colspan="1">feat(vehicles): added acl layer.</td>
+    <td colspan="1">feat(vehicles): added acl layer.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">682656a0</td>
+    <td colspan="1">feat(reservations): added acl layer and validation in command implementation.</td>
+    <td colspan="1">feat(reservations): added acl layer and validation in command implementation.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">76f3483a</td>
+    <td colspan="1">fix(vehicles): refactor latitude and longitude attributes on entity reservations.</td>
+    <td colspan="1">fix(vehicles): refactor latitude and longitude attributes on entity reservations.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">ef8a0b41</td>
+    <td colspan="1">fix(reservations): added reservation time to resource.</td>
+    <td colspan="1">fix(reservations): added reservation time to resource.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">70c67425</td>
+    <td colspan="1">fix(reservations): added business rule only one reservation active per tenant.</td>
+    <td colspan="1">fix(reservations): added business rule only one reservation active per tenant.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+</table>
 
 ### 5.2.4.5.Execution Evidence for Sprint Review.
 
