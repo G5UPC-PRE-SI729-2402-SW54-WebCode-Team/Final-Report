@@ -3390,12 +3390,12 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
         </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
-        <td>Durante el desarrolo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
-        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
@@ -3571,12 +3571,12 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
         </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 4 Review Summary </td>
-        <td>Durante el desarrolo del Sprint 4, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Además de avanzar con los endpoints del backend.</td>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Además de avanzar con los endpoints del backend.</td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
-        <td> El sprint 4 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
@@ -3595,29 +3595,162 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
 </table>
 
-### 5.2.3.2. Sprint Backlog 4.
+
+### 5.2.4.2. Sprint Backlog 4.
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
 
 <img src="./assets/Sprint4.png"/>
 
-Link de Trello: ---
+Link de Trello: [Trello](https://trello.com/invite/b/6725291f6cb2662f76f41656/ATTI836966ddfb166e491564ee941d30d59d0990D558/greenmove-sprint4)
 
-### 5.2.3.5.Execution Evidence for Sprint Review.
+<table border="1px" align="center"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> TS01-EP03</td>
+      <td colspan="3">Endpoint para vehículos por propietario</td>
+      <td> W01  </td>
+      <td> Endpoint vehículos de un propietario </td>
+      <td>Implementar el endpoint para vehículos. </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS02-EP03</td>
+      <td colspan="3">Endpoint para nuevo vehículo</td>
+      <td> W02  </td>
+      <td> Endpoint para nuevo vehículo </td>
+      <td>Implementar el endpoint para nuevo vehículo. </td>
+      <td> 4  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+   <tr>
+      <td> TS03-EP03 </td>
+      <td colspan="3">Endpoint para vehículo por ID</td>
+      <td> W03  </td>
+      <td> Endpoint vehículo por ID </td>
+      <td>Implementar el endpoint vehículo por ID </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS04-EP03</td>
+      <td colspan="3">Endpoint para eliminar vehículo</td>
+      <td> W04  </td>
+      <td> Endpoint eliminar vehículo </td>
+      <td>Implementar el endpoint eliminar vehículo</td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS05-EP03 </td>
+      <td colspan="3">Endpoint para vehículos por tipo</td>
+      <td> W05  </td>
+      <td> Endpoint vehículos por tipo</td>
+      <td>Implementar el endpoint vehículos por tipo </td>
+      <td> 2  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS06-EP02 </td>
+      <td colspan="3">Endpoint para nuevo propietario</td>
+      <td> W06  </td>
+      <td> Endpoint nuevo propietario</td>
+      <td>Implementar el endpoint nuevo propietario </td>
+      <td> 2  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+  <tr>
+      <td> TS07-EP04</td>
+      <td colspan="3">Endpoint para nueva reservación </td>
+      <td> W07  </td>
+      <td> Endpoint nueva reservación</td>
+      <td>Implementar el endpoint nueva reservación </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+   <tr>
+      <td> TS08-EP04</td>
+      <td colspan="3">Endpoint para reservación por ID </td>
+      <td> W08  </td>
+      <td> Endpoint reservación por ID</td>
+      <td>Implementar el endpoint reservación por ID </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+     </tr>
+    <tr>
+      <td> TS09-EP04</td>
+      <td colspan="3">Endpoint para eliminar reservación </td>
+      <td> W09  </td>
+      <td> Endpoint eliminar reservación</td>
+      <td>Implementar el endpoint eliminar reservación </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+     </tr>
+    <tr>
+      <td> TS10-EP04</td>
+      <td colspan="3">Endpoint para reservaciones por arrendatario </td>
+      <td> W10  </td>
+      <td> Endpoint reservaciones por arrendatario</td>
+      <td>Implementar el endpoint reservaciones por arrendatario</td>
+      <td> 5  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+  <tr>
+      <td> TS11-EP04</td>
+      <td colspan="3">Endpoint para reservaciones por propietario</td>
+      <td> W11  </td>
+      <td> Endpoint reservaciones por propietario</td>
+      <td>Implementar el endpoint reservaciones por propietario</td>
+      <td> 5  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+</table>
+
+
+### 5.2.4.5.Execution Evidence for Sprint Review.
 
 Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web completa, incluyendo tanto el frontend como el backend. La plataforma se encuentra totalmente funcional, ofreciendo a los usuarios una experiencia integrada que permite la creación de cuentas, búsqueda de vehículos y la gestión de suscripciones.
 
 Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
 
 
-### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web en su totalidad, integrando tanto el frontend como el backend. La plataforma ahora permite una experiencia completa que incluye opciones de creación de usuarios, búsqueda de vehículos, visualización de suscripciones y la selección de planes adecuados para los usuarios.
 
 Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
 
 
-### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
 Para el presente sprint, se ha logrado la implementación completa del backend, lo que ha permitido alcanzar la funcionalidad integral de la aplicación web. Para ello, se emplearon herramientas clave que facilitaron el desarrollo colaborativo y organizado.
 
@@ -3627,7 +3760,7 @@ GitHub: Plataforma empleada para alojar el repositorio remoto del proyecto, brin
 
 Con la implementación completa del backend, se asegura que la aplicación web esté lista para cumplir con todos los requisitos funcionales establecidos.
 
-### 5.2.3.8.Team Collaboration Insights during Sprint.
+### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
 
