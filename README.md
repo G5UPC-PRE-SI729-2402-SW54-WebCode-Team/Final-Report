@@ -2888,60 +2888,27 @@ Link del Video:
 
 ### 4.7.1. Class Diagrams
 
-Profile Management:
-En el ámbito de la administración de perfiles, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
-
-<img src="/assets/Profile Management.PNG" width="900"/>
-
-Rental Management:
-En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión de las reservas de los vehículos en el sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
-<img src="/assets/Rental Management.PNG" width="900"/>
-
-Payment:
-El ámbito de los procesos de pago incluye todas las funcionalidades y procedimientos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la ejecución y registro de transacciones.
-<img src="/assets/Payment.PNG" width="900"/>
+<img src="assets/chapter_4/class_diagram.png">
 
 ### 4.7.2. Class Dictionary
-**Context: Profile Management:**
 
-- Profile: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
-- User: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
-- Suscription: Una interfaz que define las características y beneficios de la suscripción de un usuario.
-- SuscriptionFactory: Una fábrica que implementa suscripciones.
-- UserProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean un vehículo de forma temporal.
-- OwnerProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean poner en alquiler su vehículo.
-
-**Context: Rental Management:**
-- Rental: Entidad que representa el proceso de alquiler de un vehículo. Contiene información como el usuario que alquila, el vehículo alquilado, la duración del alquiler, el costo y el estado.
-- RentalFactory: Clase que crea instancias de Rental. Se encarga de crear un alquiler cuando una reserva se activa y transforma una reserva en un alquiler.
-- RentalRepository: Clase encargada de gestionar el almacenamiento y la recuperación de datos relacionados con los alquileres. Proporciona métodos para agregar, obtener o eliminar registros de alquiler en una base de datos.
-- Reserve: Tabla que gestiona las reservas de vehículos. Contiene información sobre el usuario, el vehículo reservado, el tiempo de inicio y fin, y el estado de la reserva.
-- GreenVehicle: Clase base que representa cualquier tipo de vehículo ecológico. Contiene atributos y métodos comunes como el nivel de batería, ubicación, estado, y gestión de mantenimiento.
-- GreenScooter: Clase hija de GreenVehicle que representa un scooter eléctrico. Almacena atributos específicos como la velocidad máxima y el tamaño de las ruedas.
-- GreenBycicle: Clase hija de GreenVehicle que representa una bicicleta. Contiene atributos como el número de marchas y el tipo de bicicleta.
-- GreenCar: Clase hija de GreenVehicle que representa un auto eléctrico. Sus atributos específicos incluyen el número de asientos y el tiempo de carga.
-
-**Context: Payment:**
-
-- PaymentProcessor: Interfaz para el procesamiento de pagos.
-- CreditCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de crédito.
-- DebitCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de débito.
-- PaymentProcessorFactory: Interfaz para la creación de objetos PaymentProcessor.
-- CreditCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de CreditCardProcessor.
-- DebitCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de DebitCardProcessor.
-- TransactionEmitter: Emite transacciones financieras.
-- Transaction: Representa una transacción financiera.
-- TransactionRepository: Interfaz para el almacenamiento y recuperación de transacciones financieras.
+- Vehicle: Entidad que representa un vehículo, contiene tanto su información como algunos datos sobre su dueño.
+- Owner: Entidad que representa los dueños de de vehivulos de transporte elétricos.
+- Tenant: Entidad que representa a aquellas personas que desean alquilar(arredatarios) un vehiculo.
+- Membership: Entidad que representa la membresia de un arrendatario, dependiendo de esta el arrendatario tendrá cierta limitaciones.
+- Reservation: Entidad que representa una reserva realizada por un arrendatario hacia un vehiculo en específico.
+- MembershipType: Enumarable que contiene los distintos tipo de membresias que puede tener un arrendatario.
+- PersonName: Clase inmutable que contiene la composición de un nombre.
+- StreetAddress: Clase inmutable que contiene la composición de una dirección.
+- VehicleStatus: Enumerable que contienen los distintos tipos de estados que se le pueden asignar a un vehículo.
+- VehicleType: Enumerable que contienen los distintos tipos de vehículos.
+- ReservationStatus: Enumerable que contienen los distintos tipos de estados que se le pueden asignar a una reserva.
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-<img src="/assets/Database diagram.png" width="900"/>
-
----
-
----
+<img src="/assets/chapter_4/database_diagram.png" width="900"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
