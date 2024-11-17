@@ -3053,17 +3053,25 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 <img src="./assets/Paso2.png"/>
 
-- Clonar el repositorio en Webstorm utilizando la URL del repositorio.
+- Ir a los ajustes del repositorio y seleccionar "Pages".
 
-<img src="./assets/Paso3.png"/>
+  <img src="./assets/Paso2a.png"/>
 
-<img src="./assets/Paso4.png"/>
+- Seleccionar el tipo de despligue, en ese caso es "Deploy from a branch" ya que solo es una Landing Page.
 
-- Ejecutar el archivo index.html para visualizar la landing page en el navegador.
+  <img src="./assets/Paso2b.png"/>
+  
+- Luego seleccionar la rama que se quiere desplegar y el directorio en el que se encuentra el index.html.
 
-<img src="./assets/Paso5.png"/>
+  <img src="./assets/Paso2c.png"/>
 
-<img src="/assets/LaningPage-evidence.jpg">
+- Esperar un par de minutos hasta que termine de buildear la pagina y salga el mensaje de "Your site is alive at ".
+
+  <img src="./assets/Paso2d.png"/>
+
+- Finalmente ingresar al enlace que  muestra el mensaje y listo, se podrá visualizar la "Landing Page" correctamente desplegada utilizando Github Pages.
+
+<img src="/assets/Paso2e.jpg">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
