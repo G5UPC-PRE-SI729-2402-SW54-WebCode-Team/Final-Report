@@ -4616,7 +4616,10 @@ Para desplegar la LandingPage se realizó los siguientes pasos:
 
 <img src="/assets/Paso2e.png">
 
+- Enlace a la landing page: <a href="https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/">https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/</a>
+
 **Despliegue del backend**
+
 Para desplegar el backend de la aplicación se necesita de una base de datos en la nube, esto debido a que el API estará en funcionamiento constante.
 Por eso antes de desplegar el API se requiere de una base ded atos en la nube, para esto se hizo uso de la plataaforma Neon, la cual es una plataforma que permite la creación de una base de datos postgre de manera gratuita.
 Para poder crear esta base de datos primero debes entrar a su página web: <a href="https://neon.tech">https://neon.tech</a>, una vez iniciado sesión te pedira que ingreses los datos para la creación de la base de datos:
