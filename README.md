@@ -46,8 +46,8 @@
 			<td>u20161a304</td>
 		</tr>
 		<tr>
-			<td>Eduard Gedeon Travezaño Patiño</td>
-			<td>u20211a789</td>
+			<td>Gabriel Alexander Casas Sanchez</td>
+			<td>u202220033</td>
 		</tr>
 		<tr>
 			<td>Fabio Ernesto Horna Silva</td>
@@ -149,7 +149,7 @@
           <li>Adriana María Diestra Zambrano</li>
           <li>Yair Christofer Aru Acevedo</li>
           <li>Enrique Manuel Villón Amez</li>
-	  <li>Gabriel Alexander Casas Sanchez</li>
+	        <li>Gabriel Alexander Casas Sanchez</li>
           <li>George Galván Cerrón</li>
         </ul>
       </td>
@@ -200,19 +200,21 @@ del ABET – EAC - Student Outcome 3.
 		</tr>
 		<tr>
 			<td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-			<td> Eduard Travezaño - TB1: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible para cualquier público en general, incluso para las entrevistas al hablar sobre nuestra startup. TP: Durante los las reuniones diarias comentabamos los avances que realizabamos y problemas o opiniones que teniamos. Con eso logró corregir la versión anterior del proyecto y realizar un nuevo sprint más adecuado a lo que hicimos.<br>
-			<strong>Fabio Horna- TB1</strong>: Durante las sesiones de grupo y presentaciones de avance del proyecto, expliqué los resultados del desarrollo de la landing page, destacando la estructura del código, las herramientas utilizadas y la integración de los elementos visuales. Además, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.<br>
-            <strong>Fabio Horna- TP1</strong>: Al desarrollar la landing page, mockups y wireframes, expliqué con claridad las decisiones de diseño a colegas de diferentes áreas y jerarquías. Durante las reuniones, presenté de manera directa cómo cada componente visual respalda los objetivos del proyecto, asegurando que todos comprendieran su propósito y valor, sin importar su especialidad técnica.<br>
-            <strong>Yair Aru Acevedo- TB1</strong>: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.<br>
-            <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, participó en las reuniones de equipo aportando ideas para el desarrollo de la aplicacion web y la corrección de información en el reporte.<br>
-            <br><strong>Adriana Diestra- TB1</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
-	        <br><strong>Adriana Diestra- TP1</strong>: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.</br>
-	        <br><strong>Adriana Diestra- TB2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
-	       <br><strong>Adriana Diestra- TF</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en la planificación de las tareas realizando el sprint 4.</br>
-            <strong>Enrique Villón- TB1</strong>: Durante el desarollo de los puntos del proyecto, mostré una comunicación efectiva para entender las ideas de mi equipo, investigué sobre los requerimientos de un proyecto analizando las necesidades y las mejores que lograremos a cada segmento objetivo. <br>
-            <strong>Enrique Villón- TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto. <br>
-            <strong>Enrique Villón- TB2</strong>: Me comuniqué eficientemente con mi equipo para solucionar algunos problemas de estructura tanto en el diagrama de componentes y en el diagrama de clases, con ello coordinamos la estructura del backend para poder seguir implementando las interfaces de la aplicación. <br>
-            </td>
+			<td> 
+        <strong>Yair Aru Acevedo- TB1</strong>: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.<br>
+        <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, participó en las reuniones de equipo aportando ideas para el desarrollo de la aplicacion web y la corrección de información en el reporte.<br>
+        <br><strong>Adriana Diestra- TB1</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
+        <br><strong>Adriana Diestra- TP1</strong>: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.</br>
+        <br><strong>Adriana Diestra- TB2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
+        <br><strong>Adriana Diestra- TF</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en la planificación de las tareas realizando el sprint 4.</br>
+        <strong>Enrique Villón- TB1</strong>: Durante el desarollo de los puntos del proyecto, mostré una comunicación efectiva para entender las ideas de mi equipo, investigué sobre los requerimientos de un proyecto analizando las necesidades y las mejores que lograremos a cada segmento objetivo. <br>
+        <strong>Enrique Villón- TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto. <br>
+        <strong>Enrique Villón- TB2</strong>: Me comuniqué eficientemente con mi equipo para solucionar algunos problemas de estructura tanto en el diagrama de componentes y en el diagrama de clases, con ello coordinamos la estructura del backend para poder seguir implementando las interfaces de la aplicación. <br>
+        <strong>Gabriel Casas - TB1</strong>: Busque comunicar mis ideas de manera clara para concretar una correcta comunicación entre mis compañeros y así poder lograr un mejor trabajo.<br>
+        <strong>Gabriel Casas - TP1</strong>: Para esta entrega busque comunicar de manera clara mis ideas para poder tener un mejor desempeño como equipo. Además de esto busque que todas la expresiones que use fueran de fácil entendimiento<br>
+        <strong>Gabriel Casas - TB2</strong>: Busque manter una comunicación simple y de fácil entendimiento, a la hora de explicar los conceptos trabajdos durante el desarrollo del proyecto.<br>
+        <strong>Gabriel Casas - TF</strong>: Durante todas las reuniones del equipo y durante el periodo de desarrollo del proyecto logré comunicar mi ideas y planteamientos de solución a todos mis compañeros, asegurandome de que todos tenga un pleno conocimiento de las acciones a realizar.
+      </td>
 			<td><strong>TB1</strong>: La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables.<br>
 				<br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad. Este proceso me permitió cumplir con el criterio de comunicar ideas de manera efectiva a personas con diversos niveles de experiencia y roles dentro del proyecto. </br>
 	       <br><strong>TF</strong>:Se corrigió el front-end de la aplicación, se culminó el desarrollo del backend y se hicieron los despliegues y vinvulaciones respectivas. </br>
@@ -220,19 +222,20 @@ del ABET – EAC - Student Outcome 3.
 		</tr>
 		<tr>
 			<td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-			<td> <strong>Eduard Travezaño - TB1</strong>: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr. TP: Durante el desarrollo de las correciones pasadas, como en el diseño de la página, anotabamos los comentarios que teniamos de manera que cualquier persona de diferente público pueda entender.<br>
-            <strong>Fabio Horna - TB1</strong>: Durante el desarrollo de la landing page y la documentación del proyecto, creé esquemas detallados, análisis de entrevistas con usuarios, y documentación de user personas. Utilicé un lenguaje claro y directo para asegurar que todos los miembros del equipo pudieran entender el propósito y los avances del proyecto.<br>
-            <strong>Fabio Horna - TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto.<br>
-            <strong>Yair Aru Acevedo - TB1</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.</br>
-            <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, modificó las users stories y añadió los technical stories. Además, generó los datos de la fake api.<br>
-            <strong>Enrique Villón - TB1</strong>: Durante el proyecto, cree los segmentos de negocio, tanto como la descripción principal, asimismo como los to-be mapping, user stories, impact mapping y product backlog, todo lo necesario para saber los requerimientos.
-			<strong>Enrique Villón- TP1</strong>: Con la web application se permitió aterrizar la idea de negocio, probando la experiencia de usuario y la resolución al problema mediante un software, facilitando la venta del negocio, la cantidad de clientes, y los objetivos del equipo. <br>
-			<strong>Enrique Villón- TB2</strong>: Con la nueva interface de greenmove para gestionar el viaje tenemos una mejor representación del negocio comunicandonos muy bien con el sprint 3 bien organizado, con ello pudimos desarollar las interfaces y seguir avanzando con las funcionalidades de la aplicación. <br>
-            <br><strong>Adriana Diestra - TB1</strong>: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
-            <br><strong>Adriana Diestra - TP1</strong>: En esta segunda entrega, dirigí la implementación del segundo sprint de nuestro proyecto de desarrollo web. Con un enfoque estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.</br>
-            <br><strong>Adriana Diestra - TB2</strong>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.</br>
-	    <br><strong>Adriana Diestra - TP</strong>: Cumplí con las tareas asignadas activamente con mi equipo, asegurando una comunicación clara para alcanzar los objetivos del proyecto. </br>
-            </td>
+			<td> 
+        <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, modificó las users stories y añadió los technical stories. Además, generó los datos de la fake api.<br>
+        <strong>Enrique Villón - TB1</strong>: Durante el proyecto, cree los segmentos de negocio, tanto como la descripción principal, asimismo como los to-be mapping, user stories, impact mapping y product backlog, todo lo necesario para saber los requerimientos.
+			  <strong>Enrique Villón- TP1</strong>: Con la web application se permitió aterrizar la idea de negocio, probando la experiencia de usuario y la resolución al problema mediante un software, facilitando la venta del negocio, la cantidad de clientes, y los objetivos del equipo. <br>
+			  <strong>Enrique Villón- TB2</strong>: Con la nueva interface de greenmove para gestionar el viaje tenemos una mejor representación del negocio comunicandonos muy bien con el sprint 3 bien organizado, con ello pudimos desarollar las interfaces y seguir avanzando con las funcionalidades de la aplicación. <br>
+        <br><strong>Adriana Diestra - TB1</strong>: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
+        <br><strong>Adriana Diestra - TP1</strong>: En esta segunda entrega, dirigí la implementación del segundo sprint de nuestro proyecto de desarrollo web. Con un enfoque estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.</br>
+        <br><strong>Adriana Diestra - TB2</strong>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.</br>
+	      <br><strong>Adriana Diestra - TP</strong>: Cumplí con las tareas asignadas activamente con mi equipo, asegurando una comunicación clara para alcanzar los objetivos del proyecto. </br>
+        <strong>Gabriel Casas - TB1</strong>: Organice a mi grupo para la repartición de actividades, además de esto busque que todos los conceptos plazmados en el reporte sean entendibles para personas externas al mundo del desarrollo de software.<br>
+        <strong>Gabriel Casas - TP1</strong>: Busque que lo implementado en el desarrollo de mi página para el web application sea intuitivo y de fácil entendimiento. Ademá estableci los primeros lineamientos para implementar i18n.<br>
+        <strong>Gabriel Casas - TB2</strong>: Para esta entrega priorice que todo lo escrito fuera de fácil entendimiento dejando los principales conceptos claros para asegurar el entendimiento d emis ideas.<br>
+        <strong>Gabriel Casas - TF</strong>: Finalmente en esta entrega final me dedique a transmitir el planteamiento del proyecto de la manera más entendible posible dentro del reporte, desde el tutorial para el despliegue, hasta el planteamiento del ultimo sprint de desarrollo del equipo.<br>
+      </td>
 			<td> <strong>TB1</strong>: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de GreenMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso.<br>
                   <br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.
                   Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente.La capacidad para plasmar el flujo del negocio en interfaces, junto con una comunicación efectiva y coherente con todas las partes involucradas, fue clave para transmitir las ideas del proyecto a diversas jerarquías. Logrando un entendimiento común y facilitó la implementación de la aplicación de manera alineada con las expectativas del negocio. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad.
@@ -408,14 +411,9 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
             <td>Estudiante de quinto ciclo de la carrera de Ingeniería de Software en la UPC. Cuento con conocimientos avanzados en Swift y  Javascript  con sus frameworks o librerias mas populares (React, Angular, React Native), además profundos conocimientos en C++, Python, AWS). Actualmente soy Mobile Developer Senior en Auna tengo mas de 5 años en la industria tecnológica. Me considero una persona comunicativa y dedicada, me gusta el trabajo en equipo y la tecnología.</td>
         </tr>
         <tr>
-            <td>Eduard Gedeon Travezaño Patiño	</td>
-            <td><img src="/assets/FotoEduard.jpg" width="370"/></td>
-            <td>Soy Eduard, tengo 20 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que soy alguien que se adapta a lo que requiera el trabajo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Con conocimientos en distintos lenguajes de programación como C++, Python, SQL y entre otros. Además mis motivaciones me ayudan a dar lo mejor de mí y mantenerme constante apoyando al equipo en lo que se requiera.</td>
-        </tr>
-        <tr>
-            <td>Fabio Ernesto Horna Silva	</td>
-            <td><img src="/assets/FabioHorna.jpg" width="370"/></td>
-            <td>Soy Fabio, tengo 21 años y soy sumamente apasionado al análisis de datos y a los videojuegos. Actualmente me encuentro trabajando como analista de datos y poseo conocimientos avanzados de redes neuronales, SQL, y otras herramientas como Python, donde manejo pandas y otras herramientas para la minería de datos. Me considero una buena persona para trabajar en equipo y me gusta ayudar a mis compañeros.</td>
+            <td>Gabriel Alexander Casas Sanchez</td>
+            <td><img src="/assets/alex-pfp.jpg" width="370"/></td>
+            <td>	Soy estudiante de Ingeniería de Software en quinto ciclo, con habilidades para dirigir y trabajar bien bajo presión. Aunque no disfruto mucho de los trabajos grupales, siempre asumo un rol destacado y sobresaliente en ellos, aprovechando mi capacidad académica y versatilidad.</td>
         </tr>
     </tbody>
 </table>
