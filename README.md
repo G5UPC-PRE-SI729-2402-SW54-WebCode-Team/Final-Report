@@ -50,8 +50,8 @@
 			<td>u202220033</td>
 		</tr>
 		<tr>
-			<td>Fabio Ernesto Horna Silva</td>
-			<td>u202020229</td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -4267,12 +4267,6 @@ Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.ve
 
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
-Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web en su totalidad, integrando tanto el frontend como el backend. La plataforma ahora permite una experiencia completa que incluye opciones de creación de usuarios, búsqueda de vehículos, visualización de suscripciones y la selección de planes adecuados para los usuarios.
-
-Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
-
-
-
 ## Tenant Management
 
 <table>
@@ -4621,6 +4615,47 @@ Para desplegar la LandingPage se realizó los siguientes pasos:
 - Finalmente ingresar al enlace que  muestra el mensaje y listo, se podrá visualizar la "Landing Page" correctamente desplegada utilizando Github Pages.
 
 <img src="/assets/Paso2e.png">
+
+**Despliegue del backend**
+Para desplegar el backend de la aplicación se necesita de una base de datos en la nube, esto debido a que el API estará en funcionamiento constante.
+Por eso antes de desplegar el API se requiere de una base ded atos en la nube, para esto se hizo uso de la plataaforma Neon, la cual es una plataforma que permite la creación de una base de datos postgre de manera gratuita.
+Para poder crear esta base de datos primero debes entrar a su página web: <a href="https://neon.tech">https://neon.tech</a>, una vez iniciado sesión te pedira que ingreses los datos para la creación de la base de datos:
+
+<img src="assets/sprint_4/back-deploy-1.png">
+
+Una vez se han insertado los datos correpondientes a la base de datos que se desea crear, simplemente creas la base de datos y se te mostrará una pantalla con un pipeline relacionado a la nueva base ded atos en la nube.
+
+<img src="assets/sprint_4/back-deploy-2.png">
+
+De este pipeline se extraeran los datos de conexión y contraseña, para poder implementarlos a el proyecto de spring boot.
+
+<img src="assets/sprint_4/back-deploy-3.png">
+
+Ya con los datos cargados en el proyecto, ahora es necesario de la creación de un archivo Dockerfile, esto debido a que la plataforma para el despliegue que se utilizará (Render: <a href="https://render.com/">https://render.com/</a>) necesita de este archivo.
+
+<img src="assets/sprint_4/back-deploy-4.png">
+
+Una vez con todo listo se debe cargar el proyecto a un repositorio de github, para poder conectarlo con render. Para hacer esto se debe ingresar a la web de Render <a href="https://render.com/">https://render.com/</a> y crear un nuevo proyecto web service.
+
+<img src="assets/sprint_4/back-deploy-5.png">
+
+Una vez se eligio la opción web service es necesario escoger el repositorio desde el cual se construira el deploy.
+
+<img src="assets/sprint_4/back-deploy-6.png">
+
+Yo con el repositorio elegido, se debe escoger los paremetros de creación, como el nombre, la rama de construcción, el servidor de almacenamiento y el tier de suscripción (gratis).
+
+<img src="assets/sprint_4/back-deploy-7.png">
+
+Con esto listo ahora cada vez que se actualice la rama sobre la cual se desplego la aplicacion también lo hara el deployment.
+
+<img src="assets/sprint_4/back-deploy-8.png">
+
+Para acceder al api se debe usar la ruta especificada debajo del nombre del proyecto.
+
+<img src="assets/sprint_4/back-deploy-9.png">
+
+El enlace del API, para probar desde swagger esta aquí: <a href="https://greenmove.onrender.com/swagger-ui/index.html#/">https://greenmove.onrender.com/swagger-ui/index.html#/</a> y el enlace directo al API <a href="https://greenmove.onrender.com">https://greenmove.onrender.com</a>
 
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 
