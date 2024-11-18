@@ -2778,6 +2778,24 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 - Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
 - Vercel: Utilizamos esta plataforma para desplegar nuestra landing page.
 
+Entonces, para el despliegue de la Landing Page, primero se selecciona el repositorio que lo contiene.
+
+<img src="./assets/deploy_img1.JPG" alt="imagen del primer paso del deploy"/>
+
+Después, se ingresa a la opción Settings y se va a la sección de Pages.
+
+<img src="./assets/deploy_img2.JPG" alt="imagen del segundo paso del deploy"/>
+<img src="./assets/deploy_img3.JPG" alt="imagen del tercer paso del deploy"/>
+
+Dentro de Pages, se selecciona el source: "Deploy from a branch", se elige la rama "Main" y se da a Save.
+
+<img src="./assets/deploy_img4.JPG" alt="imagen del cuarto paso del deploy"/>
+
+Finalmente, en Custom Domain, escribimos el nombre del dominio y se da a Save. Con ello, se despliega la Landing Page con el dominio elegido.
+
+<img src="./assets/deploy_img5.JPG" alt="imagen del quinto paso del deploy"/>
+
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
