@@ -4250,6 +4250,289 @@ Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la apl
 Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
 
 
+
+## Tenant Management
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants </strong> </th>
+    <th style="text-align:center;"> <strong> Get all tenants </strong> </th>
+    <th style="text-align:center;"> <strong> Get all tenants </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllTenant </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new tenant </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new tenant </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewTenant </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants/{tenanId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetTenantById </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants/{tenanId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteTenantById </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Tenant Management API.png"/>
+
+
+
+
+## Vehicles
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> PUT </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/{vehicleId}/status/{status} </strong> </th>
+    <th style="text-align:center;"> <strong> Update vehicle status </strong> </th>
+    <th style="text-align:center;"> <strong> Update vehicle status </strong> </th>
+    <th style="text-align:center;"> <strong> UpdateVehicleStatus </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId}/vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllVehiclesByOwnerId </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId}/vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new vehicle </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new vehicle </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewVehicle </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/{vehicleId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAVehicleById </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/{vehicleId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteAVehicleById </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/type/{type} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by type </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by type </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllVehiclesByType </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/status/{status} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by status </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by status </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllVehiclesByStatus </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Vehicles endpoints.png"/>
+
+
+
+
+## Membership Management
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Membership Management </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenant/{tenantId}/membership </strong> </th>
+    <th style="text-align:center;"> <strong> Get membership by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> Returns a membership by tenant id. </strong> </th>
+    <th style="text-align:center;"> <strong> GetMembershipByTenantId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Membership Management </strong> </th>
+    <th style="text-align:center;"> <strong> PUT </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenant/{tenantId}/membership </strong> </th>
+    <th style="text-align:center;"> <strong> Update a membership </strong> </th>
+    <th style="text-align:center;"> <strong> Updates a membership with the provided details. </strong> </th>
+    <th style="text-align:center;"> <strong> UpdateAMembership </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Membership Management </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenant/{tenantId}/membership </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new membership </strong> </th>
+    <th style="text-align:center;"> <strong> Creates a new membership with the provided details. </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewMembership </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Membership Management API.png"/>
+
+
+
+
+## Owner
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Owner </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new owner </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new owner </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewOwner </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Owner </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetOwnerById </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Owner </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteOwnerById </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Owner endpoints.png"/>
+
+
+
+
+## Reservations
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> PUT </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/{reservationId}/status/{status} </strong> </th>
+    <th style="text-align:center;"> <strong> Update reservation status </strong> </th>
+    <th style="text-align:center;"> <strong> Update reservation status </strong> </th>
+    <th style="text-align:center;"> <strong> UpdateReservationStatus </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new reservation </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new reservation </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewReservation </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/{reservationId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAReservationById </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/{reservationId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteAReservationById </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/tenant/{tenantId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllReservationsByTenantId </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/tenant/{tenantId}/active </strong> </th>
+    <th style="text-align:center;"> <strong> Get active reservation by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> Get active reservation by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> GetActiveReservationByTenantId </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/owner/{ownerId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllReservationsByOwnerId </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Reservations endpoints.png"/>
+
+
+
+
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
 Para el presente sprint, se ha logrado la implementación completa del backend, lo que ha permitido alcanzar la funcionalidad integral de la aplicación web. Para ello, se emplearon herramientas clave que facilitaron el desarrollo colaborativo y organizado.
