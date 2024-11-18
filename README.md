@@ -4260,6 +4260,36 @@ GitHub: Plataforma empleada para alojar el repositorio remoto del proyecto, brin
 
 Con la implementación completa del backend, se asegura que la aplicación web esté lista para cumplir con todos los requisitos funcionales establecidos.
 
+Para desplegar la LandingPage se realizó los siguientes pasos:
+
+- Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-OpneSource-GreenGo](https://github.com/orgs/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/repositories)
+
+<img src="./assets/Paso1.png"/>
+
+- Seleccionar el repositorio de la landing page del proyecto.
+
+<img src="./assets/Paso2.png"/>
+
+- Ir a los ajustes del repositorio y seleccionar "Pages".
+
+  <img src="./assets/Paso2a.png"/>
+
+- Seleccionar el tipo de despligue, en ese caso es "Deploy from a branch" ya que solo es una Landing Page.
+
+  <img src="./assets/Paso2b.png"/>
+  
+- Luego seleccionar la rama que se quiere desplegar y el directorio en el que se encuentra el index.html.
+
+  <img src="./assets/Paso2c.png"/>
+
+- Esperar un par de minutos hasta que termine de buildear la pagina y salga el mensaje de "Your site is alive at ".
+
+  <img src="./assets/Paso2d.png"/>
+
+- Finalmente ingresar al enlace que  muestra el mensaje y listo, se podrá visualizar la "Landing Page" correctamente desplegada utilizando Github Pages.
+
+<img src="/assets/Paso2e.png">
+
 ### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
