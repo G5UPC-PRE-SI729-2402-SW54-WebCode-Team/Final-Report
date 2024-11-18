@@ -139,6 +139,26 @@
 	  <li>Video About-the-Product</li>
         </ul>
 	<thead>
+	</ul>
+	<thead>
+    <tr>
+        <th>TF</th>
+        <th>18 de Noviembre</th>
+        <td>
+        <ul>
+          <li>Adriana María Diestra Zambrano</li>
+          <li>Yair Christofer Aru Acevedo</li>
+          <li>Enrique Manuel Villón Amez</li>
+	  <li>Gabriel Alexander Casas Sanchez</li>
+          <li>George Galván Cerrón</li>
+        </ul>
+      </td>
+        <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+	  <li>Capítulo V: Sprint 4</li>
+        </ul>
+	<thead>
     <tr>
   </thead>
   </tr>
@@ -187,13 +207,15 @@ del ABET – EAC - Student Outcome 3.
             <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, participó en las reuniones de equipo aportando ideas para el desarrollo de la aplicacion web y la corrección de información en el reporte.<br>
             <br><strong>Adriana Diestra- TB1</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
 	        <br><strong>Adriana Diestra- TP1</strong>: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.</br>
-	        <br><strong>Adriana Diestra- TP2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
+	        <br><strong>Adriana Diestra- TB2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
+	       <br><strong>Adriana Diestra- TF</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en la planificación de las tareas realizando el sprint 4.</br>
             <strong>Enrique Villón- TB1</strong>: Durante el desarollo de los puntos del proyecto, mostré una comunicación efectiva para entender las ideas de mi equipo, investigué sobre los requerimientos de un proyecto analizando las necesidades y las mejores que lograremos a cada segmento objetivo. <br>
             <strong>Enrique Villón- TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto. <br>
             <strong>Enrique Villón- TB2</strong>: Me comuniqué eficientemente con mi equipo para solucionar algunos problemas de estructura tanto en el diagrama de componentes y en el diagrama de clases, con ello coordinamos la estructura del backend para poder seguir implementando las interfaces de la aplicación. <br>
             </td>
 			<td><strong>TB1</strong>: La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables.<br>
 				<br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad. Este proceso me permitió cumplir con el criterio de comunicar ideas de manera efectiva a personas con diversos niveles de experiencia y roles dentro del proyecto. </br>
+	       <br><strong>TF</strong>:Se corrigió el front-end de la aplicación, se culminó el desarrollo del backend y se hicieron los despliegues y vinvulaciones respectivas. </br>
             </td>
 		</tr>
 		<tr>
@@ -209,10 +231,12 @@ del ABET – EAC - Student Outcome 3.
             <br><strong>Adriana Diestra - TB1</strong>: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
             <br><strong>Adriana Diestra - TP1</strong>: En esta segunda entrega, dirigí la implementación del segundo sprint de nuestro proyecto de desarrollo web. Con un enfoque estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.</br>
             <br><strong>Adriana Diestra - TB2</strong>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.</br>
+	    <br><strong>Adriana Diestra - TP</strong>: Cumplí con las tareas asignadas activamente con mi equipo, asegurando una comunicación clara para alcanzar los objetivos del proyecto. </br>
             </td>
 			<td> <strong>TB1</strong>: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de GreenMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso.<br>
                   <br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.
                   Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente.La capacidad para plasmar el flujo del negocio en interfaces, junto con una comunicación efectiva y coherente con todas las partes involucradas, fue clave para transmitir las ideas del proyecto a diversas jerarquías. Logrando un entendimiento común y facilitó la implementación de la aplicación de manera alineada con las expectativas del negocio. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad.
+			<strong>TF</strong>: Se cumplieron los objetivos, corrigiendo los puntos de mejora del front end y se terminaron los endpoints en el backend.<br>
             </td>
 		</tr>
 	</tbody>
