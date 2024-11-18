@@ -3575,7 +3575,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
 
-<img src="./assets/Sprint4.png"/>
+<img src="./assets/sprint4.png"/>
 
 Link de Trello: [Trello](https://trello.com/invite/b/6725291f6cb2662f76f41656/ATTI836966ddfb166e491564ee941d30d59d0990D558/greenmove-sprint4)
 
@@ -4297,9 +4297,10 @@ Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.ve
 </table>
 
 <img src="./assets/Tenant Management API.png"/>
-
-
-
+<img src="./assets/1.png"/>
+<img src="./assets/2.png"/>
+<img src="./assets/3.png"/>
+<img src="./assets/4.png"/>
 
 ## Vehicles
 
@@ -4371,9 +4372,21 @@ Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.ve
 </table>
 
 <img src="./assets/Vehicles endpoints.png"/>
-
-
-
+<img src="./assets/5.png"/>
+<img src="./assets/6.png"/>
+<img src="./assets/7.png"/>
+<img src="./assets/8.png"/>
+<img src="./assets/9.png"/>
+<img src="./assets/10.png"/>
+<img src="./assets/11.png"/>
+<img src="./assets/12.png"/>
+<img src="./assets/13.png"/>
+<img src="./assets/14.png"/>
+<img src="./assets/15.png"/>
+<img src="./assets/16.png"/>
+<img src="./assets/17.png"/>
+<img src="./assets/18.png"/>
+<img src="./assets/19.png"/>
 
 ## Membership Management
 
@@ -4413,9 +4426,11 @@ Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.ve
 </table>
 
 <img src="./assets/Membership Management API.png"/>
-
-
-
+<img src="./assets/20.png"/>
+<img src="./assets/21.png"/>
+<img src="./assets/22.png"/>
+<img src="./assets/23.png"/>
+<img src="./assets/24.png"/>
 
 ## Owner
 
@@ -4455,9 +4470,11 @@ Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.ve
 </table>
 
 <img src="./assets/Owner endpoints.png"/>
-
-
-
+<img src="./assets/25.png"/>
+<img src="./assets/26.png"/>
+<img src="./assets/27.png"/>
+<img src="./assets/28.png"/>
+<img src="./assets/29.png"/>
 
 ## Reservations
 
@@ -4529,8 +4546,18 @@ Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.ve
 </table>
 
 <img src="./assets/Reservations endpoints.png"/>
-
-
+<img src="./assets/30.png"/>
+<img src="./assets/31.png"/>
+<img src="./assets/32.png"/>
+<img src="./assets/33.png"/>
+<img src="./assets/34.png"/>
+<img src="./assets/35.png"/>
+<img src="./assets/36.png"/>
+<img src="./assets/37.png"/>
+<img src="./assets/38.png"/>
+<img src="./assets/39.png"/>
+<img src="./assets/40.png"/>
+<img src="./assets/41.png"/>
 
 
 ### 5.2.4.7.Software Deployment Evidence for Sprint Review.
