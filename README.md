@@ -4261,6 +4261,270 @@ Link de Trello: [Trello](https://trello.com/invite/b/6725291f6cb2662f76f41656/AT
     <td colspan="1">fix(reservations): added business rule only one reservation active per tenant.</td>
     <td colspan="1">16/11/2024</td>    
   </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">144e1909</td>
+    <td colspan="1">feat(iam): added entities.</td>
+    <td colspan="1">feat(iam): added entities.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">e3149884</td>
+    <td colspan="1">feat(iam): added commands.</td>
+    <td colspan="1">feat(iam): added commands.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">6cc7cf69</td>
+    <td colspan="1">feat(iam): added queries.</td>
+    <td colspan="1">feat(iam): added queries.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">ae536908</td>
+    <td colspan="1">feat(iam): added commands and queries services.</td>
+    <td colspan="1">feat(iam): added commands and queries services.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">7c1a1c3c</td>
+    <td colspan="1">feat(iam): added commands and queries services implementations.</td>
+    <td colspan="1">feat(iam): added commands and queries services implementations.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">f566c839</td>
+    <td colspan="1">feat(iam): added repositories.</td>
+    <td colspan="1">feat(iam): added repositories.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">c6fc8cbb</td>
+    <td colspan="1">feat(iam): added authorization.</td>
+    <td colspan="1">feat(iam): added authorization.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">b015ff79</td>
+    <td colspan="1">feat(iam): added hashing.</td>
+    <td colspan="1">feat(iam): added hashing.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">87c7058b</td>
+    <td colspan="1">feat(iam): added token.</td>
+    <td colspan="1">feat(iam): added token.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">0e9950cb</td>
+    <td colspan="1">feat(iam): added exception handlers.</td>
+    <td colspan="1">feat(iam): added exception handlers.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">37de1158</td>
+    <td colspan="1">feat(iam): added resources.</td>
+    <td colspan="1">feat(iam): added resources.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">eaa37276</td>
+    <td colspan="1">feat(iam): added assemblers.</td>
+    <td colspan="1">feat(iam): added assemblers.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">4504ff26</td>
+    <td colspan="1">feat(iam): added controllers.</td>
+    <td colspan="1">feat(iam): added controllers.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">48b3cf6f</td>
+    <td colspan="1">feat(iam): added facade.</td>
+    <td colspan="1">feat(iam): added facade.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">abcfdbac</td>
+    <td colspan="1">fix(iam): added missing imports.</td>
+    <td colspan="1">fix(iam): added missing imports.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">3e1ec662</td>
+    <td colspan="1">fix(tenants): added missing validation on the create tenant endpoint.</td>
+    <td colspan="1">fix(tenants): added missing validation on the create tenant endpoint.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">0f5e7735</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">854bf8a9</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">079fc291</td>
+    <td colspan="1">fix(iam): update web security configuration.</td>
+    <td colspan="1">fix(iam): update web security configuration.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">f436c5f3</td>
+    <td colspan="1">fix(owners): added facade.</td>
+    <td colspan="1">fix(owners): added facade.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">e8106909</td>
+    <td colspan="1">fix(iam): added owner assignation feature.</td>
+    <td colspan="1">fix(iam): added owner assignation feature.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">697a473c</td>
+    <td colspan="1">feat(owners): added facade.</td>
+    <td colspan="1">feat(owners): added facade.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">de6fb525</td>
+    <td colspan="1">feat(iam): added owner assignation feature.</td>
+    <td colspan="1">feat(iam): added owner assignation feature.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">5bbd8af4</td>
+    <td colspan="1">feat(memberships-tenants): added acl.</td>
+    <td colspan="1">feat(memberships-tenants): added acl.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">f967267f</td>
+    <td colspan="1">feat(iam): added tenants and memberships acl.</td>
+    <td colspan="1">feat(iam): added tenants and memberships acl.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">99fa2ef5</td>
+    <td colspan="1">feat(iam): added tenants assignation feature.</td>
+    <td colspan="1">feat(iam): added tenants assignation feature.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">61d072bf</td>
+    <td colspan="1">fix(reservations): added missing attributes on resource.</td>
+    <td colspan="1">fix(reservations): added missing attributes on resource.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">a1a70c63</td>
+    <td colspan="1">fix(vehicles): added missing attribute.</td>
+    <td colspan="1">fix(vehicles): added missing attribute.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">d7563234</td>
+    <td colspan="1">feat(deployment): added Dockerfile for deployment.</td>
+    <td colspan="1">feat(deployment): added Dockerfile for deployment.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">ca071b7d</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">af25a4e7</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">939b030f</td>
+    <td colspan="1">fix(deployment): reconfigured database pipeline.</td>
+    <td colspan="1">fix(deployment): reconfigured database pipeline.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">7f679029</td>
+    <td colspan="1">fix: deleted unused validation.</td>
+    <td colspan="1">fix: deleted unused validation.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
 </table>
 
 ### 5.2.4.5.Execution Evidence for Sprint Review.
