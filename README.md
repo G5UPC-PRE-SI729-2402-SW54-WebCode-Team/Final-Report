@@ -50,8 +50,8 @@
 			<td>u202220033</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>George Aldo Galván Cerrón</td>
+			<td>U202116055</td>
 		</tr>
 	</tbody>
 </table>
@@ -216,6 +216,10 @@ del ABET – EAC - Student Outcome 3.
         <strong>Gabriel Casas - TP1</strong>: Para esta entrega busque comunicar de manera clara mis ideas para poder tener un mejor desempeño como equipo. Además de esto busque que todas la expresiones que use fueran de fácil entendimiento<br>
         <strong>Gabriel Casas - TB2</strong>: Busque manter una comunicación simple y de fácil entendimiento, a la hora de explicar los conceptos trabajdos durante el desarrollo del proyecto.<br>
         <strong>Gabriel Casas - TF</strong>: Durante todas las reuniones del equipo y durante el periodo de desarrollo del proyecto logré comunicar mi ideas y planteamientos de solución a todos mis compañeros, asegurandome de que todos tenga un pleno conocimiento de las acciones a realizar.
+        <strong>George Galvan - TB1</strong>: Durante esta etapa inicial, aprendí a coordinar eficientemente con el equipo para establecer las bases del proyecto. Contribuí en la planificación y en la ejecución de tareas clave.<br>
+        <strong>George Galvan - TP1</strong>: En esta entrega intermedia, logré avanzar en la implementación de las funcionalidades asignadas, consolidando lo aprendido en la fase anterior. Además, trabajé en sincronizar mis aportes con el trabajo del equipo.<br>
+        <strong>George Galvan - TB2</strong>: Vi la manera de llegar a coordinar de manera correcta la implementación de las partes faltantes del proyecto.<br>
+        <strong>George Galvan - TF</strong>: En el desarrollo final y coordinaciones finales del proyecto logré apoyar de manera más puntual en los puntos en los que me comprometí, mejorando asi la coordinación con mis compañeros.<br>
       </td>
 			<td><strong>TB1</strong>: La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables.<br>
 				<br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad. Este proceso me permitió cumplir con el criterio de comunicar ideas de manera efectiva a personas con diversos niveles de experiencia y roles dentro del proyecto. </br>
@@ -240,6 +244,10 @@ del ABET – EAC - Student Outcome 3.
         <strong>Gabriel Casas - TP1</strong>: Busque que lo implementado en el desarrollo de mi página para el web application sea intuitivo y de fácil entendimiento. Ademá estableci los primeros lineamientos para implementar i18n.<br>
         <strong>Gabriel Casas - TB2</strong>: Para esta entrega priorice que todo lo escrito fuera de fácil entendimiento dejando los principales conceptos claros para asegurar el entendimiento d emis ideas.<br>
         <strong>Gabriel Casas - TF</strong>: Finalmente en esta entrega final me dedique a transmitir el planteamiento del proyecto de la manera más entendible posible dentro del reporte, desde el tutorial para el despliegue, hasta el planteamiento del ultimo sprint de desarrollo del equipo.<br>
+        <strong>George Galvan - TB1</strong>: Durante esta entrega inicial, me aseguré de comunicar de forma clara y estructurada los objetivos y las actividades asignadas dentro del proyecto.<br>
+        <strong>George Galvan - TP1</strong>: En la etapa intermedia, elaboré reportes que consolidaban los avances alcanzados, asegurándome de detallar los resultados de las implementaciones.<br>
+        <strong>George Galvan - TB2</strong>: Durante esta fase, me enfoqué en comunicar las tareas pendientes y los resultados parciales de manera comprensible, adaptándome a las diferentes especialidades y niveles jerárquicos de los involucrados.<br>
+        <strong>George Galvan - TF</strong>: En la entrega final, asumí un rol más de soporte, enfocándome en cumplir con las tareas asignadas y acatando de manera eficiente las coordinaciones realizadas por el equipo.<br>
       </td>
 			<td> <strong>TB1</strong>: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de GreenMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso.<br>
                   <br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.
