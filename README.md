@@ -416,9 +416,14 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
             <td>Estudiante de quinto ciclo de la carrera de Ingeniería de Software en la UPC. Cuento con conocimientos avanzados en Swift y  Javascript  con sus frameworks o librerias mas populares (React, Angular, React Native), además profundos conocimientos en C++, Python, AWS). Actualmente soy Mobile Developer Senior en Auna tengo mas de 5 años en la industria tecnológica. Me considero una persona comunicativa y dedicada, me gusta el trabajo en equipo y la tecnología.</td>
         </tr>
         <tr>
-            <td>Gabriel Alexander Casas Sanchez</td>
+            <td>George Aldo Galván Cerrón </td>
+            <td><img src="/assets/George_foto.png" width="370"/></td>
+            <td>Soy Eduard, tengo 20 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que soy alguien que se adapta a lo que requiera el trabajo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Con conocimientos en distintos lenguajes de programación como C++, Python, SQL y entre otros. Además mis motivaciones me ayudan a dar lo mejor de mí y mantenerme constante apoyando al equipo en lo que se requiera.</td>
+        </tr>
+        <tr>
+            <td>Gabriel Alexander Casas Sanchez	</td>
             <td><img src="/assets/alex-pfp.jpg" width="370"/></td>
-            <td>	Soy estudiante de Ingeniería de Software en quinto ciclo, con habilidades para dirigir y trabajar bien bajo presión. Aunque no disfruto mucho de los trabajos grupales, siempre asumo un rol destacado y sobresaliente en ellos, aprovechando mi capacidad académica y versatilidad.</td>
+            <td> Soy estudiante de la carrera de Ingenieria de Software, actualmente estoy cursando el 5to semestre en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos en desarrollo bakcend con los lenguajes de programación, tales como python, c++ y java. </td>
         </tr>
     </tbody>
 </table>
@@ -3195,6 +3200,24 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 - Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
 - Vercel: Utilizamos esta plataforma para desplegar nuestra landing page.
 
+Entonces, para el despliegue de la Landing Page, primero se selecciona el repositorio que lo contiene.
+
+<img src="./assets/deploy_img1.JPG" alt="imagen del primer paso del deploy"/>
+
+Después, se ingresa a la opción Settings y se va a la sección de Pages.
+
+<img src="./assets/deploy_img2.JPG" alt="imagen del segundo paso del deploy"/>
+<img src="./assets/deploy_img3.JPG" alt="imagen del tercer paso del deploy"/>
+
+Dentro de Pages, se selecciona el source: "Deploy from a branch", se elige la rama "Main" y se da a Save.
+
+<img src="./assets/deploy_img4.JPG" alt="imagen del cuarto paso del deploy"/>
+
+Finalmente, en Custom Domain, escribimos el nombre del dominio y se da a Save. Con ello, se despliega la Landing Page con el dominio elegido.
+
+<img src="./assets/deploy_img5.JPG" alt="imagen del quinto paso del deploy"/>
+
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
@@ -3207,7 +3230,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | FabioHorna        | Horna Silva, Fabio Ernesto      |
 | enriquevillonupc  | Villon Amez, Enrique Manuel     |
 
-<img src="./assets/Commits.PNG"/>
+<img src="./assets/Commits.PNG" alt="imagen de commits"/>
 
 ### 5.2.2. Sprint 2
 
@@ -4986,7 +5009,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FvideoclientNestor%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efffec497-4536-49cc-91b6-9c5aec796484&isDarkMode=false)
 * Duración de la entrevista: 4:10
 
-<img src="./assets/entrevistaJEREMY.png"/>
+<img src="./assets/entrevistaJEREMY.jpeg" alt="Imagen del primer entrevistado del segmento Owner"/>
 
 **Informe del resumen de la entrevista:**
 Jeremy Escudero, es un joven de 20 años, es estudiante. A Jeremy le llamó la atención el diseño de la página, le gustan las funcionalidades y más lo de los idiomas. También opina que, tuvo una buena experiencia en visitar la página web. Menciona que, todas las funcionalidades le gustaron. Recomienda que para mejor experiencia de la página le agregaria una opción más.
@@ -5007,7 +5030,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FvideoclientNestor%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efffec497-4536-49cc-91b6-9c5aec796484&isDarkMode=false)
 * Duración de la entrevista: 3:03
 
-<img src="./assets/entrevistaNestor.png"/>
+<img src="./assets/entrevistaNestor.png" alt="Imagen del primer entrevistado del segmento Clientes"/>
 
 **Informe del resumen de la entrevista:**
 
@@ -5027,6 +5050,11 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EY7mWKyvv0dMg-KqSzWYOEYBuGy6cmGI7d2Ry_unt2Lwaw?e=GiCgTy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 5:33
 
+<img src="./assets/EntrevistaVOscar.png" alt="Imagen del segundo entrevistado del segmento Clientes"/>
+
+**Informe del resumen de la entrevista:**
+
+Oscar Armas, es un joven de 26 años, que trabaja como programador. Él nos comenta que al utilizar la aplicación, le pareció intuitiva al momento de registrarse e iniciar sesión en la página y de activar el viaje utilizando el codigo que recibe al registrar un viaje. Además nos comenta que en el aspecto visual, no le agrada mucho el contraste de colores de la pagina sugiriendo un cambio de la misma.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
