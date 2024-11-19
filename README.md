@@ -5185,7 +5185,20 @@ TB1: Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos
 
 TP: En esta segunda entrega del desarrollo del front-end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
 
-### Nuestro proyecto está enfocado en alquiler de vehículos eléctricos, como equipo vemos la oportunidad de promover el transporte urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
+Nuestro proyecto está enfocado en alquiler de vehículos eléctricos, como equipo vemos la oportunidad de promover el transporte urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
+
+**Video About the team**
+El video about the team que realizamos recopila todo el proceso que realizamos para llegar hasta esta entrega final, en este video hacemos un análisis de nuestro trabajo en el último sprint así como también mencionamos el testimonio de cada uno de nosotros.
+
+| **Sección**                          | **Descripción**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **URL del Video**                    | **Microsoft Stream**:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/Eb-z4zS0BMlPt560ie4dgQEBLsTbFDGjxAjPMHOlfTydoQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HS0hD4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/Eb-z4zS0BMlPt560ie4dgQEBLsTbFDGjxAjPMHOlfTydoQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HS0hD4)|
+|Sprint restrospective			|		0:02-3:53		|
+|Testimonio Enrique Villon		|		3:55-7:49		|
+|Testimonio Adriana Diestra		|		7:51-8:13		|
+|Testimonio Yai Aru			|		8:14-9:01		|	
+|Testimonio Geoger Galvan		|		9:02-9:29		|	
+|Testimonio Gabriel Casas		|		9:29-10:36		|
 
 ### Referencias Bibliograficas
 
