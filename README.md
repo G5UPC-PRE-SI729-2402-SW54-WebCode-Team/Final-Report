@@ -46,12 +46,12 @@
 			<td>u20161a304</td>
 		</tr>
 		<tr>
-			<td>Eduard Gedeon Travezaño Patiño</td>
-			<td>u20211a789</td>
+			<td>Gabriel Alexander Casas Sanchez</td>
+			<td>u202220033</td>
 		</tr>
 		<tr>
-			<td>Fabio Ernesto Horna Silva</td>
-			<td>u202020229</td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -139,6 +139,26 @@
 	  <li>Video About-the-Product</li>
         </ul>
 	<thead>
+	</ul>
+	<thead>
+    <tr>
+        <th>TF</th>
+        <th>18 de Noviembre</th>
+        <td>
+        <ul>
+          <li>Adriana María Diestra Zambrano</li>
+          <li>Yair Christofer Aru Acevedo</li>
+          <li>Enrique Manuel Villón Amez</li>
+	        <li>Gabriel Alexander Casas Sanchez</li>
+          <li>George Galván Cerrón</li>
+        </ul>
+      </td>
+        <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+	  <li>Capítulo V: Sprint 4</li>
+        </ul>
+	<thead>
     <tr>
   </thead>
   </tr>
@@ -180,42 +200,51 @@ del ABET – EAC - Student Outcome 3.
 		</tr>
 		<tr>
 			<td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-			<td> Eduard Travezaño - TB1: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible para cualquier público en general, incluso para las entrevistas al hablar sobre nuestra startup. TP: Durante los las reuniones diarias comentabamos los avances que realizabamos y problemas o opiniones que teniamos. Con eso logró corregir la versión anterior del proyecto y realizar un nuevo sprint más adecuado a lo que hicimos.<br>
-			<strong>Fabio Horna- TB1</strong>: Durante las sesiones de grupo y presentaciones de avance del proyecto, expliqué los resultados del desarrollo de la landing page, destacando la estructura del código, las herramientas utilizadas y la integración de los elementos visuales. Además, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.<br>
-            <strong>Fabio Horna- TP1</strong>: Al desarrollar la landing page, mockups y wireframes, expliqué con claridad las decisiones de diseño a colegas de diferentes áreas y jerarquías. Durante las reuniones, presenté de manera directa cómo cada componente visual respalda los objetivos del proyecto, asegurando que todos comprendieran su propósito y valor, sin importar su especialidad técnica.<br>
-            <strong>Yair Aru Acevedo- TB1</strong>: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.<br>
-            <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, participó en las reuniones de equipo aportando ideas para el desarrollo de la aplicacion web y la corrección de información en el reporte.<br>
-            <strong>Yair Aru Acevedo- TB2</strong>: Durante esta entrega, realicé las entrevistas de validacion del producto. Además de participar en las ideas del sprint 3 para la creacion del backend.<br>
-            <strong>Yair Aru Acevedo- TF</strong>: Durante esta entrega, participé en las reuniones aportando ideas sobre la base de datos del backend que son necesarias para el correcto funcionamiento del web application quitando ciertas clases que no eran necesarias. Además, de la organizacion de informacion en la Landing Page y actualización de la misma con la adición de los videos: about the team y about the product, los nuevos integrantes del proyecto y la aplicación del ARIA en el proyecto. Finalmente, en los puntos a corregir en el proyecto con respecto a la última entrega.<br>
-            <br><strong>Adriana Diestra- TB1</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
-	        <br><strong>Adriana Diestra- TP1</strong>: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.</br>
-	        <br><strong>Adriana Diestra- TB2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
-            <strong>Enrique Villón- TB1</strong>: Durante el desarollo de los puntos del proyecto, mostré una comunicación efectiva para entender las ideas de mi equipo, investigué sobre los requerimientos de un proyecto analizando las necesidades y las mejores que lograremos a cada segmento objetivo. <br>
-            <strong>Enrique Villón- TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto. <br>
-            <strong>Enrique Villón- TB2</strong>: Me comuniqué eficientemente con mi equipo para solucionar algunos problemas de estructura tanto en el diagrama de componentes y en el diagrama de clases, con ello coordinamos la estructura del backend para poder seguir implementando las interfaces de la aplicación. <br>
-            </td>
+			<td> 
+       <strong>Yair Aru Acevedo- TB1</strong>: Durante las reuniones del equipo, aportó ideas para la asignación de tareas entre los integrantes lo que permitio que se realicen de manera satisfactoria los puntos del proyecto asi como la elaboracion del diseño de la landing page y el web application.<br>
+        <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, participó en las reuniones de equipo aportando ideas para el desarrollo de la aplicacion web y la corrección de información en el reporte.<br>
+        <strong>Yair Aru Acevedo- TB2</strong>: Durante esta entrega, realicé las entrevistas de validacion del producto. Además de participar en las ideas del sprint 3 para la creacion del backend.<br>
+        <strong>Yair Aru Acevedo- TF</strong>: Durante esta entrega, participé en las reuniones aportando ideas sobre la base de datos del backend que son necesarias para el correcto funcionamiento del web application quitando ciertas clases que no eran necesarias. Además, de la organizacion de informacion en la Landing Page y actualización de la misma con la adición de los videos: about the team y about the product, los nuevos integrantes del proyecto y la aplicación del ARIA en el proyecto. Finalmente, en los puntos a corregir en el proyecto con respecto a la última entrega.<br>
+        <br><strong>Adriana Diestra- TB1</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en las entrevistas a usuarios, interpretando y comunicando los resultados de manera clara y accesible para todos los miembros del equipo.</br>
+        <br><strong>Adriana Diestra- TP1</strong>: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.</br>
+        <br><strong>Adriana Diestra- TB2</strong>: Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto y el sprint3.</br>
+        <br><strong>Adriana Diestra- TF</strong>: Durante las reuniones con los miembros del grupo, mostré una participación activa usando un lenguaje comprensible, participé activamente en la planificación de las tareas realizando el sprint 4.</br>
+        <strong>Enrique Villón- TB1</strong>: Durante el desarollo de los puntos del proyecto, mostré una comunicación efectiva para entender las ideas de mi equipo, investigué sobre los requerimientos de un proyecto analizando las necesidades y las mejores que lograremos a cada segmento objetivo. <br>
+        <strong>Enrique Villón- TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto. <br>
+        <strong>Enrique Villón- TB2</strong>: Me comuniqué eficientemente con mi equipo para solucionar algunos problemas de estructura tanto en el diagrama de componentes y en el diagrama de clases, con ello coordinamos la estructura del backend para poder seguir implementando las interfaces de la aplicación. <br>
+        <strong>Gabriel Casas - TB1</strong>: Busque comunicar mis ideas de manera clara para concretar una correcta comunicación entre mis compañeros y así poder lograr un mejor trabajo.<br>
+        <strong>Gabriel Casas - TP1</strong>: Para esta entrega busque comunicar de manera clara mis ideas para poder tener un mejor desempeño como equipo. Además de esto busque que todas la expresiones que use fueran de fácil entendimiento<br>
+        <strong>Gabriel Casas - TB2</strong>: Busque manter una comunicación simple y de fácil entendimiento, a la hora de explicar los conceptos trabajdos durante el desarrollo del proyecto.<br>
+        <strong>Gabriel Casas - TF</strong>: Durante todas las reuniones del equipo y durante el periodo de desarrollo del proyecto logré comunicar mi ideas y planteamientos de solución a todos mis compañeros, asegurandome de que todos tenga un pleno conocimiento de las acciones a realizar.
+      </td>
 			<td><strong>TB1</strong>: La participación activa de los miembros del equipo en la comunicación oral con diferentes rangos de audiencia permitió un alineamiento efectivo en las metas del proyecto, asegurando que tanto el equipo técnico como los stakeholders estuvieran en la misma página. Esta comunicación fue crucial para el avance eficiente de los entregables.<br>
 				<br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad. Este proceso me permitió cumplir con el criterio de comunicar ideas de manera efectiva a personas con diversos niveles de experiencia y roles dentro del proyecto. </br>
+	       <br><strong>TF</strong>:Se corrigió el front-end de la aplicación, se culminó el desarrollo del backend y se hicieron los despliegues y vinvulaciones respectivas. </br>
             </td>
 		</tr>
 		<tr>
 			<td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-			<td> <strong>Eduard Travezaño - TB1</strong>: Durante el desarrollo del trabajo realizando user stories, comparaciones con la competencia o características que puede tener nuestro producto, utilicé términos fáciles de comprender para no confundir a un público de distintas especialidades y comprendan adecuadamente el proyecto y a lo que queremos lograr. TP: Durante el desarrollo de las correciones pasadas, como en el diseño de la página, anotabamos los comentarios que teniamos de manera que cualquier persona de diferente público pueda entender.<br>
-            <strong>Fabio Horna - TB1</strong>: Durante el desarrollo de la landing page y la documentación del proyecto, creé esquemas detallados, análisis de entrevistas con usuarios, y documentación de user personas. Utilicé un lenguaje claro y directo para asegurar que todos los miembros del equipo pudieran entender el propósito y los avances del proyecto.<br>
-            <strong>Fabio Horna - TP1</strong>: A través de la documentación detallada de los mockups y las guías de estilo, logré estructurar de manera clara las ideas y resultados del proyecto. Esto permitió que todas las áreas involucradas comprendieran el enfoque visual y funcional de la aplicación, facilitando una implementación coherente y alineada con los objetivos del proyecto.<br>
-            <strong>Yair Aru Acevedo - TB1</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.</br>
-            <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, modificó las users stories y añadió los technical stories. Además, generó los datos de la fake api.<br>
-            <strong>Yair Aru Acevedo- TB2</strong>: En esta entrega, se modificaron y actualizacion algunas users stories y technicals stories ademas de crear la primera version del backend de nuestro producto.<br>
-            <strong>Enrique Villón - TB1</strong>: Durante el proyecto, cree los segmentos de negocio, tanto como la descripción principal, asimismo como los to-be mapping, user stories, impact mapping y product backlog, todo lo necesario para saber los requerimientos.
-			<strong>Enrique Villón- TP1</strong>: Con la web application se permitió aterrizar la idea de negocio, probando la experiencia de usuario y la resolución al problema mediante un software, facilitando la venta del negocio, la cantidad de clientes, y los objetivos del equipo. <br>
-			<strong>Enrique Villón- TB2</strong>: Con la nueva interface de greenmove para gestionar el viaje tenemos una mejor representación del negocio comunicandonos muy bien con el sprint 3 bien organizado, con ello pudimos desarollar las interfaces y seguir avanzando con las funcionalidades de la aplicación. <br>
-            <br><strong>Adriana Diestra - TB1</strong>: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
-            <br><strong>Adriana Diestra - TP1</strong>: En esta segunda entrega, dirigí la implementación del segundo sprint de nuestro proyecto de desarrollo web. Con un enfoque estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.</br>
-            <br><strong>Adriana Diestra - TB2</strong>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.</br>
-            </td>
+			<td> 
+        <strong>Yair Aru Acevedo - TB1</strong>: Durante el desarrollo del proyecto, creo los primeros diseños de la landing page tanto en wireframes como en mock-ups, además elaboró el diseño del funcionamiento de la aplicación web. También, creó las preguntas necesarias para las entrevistas a los segmentos User y Owner, añadiendo una entrevista relacionada al segmento User.</br>
+        <strong>Yair Aru Acevedo- TP1</strong>: Durante esta entrega, modificó las users stories y añadió los technical stories. Además, generó los datos de la fake api.<br>
+        <strong>Yair Aru Acevedo- TB2</strong>: En esta entrega, se modificaron y actualizacion algunas users stories y technicals stories ademas de crear la primera version del backend de nuestro producto.<br>
+        <strong>Yair Aru Acevedo- TF</strong>: Se cumplio con las tareas asignadas, al implementar el aria y los videos About the team y About the product en el landing page, además se mejoró las users stories y technicals stories. También, se mejoro las validations interviews. Y finalizacion, del web application y el web services.<br>
+        <strong>Enrique Villón - TB1</strong>: Durante el proyecto, cree los segmentos de negocio, tanto como la descripción principal, asimismo como los to-be mapping, user stories, impact mapping y product backlog, todo lo necesario para saber los requerimientos.
+			  <strong>Enrique Villón- TP1</strong>: Con la web application se permitió aterrizar la idea de negocio, probando la experiencia de usuario y la resolución al problema mediante un software, facilitando la venta del negocio, la cantidad de clientes, y los objetivos del equipo. <br>
+			  <strong>Enrique Villón- TB2</strong>: Con la nueva interface de greenmove para gestionar el viaje tenemos una mejor representación del negocio comunicandonos muy bien con el sprint 3 bien organizado, con ello pudimos desarollar las interfaces y seguir avanzando con las funcionalidades de la aplicación. <br>
+        <br><strong>Adriana Diestra - TB1</strong>: Durante el desarrollo del trabajo realizó los diagramas de contenedores (context, component y container, ademas realizó User Stories, Product Backlog</br>
+        <br><strong>Adriana Diestra - TP1</strong>: En esta segunda entrega, dirigí la implementación del segundo sprint de nuestro proyecto de desarrollo web. Con un enfoque estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.</br>
+        <br><strong>Adriana Diestra - TB2</strong>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.</br>
+	      <br><strong>Adriana Diestra - TF</strong>: Cumplí con las tareas asignadas activamente con mi equipo, asegurando una comunicación clara para alcanzar los objetivos del proyecto. </br>
+        <strong>Gabriel Casas - TB1</strong>: Organice a mi grupo para la repartición de actividades, además de esto busque que todos los conceptos plazmados en el reporte sean entendibles para personas externas al mundo del desarrollo de software.<br>
+        <strong>Gabriel Casas - TP1</strong>: Busque que lo implementado en el desarrollo de mi página para el web application sea intuitivo y de fácil entendimiento. Ademá estableci los primeros lineamientos para implementar i18n.<br>
+        <strong>Gabriel Casas - TB2</strong>: Para esta entrega priorice que todo lo escrito fuera de fácil entendimiento dejando los principales conceptos claros para asegurar el entendimiento d emis ideas.<br>
+        <strong>Gabriel Casas - TF</strong>: Finalmente en esta entrega final me dedique a transmitir el planteamiento del proyecto de la manera más entendible posible dentro del reporte, desde el tutorial para el despliegue, hasta el planteamiento del ultimo sprint de desarrollo del equipo.<br>
+      </td>
 			<td> <strong>TB1</strong>: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de GreenMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso.<br>
                   <br><strong>TP1</strong>:El enfoque de GreenMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.
                   Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente.La capacidad para plasmar el flujo del negocio en interfaces, junto con una comunicación efectiva y coherente con todas las partes involucradas, fue clave para transmitir las ideas del proyecto a diversas jerarquías. Logrando un entendimiento común y facilitó la implementación de la aplicación de manera alineada con las expectativas del negocio. El uso de una comunicación escrita precisa ayudó a cumplir con el criterio de transmitir ideas complejas de forma comprensible para todos los miembros del equipo, independientemente de su especialidad.
+			<strong>TF</strong>: Se cumplieron los objetivos, corrigiendo los puntos de mejora del front end y se terminaron los endpoints en el backend.<br>
             </td>
 		</tr>
 	</tbody>
@@ -393,7 +422,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         </tr>
         <tr>
             <td>Gabriel Alexander Casas Sanchez	</td>
-            <td><img src="/assets/Gabriel.png" width="370"/></td>
+            <td><img src="/assets/alex-pfp.jpg" width="370"/></td>
             <td> Soy estudiante de la carrera de Ingenieria de Software, actualmente estoy cursando el 5to semestre en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos en desarrollo bakcend con los lenguajes de programación, tales como python, c++ y java. </td>
         </tr>
     </tbody>
@@ -963,44 +992,43 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     </tr>
     <tr>
         <td>EP01</td>
-        <td>Landing page para la aplicacion GreenMove</td>
-        <td><b>Como</b> Owner/Cliente GreenMove <b>Quiero</b> ingresar una landing page <b>Para</b> informarme sobre la aplicación y su equipo de desarrollo.</td>
+        <td>Landing page</td>
+        <td><b>Como</b> Owner/Cliente <b>Quiero</b> ingresar una landing page <b>Para</b> informarme sobre la aplicación y su equipo de desarrollo.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP02</td>
         <td>Gestión de cuenta de usuario</td>
-        <td><b>Como</b> Owner/Cliente de GreenMove <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente.</td>
+        <td><b>Como</b> Owner/Cliente <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP03</td>
         <td>Gestión de vehículos en alquiler</td>
-        <td><b>Como</b> Owner en GreenMove <b>Quiero</b> agregar y gestionar mis vehículos <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
+        <td><b>Como</b> Owner <b>Quiero</b> poder gestionar el estado de mis vehículos en alquiler <b>Para</b> asegurar que están disponibles, en buen estado o en mantenimiento cuando corresponda, y así optimizar el proceso de alquiler.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP04</td>
         <td>Gestión de reservas</td>
-        <td><b>Como</b> cliente de GreenMove <b>Quiero</b> gestionar mis reservas y el uso de vehículos <b>Para</b> planificar y controlar mis alquileres. </td>
+        <td><b>Como</b> cliente <b>Quiero</b> gestionar mis reservas y el uso de vehículos <b>Para</b> planificar y controlar mis alquileres. </td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP05</td>
         <td>Gestionar historial de reservas</td>
-        <td><b>Cómo</b> Cliente de GreenMove <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b> Para</b> acceder a la información de estos de manera sencilla.
-        <b>Y</b> tener un control de mi historial</td>
+        <td><b>Cómo</b> Cliente <b>Quiero</b>  ver un historial detallado de todas mis reservas pasadas<b> Para</b> tener acceso rápido a la información de mis alquileres y poder revisar fechas, vehículos alquilados y duración.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP06</td>
         <td>Gestión de planes</td>
-        <td><b>Cómo</b> cliente de GreenMove <b>Quiero</b> tener una gestión y control de mi plan <b>Para</b> poder adquirirlo y coancelarlo cuando lo requiera</td>
+        <td><b>Cómo</b> cliente <b>Quiero</b> poder gestionar mi plan de suscripción <b>Para</b> que se adapte a mis necesidades, incluyendo la posibilidad de adquirir, pausar, reactivar o cancelar mi plan según sea necesario.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
@@ -1056,7 +1084,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <td>US03</td>
         <td>Acceder a la aplicación desde la landing page </td>
         <td><b>Cómo</b> visitante de la landing page 
-        <b>Quiero</b> poder acceder a la aplicación GreenMove desde la landing page
+        <b>Quiero</b> poder acceder a la aplicación desde la landing page
         <b>Para</b> comenzar a utilizar las funcionalidades ofrecidas</td>
         <td>
             <b>Scenario 1: Usuario ingresa a aplicación</b> <br/>
@@ -1074,17 +1102,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <tr>
     <td>US05</td>
     <td>Iniciar sesión</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> iniciar sesión
     <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
     <td>
         <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
-        <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desee iniciar sesión <br/>
+        <b>Dado que</b> el usuario posee una cuenta en la aplicación <br><b>Y</b> desee iniciar sesión <br/>
         <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
         <b>Entonces</b> el sistema permitirá el acceso a la aplicación.<br/>
         <br>
         <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
-        <b>Dado que</b> el usuario posee una cuenta en la aplicación GreenMove <br><b>Y</b> desea iniciar sesión <br/>
+        <b>Dado que</b> el usuario posee una cuenta en la aplicación <br><b>Y</b> desea iniciar sesión <br/>
         <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
         <b>Entonces</b> el sistema denegará la solicitud.<br/>
     </td>
@@ -1094,7 +1122,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 <tr>
     <td>US06</td>
     <td>Visualizar perfil de usuario</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove 
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> visualizar mi perfil personal 
     <b>Para</b> visualizar mis datos actuales.</td>
     <td>
@@ -1114,7 +1142,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 <tr>
     <td>US07</td>
     <td>Cambiar datos personales</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove 
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> cambiar los datos asociados a mi perfil
     <b>Para</b> actualizar la información.</td>
     <td>
@@ -1154,17 +1182,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
 <tr>
     <td>US08</td>
     <td>Eliminar cuenta de usuario</td>
-    <td><b>Cómo</b> Owner/Cliente de GreenMove
+    <td><b>Cómo</b> Usuario
     <b>Quiero</b> eliminar mi cuenta de usuario
     <b>Para</b> dejar de usar los servicios de la aplicación.</td>
     <td>
-        <b>Scenario 1: Owner/Cliente elimina cuenta de usuario.</b> <br/>
-        <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+        <b>Scenario 1: Usuario elimina su cuenta.</b> <br/>
+        <b>Dado que</b> el Usuario desee eliminar su cuenta <br/>
         <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil <br><b>Y</b> confirme su intención para proceder con la operación<br/>
         <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
         <br>
-        <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario.</b> <br/>
-        <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+        <b>Scenario 2: El usuario no elimina su cuenta.</b> <br/>
+        <b>Dado que</b> el usuario desee eliminar su cuenta de usuario <br/>
         <b>Cuando</b> niegue su intención para proceder con la operación<br/>
         <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
     </td>
@@ -1176,12 +1204,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> tener acceso fácil a un servicio de atención al cliente
         <b>Para</b> tener ayuda en caso de problemas técnicos o consultas relacionadas con el uso de la aplicación. </td>
         <td>
-            <b>Scenario 1: Cliente tiene un problema técnico </b> <br/>
+            <b>Scenario 1: Usuario tiene un problema técnico </b> <br/>
             <b>Dado que</b> el usuario tiene problemas técnicos en la página web<br/>
             <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
             <b>Entonces</b> el asesor se encargará de informar sobre el problema para resolverlo en la brevedad posible. <br/>
             <br>
-            <b>Scenario 2: Cliente tiene una consulta </b> <br/>
+            <b>Scenario 2: Usuario tiene una consulta </b> <br/>
             <b>Dado que</b> el usuario tiene una consulta relacionada a la página web<br/>
             <b>Cuando</b> el usuario acceda al servicio de atención al cliente <br><b>Y</b> se contacte con un asesor <br/>
             <b>Entonces</b> el asesor se responder su consulta en la brevedad y de la manera más sencilla <br/>
@@ -1194,17 +1222,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi vehículo
         <b>Para</b> que pueda ser alquilado por un cliente</td>
         <td>
-            <b>Scenario 1: Owner publica su vehículo en GreenMove </b> <br/>
+            <b>Scenario 1: Owner publica su vehículo </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo” <br/>
             <b>Cuando</b> llene todas las casillas obligatorias para publicar su vehículo <br><b>Y</b> le de al botón “Publicar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su vehículo ha sido publicado. <br/>
             <br>
-           <b>Scenario 2: Owner cancela la publicación de su vehículo en GreenMove </b> <br/>
+           <b>Scenario 2: Owner cancela la publicación de su vehículo </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo”  <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que se ha cancelado la publicación.<br/>
             <br>
-           <b>Scenario 3: Owner no publica su vehículo en GreenMove </b> <br/>
+           <b>Scenario 3: Owner no publica su vehículo </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar vehículo” <br/>
             <b>Cuando</b> no llene todas las casillas obligatorias para publicar su vehículo <br><b>Y</b> le de al botón “Publicar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida <br><b>Y</b> no se publica su vehículo<br/>
@@ -1217,13 +1245,13 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi vehículo
         <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
         <td>
-            <b>Scenario 1: Owner visualiza su vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de GreenMove <br/>
+            <b>Scenario 1: Owner visualiza su vehículo </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación <br/>
             <b>Cuando</b> se dirija a la opción de “Ver mis vehículos”<br/>
             <b>Entonces</b> el sistema le mostrará la información de los vehículos publicados.<br/>
             <br>
-            <b>Scenario 2: Owner cancela la visualización de su vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de GreenMove<br/>
+            <b>Scenario 2: Owner cancela la visualización de su vehículo </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación<br/>
             <b>Cuando</b> se dirija a la opción de “Ver mis vehículos” <br><b>Y</b> le de al botón de “Salir” <br/>
             <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis vehículos”<br/>
         <td>EP03</td>
@@ -1235,17 +1263,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Quiero</b> editar la publicación de mi vehículo
         <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
         <td>
-            <b>Scenario 1: Owner edita la publicación de su vehículo en GreenMove</b> <br/>
+            <b>Scenario 1: Owner edita la publicación de su vehículo</b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> actualice correctamente la información<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su vehículo ha sido actualizado<br/>
             <br>
-            <b>Scenario 2: Owner cancela la edición de la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Scenario 2: Owner cancela la edición de la publicación de su vehículo </b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema cierra la ventana de edición de publicación<br/>
             <br>
-            <b>Scenario 3: Owner no edita la publicación de su vehículo en GreenMove </b> <br/>
+            <b>Scenario 3: Owner no edita la publicación de su vehículo </b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis vehículos” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> ingrese incorrectamente la información <br><b>Y</b> le de al botón de “Aceptar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su vehículo no ha sido actualizado.<br/>
@@ -1272,7 +1300,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US14</td>
         <td>Búsqueda de vehículos cercano</td>
-        <td><b>Cómo</b> cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder buscar vehículos disponibles en mi distrito
         <b>Para</b> facilitar mi desplazamiento.</td>
         <td>
@@ -1290,21 +1318,21 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US15</td>
         <td>Alquiler vehículo</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> alquilar un vehículo
         <b>Para</b> llegar rápido a mi destino.</td>
         <td>
-            <b>Scenario 1: Owner alquila un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 1: Tenant alquila un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que el vehículo ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
-            <b>Scenario 2: Owner cancela el alquiler de un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 2: Tenant cancela el alquiler de un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
-            <b>Scenario 3: Owner no alquila un vehículo en GreenMove</b> <br/>
+            <b>Scenario 3: Tenant no alquila un vehículo</b> <br/>
             <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
@@ -1313,22 +1341,22 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US16</td>
         <td>Reserva de alquiler con horario</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder programar mi viaje
         <b>Para</b> tener un vehículo separado a la hora deseada</td>
         <td>
-            <b>Scenario 1: Owner alquila un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 1: Tenant alquila un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que el vehículo ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
-            <b>Scenario 2: Owner cancela el alquiler de un vehículo en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
+            <b>Scenario 2: Tenant cancela el alquiler de un vehículo </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
-            <b>Scenario 3: Owner no alquila un vehículo en GreenMove</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
+            <b>Scenario 3: Tenant no alquila un vehículo</b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Vehículos” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
         <td>EP04</td>
@@ -1336,7 +1364,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US17</td>
         <td>Calificación y reseñas</td>
-        <td><b>Cómo</b> cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con vehículos utilizados y la zona donde los tomé
         <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
         <td>
@@ -1345,7 +1373,7 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <b>Cuando</b> el usuario acceda a la opción de dejar reseña <br><b>Y</b> seleccione la zona o tipo de vehículo donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
             <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
             <br>
-            <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
+            <b>Scenario 2: Ver reseñas de otros usuarios </b> <br/>
             <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un vehículo o una zona específica<br/>
             <b>Cuando</b> el usuario busque reseñas <br/>
             <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
@@ -1395,12 +1423,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
         <b>Para</b> no olvidarlas </td>
         <td>
             <b>Scenario 1: Notificación de recordatorios </b> <br/>
-            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Dado que</b> que el usuario tiene una reserva confirmada para una fecha futura<br/>
             <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br/>
-            <b>Entonces</b> recibo una notificación recordatoria de la reserva <br/>
+            <b>Entonces</b> recibe una notificación recordatoria de la reserva <br/>
             <br>
             <b>Scenario 2: No notifica recordatorio </b> <br/>
-            <b>Dado que</b> que tengo una reserva confirmada para una fecha futura<br/>
+            <b>Dado que</b> que el usuario tiene una reserva confirmada para una fecha futura<br/>
             <b>Cuando</b> el sistema alcanza la fecha del recordatorio <br><b>Y</b> no reciba una notificación recordatoria de la reserva <br/>
             <b>Entonces</b> se contactará con atención al cliente para que vean el problema del recordatorio <br/>
         <td>EP04</td>
@@ -1444,17 +1472,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US23</td>
         <td>Visualizar historial de vehículos alquilados</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> visualizar mi historial de vehículos alquilados
         <b>Para</b> acceder fácilmente a su información</td>
         <td>
-            <b>Scenario 1: Cliente visualiza su historial de vehículos alquilados </b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente<br/>
+            <b>Scenario 1: El Usuario visualiza su historial de vehículos alquilados </b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> ya ha alquilado vehículos anteriormente<br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
             <b>Entonces</b> el sistema le mostrará la información de los vehículos que alquiló anteriormente.<br/>
             <br>
-            <b>Scenario 2: Cliente no visualiza su historial de vehículos alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> no ha alquilado vehículos anteriormente <br/>
+            <b>Scenario 2: El Usuario no visualiza su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> no ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
             <b>Entonces</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún vehículo. <br/>
         <td>EP05</td>
@@ -1462,12 +1490,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US24</td>
         <td>Iniciar viaje con el vehículo eléctrico seleccionado</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> poder iniciar el viaje 
         <b>Para</b> acceder a la ruta optima y empiece el tiempo del alquiler</td>
         <td>
-            <b>Scenario 1: Cliente selecciona el vehículo para iniciar el viaje </b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la sección principal de GreenMove <br>
+            <b>Scenario 1: El Usuario selecciona el vehículo para iniciar el viaje </b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la sección principal <br>
             <b>Cuando</b> se dirija a la vista principal<br/>
             <b>Entonces</b> el sistema le mostrará el estado de su ruta en tiempo real, indicando el tiempo transcurrido.<br/>
             <br>
@@ -1476,17 +1504,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US25</td>
         <td>Borrar historial de vehículos alquilados</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> o borrar mi historial de vehículos alquilados
         <b>Para</b> ya no tener información que considere innecesaria. </td>
         <td>
-            <b>Scenario 1: Cliente elimina su historial de vehículos alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
+            <b>Scenario 1: El Usuario elimina su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado <br><b>Y</b> ya no mostrará la información del historial<br/>
             <br>
-            <b>Scenario 2: Cliente no elimina su historial de vehículos alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de GreenMove <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
+            <b>Scenario 2: El Usuario no elimina su historial de vehículos alquilados</b> <br/>
+            <b>Dado que</b> el Usuario se encuentre en la aplicación <br><b>Y</b> ya ha alquilado vehículos anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> cancele la acción. <br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado <br><b>Y</b> seguirá mostrando la información del historial.<br/>
         <td>EP05</td>
@@ -1512,27 +1540,27 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US27</td>
         <td>Adquirir plan</td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> Comprar un plan
         <b>Para</b> acceder a sus beneficios al usar la aplicación. </td>
         <td>
-            <b>Scenario 1: Cliente compra una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
+            <b>Scenario 1: El Usuario compra una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito. <br/>
             <br>
-            <b>Scenario 2: Cliente cancela compra una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
+            <b>Scenario 2: El Usuario cancela compra una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se dé al botón de cancelar<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la compra de la membresía<br/>
             <br>
-            <b>Scenario 3: Cliente no compra una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Cliente no cuente con una membresía <br/>
+            <b>Scenario 3: El Usuario no compra una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Usuario no cuente con una membresía <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha adquirido<br/>
             <br>
-            <b>Scenario 4: Cliente cambia de membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
+            <b>Scenario 4: El Usuario cambia de membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
         <td>EP06</td>
@@ -1540,12 +1568,12 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
     <tr>
         <td>US28</td>
         <td>Reporte de contribución de huella de carbono </td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> visualizar mi aporte  a la sostenibilidad 
         <b>Para</b> medir mi reducción de huella de carbono </td>
         <td>
-            <b>Scenario 1: Cliente observa el reporte de sostenibilidad </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Mi Perfil” <br> 
+            <b>Scenario 1: El Usuario observa el reporte de sostenibilidad </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Mi Perfil” <br> 
             <b>Cuando</b> el sistema muestre la opción de "Mi huella"<br><b>Y</b> se confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un reporte de los datos de la huella de carbono reducida 
         <td>EP06</td>
@@ -1553,17 +1581,17 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
        <tr>
         <td>US29</td>
         <td>Cancelar suscripción </td>
-        <td><b>Cómo</b> Cliente de GreenMove
+        <td><b>Cómo</b> Usuario
         <b>Quiero</b> cancelar mi suscripción
         <b>Para</b> ya no seguir teniendo cobros de esta. </td>
         <td>
-            <b>Scenario 1: Cliente cancela una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
+            <b>Scenario 1: El Usuario cancela una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
             <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> se confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha cancelado con éxito.<br/>
             <br>
-            <b>Scenario 2: Cliente no cancela una membresía en GreenMove </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
+            <b>Scenario 2: El Usuario no cancela una membresía </b> <br/>
+            <b>Dado que</b> el Usuario se encuentra en el apartado de “Membresía” <br><b>Y</b> el Usuario cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
             <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> no confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
@@ -1618,6 +1646,300 @@ Describiremos los escenarios To-Be para los dos segmentos correspondientes, owne
             <b>Cuando</b> el servidor se encuentre en linea <br><b>Y</b> utilize los endpoints<br/>
             <b>Entonces</b> La API proporcionará un endpoint que devuelva el historial completo del usuario. <br/>
         <td>EP07</td>
+    </tr>
+    <tr>
+        <td>TS01</td>
+        <td>Endpoint para vehículos por propietario</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para obtener todos los vehículos de un propietario
+        <b>Para</b> permitir consultar la flota de vehículos asociada a cada propietario </td>
+        <td>
+            <b>Scenario 1: Obtención exitosa de vehículos </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK con la lista de vehículos del propietario<br/>
+	    <b>Y</b> debe incluir la paginación correspondiente.<br/>
+	<br>
+            <b>Scenario 2: Propietario no encontrado </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId que no existe </b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe incluir un mensaje indicando que el propietario no existe.<br/>
+        <br>
+            <b>Scenario 3: Error de formato en ownerId </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId en formato inválido</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b>debe incluir un mensaje indicando el formato correcto esperado.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS02</td>
+        <td>Endpoint para nuevo vehículo</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para registrar nuevos vehículos
+        <b>Para</b> permitir asociar vehículos a un propietario existente </td>
+        <td>
+            <b>Scenario 1: Registro exitoso de vehículo </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"<br/>
+            <b>Cuando</b> se envía una solicitud POST con datos válidos del vehículo<br/>
+            <b>Entonces</b> la respuesta debe ser 201 Created<br/>
+	    <b>Y</b> debe incluir el header Location con la URL del nuevo recurso<br/>
+	    <b>Y</b> el vehículo debe quedar registrado en el sistema.<br/>
+	<br>
+            <b>Scenario 2: Datos inválidos o faltantes</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud POST con datos faltantes o inválidos</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe incluir un mensaje detallando los campos con error.<br/>
+        <br>
+            <b>Scenario 3: Propietario no existe </b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}/vehicles"</b>
+            <b>Cuando</b> se envía una solicitud POST a un ownerId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b>debe indicar que el propietario no existe.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS03</td>
+        <td>Endpoint para vehículo por ID</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para obtener un vehículo específico
+        <b>Para</b> permitir consultar los detalles completos de un vehículo</td>
+        <td>
+            <b>Scenario 1: Obtención exitosa del vehículo</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un vehicleId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe incluir todos los datos del vehículo solicitado.<br/>
+	<br>
+            <b>Scenario 2:  Vehículo no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un vehicleId que no existe</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b>  debe incluir un mensaje indicando que el vehículo no existe.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>TS04</td>
+        <td>Endpoint para eliminar vehículo</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para eliminar vehículos
+        <b>Para</b> permitir dar de baja vehículos del sistema</td>
+        <td>
+            <b>Scenario 1:Eliminación exitosa</b> <br/>
+            <b>Dado que</b>  el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un vehicleId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
+	    <b>Y</b> el vehículo debe ser eliminado del sistema.<br/>
+	<br>
+            <b>Scenario 2:Vehículo no encontrado</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/vehicles/{vehicleId}"<br/>
+            <b>Cuando</b>se envía una solicitud DELETE con un vehicleId inexistente<br/>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que el vehículo no existe.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+         <td>TS05</td>
+         <td>Endpoint para vehículos por tipo</td>
+         <td><b>Cómo</b> Developer
+         <b>Quiero</b> crear un endpoint para filtrar vehículos por tipo
+         <b>Para</b> permitir búsquedas específicas por categoría de vehículo</td>
+         <td>
+            <b>Scenario 1: Filtrado exitoso por tipo</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/vehicles/type/{type}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un tipo válido<br/>
+            <b>Entonces</b>la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe incluir la lista de vehículos del tipo especificado<br/>
+	    <b>Y</b> debe incluir la paginación correspondiente.<br/>
+	 <br>
+            <b>Scenario 2: Tipo de vehículo inválido</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/vehicles/type/{type}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un tipo no permitido</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe incluir los tipos de vehículos válidos.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+         <td>TS06</td>
+         <td>Endpoint para nuevo propietario</td>
+         <td><b>Cómo</b> Developer
+         <b>Quiero</b> crear un endpoint para registrar nuevos propietarios
+         <b>Para</b> permitir dar de alta dueños de vehículos en el sistema</td>
+         <td>
+            <b>Scenario 1: Registro exitoso de propietario</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners"<br/>
+            <b>Cuando</b> se envía una solicitud POST con datos válidos del propietario<br/>
+            <b>Entonces</b>la respuesta debe ser 201 Created<br/>
+	    <b>Y</b> debe incluir el header Location con la URL del nuevo recurso<br/>
+	    <b>Y</b> el propietario debe quedar registrado en el sistema.<br/>
+	<br>
+            <b>Scenario 2: Datos inválidos o faltantes</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/owners"</b>
+            <b>Cuando</b>se envía una solicitud POST con datos faltantes o inválidos</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe incluir un mensaje detallando los campos con error.<br/>
+        <br>
+            <b>Scenario 3: Propietario ya existe</b> <br/>
+            <b>Dado que</b>el Developer implementa el endpoint "/api/v1/owners"</b>
+            <b>Cuando</b> se envía una solicitud POST con un email/identificación ya registrado</b>
+            <b>Entonces</b> la respuesta debe ser 409 Conflict<br/>
+	    <b>Y</b>debe indicar que el propietario ya existe en el sistema.<br/>
+        <td>EP02</td>
+	</tr>
+    <tr>
+        <td>TS07</td>
+        <td>Endpoint para obtener propietario por ID</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para obtener un propietario por su ID
+        <b>Para</b> permitir recuperar información específica de un propietario en el sistema</td>
+        <td>
+          <b>Scenario 1: Propietario encontrado</b> <br/>
+          <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+          <b>Cuando</b> se envía una solicitud GET con un ID válido de propietario<br/>
+          <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+      <b>Y</b> debe incluir los detalles del propietario en el cuerpo de la respuesta.<br/>
+  <br>
+            <b>Scenario 2: Propietario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un ID que no existe en el sistema<br/>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+      <b>Y</b> debe incluir un mensaje indicando que el propietario no fue encontrado.<br/>
+      <td>EP02</td>
+  </tr>
+        <tr>
+            <td>TS08</td>
+            <td>Endpoint para borrar propietario por ID</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear un endpoint para borrar un propietario por su ID
+            <b>Para</b> permitir eliminar propietarios del sistema cuando sea necesario</td>
+        <td>
+            <b>Scenario 1: Eliminación exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un ID válido de propietario<br/>
+            <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
+        <b>Y</b> el propietario debe ser eliminado del sistema.<br/>
+  <br>
+            <b>Scenario 2: Propietario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/owners/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un ID que no existe en el sistema<br/>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+        <b>Y</b> debe incluir un mensaje indicando que el propietario no fue encontrado.<br/>
+      <td>EP02</td>
+  </tr>
+        <tr>
+            <td>TS09</td>
+            <td>Endpoint para nueva reservación</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear un endpoint para registrar nuevas reservaciones 
+            <b>Para</b> permitir a los clientes crear nuevas reservaciones de vehículos</td>
+        <td>
+            <b>Scenario 1: Creación exitosa de reservación</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations"<br/>
+            <b>Cuando</b> se envía una solicitud POST con datos válidos de la reservación<br/>
+            <b>Entonces</b> la respuesta debe ser 201 Created<br/>
+	    <b>Y</b> debe devolver los datos de la reservación creada<br/>
+	    <b>Y</b> debe incluir el header Location con la URL de la nueva reservación.<br/>
+	<br>
+            <b>Scenario 2: Datos inválidos de reservación</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations"</b>
+            <b>Cuando</b> se envía una solicitud POST con datos faltantes o incorrectos</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe indicar los campos con error.<br/>
+        <br>
+            <b>Scenario 3: Vehículo no disponible</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations"</b>
+            <b>Cuando</b> se envía una solicitud POST para un vehículo ya reservado en esas fechas</b>
+            <b>Entonces</b> la respuesta debe ser 409 Conflict<br/>
+	    <b>Y</b> debe indicar que el vehículo no está disponible.<br/>
+        <td>EP04</td>
+	</tr>
+        <tr>
+            <td>TS10</td>
+            <td>Endpoint para reservación por ID</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear un endpoint para consultar reservaciones por ID
+            <b>Para</b> permitir consultar los detalles de una reservación específica</td>
+        <td>
+            <b>Scenario 1: Consulta exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un reservationId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe devolver los datos completos de la reservación.<br/>
+	<br>
+            <b>Scenario 2: Reservación no encontrada</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un reservationId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que la reservación no existe.<br/>
+       <td>EP04</td>
+         </tr>
+         <tr>
+            <td>TS11</td>
+            <td>Endpoint para eliminar reservación</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear un endpoint para eliminar reservaciones existentes
+            <b>Para</b> permitir eliminar una reservación existente</td>
+        <td>
+            <b>Scenario 1: Cancelación exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"<br/>
+            <b>Cuando</b> se envía una solicitud DELETE con un reservationId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 204 No Content<br/>
+	    <b>Y</b> la reservación debe ser cancelada en el sistema.<br/>
+	 <br>
+            <b>Scenario 2: Reservación no encontrada</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"</b>
+            <b>Cuando</b> se envía una solicitud DELETE con un reservationId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+         <br>
+            <b>Scenario 3: Cancelación fuera de plazo</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/{reservationId}"</b>
+            <b>Cuando</b> se envía una solicitud DELETE para una reservación fuera del plazo de cancelación</b>
+            <b>Entonces</b> la respuesta debe ser 400 Bad Request<br/>
+	    <b>Y</b> debe indicar que la reservación no puede ser cancelada.<br/>
+        <td>EP04</td>
+	</tr>
+        <tr>
+            <td>TS12</td>
+            <td>Endpoint para reservaciones por arrendatario</td>
+            <td><b>Cómo</b> Developer
+            <b>Quiero</b> crear un endpoint para obtener reservaciones por arrendatario
+            <b>Para</b> permitir a los arrendatarios ver todas sus reservaciones</td>
+         <td>
+            <b>Scenario 1: Obtención exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/tenant/{tenantId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un tenantId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe devolver la lista de todas las reservaciones del arrendatario.<br/>
+	 <br>
+            <b>Scenario 2: Arrendatario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/tenant/{tenantId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un tenantId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que el arrendatario no existe<br/>
+         <td>EP04</td>
+	 </tr>
+    <tr>
+        <td>TS13</td>
+        <td>Endpoint para reservaciones por propietario</td>
+        <td><b>Cómo</b> Developer
+        <b>Quiero</b> crear un endpoint para obtener reservaciones por propietario
+        <b>Para</b> permitir a los propietarios ver todas las reservaciones de sus vehículos</td>
+        <td>
+            <b>Scenario 1: Obtención exitosa</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/owner/{ownerId}"<br/>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId válido<br/>
+            <b>Entonces</b> la respuesta debe ser 200 OK<br/>
+	    <b>Y</b> debe devolver la lista de todas las reservaciones de los vehículos del propietario<br/>
+	<br>
+            <b>Scenario 2: Propietario no encontrado</b> <br/>
+            <b>Dado que</b> el Developer implementa el endpoint "/api/v1/reservations/owner/{ownerId}"</b>
+            <b>Cuando</b> se envía una solicitud GET con un ownerId inexistente</b>
+            <b>Entonces</b> la respuesta debe ser 404 Not Found<br/>
+	    <b>Y</b> debe indicar que el propietario no existe.<br/>
+        <td>EP04</td>
+	</tr>
     </tr>
 </table>
 
@@ -1889,7 +2211,85 @@ Este Impact Map está diseñado para usuarios que buscan alquilar vehículos el�
     <td valign="top"> Cómo Developer implementaré un api para obtener el historial de viajes por usuario.</td>
     <td valign="top"> 5 </td>
   </tr>
+      <tr>
+    <td valign="top"> 34 </td>
+    <td valign="top"> TS01 </td>
+    <td valign="top"> Endpoint para vehículos por propietario </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para obtener todos los vehículos de un propietario para permitir consultar la flota de vehículos asociada a cada propietario.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 35 </td>
+    <td valign="top"> TS02 </td>
+    <td valign="top"> Endpoint para nuevo vehículo </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para registrar nuevos vehículos para permitir asociar vehículos a un propietario existente.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 36 </td>
+    <td valign="top"> TS03 </td>
+    <td valign="top"> Endpoint para vehículo por ID </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para obtener un vehículo específico para permitir consultar los detalles completos de un vehículo.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+      <tr>
+    <td valign="top"> 37 </td>
+    <td valign="top"> TS04 </td>
+    <td valign="top"> Endpoint para eliminar vehículo </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para eliminar vehículos para permitir dar de baja vehículos del sistema.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 38 </td>
+    <td valign="top"> TS05 </td>
+    <td valign="top"> Endpoint para vehículos por tipo </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para filtrar vehículos por tipo para permitir búsquedas específicas por categoría de vehículo.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 39 </td>
+    <td valign="top"> TS06 </td>
+    <td valign="top"> Endpoint para nuevo propietario </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para registrar nuevos propietarios para permitir dar de alta dueños de vehículos en el sistema.</td>
+    <td valign="top"> 2 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 40 </td>
+    <td valign="top"> TS07 </td>
+    <td valign="top"> Endpoint para nueva reservación </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para registrar nuevas reservaciones para permitir a los clientes crear nuevas reservaciones de vehículos.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 41 </td>
+    <td valign="top"> TS08 </td>
+    <td valign="top"> Endpoint para reservación por ID </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para consultar reservaciones por ID para permitir consultar los detalles de una reservación específica.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 42 </td>
+    <td valign="top"> TS09 </td>
+    <td valign="top"> Endpoint para eliminar reservación </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para eliminar reservaciones existentes para permitir eliminar una reservación existente.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 43 </td>
+    <td valign="top"> TS10 </td>
+    <td valign="top"> Endpoint para reservaciones por arrendatario </td>
+    <td valign="top"> Como Developer, quiero crear un endpoint para obtener reservaciones por arrendatario para permitir a los arrendatarios ver todas sus reservaciones.</td>
+    <td valign="top"> 5 </td>
+  </tr>
+     <tr>
+    <td valign="top"> 44 </td>
+    <td valign="top"> TS11 </td>
+    <td valign="top"> Endpoint para reservaciones por propietario </td>
+    <td valign="top"> Como Developer, crear un endpoint para obtener reservaciones por propietario para permitir a los propietarios ver todas las reservaciones de sus vehículos.</td>
+    <td valign="top"> 5 </td>
+  </tr>
 
+ 
 </table>
 
 ---
@@ -2520,60 +2920,27 @@ Link del Video:
 
 ### 4.7.1. Class Diagrams
 
-Profile Management:
-En el ámbito de la administración de perfiles, se ha desarrollado una serie de clases e interfaces dedicadas a optimizar la interacción entre los usuarios y el sistema. Asegurando un entorno confiable y proactivo para todas las operaciones relacionadas con la gestión de usuarios.
-
-<img src="/assets/Profile Management.PNG" width="900"/>
-
-Rental Management:
-En el campo de la administración de vehículos, se ha diseñado un conjunto de clases y estructuras enfocadas en facilitar la gestión de las reservas de los vehículos en el sistema. Estas herramientas abarcan desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y el mantenimiento, trabajando en conjunto para ofrecer un entorno bien organizado y funcional que optimiza la administración de flotas.
-<img src="/assets/Rental Management.PNG" width="900"/>
-
-Payment:
-El ámbito de los procesos de pago incluye todas las funcionalidades y procedimientos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la ejecución y registro de transacciones.
-<img src="/assets/Payment.PNG" width="900"/>
+<img src="assets/chapter_4/class_diagram.png">
 
 ### 4.7.2. Class Dictionary
-**Context: Profile Management:**
 
-- Profile: Representa un usuario en el sistema. Contiene información del usuario como nombre de usuario, correo electrónico y contraseña.
-- User: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
-- Suscription: Una interfaz que define las características y beneficios de la suscripción de un usuario.
-- SuscriptionFactory: Una fábrica que implementa suscripciones.
-- UserProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean un vehículo de forma temporal.
-- OwnerProfile: Clase hija de Profile que representa un tipo de usuario que son los que desean poner en alquiler su vehículo.
-
-**Context: Rental Management:**
-- Rental: Entidad que representa el proceso de alquiler de un vehículo. Contiene información como el usuario que alquila, el vehículo alquilado, la duración del alquiler, el costo y el estado.
-- RentalFactory: Clase que crea instancias de Rental. Se encarga de crear un alquiler cuando una reserva se activa y transforma una reserva en un alquiler.
-- RentalRepository: Clase encargada de gestionar el almacenamiento y la recuperación de datos relacionados con los alquileres. Proporciona métodos para agregar, obtener o eliminar registros de alquiler en una base de datos.
-- Reserve: Tabla que gestiona las reservas de vehículos. Contiene información sobre el usuario, el vehículo reservado, el tiempo de inicio y fin, y el estado de la reserva.
-- GreenVehicle: Clase base que representa cualquier tipo de vehículo ecológico. Contiene atributos y métodos comunes como el nivel de batería, ubicación, estado, y gestión de mantenimiento.
-- GreenScooter: Clase hija de GreenVehicle que representa un scooter eléctrico. Almacena atributos específicos como la velocidad máxima y el tamaño de las ruedas.
-- GreenBycicle: Clase hija de GreenVehicle que representa una bicicleta. Contiene atributos como el número de marchas y el tipo de bicicleta.
-- GreenCar: Clase hija de GreenVehicle que representa un auto eléctrico. Sus atributos específicos incluyen el número de asientos y el tiempo de carga.
-
-**Context: Payment:**
-
-- PaymentProcessor: Interfaz para el procesamiento de pagos.
-- CreditCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de crédito.
-- DebitCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de débito.
-- PaymentProcessorFactory: Interfaz para la creación de objetos PaymentProcessor.
-- CreditCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de CreditCardProcessor.
-- DebitCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de DebitCardProcessor.
-- TransactionEmitter: Emite transacciones financieras.
-- Transaction: Representa una transacción financiera.
-- TransactionRepository: Interfaz para el almacenamiento y recuperación de transacciones financieras.
+- Vehicle: Entidad que representa un vehículo, contiene tanto su información como algunos datos sobre su dueño.
+- Owner: Entidad que representa los dueños de de vehivulos de transporte elétricos.
+- Tenant: Entidad que representa a aquellas personas que desean alquilar(arredatarios) un vehiculo.
+- Membership: Entidad que representa la membresia de un arrendatario, dependiendo de esta el arrendatario tendrá cierta limitaciones.
+- Reservation: Entidad que representa una reserva realizada por un arrendatario hacia un vehiculo en específico.
+- MembershipType: Enumarable que contiene los distintos tipo de membresias que puede tener un arrendatario.
+- PersonName: Clase inmutable que contiene la composición de un nombre.
+- StreetAddress: Clase inmutable que contiene la composición de una dirección.
+- VehicleStatus: Enumerable que contienen los distintos tipos de estados que se le pueden asignar a un vehículo.
+- VehicleType: Enumerable que contienen los distintos tipos de vehículos.
+- ReservationStatus: Enumerable que contienen los distintos tipos de estados que se le pueden asignar a una reserva.
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-<img src="/assets/Database diagram.png" width="900"/>
-
----
-
----
+<img src="/assets/chapter_4/database_diagram.png" width="900"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2685,17 +3052,25 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 <img src="./assets/Paso2.png"/>
 
-- Clonar el repositorio en Webstorm utilizando la URL del repositorio.
+- Ir a los ajustes del repositorio y seleccionar "Pages".
 
-<img src="./assets/Paso3.png"/>
+  <img src="./assets/Paso2a.png"/>
 
-<img src="./assets/Paso4.png"/>
+- Seleccionar el tipo de despligue, en ese caso es "Deploy from a branch" ya que solo es una Landing Page.
 
-- Ejecutar el archivo index.html para visualizar la landing page en el navegador.
+  <img src="./assets/Paso2b.png"/>
+  
+- Luego seleccionar la rama que se quiere desplegar y el directorio en el que se encuentra el index.html.
 
-<img src="./assets/Paso5.png"/>
+  <img src="./assets/Paso2c.png"/>
 
-<img src="/assets/LaningPage-evidence.jpg">
+- Esperar un par de minutos hasta que termine de buildear la pagina y salga el mensaje de "Your site is alive at ".
+
+  <img src="./assets/Paso2d.png"/>
+
+- Finalmente ingresar al enlace que  muestra el mensaje y listo, se podrá visualizar la "Landing Page" correctamente desplegada utilizando Github Pages.
+
+<img src="/assets/Paso2e.png">
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -2703,20 +3078,66 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 ### 5.2.1.1. Sprint Planning 1
 
-| **Sprint #**                        | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Date**                            | 02-09-2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Time**                            | 07:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Location**                        | Canal de Voz de Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Prepared By**                     | Diestra Zambrano, Adriana María                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Attendees (to planning meeting)** | Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Sprint 1 Review Summary**         | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.                                                                                                                                                                                                                                                      |
-| **Sprint 1 Retrospective Summary**  | Oportunidades de mejora: Se vio que hay que mejorar un poco en la gestión de tiempos del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Sprint 1 Goal**                   | **Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción. |
-| **Sprint 1 Velocity**               | 16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Sum of Story Points**             | 16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+<table border="1px" align="center">
+    <tr>
+        <th>Sprint #</th>
+        <th>Sprint 1</th>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Planning Background</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Date</td>
+        <td>02-09-2024</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Time</td>
+        <td>7:00 pm - 9:00 pm</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Location</td>
+        <td>Canal de Voz de Discord</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Prepared By</td>
+        <td>Adriana Maria Diestra Zambrano</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+        <td>
+            Adriana María Diestra Zambrano<br>
+            Eduard Gedeon Travezaño Patiño<br>
+            Yair Christofer Aru Acevedo<br>
+            Enrique Manuel Villon Amez<br>
+            Fabio Ernesto Horna Silva<br>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Review Summary</td>
+        <td>Se desarrolló la landing page a partir de los diseños de wireframe, mockup y prototipo, para luego implementar el código en HTML, CSS y JavaScript.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
+        <td>Mejorar la puntualidad en la entrega</td>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Goal & User Stories</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Goal</td>
+        <td>
+            Nuestro enfoque en este sprint es implementar la landing page de nuestro producto. Creemos que esto proporcionará una presentación atractiva y clara, lo cual se confirmará cuando cada sección de la página sea explorada por los usuarios.
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Velocity</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sum of Story Points</td>
+        <td>18</td>
+    </tr>
+</table>
 
 ### 5.2.1.2. Sprint Backlog 1
 
@@ -2815,20 +3236,67 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 ### 5.2.2.1. Sprint Planning 2
 
-| **Sprint #**                        | Sprint 2                                                                                                                                                                                                                                                                              |
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                       |
-| **Date**                            | 15-09-2024                                                                                                                                                                                                                                                                            |
-| **Time**                            | 07:00 PM                                                                                                                                                                                                                                                                              |
-| **Location**                        | Canal de Voz de Discord                                                                                                                                                                                                                                                               |
-| **Prepared By**                     | Diestra Zambrano, Adriana María                                                                                                                                                                                                                                                       |
-| **Attendees (to planning meeting)** | Travezaño Patiño, Eduard Gedeon/ Aru Acevedo, Yair Christofer/ Villon Amez, Enrique Manuel/ Horna Silva, Fabio Ernesto                                                                                                                                                                |
-| **Sprint 2 Review Summary**         | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se logró completar el landing page, así como el despliegue de este. |
-| **Sprint 2 Retrospective Summary**  | Oportunidades de mejora: Se vio mejoras en el equipo en comparación al sprint anterior en la gestión de tiempos del equipo y en completar las tareas asignadas.                                                                                                                       |
-| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                       |
-| **Sprint 2 Goal**                   | **Objetivos:**<br>Terminar el desarrollo del front-end y desplegarlo<br>**Métrica:** Poder visualizar el Front-End desplegado.                                                                                                                                                        |
-| **Sprint 1 Velocity**               | 49                                                                                                                                                                                                                                                                                    |
-| **Sum of Story Points**             | 49                                                                                                                                                                                                                                                                                    |
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 15-09-2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 7:00 pm - 9:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Canal de Voz de Discord</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Adriana María Diestra Zambrano</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            Adriana María Diestra Zambrano<br>
+            Eduard Gedeon Travezaño Patiño<br>
+            Yair Christofer Aru Acevedo<br>
+            Enrique Manuel Villon Amez<br>
+            Fabio Ernesto Horna Silva<br>
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada mediante Vercel. Se llegó a
+          cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 1 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar las tareas con mayor
+          puntualidad. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td> El objetivo del Sprint 2 es optimizar la experiencia del usuario en la landing page y mejorar la gestión de vehículos en alquiler. Se implementarán funcionalidades clave para que los propietarios puedan registrar y gestionar sus vehículos de forma eficiente.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td> 27 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 27 </td>
+      </tr>
+</table>
+
 
 ### 5.2.2.2. Sprint Backlog 2
 
@@ -2947,19 +3415,20 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
         </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
-        <td>Durante el desarrolo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
-        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
      </tr>
      <tr>
           <td style="font-weight: bold;"> Sprint 3 Goal</td>
-          <td> En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend. </td>
+          <td> Nuestro enfoque es mejorar la experiencia de los visitantes en la landing page, optimizar la gestión de vehículos para los arrendatarios y propietarios en la web app, y proporcionar una API eficiente para que nosotros, el equipo de desarrollo, integremos y gestionemos funcionalidades de vehículos y reservas. Creemos que esto facilitará la toma de decisiones informadas, simplificará la selección y administración de alquileres, y permitirá una integración eficaz.
+Se confirmará cuando los visitantes puedan navegar la landing page sin dificultades, los arrendatarios y propietarios gestionen sus opciones de alquiler de manera eficiente, y el equipo de desarrollo pueda implementar nuevas funcionalidades mediante la API.</td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sprint 3 Velocity </td>
@@ -3086,6 +3555,1416 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | adriiiiiiiiiiiii  | Diestra Zambrano, Adriana María |
 | Yair360           | Aru Acevedo, Yair Christofer    |
 | enriquevillonupc  | Villon Amez, Enrique Manuel     |
+
+
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4.
+
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 4 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 8/11/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 19:00 pm - 20:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Canal de Voz de Discord </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Gabriel Alexander Casas Sanchez </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano<br>
+         Yair Christofer Aru Acevedo <br>
+         Enrique Manuel Villon Amez <br>
+         Gabriel Alexander Casas Sanchez <br>
+	 George Galván Cerrón <br>
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada mediante Vercel. Además de avanzar con los endpoints del backend.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td> Nuestro enfoque es consolidar los avances logrados en el desarrollo de la web app y los endpoints del backend, asegurando una experiencia fluida para los usuarios finales y una integración eficiente entre el front-end y el back-end. Durante este sprint, trabajaremos en optimizar el despliegue de la web app en Vercel, mejorar las funcionalidades clave de la plataforma, y refinar los endpoints para garantizar una comunicación eficaz y robusta. Creemos que estos objetivos fortalecerán la experiencia de los usuarios, mejorarán la estabilidad del sistema y permitirán al equipo de desarrollo iterar rápidamente sobre nuevas características. Se confirmará cuando la web app funcione correctamente en Vercel, las funcionalidades principales estén completamente operativas, y los endpoints del backend estén optimizados y listos para futuras integraciones.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td> 16 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 16 </td>
+      </tr>
+</table>
+
+
+### 5.2.4.2. Sprint Backlog 4.
+
+En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
+
+<img src="./assets/sprint4.png"/>
+
+Link de Trello: [Trello](https://trello.com/invite/b/6725291f6cb2662f76f41656/ATTI836966ddfb166e491564ee941d30d59d0990D558/greenmove-sprint4)
+
+<table border="1px" align="center"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> TS01-EP03</td>
+      <td colspan="3">Endpoint para vehículos por propietario</td>
+      <td> W01  </td>
+      <td> Endpoint vehículos de un propietario </td>
+      <td>Implementar el endpoint para vehículos. </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS02-EP03</td>
+      <td colspan="3">Endpoint para nuevo vehículo</td>
+      <td> W02  </td>
+      <td> Endpoint para nuevo vehículo </td>
+      <td>Implementar el endpoint para nuevo vehículo. </td>
+      <td> 4  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+   <tr>
+      <td> TS03-EP03 </td>
+      <td colspan="3">Endpoint para vehículo por ID</td>
+      <td> W03  </td>
+      <td> Endpoint vehículo por ID </td>
+      <td>Implementar el endpoint vehículo por ID </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS04-EP03</td>
+      <td colspan="3">Endpoint para eliminar vehículo</td>
+      <td> W04  </td>
+      <td> Endpoint eliminar vehículo </td>
+      <td>Implementar el endpoint eliminar vehículo</td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS05-EP03 </td>
+      <td colspan="3">Endpoint para vehículos por tipo</td>
+      <td> W05  </td>
+      <td> Endpoint vehículos por tipo</td>
+      <td>Implementar el endpoint vehículos por tipo </td>
+      <td> 2  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+   </tr>
+  <tr>
+      <td> TS06-EP02 </td>
+      <td colspan="3">Endpoint para nuevo propietario</td>
+      <td> W06  </td>
+      <td> Endpoint nuevo propietario</td>
+      <td>Implementar el endpoint nuevo propietario </td>
+      <td> 2  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+  <tr>
+      <td> TS07-EP04</td>
+      <td colspan="3">Endpoint para nueva reservación </td>
+      <td> W07  </td>
+      <td> Endpoint nueva reservación</td>
+      <td>Implementar el endpoint nueva reservación </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+   <tr>
+      <td> TS08-EP04</td>
+      <td colspan="3">Endpoint para reservación por ID </td>
+      <td> W08  </td>
+      <td> Endpoint reservación por ID</td>
+      <td>Implementar el endpoint reservación por ID </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+     </tr>
+    <tr>
+      <td> TS09-EP04</td>
+      <td colspan="3">Endpoint para eliminar reservación </td>
+      <td> W09  </td>
+      <td> Endpoint eliminar reservación</td>
+      <td>Implementar el endpoint eliminar reservación </td>
+      <td> 3  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+     </tr>
+    <tr>
+      <td> TS10-EP04</td>
+      <td colspan="3">Endpoint para reservaciones por arrendatario </td>
+      <td> W10  </td>
+      <td> Endpoint reservaciones por arrendatario</td>
+      <td>Implementar el endpoint reservaciones por arrendatario</td>
+      <td> 5  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+  <tr>
+      <td> TS11-EP04</td>
+      <td colspan="3">Endpoint para reservaciones por propietario</td>
+      <td> W11  </td>
+      <td> Endpoint reservaciones por propietario</td>
+      <td>Implementar el endpoint reservaciones por propietario</td>
+      <td> 5  </td>
+      <td> Gabriel Casas </td> 
+      <td> To-do </td>
+    </tr>
+</table>
+
+### 5.2.4.3 Development Evidence fo Sprint Review.
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">f9103142</td>
+    <td colspan="1">chore: setup project.</td>
+    <td colspan="1">chore: setup project.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">137d4b2b</td>
+    <td colspan="1">chore: added dependencies.</td>
+    <td colspan="1">chore: added dependencies.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">5b7c9f96</td>
+    <td colspan="1">feat(shared): added shared context.</td>
+    <td colspan="1">feat(shared): added shared context.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">a3869f98</td>
+    <td colspan="1">chore: setup application properties.</td>
+    <td colspan="1">chore: setup application properties.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">371cac4b</td>
+    <td colspan="1">feat(owners): added owner entity and its value objects.</td>
+    <td colspan="1">feat(owners): added owner entity and its value objects.</td>
+    <td colspan="1">11/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">b98ad137</td>
+    <td colspan="1">feat(vehicle): added vehicle entity and its value objects.</td>
+    <td colspan="1">feat(vehicle): added vehicle entity and its value objects.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">60b541fc</td>
+    <td colspan="1">feat(vehicle): added commands.</td>
+    <td colspan="1">feat(vehicle): added commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">e5f4f372</td>
+    <td colspan="1">feat(owners): added commands.</td>
+    <td colspan="1">feat(owners): added commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">8febf556</td>
+    <td colspan="1">feat(vehicles): added queries.</td>
+    <td colspan="1">feat(vehicles): added queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">cd861208</td>
+    <td colspan="1">feat(owners): added queries.</td>
+    <td colspan="1">feat(owners): added queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">058ecef8</td>
+    <td colspan="1">docs(owners): added docs to commands and queries.</td>
+    <td colspan="1">docs(owners): added docs to commands and queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">c969f68a</td>
+    <td colspan="1">docs(vehicles): added docs to commands and queries.</td>
+    <td colspan="1">docs(vehicles): added docs to commands and queries.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">aa114d65</td>
+    <td colspan="1">docs(owners): added query and command services.</td>
+    <td colspan="1">docs(owners): added query and command services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">5f380112</td>
+    <td colspan="1">docs(vehicles): added query and command services.</td>
+    <td colspan="1">docs(vehicles): added query and command services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">98c011f8</td>
+    <td colspan="1">feat(vehicles): added repository.</td>
+    <td colspan="1">feat(vehicles): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">06a1cb1e</td>
+    <td colspan="1">feat(owners): added repository.</td>
+    <td colspan="1">feat(owners): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">5329fc20</td>
+    <td colspan="1">feat(owners): added query and command services implementations.</td>
+    <td colspan="1">feat(owners): added query and command services implementations.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">acf15f25</td>
+    <td colspan="1">feat(vehicles): added query and command services implementations.</td>
+    <td colspan="1">feat(vehicles): added query and command services implementations.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">19e54b47</td>
+    <td colspan="1">feat(vehicles): added query implementation.</td>
+    <td colspan="1">feat(vehicles): added query implementation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">32708ab4</td>
+    <td colspan="1">feat(vehicles): added resources for api rest development.</td>
+    <td colspan="1">feat(vehicles): added resources for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">2220c500</td>
+    <td colspan="1">feat(owners): added resources for api rest development.</td>
+    <td colspan="1">feat(owners): added resources for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">7c03301d</td>
+    <td colspan="1">feat(owners): added assemblers for api rest development.</td>
+    <td colspan="1">feat(owners): added assemblers for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">07a77b72</td>
+    <td colspan="1">feat(vehicles): added assemblers for api rest development.</td>
+    <td colspan="1">feat(vehicles): added assemblers for api rest development.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">5daf34ba</td>
+    <td colspan="1">feat(vehicles): added api rest controllers.</td>
+    <td colspan="1">feat(vehicles): added api rest controllers.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">03d1d054</td>
+    <td colspan="1">feat(owners): added api rest controllers.</td>
+    <td colspan="1">feat(owners): added api rest controllers.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">849686b0</td>
+    <td colspan="1">feat(owners): added delete endpoint.</td>
+    <td colspan="1">feat(owners): added delete endpoint.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">vehicle-management</td>    
+    <td colspan="1">2c154050</td>
+    <td colspan="1">feat(vehicles): added get by status and get by type endpoints.</td>
+    <td colspan="1">feat(vehicles): added get by status and get by type endpoints.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">3098399f</td>
+    <td colspan="1">feat(memberships-tenants): added entity and related value objects.</td>
+    <td colspan="1">feat(memberships-tenants): added entity and related value objects.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">26a3db80</td>
+    <td colspan="1">feat(memberships):queries and commands.</td>
+    <td colspan="1">feat(memberships):queries and commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">2c0eceef</td>
+    <td colspan="1">feat(tenants): added queries and commands.</td>
+    <td colspan="1">feat(tenants): added queries and commands.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">a89e89eb</td>
+    <td colspan="1">docs(memberships-tenants): added documentation.</td>
+    <td colspan="1">docs(memberships-tenants): added documentation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">ae574149</td>
+    <td colspan="1">docs(tenants): added queries and commands services.</td>
+    <td colspan="1">docs(tenants): added queries and commands services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">8bb533b4</td>
+    <td colspan="1">docs(memberships): added queries and commands services.</td>
+    <td colspan="1">docs(memberships): added queries and commands services.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">eb829f3c</td>
+    <td colspan="1">docs(memberships): added repository.</td>
+    <td colspan="1">docs(memberships): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">ece81880</td>
+    <td colspan="1">docs(tenants): added repository.</td>
+    <td colspan="1">docs(tenants): added repository.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">85073d88</td>
+    <td colspan="1">fix(memberships): fixed membership location.</td>
+    <td colspan="1">fix(memberships): fixed membership location.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">b8d33cc5</td>
+    <td colspan="1">feat(memberships): added command and query services implementation.</td>
+    <td colspan="1">feat(memberships): added command and query services implementation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">efb7e25e</td>
+    <td colspan="1">feat(tenants): added command and query services implementation.</td>
+    <td colspan="1">feat(tenants): added command and query services implementation.</td>
+    <td colspan="1">12/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">eafe746b</td>
+    <td colspan="1">fix(memberships-tenants): added missing annotations.</td>
+    <td colspan="1">fix(memberships-tenants): added missing annotations.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">042e75cc</td>
+    <td colspan="1">fix(memberships): added resources.</td>
+    <td colspan="1">fix(memberships): added resources.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">f868bd68</td>
+    <td colspan="1">fix(tenants): added resources.</td>
+    <td colspan="1">fix(tenants): added resources.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">e6b0c682</td>
+    <td colspan="1">fix(memberships): added assemblers.</td>
+    <td colspan="1">fix(memberships): added assemblers.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">d6bd242f</td>
+    <td colspan="1">fix(tenants): added assemblers.</td>
+    <td colspan="1">fix(tenants): added assemblers.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">862a6f2a</td>
+    <td colspan="1">fix(tenants): added missing annotations.</td>
+    <td colspan="1">fix(tenants): added missing annotations.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">bed1938e</td>
+    <td colspan="1">fix(tenants): added rest api controller.</td>
+    <td colspan="1">fix(tenants): added rest api controller.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">membership-management</td>    
+    <td colspan="1">0d124c04</td>
+    <td colspan="1">fix(memberships): added rest api controller.</td>
+    <td colspan="1">fix(memberships): added rest api controller.</td>
+    <td colspan="1">14/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management</td>    
+    <td colspan="1">4d103d61</td>
+    <td colspan="1">fix(reservations): added entity.</td>
+    <td colspan="1">fix(reservations): added entity.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">150c1e5d</td>
+    <td colspan="1">fix(reservations): added queries and commands.</td>
+    <td colspan="1">fix(reservations): added queries and commands.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">819c446e</td>
+    <td colspan="1">fix(reservations): added queries and commands services.</td>
+    <td colspan="1">fix(reservations): added queries and commands services.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">3043ef78</td>
+    <td colspan="1">fix(reservations): added repository.</td>
+    <td colspan="1">fix(reservations): added repository.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">f318c215</td>
+    <td colspan="1">fix(reservations): added queries and commands services implementations.</td>
+    <td colspan="1">fix(reservations): added queries and commands services implementations.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">6f28fa0c</td>
+    <td colspan="1">fix(reservations): added resources.</td>
+    <td colspan="1">fix(reservations): added resources.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">491b4521</td>
+    <td colspan="1">fix(reservations): added assemblers.</td>
+    <td colspan="1">fix(reservations): added assemblers.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">5f4822f2</td>
+    <td colspan="1">fix(reservations): added rest api controller.</td>
+    <td colspan="1">fix(reservations): added rest api controller.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">29b36160</td>
+    <td colspan="1">feat(cors): added cors to controllers.</td>
+    <td colspan="1">feat(cors): added cors to controllers.</td>
+    <td colspan="1">15/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">bc270151</td>
+    <td colspan="1">feat(vehicles): added update status command.</td>
+    <td colspan="1">feat(vehicles): added update status command.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">c8fae1c7</td>
+    <td colspan="1">feat(reservations): added update status command.</td>
+    <td colspan="1">feat(reservations): added update status command.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+<tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">94720c64</td>
+    <td colspan="1">feat(reservations): updated resource.</td>
+    <td colspan="1">feat(reservations): updated resource.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">ac9b7127</td>
+    <td colspan="1">feat(memberships-tenants): updated resources and assemblers.</td>
+    <td colspan="1">feat(memberships-tenants): updated resources and assemblers.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">464b9c1a</td>
+    <td colspan="1">feat(vehicles): added acl layer.</td>
+    <td colspan="1">feat(vehicles): added acl layer.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">682656a0</td>
+    <td colspan="1">feat(reservations): added acl layer and validation in command implementation.</td>
+    <td colspan="1">feat(reservations): added acl layer and validation in command implementation.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">76f3483a</td>
+    <td colspan="1">fix(vehicles): refactor latitude and longitude attributes on entity reservations.</td>
+    <td colspan="1">fix(vehicles): refactor latitude and longitude attributes on entity reservations.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">ef8a0b41</td>
+    <td colspan="1">fix(reservations): added reservation time to resource.</td>
+    <td colspan="1">fix(reservations): added reservation time to resource.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">reservation-management<</td>    
+    <td colspan="1">70c67425</td>
+    <td colspan="1">fix(reservations): added business rule only one reservation active per tenant.</td>
+    <td colspan="1">fix(reservations): added business rule only one reservation active per tenant.</td>
+    <td colspan="1">16/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">144e1909</td>
+    <td colspan="1">feat(iam): added entities.</td>
+    <td colspan="1">feat(iam): added entities.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">e3149884</td>
+    <td colspan="1">feat(iam): added commands.</td>
+    <td colspan="1">feat(iam): added commands.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">6cc7cf69</td>
+    <td colspan="1">feat(iam): added queries.</td>
+    <td colspan="1">feat(iam): added queries.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">ae536908</td>
+    <td colspan="1">feat(iam): added commands and queries services.</td>
+    <td colspan="1">feat(iam): added commands and queries services.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">7c1a1c3c</td>
+    <td colspan="1">feat(iam): added commands and queries services implementations.</td>
+    <td colspan="1">feat(iam): added commands and queries services implementations.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">f566c839</td>
+    <td colspan="1">feat(iam): added repositories.</td>
+    <td colspan="1">feat(iam): added repositories.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">c6fc8cbb</td>
+    <td colspan="1">feat(iam): added authorization.</td>
+    <td colspan="1">feat(iam): added authorization.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">b015ff79</td>
+    <td colspan="1">feat(iam): added hashing.</td>
+    <td colspan="1">feat(iam): added hashing.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">87c7058b</td>
+    <td colspan="1">feat(iam): added token.</td>
+    <td colspan="1">feat(iam): added token.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">0e9950cb</td>
+    <td colspan="1">feat(iam): added exception handlers.</td>
+    <td colspan="1">feat(iam): added exception handlers.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">37de1158</td>
+    <td colspan="1">feat(iam): added resources.</td>
+    <td colspan="1">feat(iam): added resources.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">eaa37276</td>
+    <td colspan="1">feat(iam): added assemblers.</td>
+    <td colspan="1">feat(iam): added assemblers.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">4504ff26</td>
+    <td colspan="1">feat(iam): added controllers.</td>
+    <td colspan="1">feat(iam): added controllers.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">48b3cf6f</td>
+    <td colspan="1">feat(iam): added facade.</td>
+    <td colspan="1">feat(iam): added facade.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">abcfdbac</td>
+    <td colspan="1">fix(iam): added missing imports.</td>
+    <td colspan="1">fix(iam): added missing imports.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">3e1ec662</td>
+    <td colspan="1">fix(tenants): added missing validation on the create tenant endpoint.</td>
+    <td colspan="1">fix(tenants): added missing validation on the create tenant endpoint.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">0f5e7735</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">854bf8a9</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">fix(vehicles): added missing validation on update reservations.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">079fc291</td>
+    <td colspan="1">fix(iam): update web security configuration.</td>
+    <td colspan="1">fix(iam): update web security configuration.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">f436c5f3</td>
+    <td colspan="1">fix(owners): added facade.</td>
+    <td colspan="1">fix(owners): added facade.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">e8106909</td>
+    <td colspan="1">fix(iam): added owner assignation feature.</td>
+    <td colspan="1">fix(iam): added owner assignation feature.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">697a473c</td>
+    <td colspan="1">feat(owners): added facade.</td>
+    <td colspan="1">feat(owners): added facade.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">de6fb525</td>
+    <td colspan="1">feat(iam): added owner assignation feature.</td>
+    <td colspan="1">feat(iam): added owner assignation feature.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">5bbd8af4</td>
+    <td colspan="1">feat(memberships-tenants): added acl.</td>
+    <td colspan="1">feat(memberships-tenants): added acl.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">f967267f</td>
+    <td colspan="1">feat(iam): added tenants and memberships acl.</td>
+    <td colspan="1">feat(iam): added tenants and memberships acl.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">iam</td>    
+    <td colspan="1">99fa2ef5</td>
+    <td colspan="1">feat(iam): added tenants assignation feature.</td>
+    <td colspan="1">feat(iam): added tenants assignation feature.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">61d072bf</td>
+    <td colspan="1">fix(reservations): added missing attributes on resource.</td>
+    <td colspan="1">fix(reservations): added missing attributes on resource.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">a1a70c63</td>
+    <td colspan="1">fix(vehicles): added missing attribute.</td>
+    <td colspan="1">fix(vehicles): added missing attribute.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">develop</td>    
+    <td colspan="1">d7563234</td>
+    <td colspan="1">feat(deployment): added Dockerfile for deployment.</td>
+    <td colspan="1">feat(deployment): added Dockerfile for deployment.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">ca071b7d</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">af25a4e7</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">fix(deployment): reconfigured-plugins.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">939b030f</td>
+    <td colspan="1">fix(deployment): reconfigured database pipeline.</td>
+    <td colspan="1">fix(deployment): reconfigured database pipeline.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/Backend</td>
+    <td colspan="1">main</td>    
+    <td colspan="1">7f679029</td>
+    <td colspan="1">fix: deleted unused validation.</td>
+    <td colspan="1">fix: deleted unused validation.</td>
+    <td colspan="1">18/11/2024</td>    
+  </tr>
+</table>
+
+### 5.2.4.5.Execution Evidence for Sprint Review.
+Enlace de la landing page desplegada: <a href="https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/">https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/</a>
+
+Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web completa, incluyendo tanto el frontend como el backend. La plataforma se encuentra totalmente funcional, ofreciendo a los usuarios una experiencia integrada que permite la creación de cuentas, búsqueda de vehículos y la gestión de suscripciones.
+
+Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
+
+Enlace al video de demostración de funcionamiento del API <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EUEIPRRfxCFGqKqDUb5dCDcBiz7bnwg6Kfw4xb2dtarZNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yjoPCp">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EUEIPRRfxCFGqKqDUb5dCDcBiz7bnwg6Kfw4xb2dtarZNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yjoPCp</a>
+
+### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+## Tenant Management
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants </strong> </th>
+    <th style="text-align:center;"> <strong> Get all tenants </strong> </th>
+    <th style="text-align:center;"> <strong> Get all tenants </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllTenant </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new tenant </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new tenant </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewTenant </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants/{tenanId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetTenantById </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Tenants </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenants/{tenanId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete tenant by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteTenantById </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Tenant Management API.png"/>
+<img src="./assets/1.png"/>
+<img src="./assets/2.png"/>
+<img src="./assets/3.png"/>
+<img src="./assets/4.png"/>
+
+## Vehicles
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> PUT </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/{vehicleId}/status/{status} </strong> </th>
+    <th style="text-align:center;"> <strong> Update vehicle status </strong> </th>
+    <th style="text-align:center;"> <strong> Update vehicle status </strong> </th>
+    <th style="text-align:center;"> <strong> UpdateVehicleStatus </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId}/vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllVehiclesByOwnerId </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId}/vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new vehicle </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new vehicle </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewVehicle </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/{vehicleId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAVehicleById </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/{vehicleId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a vehicle by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteAVehicleById </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/type/{type} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by type </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by type </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllVehiclesByType </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Vehicles </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/vehicles/status/{status} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by status </strong> </th>
+    <th style="text-align:center;"> <strong> Get all vehicles by status </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllVehiclesByStatus </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Vehicles endpoints.png"/>
+<img src="./assets/5.png"/>
+<img src="./assets/6.png"/>
+<img src="./assets/7.png"/>
+<img src="./assets/8.png"/>
+<img src="./assets/9.png"/>
+<img src="./assets/10.png"/>
+<img src="./assets/11.png"/>
+<img src="./assets/12.png"/>
+<img src="./assets/13.png"/>
+<img src="./assets/14.png"/>
+<img src="./assets/15.png"/>
+<img src="./assets/16.png"/>
+<img src="./assets/17.png"/>
+<img src="./assets/18.png"/>
+<img src="./assets/19.png"/>
+
+## Membership Management
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Membership Management </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenant/{tenantId}/membership </strong> </th>
+    <th style="text-align:center;"> <strong> Get membership by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> Returns a membership by tenant id. </strong> </th>
+    <th style="text-align:center;"> <strong> GetMembershipByTenantId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Membership Management </strong> </th>
+    <th style="text-align:center;"> <strong> PUT </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenant/{tenantId}/membership </strong> </th>
+    <th style="text-align:center;"> <strong> Update a membership </strong> </th>
+    <th style="text-align:center;"> <strong> Updates a membership with the provided details. </strong> </th>
+    <th style="text-align:center;"> <strong> UpdateAMembership </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Membership Management </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/tenant/{tenantId}/membership </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new membership </strong> </th>
+    <th style="text-align:center;"> <strong> Creates a new membership with the provided details. </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewMembership </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Membership Management API.png"/>
+<img src="./assets/20.png"/>
+<img src="./assets/21.png"/>
+<img src="./assets/22.png"/>
+<img src="./assets/23.png"/>
+<img src="./assets/24.png"/>
+
+## Owner
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Owner </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new owner </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new owner </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewOwner </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Owner </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetOwnerById </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Owner </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/owners/{ownerId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete owner by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteOwnerById </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Owner endpoints.png"/>
+<img src="./assets/25.png"/>
+<img src="./assets/26.png"/>
+<img src="./assets/27.png"/>
+<img src="./assets/28.png"/>
+<img src="./assets/29.png"/>
+
+## Reservations
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Tag </strong> </th>
+    <th style="text-align:center;"> <strong> Verbo http </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint </strong> </th>
+    <th style="text-align:center;"> <strong> Summary </strong> </th>
+    <th style="text-align:center;"> <strong> Description </strong> </th>
+    <th style="text-align:center;"> <strong> OperationId </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> PUT </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/{reservationId}/status/{status} </strong> </th>
+    <th style="text-align:center;"> <strong> Update reservation status </strong> </th>
+    <th style="text-align:center;"> <strong> Update reservation status </strong> </th>
+    <th style="text-align:center;"> <strong> UpdateReservationStatus </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> POST </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new reservation </strong> </th>
+    <th style="text-align:center;"> <strong> Create a new reservation </strong> </th>
+    <th style="text-align:center;"> <strong> CreateANewReservation </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/{reservationId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> Get a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAReservationById </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> DELETE </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/{reservationId} </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> Delete a reservation by id </strong> </th>
+    <th style="text-align:center;"> <strong> DeleteAReservationById </strong> </th>
+  </tr>
+   <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/tenant/{tenantId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllReservationsByTenantId </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/tenant/{tenantId}/active </strong> </th>
+    <th style="text-align:center;"> <strong> Get active reservation by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> Get active reservation by tenant id </strong> </th>
+    <th style="text-align:center;"> <strong> GetActiveReservationByTenantId </strong> </th>
+  </tr>
+    <tr>
+   <th style="text-align:center;"> <strong> Reservations </strong> </th>
+    <th style="text-align:center;"> <strong> GET </strong> </th>
+    <th style="text-align:center;"> <strong> /api/v1/reservations/owner/{ownerId} </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> Get all reservations by owner id </strong> </th>
+    <th style="text-align:center;"> <strong> GetAllReservationsByOwnerId </strong> </th>
+  </tr>
+</table>
+
+<img src="./assets/Reservations endpoints.png"/>
+<img src="./assets/30.png"/>
+<img src="./assets/31.png"/>
+<img src="./assets/32.png"/>
+<img src="./assets/33.png"/>
+<img src="./assets/34.png"/>
+<img src="./assets/35.png"/>
+<img src="./assets/36.png"/>
+<img src="./assets/37.png"/>
+<img src="./assets/38.png"/>
+<img src="./assets/39.png"/>
+<img src="./assets/40.png"/>
+<img src="./assets/41.png"/>
+
+
+### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Para el presente sprint, se ha logrado la implementación completa del backend, lo que ha permitido alcanzar la funcionalidad integral de la aplicación web. Para ello, se emplearon herramientas clave que facilitaron el desarrollo colaborativo y organizado.
+
+Git: Utilizado como sistema de control de versiones para gestionar los cambios en el proyecto de manera eficiente y colaborativa.
+Gitflow: Adoptado como flujo de trabajo colaborativo, lo que permitió estructurar el desarrollo en ramas específicas para cada funcionalidad, facilitando la integración y la resolución de conflictos.
+GitHub: Plataforma empleada para alojar el repositorio remoto del proyecto, brindando un entorno seguro y centralizado para almacenar todas las versiones del proyecto.
+
+Con la implementación completa del backend, se asegura que la aplicación web esté lista para cumplir con todos los requisitos funcionales establecidos.
+
+Para desplegar la LandingPage se realizó los siguientes pasos:
+
+- Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-OpneSource-GreenGo](https://github.com/orgs/G5UPC-PRE-SI729-2402-SW54-WebCode-Team/repositories)
+
+<img src="./assets/Paso1.png"/>
+
+- Seleccionar el repositorio de la landing page del proyecto.
+
+<img src="./assets/Paso2.png"/>
+
+- Ir a los ajustes del repositorio y seleccionar "Pages".
+
+  <img src="./assets/Paso2a.png"/>
+
+- Seleccionar el tipo de despligue, en ese caso es "Deploy from a branch" ya que solo es una Landing Page.
+
+  <img src="./assets/Paso2b.png"/>
+  
+- Luego seleccionar la rama que se quiere desplegar y el directorio en el que se encuentra el index.html.
+
+  <img src="./assets/Paso2c.png"/>
+
+- Esperar un par de minutos hasta que termine de buildear la pagina y salga el mensaje de "Your site is alive at ".
+
+  <img src="./assets/Paso2d.png"/>
+
+- Finalmente ingresar al enlace que  muestra el mensaje y listo, se podrá visualizar la "Landing Page" correctamente desplegada utilizando Github Pages.
+
+<img src="/assets/Paso2e.png">
+
+- Enlace a la landing page: <a href="https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/">https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/</a>
+
+**Despliegue del backend**
+
+Para desplegar el backend de la aplicación se necesita de una base de datos en la nube, esto debido a que el API estará en funcionamiento constante.
+Por eso antes de desplegar el API se requiere de una base ded atos en la nube, para esto se hizo uso de la plataaforma Neon, la cual es una plataforma que permite la creación de una base de datos postgre de manera gratuita.
+Para poder crear esta base de datos primero debes entrar a su página web: <a href="https://neon.tech">https://neon.tech</a>, una vez iniciado sesión te pedira que ingreses los datos para la creación de la base de datos:
+
+<img src="assets/sprint_4/back-deploy-1.png">
+
+Una vez se han insertado los datos correpondientes a la base de datos que se desea crear, simplemente creas la base de datos y se te mostrará una pantalla con un pipeline relacionado a la nueva base ded atos en la nube.
+
+<img src="assets/sprint_4/back-deploy-2.png">
+
+De este pipeline se extraeran los datos de conexión y contraseña, para poder implementarlos a el proyecto de spring boot.
+
+<img src="assets/sprint_4/back-deploy-3.png">
+
+Ya con los datos cargados en el proyecto, ahora es necesario de la creación de un archivo Dockerfile, esto debido a que la plataforma para el despliegue que se utilizará (Render: <a href="https://render.com/">https://render.com/</a>) necesita de este archivo.
+
+<img src="assets/sprint_4/back-deploy-4.png">
+
+Una vez con todo listo se debe cargar el proyecto a un repositorio de github, para poder conectarlo con render. Para hacer esto se debe ingresar a la web de Render <a href="https://render.com/">https://render.com/</a> y crear un nuevo proyecto web service.
+
+<img src="assets/sprint_4/back-deploy-5.png">
+
+Una vez se eligio la opción web service es necesario escoger el repositorio desde el cual se construira el deploy.
+
+<img src="assets/sprint_4/back-deploy-6.png">
+
+Yo con el repositorio elegido, se debe escoger los paremetros de creación, como el nombre, la rama de construcción, el servidor de almacenamiento y el tier de suscripción (gratis).
+
+<img src="assets/sprint_4/back-deploy-7.png">
+
+Con esto listo ahora cada vez que se actualice la rama sobre la cual se desplego la aplicacion también lo hara el deployment.
+
+<img src="assets/sprint_4/back-deploy-8.png">
+
+Para acceder al api se debe usar la ruta especificada debajo del nombre del proyecto.
+
+<img src="assets/sprint_4/back-deploy-9.png">
+
+El enlace del API, para probar desde swagger esta aquí: <a href="https://greenmove.onrender.com/swagger-ui/index.html#/">https://greenmove.onrender.com/swagger-ui/index.html#/</a> y el enlace directo al API <a href="https://greenmove.onrender.com">https://greenmove.onrender.com</a>
+
+### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+| Username (GitHub) | Nombre                          |
+| ----------------- | ------------------------------- |
+| adriiiiiiiiiiiii  | Diestra Zambrano, Adriana María |
+| Yair360           | Aru Acevedo, Yair Christofer    |
+| enriquevillonupc  | Villon Amez, Enrique Manuel     |
+| Alexander Casas   | Casas Sanchez, Gabriel Alexander|
+| GeorgeGC23        | Galván Cerrón, George alojado   |
 
 
 ### 5.3. Validation Interviews.
@@ -3289,6 +5168,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.
 
 [Ver video](https://www.youtube.com/watch?v=XgWlG0t9isg&ab_channel=EnriqueVill%C3%B3n)
+
 
 ### Conclusiones
 
