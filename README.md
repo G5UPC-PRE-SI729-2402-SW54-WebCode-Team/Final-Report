@@ -4259,11 +4259,13 @@ Link de Trello: [Trello](https://trello.com/invite/b/6725291f6cb2662f76f41656/AT
 </table>
 
 ### 5.2.4.5.Execution Evidence for Sprint Review.
+Enlace de la landing page desplegada: <a href="https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/">https://g5upc-pre-si729-2402-sw54-webcode-team.github.io/Landing-Page/</a>
 
 Para esta entrega, el equipo GreenGo logró implementar de manera exitosa la aplicación web completa, incluyendo tanto el frontend como el backend. La plataforma se encuentra totalmente funcional, ofreciendo a los usuarios una experiencia integrada que permite la creación de cuentas, búsqueda de vehículos y la gestión de suscripciones.
 
 Enlace al deploy de la aplicación web: [GreenMove](https://greenmove-web-app.vercel.app/login)
 
+Enlace al video de demostración de funcionamiento del API <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EUEIPRRfxCFGqKqDUb5dCDcBiz7bnwg6Kfw4xb2dtarZNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yjoPCp">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EUEIPRRfxCFGqKqDUb5dCDcBiz7bnwg6Kfw4xb2dtarZNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yjoPCp</a>
 
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
