@@ -180,6 +180,16 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
+TF: Para el trabajo final esta fue la distribución de commits realizada, todo nos concentramos en documentar el sprint 4:
+
+<img src="assets/sprint_4/insights-report.png">
+
+- Adriana Diestra: 32 commits.
+- George Galvan: 9 commits.
+- Gabriel Casas: 8 commits.
+- Yair Aru: 8 commits.
+- Enrique Villon: 4 commits.
+
 <div style="page-break-before: always;"></div>
 
 ### [Student Outcome](#student-outcome)
