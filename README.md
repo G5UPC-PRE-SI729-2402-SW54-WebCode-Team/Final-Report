@@ -3130,7 +3130,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FvideoclientNestor%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efffec497-4536-49cc-91b6-9c5aec796484&isDarkMode=false)
 * Duración de la entrevista: 4:10
 
-<img src="./assets/entrevistaJEREMY.png"/>
+<img src="./assets/entrevistaJEREMY.jpeg" alt="Imagen del primer entrevistado del segmento Owner"/>
 
 **Informe del resumen de la entrevista:**
 Jeremy Escudero, es un joven de 20 años, es estudiante. A Jeremy le llamó la atención el diseño de la página, le gustan las funcionalidades y más lo de los idiomas. También opina que, tuvo una buena experiencia en visitar la página web. Menciona que, todas las funcionalidades le gustaron. Recomienda que para mejor experiencia de la página le agregaria una opción más.
@@ -3151,7 +3151,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FvideoclientNestor%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efffec497-4536-49cc-91b6-9c5aec796484&isDarkMode=false)
 * Duración de la entrevista: 3:03
 
-<img src="./assets/entrevistaNestor.png"/>
+<img src="./assets/entrevistaNestor.png" alt="Imagen del primer entrevistado del segmento Clientes"/>
 
 **Informe del resumen de la entrevista:**
 
@@ -3171,6 +3171,11 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125984_upc_edu_pe/EY7mWKyvv0dMg-KqSzWYOEYBuGy6cmGI7d2Ry_unt2Lwaw?e=GiCgTy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 5:33
 
+<img src="./assets/EntrevistaVOscar.png" alt="Imagen del segundo entrevistado del segmento Clientes"/>
+
+**Informe del resumen de la entrevista:**
+
+Oscar Armas, es un joven de 26 años, que trabaja como programador. Él nos comenta que al utilizar la aplicación, le pareció intuitiva al momento de registrarse e iniciar sesión en la página y de activar el viaje utilizando el codigo que recibe al registrar un viaje. Además nos comenta que en el aspecto visual, no le agrada mucho el contraste de colores de la pagina sugiriendo un cambio de la misma.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
